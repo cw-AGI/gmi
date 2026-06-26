@@ -1,70 +1,923 @@
 {
   "market": "us",
-  "updated_at": "2026-06-23T09:30:00-04:00",
+  "updated_at": "2026-06-26T09:59:19-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 5478.2,
-      "change": -18.4,
-      "change_pct": -0.34
+      "value": 731.1,
+      "change": -3.2,
+      "change_pct": -0.4358
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 17654.9,
-      "change": -92.1,
-      "change_pct": -0.52
+      "value": 708.77,
+      "change": -7.61,
+      "change_pct": -1.0623
+    },
+    {
+      "name_zh": "道琼斯",
+      "name_en": "Dow Jones",
+      "value": 518.0,
+      "change": -1.26,
+      "change_pct": -0.2427
     }
   ],
   "news": [
     {
-      "time": "06-23 09:15",
-      "title_zh": "Nvidia unveils next-gen AI accelerator",
-      "title_en": "Nvidia unveils next-gen AI accelerator",
-      "summary_zh": "Targets data-center inference.",
-      "source": "NVDA · Reuters",
+      "time": "06-26 07:52",
+      "title_en": "Prediction: Oil Is Heading to $60 a Barrel by 2027, and These Stocks Are Worth Buying Now",
+      "title_zh": "Prediction: Oil Is Heading to $60 a Barrel by 2027, and These Stocks Are Worth Buying Now",
+      "summary_en": "The oil market is on track to shift from a shortfall to a glut in the next year.",
+      "summary_zh": "The oil market is on track to shift from a shortfall to a glut in the next year.",
+      "source": "NVDA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=337d8b7f5e501fa658c4e137ef4d276d80437fda173209346b492d1f3e310392",
+      "sectors": [
+        "ai",
+        "energy"
+      ]
+    },
+    {
+      "time": "06-26 07:49",
+      "title_en": "Staying Away From SpaceX? Here Are 3 Other Stocks That Can Boost Your Portfolio's Satellite Economy Exposure.",
+      "title_zh": "Staying Away From SpaceX? Here Are 3 Other Stocks That Can Boost Your Portfolio's Satellite Economy Exposure.",
+      "summary_en": "SpaceX just became the largest IPO in history, but its lofty valuation has left many investors searching for alternatives.",
+      "summary_zh": "SpaceX just became the largest IPO in history, but its lofty valuation has left many investors searching for alternatives.",
+      "source": "NVDA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=3404ce6ec9f8943f890b6734f65b5d27afeebb56a82a79f761df7a5699161339",
+      "sectors": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "06-26 08:35",
+      "title_en": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "title_zh": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "summary_en": "Before the opening bell on Friday, let's take a glimpse of the US markets and explore the S&P500 top gainers and losers in today's pre-market session.",
+      "summary_zh": "Before the opening bell on Friday, let's take a glimpse of the US markets and explore the S&P500 top gainers and losers in today's pre-market session.",
+      "source": "AMD · ChartMill",
+      "url": "https://finnhub.io/api/news?id=32bdefd2f1dd87a77dda2ef89cc568fbe3e498da33cd7c910d5dd425af53c6f5",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "06-26 07:35",
+      "title_en": "Micron Leads Tech Stocks Rally on Blowout Earnings",
+      "title_zh": "Micron Leads Tech Stocks Rally on Blowout Earnings",
+      "summary_en": "Micron Rockets Higher, Dragging Global Chip Stocks Into Green Zone",
+      "summary_zh": "Micron Rockets Higher, Dragging Global Chip Stocks Into Green Zone",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ba3f69a3b3abc718a83ba15c4d5be85cc4ee3e291ea35501fd3ac861ba90e3c",
+      "sectors": [
+        "ai",
+        "space",
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 04:30",
+      "title_en": "Palantir: Upgrading To Bullish After A Record Quarter Meets A 48% Selloff",
+      "title_zh": "Palantir: Upgrading To Bullish After A Record Quarter Meets A 48% Selloff",
+      "summary_en": "Palantir turns bullish after a 48% drop as Q1 results, raised guidance, and deal momentum shine. Click here to get the key risks and upside now.",
+      "summary_zh": "Palantir turns bullish after a 48% drop as Q1 results, raised guidance, and deal momentum shine. Click here to get the key risks and upside now.",
+      "source": "PLTR · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41058a2204bd77d9d5e7f510cfc8ff64621310b504e7b55cf13b42c0a6e2ecd3",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "06-25 23:05",
+      "title_en": "Why Did MSFT, PLTR, MSTR Stocks Plunge To 52-Week Lows Today?",
+      "title_zh": "Why Did MSFT, PLTR, MSTR Stocks Plunge To 52-Week Lows Today?",
+      "summary_en": "Investors shifted their attention from long-term AI growth potential to the immediate costs of building the infrastructure needed to support it.",
+      "summary_zh": "Investors shifted their attention from long-term AI growth potential to the immediate costs of building the infrastructure needed to support it.",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=58fe46c075a0369ad2d9dcc00c40e47bf830108318ca4a16a794653e9d8bb81a",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "06-26 08:10",
+      "title_en": "Microsoft Corp (NASDAQ:MSFT) Shines as a Quality Investment Through Caviar Cruise Screening",
+      "title_zh": "Microsoft Corp (NASDAQ:MSFT) Shines as a Quality Investment Through Caviar Cruise Screening",
+      "summary_en": "Microsoft passes the Caviar Cruise quality screener with strong revenue growth, high profitability, and low debt, earning a 7/10 fundamental rating for long-term investors.",
+      "summary_zh": "Microsoft passes the Caviar Cruise quality screener with strong revenue growth, high profitability, and low debt, earning a 7/10 fundamental rating for long-term investors.",
+      "source": "MSFT · ChartMill",
+      "url": "https://finnhub.io/api/news?id=a8cfc4542446a78eb8a6770f2f3450ee5696792fb45250fd1156caaef2b4c43b",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 07:38",
+      "title_en": "Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now",
+      "title_zh": "Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now",
+      "summary_en": "The S&P 500 is set to undercut a key level Friday while the Nasdaq tests recent lows. Micron is giving up a slice of Thursday's gains.",
+      "summary_zh": "The S&P 500 is set to undercut a key level Friday while the Nasdaq tests recent lows. Micron is giving up a slice of Thursday's gains.",
+      "source": "MSFT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=2354f67860768a77109d4ea1fda3904b044ed0df38ae7c027c54f49a132a401e",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 07:45",
+      "title_en": "Stocks Fall Pre-Bell as Tech Weakness Persists",
+      "title_zh": "Stocks Fall Pre-Bell as Tech Weakness Persists",
+      "summary_en": "The benchmark US stock measures were tracking in the red before the open Friday as bearish sentiment",
+      "summary_zh": "The benchmark US stock measures were tracking in the red before the open Friday as bearish sentiment",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=547ef03fb5debcb3f282909d11963e686723e29190348bcbf3d8614bb13667e1",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 07:45",
+      "title_en": "Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now",
+      "title_zh": "Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now",
+      "summary_en": "This is a dominant chip foundry with pricing power.",
+      "summary_zh": "This is a dominant chip foundry with pricing power.",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=69fa5bce4cf936fdb5d0c14d75f12efd5b59cff20e9fc029d72f7394bdf695c5",
       "sectors": [
         "ai",
         "tech"
       ]
     },
     {
-      "time": "06-23 08:40",
-      "title_zh": "Rocket Lab wins new satellite launch contract",
-      "title_en": "Rocket Lab wins new satellite launch contract",
-      "summary_zh": "Multi-launch deal.",
-      "source": "RKLB · CNBC",
+      "time": "06-26 00:22",
+      "title_en": "NMAI: Bonds Drag On Performance, But This Hybrid CEF Could Be Attractive For Income",
+      "title_zh": "NMAI: Bonds Drag On Performance, But This Hybrid CEF Could Be Attractive For Income",
+      "summary_en": "Nuveen Multi-Asset Income Fund (NMAI) offers a 10.19% yield, tech-led returns, and a 7.11% NAV discountâsee inflation bond risks & coverage.",
+      "summary_zh": "Nuveen Multi-Asset Income Fund (NMAI) offers a 10.19% yield, tech-led returns, and a 7.11% NAV discountâsee inflation bond risks & coverage.",
+      "source": "TSM · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a129f64e4dbfd24d87ff57197118d8c1a8fdd65fc169c2bfaf4b09996dc30f75",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "06-25 09:35",
+      "title_en": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "title_zh": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "summary_en": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "summary_zh": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "source": "TSM · Benzinga",
+      "url": "https://finnhub.io/api/news?id=da64ac4a7a9ac2fe12087fcedbe9e3731572544706bffd97ba4585d7591e7f00",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 06:00",
+      "title_en": "Nvidia once explored a $100B chip deal with OpenAI. Now OpenAI is building its own chips from scratch",
+      "title_zh": "Nvidia once explored a $100B chip deal with OpenAI. Now OpenAI is building its own chips from scratch",
+      "summary_en": "OpenAI and Broadcom just unveiled a custom AI chip called Jalapeo, designed from scratch to power ChatGPT, after a deal with Nvidia fizzled.",
+      "summary_zh": "OpenAI and Broadcom just unveiled a custom AI chip called Jalapeo, designed from scratch to power ChatGPT, after a deal with Nvidia fizzled.",
+      "source": "AVGO · Yahoo",
+      "url": "https://finnhub.io/api/news?id=52b52bbae35a124b3357e7a94c7d5863e6335047c59cf4c53c2adf114e0148ef",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 07:04",
+      "title_en": "2 Growth Stocks with Explosive Upside and 1 Facing Challenges",
+      "title_zh": "2 Growth Stocks with Explosive Upside and 1 Facing Challenges",
+      "summary_en": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "summary_zh": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "source": "CSCO · Yahoo",
+      "url": "https://finnhub.io/api/news?id=f441b6fd544c8cbc4c10c3961125314201479ab2d3c4ce3528e19f4dd9ba0c11",
+      "sectors": [
+        "comm"
+      ]
+    },
+    {
+      "time": "06-25 17:09",
+      "title_en": "Cisco (CSCO) Stock Sees Modest Fair Value Lift After AI Networking Target Raises",
+      "title_zh": "Cisco (CSCO) Stock Sees Modest Fair Value Lift After AI Networking Target Raises",
+      "summary_en": "Cisco Systems has seen its fair value estimate move from US$125.82 to US$127.05, a small uptick that captures the latest tweak in the valuation model. Analysts linking this change to recent research generally point to stronger AI networking execution, campus refresh activity, and optical demand tied to Acacia, while still flagging valuation questions and segment level risks. As you read on, you will see how these shifting targets fit into the broader Cisco Systems story and what to watch as...",
+      "summary_zh": "Cisco Systems has seen its fair value estimate move from US$125.82 to US$127.05, a small uptick that captures the latest tweak in the valuation model. Analysts linking this change to recent research generally point to stronger AI networking execution, campus refresh activity, and optical demand tied to Acacia, while still flagging valuation questions and segment level risks. As you read on, you will see how these shifting targets fit into the broader Cisco Systems story and what to watch as...",
+      "source": "CSCO · Yahoo",
+      "url": "https://finnhub.io/api/news?id=018e2ada19a7157cedad6ebd357f79443ce605308d80a2b9bf7094b44ab8f16b",
+      "sectors": [
+        "ai",
+        "bio",
+        "comm"
+      ]
+    },
+    {
+      "time": "06-26 01:00",
+      "title_en": "Wall Street Breakfast Podcast: Will Tech Stocks Rebound?",
+      "title_zh": "Wall Street Breakfast Podcast: Will Tech Stocks Rebound?",
+      "summary_en": "Will tech stocks rebound? OpenAI delaying its IPO? SpaceX's mobile plans.",
+      "summary_zh": "Will tech stocks rebound? OpenAI delaying its IPO? SpaceX's mobile plans.",
+      "source": "TMUS · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5d14f689a25454d6e8f694f11fae87ee1653aed7025c0eabc9f78fdd3139160",
+      "sectors": [
+        "ai",
+        "comm",
+        "space"
+      ]
+    },
+    {
+      "time": "06-26 00:14",
+      "title_en": "Musk's SpaceX targets US consumers with Starlink mobile service push, FT reports",
+      "title_zh": "Musk's SpaceX targets US consumers with Starlink mobile service push, FT reports",
+      "summary_en": "SpaceX has told investors it plans to launch a Starlink mobile service for U.S. ‌consumers, the Financial Times reported on Friday, in ‌a move that could allow the Elon Musk-led company to compete directly with ​Verizon, AT&T and T-Mobile.  • SpaceX already offers direct-to-cell connectivity with T-Mobile in the U.S., providing supplemental coverage from space to extend internet access to remote areas.  • SpaceX is ‌now considering launching ⁠a Starlink retail product and could build its own terrestrial U.S. mobile network, President Gwynne Shotwell ⁠told investors during a recent IPO roadshow, the FT report said, citing sources.",
+      "summary_zh": "SpaceX has told investors it plans to launch a Starlink mobile service for U.S. ‌consumers, the Financial Times reported on Friday, in ‌a move that could allow the Elon Musk-led company to compete directly with ​Verizon, AT&T and T-Mobile.  • SpaceX already offers direct-to-cell connectivity with T-Mobile in the U.S., providing supplemental coverage from space to extend internet access to remote areas.  • SpaceX is ‌now considering launching ⁠a Starlink retail product and could build its own terrestrial U.S. mobile network, President Gwynne Shotwell ⁠told investors during a recent IPO roadshow, the FT report said, citing sources.",
+      "source": "TMUS · Yahoo",
+      "url": "https://finnhub.io/api/news?id=f84b29d68aed880e05b0c8b01a12611763ac101a9027b17e343e712132da3cf4",
+      "sectors": [
+        "comm",
+        "space"
+      ]
+    },
+    {
+      "time": "06-26 08:35",
+      "title_en": "Solar Stocks Face Reckoning as Valuations Diverge Ahead of Earnings",
+      "title_zh": "Solar Stocks Face Reckoning as Valuations Diverge Ahead of Earnings",
+      "summary_en": "The solar sector shows split performance with strong annual returns but recent stagnation. First Solar offers value, NextPower quality, AES a high yield, and Generac premium growth—all ahead of key earnings.",
+      "summary_zh": "The solar sector shows split performance with strong annual returns but recent stagnation. First Solar offers value, NextPower quality, AES a high yield, and Generac premium growth—all ahead of key earnings.",
+      "source": "FSLR · ChartMill",
+      "url": "https://finnhub.io/api/news?id=467751c1ce8367c7a1552de269c7b0ea5a55971b59b98c3e7be1fa0fa9b4242a",
+      "sectors": [
+        "bio",
+        "energy"
+      ]
+    },
+    {
+      "time": "06-25 11:08",
+      "title_en": "T1 Energy (TE) Draws Bernstein Coverage As Patent Risk Meets US Factory Push",
+      "title_zh": "T1 Energy (TE) Draws Bernstein Coverage As Patent Risk Meets US Factory Push",
+      "summary_en": "Bernstein has initiated coverage on T1 Energy (NYSE:TE), drawing new attention to the stock. The report highlights an ongoing patent dispute with First Solar as a key legal overhang. Bernstein also points to T1 Energy's plans for a second US manufacturing facility focused on local sourcing. T1 Energy enters this new phase of coverage with its stock at $8.53 and a very large 1 year return, roughly 7x, alongside a 13.0% return over 3 years. Short term performance has been mixed, with the...",
+      "summary_zh": "Bernstein has initiated coverage on T1 Energy (NYSE:TE), drawing new attention to the stock. The report highlights an ongoing patent dispute with First Solar as a key legal overhang. Bernstein also points to T1 Energy's plans for a second US manufacturing facility focused on local sourcing. T1 Energy enters this new phase of coverage with its stock at $8.53 and a very large 1 year return, roughly 7x, alongside a 13.0% return over 3 years. Short term performance has been mixed, with the...",
+      "source": "FSLR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d6a322ac92f7040d0d42796f780c51cc0afc28c3baa3da40f53e47ab3ae3c93",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "06-26 07:50",
+      "title_en": "Why Mario Gabelli Is Smiling — His ETF Delivers 7.5% in Monthly Dividends in 2 Must-Own Sectors",
+      "title_zh": "Why Mario Gabelli Is Smiling — His ETF Delivers 7.5% in Monthly Dividends in 2 Must-Own Sectors",
+      "summary_en": "Mario Gabelli built his closed-end fund around two sectors most investors overlook, and the strategy is drawing serious attention from income-focused investors.",
+      "summary_zh": "Mario Gabelli built his closed-end fund around two sectors most investors overlook, and the strategy is drawing serious attention from income-focused investors.",
+      "source": "XOM · Yahoo",
+      "url": "https://finnhub.io/api/news?id=7072b77bfcaf1dbc9af3b76528bcab20d51a89f9743a3a41cdb5945ad18cf68c",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "06-26 04:20",
+      "title_en": "High Income Outpaces Mega-Cap Tech In Return/Risk Terms",
+      "title_zh": "High Income Outpaces Mega-Cap Tech In Return/Risk Terms",
+      "summary_en": "Stocks with above-average dividend yields often represent mature businesses with resilient earnings and disciplined management. Read more here.",
+      "summary_zh": "Stocks with above-average dividend yields often represent mature businesses with resilient earnings and disciplined management. Read more here.",
+      "source": "XOM · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1ce712a5688b7722bcbeb5e96cb58f3f49f734ded6c6a16531f54f12425fea83",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "06-26 07:32",
+      "title_en": "Rocket Lab Stock Pops After NASA Awards Three Electron Launch Missions",
+      "title_zh": "Rocket Lab Stock Pops After NASA Awards Three Electron Launch Missions",
+      "summary_en": "Rocket Lab Stock Gains After NASA Selects Electron for Multiple Launches",
+      "summary_zh": "Rocket Lab Stock Gains After NASA Selects Electron for Multiple Launches",
+      "source": "RKLB · Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd649d485de06052d9d406a3bd8ad9a9cd74092a0032a4ef1b78945b5408cb94",
       "sectors": [
         "space"
       ]
+    },
+    {
+      "time": "06-25 07:26",
+      "title_en": "Space Stocks In June Gloom: Rocket Lab, Redwire, Firefly Fade While SpaceX Steals The Show",
+      "title_zh": "Space Stocks In June Gloom: Rocket Lab, Redwire, Firefly Fade While SpaceX Steals The Show",
+      "summary_en": "Space stocks give back 2026 gains as SpaceX steals the spotlight with a blockbuster initial public offering.",
+      "summary_zh": "Space stocks give back 2026 gains as SpaceX steals the spotlight with a blockbuster initial public offering.",
+      "source": "ASTS · Benzinga",
+      "url": "https://finnhub.io/api/news?id=56f101ba8ca376ebee2dff59db4a8ce2066c7ace41656e32bcf6ec8e4961b3a6",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "06-24 08:35",
+      "title_en": "Space Stocks Plunge 23% in a Month, But Operational Momentum Sparks Debate on Entry Point",
+      "title_zh": "Space Stocks Plunge 23% in a Month, But Operational Momentum Sparks Debate on Entry Point",
+      "summary_en": "Space stocks fell ~23% in a month, but strong operational momentum persists. Rocket Lab, Planet Labs, Intuitive Machines, and AST SpaceMobile show growth and improving profitability, offering potential entry points.",
+      "summary_zh": "Space stocks fell ~23% in a month, but strong operational momentum persists. Rocket Lab, Planet Labs, Intuitive Machines, and AST SpaceMobile show growth and improving profitability, offering potential entry points.",
+      "source": "ASTS · ChartMill",
+      "url": "https://finnhub.io/api/news?id=fb8127a3bd3a44eb603126fc8e0d7d19107efb0bdcafed7e3ab1044c57c481e2",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "06-26 00:58",
+      "title_en": "2026 Mid-Year Outlook: Big Market Risks, AI And Memory Mania Concerns, And My Top Bargain Stock Picks",
+      "title_zh": "2026 Mid-Year Outlook: Big Market Risks, AI And Memory Mania Concerns, And My Top Bargain Stock Picks",
+      "summary_en": "Broad market bearishness prompts defensive buys in oversold defense stocks, high-yield Pfizer, and cash reserves. Read more here.",
+      "summary_zh": "Broad market bearishness prompts defensive buys in oversold defense stocks, high-yield Pfizer, and cash reserves. Read more here.",
+      "source": "LMT · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6e884268f60dc7bbfe252cddcfbf41ce848ef06d9e43f4d565dffe4b99d91ba6",
+      "sectors": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "06-25 21:33",
+      "title_en": "Is General Motors Company (GM) among the 10 Most Promising Hydrogen and Fuel Cell Stocks According to Analysts?",
+      "title_zh": "Is General Motors Company (GM) among the 10 Most Promising Hydrogen and Fuel Cell Stocks According to Analysts?",
+      "summary_en": "With an upside potential of 25.66% according to analysts, General Motors Company (NYSE:GM) is among the 10 Most Promising Hydrogen and Fuel Cell Stocks According to Analysts. On June 16, General Motors Company (NYSE:GM) and Lockheed Martin announced a collaboration aimed at strengthening the United States manufacturing and defense industrial base. Operating under a memorandum of understanding, […]",
+      "summary_zh": "With an upside potential of 25.66% according to analysts, General Motors Company (NYSE:GM) is among the 10 Most Promising Hydrogen and Fuel Cell Stocks According to Analysts. On June 16, General Motors Company (NYSE:GM) and Lockheed Martin announced a collaboration aimed at strengthening the United States manufacturing and defense industrial base. Operating under a memorandum of understanding, […]",
+      "source": "LMT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=537616de86969561cc2e03cc731223f3abd60d7dbd7c6d495adfff7c5bfa56f4",
+      "sectors": [
+        "bio",
+        "energy",
+        "space"
+      ]
+    },
+    {
+      "time": "06-26 01:20",
+      "title_en": "This Stock Has Already Doubled This Year and Is Still Racing Towards a Major Catalyst",
+      "title_zh": "This Stock Has Already Doubled This Year and Is Still Racing Towards a Major Catalyst",
+      "summary_en": "It's not just a \"pandemic stock,\" after all.",
+      "summary_zh": "It's not just a \"pandemic stock,\" after all.",
+      "source": "MRNA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=17903f2bee44892f21784a0646ffc3b5c0e976512b169f8eb34b96ab6092b970",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "06-25 23:12",
+      "title_en": "Advancements in mRNA Technology, Clinical Modalities, and Future Horizons in Science",
+      "title_zh": "Advancements in mRNA Technology, Clinical Modalities, and Future Horizons in Science",
+      "summary_en": "2026-06-26. The following slide deck was published by Moderna, Inc.",
+      "summary_zh": "2026-06-26. The following slide deck was published by Moderna, Inc.",
+      "source": "MRNA · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d68fa1e82d9193414834040ef2a4e7ab618d023394755a21872a9a917116e85d",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "06-26 04:40",
+      "title_en": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
+      "title_zh": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
+      "summary_en": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
+      "summary_zh": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
+      "source": "REGN · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "06-25 16:05",
+      "title_en": "Regeneron to Report Second Quarter 2026 Financial and Operating Results and Host Conference Call and Webcast",
+      "title_zh": "Regeneron to Report Second Quarter 2026 Financial and Operating Results and Host Conference Call and Webcast",
+      "summary_en": "TARRYTOWN, N.Y., June 25, 2026 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced that it will report its second quarter 2026 financial and operating results on Thursday, July 30, 2026, before the U.S. financial markets open. The Company will host a conference call and simultaneous webcast at 8:30 AM Eastern Time that day. Conference Call Information Participants may access the conference call live via webcast on the ’Investors and Media’ page of Regeneron’s websi",
+      "summary_zh": "TARRYTOWN, N.Y., June 25, 2026 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced that it will report its second quarter 2026 financial and operating results on Thursday, July 30, 2026, before the U.S. financial markets open. The Company will host a conference call and simultaneous webcast at 8:30 AM Eastern Time that day. Conference Call Information Participants may access the conference call live via webcast on the ’Investors and Media’ page of Regeneron’s websi",
+      "source": "REGN · Yahoo",
+      "url": "https://finnhub.io/api/news?id=08444bd127052ea990c5ce3a5322141d820708ec51666954960b6d146aa812af",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "06-24 22:40",
+      "title_en": "3 Companies Redefining Healthcare Innovation",
+      "title_zh": "3 Companies Redefining Healthcare Innovation",
+      "summary_en": "CRISPR Therapeutics, co-developer of the CASGEVY gene-editing cure for sickle cell disease and beta-thalassemia, was added to HTEC.",
+      "summary_zh": "CRISPR Therapeutics, co-developer of the CASGEVY gene-editing cure for sickle cell disease and beta-thalassemia, was added to HTEC.",
+      "source": "CRSP · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f456613ccd3df51c2550fe52ed531debb99b1fae8c99239ebbf7f9e4d20a31b",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "06-26 09:10",
+      "title_en": "The Club's top 10 things to watch in the stock market Friday",
+      "title_zh": "The Club's top 10 things to watch in the stock market Friday",
+      "summary_en": "OpenAI is reportedly considering delaying its IPO until 2027, and SpaceX is weighing a deeper push into mobile services.",
+      "summary_zh": "OpenAI is reportedly considering delaying its IPO until 2027, and SpaceX is weighing a deeper push into mobile services.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "sectors": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "06-26 08:10",
+      "title_en": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
+      "title_zh": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
+      "summary_en": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
+      "summary_zh": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "06-26 03:36",
+      "title_en": "Iran deal grants access to nuclear inspectors, IAEA chief says - Reuters",
+      "title_zh": "Iran deal grants access to nuclear inspectors, IAEA chief says - Reuters",
+      "summary_en": "Iran deal grants access to nuclear inspectors, IAEA chief says  Reuters",
+      "summary_zh": "Iran deal grants access to nuclear inspectors, IAEA chief says  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbklORW1hNXYwX1pxRFpuTlVTZ0xTZUJOVXdXcUdScUpoQm1fUGx3NUVMZGh4S0hYelhlTEdUd1dDTzUydU9xWW5kWDZxMnd2U3prZklQSXZjRk1aQ2J2OEt5Wkl4Tm1kaktRRDhxdGJlZjJuWF9VNC1jUkhpT2tqajdWbXNYVUhqVTJZZGdCSnNBV0YwOTRCWVhrWnFHdDdkTm9aTkVTOFhfb1BDM0RBZlFn?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "06-25 14:16",
+      "title_en": "IMF says energy, commodity prices fall after Iran deal but will take time to normalize - Reuters",
+      "title_zh": "IMF says energy, commodity prices fall after Iran deal but will take time to normalize - Reuters",
+      "summary_en": "IMF says energy, commodity prices fall after Iran deal but will take time to normalize  Reuters",
+      "summary_zh": "IMF says energy, commodity prices fall after Iran deal but will take time to normalize  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3FTZlcydWNkVlFYdEF5NV95X1B3TlNiN2M5MVNCSXJwTTBFZnFlOW1VZDExVWhNOE9zcnliaDQtd2U1bTBxdDZWZzNiWmNHQW05eFFkMlctSlhyT0ItX0pVdUdTNDlWalhPb211WlAtN0Z6ZzFpNkVrbUpoSzljR2dNbGl1MXEzZEVlTWl5NFkxWEVYZDJIR2NvWmNXNm9SQ0NhRlpLcm03bVJMUEdLWERQS01lUGpoQUNIc0VTNFdvRlNWdmc?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "06-25 11:11",
+      "title_en": "We're locking in triple-digit profits on an AI winner at record highs",
+      "title_zh": "We're locking in triple-digit profits on an AI winner at record highs",
+      "summary_en": "The stock has soared this week for unclear reasons.",
+      "summary_zh": "The stock has soared this week for unclear reasons.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/were-locking-in-triple-digit-profits-on-an-ai-winner-at-record-highs.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "06-25 09:11",
+      "title_en": "The Club's top 10 things to watch in the stock market Thursday",
+      "title_zh": "The Club's top 10 things to watch in the stock market Thursday",
+      "summary_en": "Another monster quarter from Micron has ignited a chip stock rally.",
+      "summary_zh": "Another monster quarter from Micron has ignited a chip stock rally.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/the-clubs-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "06-26 07:56",
+      "title_en": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman - Reuters",
+      "title_zh": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman - Reuters",
+      "summary_en": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman  Reuters",
+      "summary_zh": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFRwZHY1bnhkUUxWazNxYUNVdjlHV2RFN2RBc0ZnS2ZMc1JKQmtSMkRzQ0lIZkN6aXFMeENhTkJ2UURUcnJTNnZRZmdiQWdHcGdHYl9IbmdLa2tmT0VOUDN4Y1dRU0dQWkFNZkNuX2Q4VFVKUE5MUjBEaGpud3czTzdJR2Jrbzl1X2x2VkZsR1lyVjN3dDFnUHhMUXN0M3pmVFdiZnJidUF6ZFViSVpkWXB1V2t1S3d4OGpwQmdhd0ZwODVQN2NF?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-26 01:38",
+      "title_en": "Montenegro police, FBI arrest Iranian wanted by US for hacking - Reuters",
+      "title_zh": "Montenegro police, FBI arrest Iranian wanted by US for hacking - Reuters",
+      "summary_en": "Montenegro police, FBI arrest Iranian wanted by US for hacking  Reuters",
+      "summary_zh": "Montenegro police, FBI arrest Iranian wanted by US for hacking  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmRhdnQyVHYxWjR1YWdfVmF5MER5YjhZcV9nWWlWMDUzb3pSZjZhS0NFN0pwYnYta084OUFKck15c3ZkUnpUWjhadzhCZmhBWGxUQmx3VDFxc2tkc0YtY2ZtNmhDcFdUZUlPSkFMamNrS1JGSEV5WUYyNkYtelhZTjl4dTItUWh6NEttUS16M3NqNlJBbGZ4eTl3Wkd3U2x6?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-26 01:04",
+      "title_en": "Vance, Rubio strike different tone on Iran and Israel - Reuters",
+      "title_zh": "Vance, Rubio strike different tone on Iran and Israel - Reuters",
+      "summary_en": "Vance, Rubio strike different tone on Iran and Israel  Reuters",
+      "summary_zh": "Vance, Rubio strike different tone on Iran and Israel  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlpieWk3VVNMSkhjZ0c3cUE5dzZscm1BaDdTT1JRS1gzUUhXM1FTWmZObUxZNVRlMXN4Vzc3bnN6MzJST21kcnFOSk85UU41ZlA4TDgxUnN0dFVHTzBlVXBRb0hrWjF5WkppNkgzXzc1ZklaNzFsdzZXN2dUdUI4NWEtbnN1MHRMZ2xocldlTUNkZXcy?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-25 17:20",
+      "title_en": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
+      "title_zh": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
+      "summary_en": "High earners may only contribute Social Security payroll taxes for part of the year. As the program faces funding woes, some lawmakers say that should change.",
+      "summary_zh": "High earners may only contribute Social Security payroll taxes for part of the year. As the program faces funding woes, some lawmakers say that should change.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/social-security-why-some-washington-lawmakers-want-to-tax-high-earners.html",
+      "sectors": []
+    },
+    {
+      "time": "06-25 17:16",
+      "title_en": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash - Reuters",
+      "title_zh": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash - Reuters",
+      "summary_en": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash  Reuters",
+      "summary_zh": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVB1dWtla29mZUtJMXFTalFTZFdzNUMwa1RDNGVydzJ5OFlTYS1zQU9BUzhpNGNKQUdzRlU5ck5RQ201aEpTalVsQUg1azl6N3JKUXlMZGNmVVBrMS1rdENlTVlkb2VhcDkwNDBWWURPeTdDZjhtc3ZqdXVtU181TUZWOEJFeXNjMFpqcHVXakNfWUdPUnJxcE1iRzRESzBoV2IzNUFST21uQXVONVgyUzE2SzRCdw?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-25 16:27",
+      "title_en": "Apple stock gets slammed on bigger Mac, iPad price hikes. Why it can weather the storm",
+      "title_zh": "Apple stock gets slammed on bigger Mac, iPad price hikes. Why it can weather the storm",
+      "summary_en": "The stock had its worst session in more than a year as management made its first official move to pass higher memory costs onto consumers.",
+      "summary_zh": "The stock had its worst session in more than a year as management made its first official move to pass higher memory costs onto consumers.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/apple-stock-gets-slammed-on-bigger-mac-ipad-price-hikes-why-it-can-weather-the-storm.html",
+      "sectors": []
+    },
+    {
+      "time": "06-25 14:52",
+      "title_en": "Obesity drugs approach a major milestone, and Lilly may have a 'game changer' ahead",
+      "title_zh": "Obesity drugs approach a major milestone, and Lilly may have a 'game changer' ahead",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "summary_zh": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/obesity-drugs-approach-a-major-milestone-and-lilly-may-have-a-game-changer-ahead.html",
+      "sectors": []
+    },
+    {
+      "time": "06-25 14:51",
+      "title_en": "Iran fired on cargo ship, US officials tell Reuters - Reuters",
+      "title_zh": "Iran fired on cargo ship, US officials tell Reuters - Reuters",
+      "summary_en": "Iran fired on cargo ship, US officials tell Reuters  Reuters",
+      "summary_zh": "Iran fired on cargo ship, US officials tell Reuters  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1JqTWo2bzlJWXAwR2pkVTMyRVpTZkotam9lUlBxMzhyZ1FRM195WWlpay1nemFSX0kxTU9reDJVRnZQYm5QbTVxMUtsajZkVllBZUxaVUQ3YWJWSnRQYVZDX1QzQjhZdjV4Yjh2c1F0N2dvNnNrWXJ0YS1ZNU1HNXRyNmlxM2FycnBNUFVaQWExTVBNY2JIb1JaMDh4WWJPTmRF?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-25 14:42",
+      "title_en": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked - Reuters",
+      "title_zh": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked - Reuters",
+      "summary_en": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked  Reuters",
+      "summary_zh": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEdwQnducDl3RzgxSWs1NXVmdWQzSW5QY2xWc3ZXd251dG8xcHFDQXg1TkNQd2NOV1RDN201R1NrVEtMaml6MUdibUdXWGZveWo2YVpMMElrVFcxWjhVN29DZWFGem5MWVpjNlpzVUlYSEE4M2FVV1NXSTNvSm1LOUxMSmpONDg3QzlPVUZOMGxNSU5CZ2NWbEg4Ty1Ybkp3UmloQzVFMzFtRWV5Q2NMUXFDYzJubXkySk91YU1DQ3BjNXNyd0YyMGhnQnBZUVk?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-25 14:10",
+      "title_en": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
+      "title_zh": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
+      "summary_en": "A federal judge temporarily blocked Trump's limits on how much certain graduate students can borrow. That policy was set to go into effect July 1.",
+      "summary_zh": "A federal judge temporarily blocked Trump's limits on how much certain graduate students can borrow. That policy was set to go into effect July 1.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/judge-blocks-trumps-rule-limiting-student-loans-for-grad-students-.html",
+      "sectors": []
+    },
+    {
+      "time": "06-25 12:35",
+      "title_en": "We're trimming a health-care stock into strength and raising our price target",
+      "title_zh": "We're trimming a health-care stock into strength and raising our price target",
+      "summary_en": "It's been a remarkable turnaround for a name we started to buy a little too high and a little too fast when the Iran war broke out.",
+      "summary_zh": "It's been a remarkable turnaround for a name we started to buy a little too high and a little too fast when the Iran war broke out.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/were-trimming-a-stock-into-strength-raising-our-price-target.html",
+      "sectors": []
+    },
+    {
+      "time": "06-25 08:46",
+      "title_en": "Crude shipments through Hormuz at highest since Iran war began - Reuters",
+      "title_zh": "Crude shipments through Hormuz at highest since Iran war began - Reuters",
+      "summary_en": "Crude shipments through Hormuz at highest since Iran war began  Reuters",
+      "summary_zh": "Crude shipments through Hormuz at highest since Iran war began  Reuters",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzN6X1ZFMUJfYUd1aDU5U0RWUGpqMm5VbHMwbGZ6eF9RdERyNVEzY3FIMVBkZXlPUFhGRmJXekNzNzZmbEk5WVBwbm53dTRTQW1NNTJNVjcwN0xUYkJ2Z2NyTHljQ2ktVnBOWWZpUnNVR3JKM05OR0xQRlFlRWpHQ1hWR1hxWXV0YTNldGhZMTVCZXJJclBFOHhPMW9leEd3ZzdzZGVtLWFWRDQ4Ym9HSVl3UjJUbVdnZmpzQ1cxYmZzMWhkTjUtNw?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "06-25 08:42",
+      "title_en": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
+      "title_zh": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
+      "summary_en": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+      "summary_zh": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+      "sectors": []
+    },
+    {
+      "time": "06-25 08:30",
+      "title_en": "U.S. giving topped $600 billion for the first time last year. Megadonors and bequests are to thank",
+      "title_zh": "U.S. giving topped $600 billion for the first time last year. Megadonors and bequests are to thank",
+      "summary_en": "The stock market rally turbocharged charitable giving in 2025, but primarily from wealthy donors.",
+      "summary_zh": "The stock market rally turbocharged charitable giving in 2025, but primarily from wealthy donors.",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/us-charitable-giving-megadonors.html",
+      "sectors": []
     }
   ],
   "corporate": [
     {
       "tag": "earnings",
-      "title_zh": "MRNA 财报 · 预期EPS -0.42",
-      "title_en": "MRNA earnings · EPS est -0.42",
-      "code": "MRNA",
-      "time": "06-25",
-      "sectors": [
-        "bio"
-      ]
+      "title_en": "ACP earnings · EPS est None",
+      "title_zh": "ACP 财报 · 预期EPS None",
+      "code": "ACP",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "AOD earnings · EPS est None",
+      "title_zh": "AOD 财报 · 预期EPS None",
+      "code": "AOD",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "ASII earnings · EPS est None",
+      "title_zh": "ASII 财报 · 预期EPS None",
+      "code": "ASII",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "CET earnings · EPS est None",
+      "title_zh": "CET 财报 · 预期EPS None",
+      "code": "CET",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "CYBL earnings · EPS est None",
+      "title_zh": "CYBL 财报 · 预期EPS None",
+      "code": "CYBL",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "ESI earnings · EPS est 0.4306",
+      "title_zh": "ESI 财报 · 预期EPS 0.4306",
+      "code": "ESI",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "FAX earnings · EPS est None",
+      "title_zh": "FAX 财报 · 预期EPS None",
+      "code": "FAX",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "FCO earnings · EPS est None",
+      "title_zh": "FCO 财报 · 预期EPS None",
+      "code": "FCO",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "HBSI earnings · EPS est None",
+      "title_zh": "HBSI 财报 · 预期EPS None",
+      "code": "HBSI",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "HIX earnings · EPS est None",
+      "title_zh": "HIX 财报 · 预期EPS None",
+      "code": "HIX",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "IAF earnings · EPS est None",
+      "title_zh": "IAF 财报 · 预期EPS None",
+      "code": "IAF",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "NAD earnings · EPS est None",
+      "title_zh": "NAD 财报 · 预期EPS None",
+      "code": "NAD",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "NEA earnings · EPS est None",
+      "title_zh": "NEA 财报 · 预期EPS None",
+      "code": "NEA",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "NMZ earnings · EPS est None",
+      "title_zh": "NMZ 财报 · 预期EPS None",
+      "code": "NMZ",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "NUV earnings · EPS est None",
+      "title_zh": "NUV 财报 · 预期EPS None",
+      "code": "NUV",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "NVG earnings · EPS est None",
+      "title_zh": "NVG 财报 · 预期EPS None",
+      "code": "NVG",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "RDZN earnings · EPS est -0.0612",
+      "title_zh": "RDZN 财报 · 预期EPS -0.0612",
+      "code": "RDZN",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "SANW earnings · EPS est -1.632",
+      "title_zh": "SANW 财报 · 预期EPS -1.632",
+      "code": "SANW",
+      "time": "2026-07-06",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "SBSAA earnings · EPS est None",
+      "title_zh": "SBSAA 财报 · 预期EPS None",
+      "code": "SBSAA",
+      "time": "2026-07-03",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "BABB earnings · EPS est None",
+      "title_zh": "BABB 财报 · 预期EPS None",
+      "code": "BABB",
+      "time": "2026-07-02",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "LNN earnings · EPS est 1.2196",
+      "title_zh": "LNN 财报 · 预期EPS 1.2196",
+      "code": "LNN",
+      "time": "2026-07-02",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "PKE earnings · EPS est 0.1404",
+      "title_zh": "PKE 财报 · 预期EPS 0.1404",
+      "code": "PKE",
+      "time": "2026-07-02",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "BSET earnings · EPS est 0.1989",
+      "title_zh": "BSET 财报 · 预期EPS 0.1989",
+      "code": "BSET",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "CULP earnings · EPS est -0.1122",
+      "title_zh": "CULP 财报 · 预期EPS -0.1122",
+      "code": "CULP",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "EACO earnings · EPS est None",
+      "title_zh": "EACO 财报 · 预期EPS None",
+      "code": "EACO",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "ELLO earnings · EPS est None",
+      "title_zh": "ELLO 财报 · 预期EPS None",
+      "code": "ELLO",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "FC earnings · EPS est 0.3193",
+      "title_zh": "FC 财报 · 预期EPS 0.3193",
+      "code": "FC",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "FDS earnings · EPS est 4.4964",
+      "title_zh": "FDS 财报 · 预期EPS 4.4964",
+      "code": "FDS",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "FIZZ earnings · EPS est 0.4794",
+      "title_zh": "FIZZ 财报 · 预期EPS 0.4794",
+      "code": "FIZZ",
+      "time": "2026-07-01",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "GBX earnings · EPS est 0.6094",
+      "title_zh": "GBX 财报 · 预期EPS 0.6094",
+      "code": "GBX",
+      "time": "2026-07-01",
+      "sectors": []
     }
   ],
   "ipo": [
     {
-      "name_zh": "AI Cloud Co.",
-      "name_en": "AI Cloud Co.",
-      "code": "AICX",
-      "date": "06-25",
-      "price": "$22-25",
-      "market_zh": "纳斯达克",
-      "market_en": "NASDAQ",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
+      "name_en": "Sinda Ltd.",
+      "name_zh": "Sinda Ltd.",
+      "code": "SIND",
+      "date": "2026-07-01",
+      "price": "$11.25-13.25",
+      "market_en": "NYSE",
+      "market_zh": "NYSE",
+      "sectors": []
+    },
+    {
+      "name_en": "Bending Spoons S.p.A.",
+      "name_zh": "Bending Spoons S.p.A.",
+      "code": "BSP",
+      "date": "2026-07-01",
+      "price": "$26.00-28.00",
+      "market_en": "NASDAQ Global Select",
+      "market_zh": "NASDAQ Global Select",
+      "sectors": []
+    },
+    {
+      "name_en": "ITG, Inc./DE/",
+      "name_zh": "ITG, Inc./DE/",
+      "code": "ITG",
+      "date": "2026-07-01",
+      "price": "$19.00-22.00",
+      "market_en": "NASDAQ Global Select",
+      "market_zh": "NASDAQ Global Select",
+      "sectors": []
+    },
+    {
+      "name_en": "CopperTech Metals Inc.",
+      "name_zh": "CopperTech Metals Inc.",
+      "code": "CUX",
+      "date": "2026-07-01",
+      "price": "$16.00-18.00",
+      "market_en": "NYSE",
+      "market_zh": "NYSE",
+      "sectors": []
+    },
+    {
+      "name_en": "Neutron Holdings, Inc.",
+      "name_zh": "Neutron Holdings, Inc.",
+      "code": "LIME",
+      "date": "2026-07-01",
+      "price": "$24.00-26.00",
+      "market_en": "NASDAQ Global Select",
+      "market_zh": "NASDAQ Global Select",
+      "sectors": []
     }
   ]
 }
