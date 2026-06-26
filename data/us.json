@@ -1,0 +1,70 @@
+{
+  "market": "us",
+  "updated_at": "2026-06-23T09:30:00-04:00",
+  "indices": [
+    {
+      "name_zh": "标普500",
+      "name_en": "S&P 500",
+      "value": 5478.2,
+      "change": -18.4,
+      "change_pct": -0.34
+    },
+    {
+      "name_zh": "纳斯达克100",
+      "name_en": "Nasdaq 100",
+      "value": 17654.9,
+      "change": -92.1,
+      "change_pct": -0.52
+    }
+  ],
+  "news": [
+    {
+      "time": "06-23 09:15",
+      "title_zh": "Nvidia unveils next-gen AI accelerator",
+      "title_en": "Nvidia unveils next-gen AI accelerator",
+      "summary_zh": "Targets data-center inference.",
+      "source": "NVDA · Reuters",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "06-23 08:40",
+      "title_zh": "Rocket Lab wins new satellite launch contract",
+      "title_en": "Rocket Lab wins new satellite launch contract",
+      "summary_zh": "Multi-launch deal.",
+      "source": "RKLB · CNBC",
+      "sectors": [
+        "space"
+      ]
+    }
+  ],
+  "corporate": [
+    {
+      "tag": "earnings",
+      "title_zh": "MRNA 财报 · 预期EPS -0.42",
+      "title_en": "MRNA earnings · EPS est -0.42",
+      "code": "MRNA",
+      "time": "06-25",
+      "sectors": [
+        "bio"
+      ]
+    }
+  ],
+  "ipo": [
+    {
+      "name_zh": "AI Cloud Co.",
+      "name_en": "AI Cloud Co.",
+      "code": "AICX",
+      "date": "06-25",
+      "price": "$22-25",
+      "market_zh": "纳斯达克",
+      "market_en": "NASDAQ",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    }
+  ]
+}

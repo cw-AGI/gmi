@@ -1,0 +1,138 @@
+{
+  "market": "cn",
+  "updated_at": "2026-06-23T13:34:46+08:00",
+  "indices": [
+    {
+      "name_zh": "上证指数",
+      "name_en": "SSE Composite",
+      "value": 3287.42,
+      "change": 14.21,
+      "change_pct": 0.43
+    },
+    {
+      "name_zh": "深证成指",
+      "name_en": "SZSE Component",
+      "value": 10612.88,
+      "change": -22.4,
+      "change_pct": -0.21
+    },
+    {
+      "name_zh": "创业板指",
+      "name_en": "ChiNext",
+      "value": 2174.55,
+      "change": 8.9,
+      "change_pct": 0.41
+    }
+  ],
+  "news": [
+    {
+      "time": "15:30",
+      "title_zh": "国产大模型再迎突破，算力概念股集体走强",
+      "title_en": "Domestic LLM breakthrough lifts AI compute stocks",
+      "summary_zh": "多家AI芯片厂商盘中拉升。",
+      "source": "东方财富",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "14:05",
+      "title_zh": "工信部推进6G关键技术研发，通信设备板块受关注",
+      "title_en": "MIIT pushes 6G R&D",
+      "summary_zh": "光模块、基站设备龙头领涨。",
+      "source": "财联社",
+      "sectors": [
+        "comm"
+      ]
+    }
+  ],
+  "corporate": [
+    {
+      "tag": "业绩",
+      "title_zh": "宁德时代发布上半年业绩预告，净利润同比增长约35%",
+      "code": "300750",
+      "time": "今日",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "tag": "公告",
+      "title_zh": "中芯国际拟扩建12英寸晶圆产线",
+      "code": "688981",
+      "time": "今日",
+      "sectors": [
+        "tech"
+      ]
+    }
+  ],
+  "ipo": [
+    {
+      "name_zh": "晶合智算",
+      "code": "688XXX",
+      "date": "06-24",
+      "price": "¥18.60",
+      "market_zh": "科创板",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name_zh": "星网卫通",
+      "code": "688XXX",
+      "date": "06-25",
+      "price": "¥24.10",
+      "market_zh": "科创板",
+      "sectors": [
+        "space",
+        "comm"
+      ]
+    }
+  ],
+  "boards": [
+    {
+      "name": "算力概念",
+      "change_pct": 3.21,
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "name": "半导体",
+      "change_pct": 2.04,
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "name": "光通信",
+      "change_pct": 1.88,
+      "sectors": [
+        "comm"
+      ]
+    },
+    {
+      "name": "商业航天",
+      "change_pct": 1.45,
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "name": "储能",
+      "change_pct": 0.92,
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "name": "创新药",
+      "change_pct": -0.34,
+      "sectors": [
+        "bio"
+      ]
+    }
+  ]
+}
