@@ -118,6 +118,7 @@
   .news .ti{font-size:13px;line-height:1.45;margin:3px 0;color:var(--text)}
   .news .sm{font-size:11px;color:var(--muted);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .news .sr{font-size:10px;color:var(--faint);margin-top:4px}
+  .news .cx{font-size:10px;color:var(--accent);font-style:italic;margin-top:2px;opacity:.85}
 
   /* corporate rows */
   .corp{display:flex;gap:9px;padding:10px;border-radius:8px;transition:.12s}
@@ -332,6 +333,7 @@ function renderGrid(){
       `<div class="tm">${n.time||""}</div>`+
       `<div class="ti">${L(n.title_zh,n.title_en)}</div>`+
       (n.summary_zh||n.summary_en?`<div class="sm">${L(n.summary_zh,n.summary_en)}</div>`:"")+
+      (n.context_zh||n.context_en?`<div class="cx">${L(n.context_zh,n.context_en)}</div>`:"")+
       (n.source?`<div class="sr">${n.source}</div>`:"")+pills(n.sectors)+`</a>`;
   }).join("");
   // 企业动态（赛道筛选）

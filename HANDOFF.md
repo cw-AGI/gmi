@@ -86,7 +86,7 @@ README.md               面向用户的部署说明
 ## 六、后续可做（非部署必需）
 
 - ~~港股的新闻/新股目前留空，后续可接港交所披露易（HKEX）公开数据。~~ ✅ **v1.1 已做**：港股 corporate 接 `stock_hk_profit_forecast_et`(券商研报 48 行) + `stock_hk_dividend_payout_em`(分红派息 19 行) = 30 条动态;港股 IPO 接 `stock_zh_ah_spot_em`(A+H 双重上市 194 行) 取前 10 条作"近期活跃准新股"。akshare 无专门的港股 IPO 实时接口(已调研确认)
-- 美股新闻是英文，可在脚本里接翻译 API 补中文。
+- 美股新闻是英文，可在脚本里接翻译 API 补中文。⏸️ **v1.2 已做**（不接 API 方案）：见下
 - 赛道关键词 / 美股个股清单按用户实际关注细化（改 `fetch_data.py` 顶部即可）。
 
 ---
@@ -105,3 +105,22 @@ README.md               面向用户的部署说明
 ### 实测
 - 港股 corporate 30 条 / IPO 10 条全部就绪,语言 100% 中英
 - 浏览器视觉验证:body bg rgb(10,13,18) · header sticky + blur(12px) · 4 panel · ticker 横滚正常
+
+---
+
+## v1.2 改动(2026-06-28)
+
+### fetch_data.py — 美股新闻加 context_zh/en 上下文标签
+- `fetch_us().news()` 的两条路径(`/company-news` 重点股 + `/news` 大盘)都给每条输出加 `context_en`/`context_zh`:
+  - `context_en`: `📰 Source: NVDA · Reuters · English original`
+  - `context_zh`: `📰 来源: NVDA · Reuters · 英文原文(未翻译)`
+- **未接翻译 API**(用户决定推迟),但前端能直观看到"这条是英文未翻译"
+- 字段层级:`title_en == title_zh`(伪双语)+ `context_zh` 标注状态,后续接翻译 API 时只需把 `title_zh` 替换为翻译值,`context_zh` 删掉即可
+
+### index.html — 渲染 context
+- 新闻 card 新增 `.cx` div(在 summary 后、source 前),用 `L(n.context_zh, n.context_en)` 渲染
+- CSS: `.news .cx{font-size:10px;color:var(--accent);font-style:italic;opacity:.85}`(accent 色斜体,作为"待翻译"标识)
+
+### 实测
+- AST 解析 `fetch_us()` 确认输出 dict 含 `context_zh`/`context_en` 字段
+- 本地无 FINNHUB_API_KEY 跳过,GitHub Actions 上跑会填充实际数据

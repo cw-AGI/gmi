@@ -169,6 +169,9 @@ def fetch_us():
                     tm=datetime.datetime.fromtimestamp(ts,datetime.timezone(datetime.timedelta(hours=-4))).strftime("%m-%d %H:%M") if ts else ""
                     out.append({"time":tm,"title_en":h,"title_zh":h,
                                 "summary_en":a.get("summary",""),"summary_zh":a.get("summary",""),
+                                # 上下文标签(标注原文来源语言 + 待翻译状态),前端可显示在副标题位
+                                "context_en":f"📰 Source: {sym} · {a.get('source','')} · English original",
+                                "context_zh":f"📰 来源: {sym} · {a.get('source','')} · 英文原文(未翻译)",
                                 "source":f"{sym} · "+a.get("source",""),"url":a.get("url",""),
                                 "sectors":sorted(set([sid]+tag(h,a.get("summary",""))))})
                 time.sleep(0.2)
@@ -180,6 +183,8 @@ def fetch_us():
             tm=datetime.datetime.fromtimestamp(ts,datetime.timezone(datetime.timedelta(hours=-4))).strftime("%m-%d %H:%M") if ts else ""
             out.append({"time":tm,"title_en":h,"title_zh":h,
                         "summary_en":a.get("summary",""),"summary_zh":a.get("summary",""),
+                        "context_en":f"📰 Source: Finnhub / {a.get('source','')} · English original",
+                        "context_zh":f"📰 来源: Finnhub / {a.get('source','')} · 英文原文(未翻译)",
                         "source":"Finnhub / "+a.get("source",""),"url":a.get("url",""),
                         "sectors":tag(h,a.get("summary",""))})
         return out
