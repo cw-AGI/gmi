@@ -96,12 +96,37 @@ def section(market, name, fn):
     except Exception as e:
         print(f"  [FAIL] {market}.{name}: {e}"); return None
 
+# ---------- 语言过滤: 仅保留中文 / 英文 (排除日韩泰阿拉伯西里尔等) ----------
+import re as _re
+_R_ZH = _re.compile(r"[\u4e00-\u9fff]")
+_R_EN = _re.compile(r"[a-zA-Z]")
+_R_JK = _re.compile(r"[\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]")   # 平/片假名、谚文
+_R_CY = _re.compile(r"[\u0400-\u04ff]")                              # 西里尔
+_R_AR = _re.compile(r"[\u0600-\u06ff]")                              # 阿拉伯
+_R_TH = _re.compile(r"[\u0e00-\u0e7f]")                              # 泰文
+def is_zh_or_en(text: str) -> bool:
+    if not text: return False
+    return bool(_R_ZH.search(text) or _R_EN.search(text)) and \
+           not _R_JK.search(text) and not _R_CY.search(text) and \
+           not _R_AR.search(text) and not _R_TH.search(text)
+def filt(items, key=None):
+    """过滤掉非中英内容; key 默认取 'title'/'title_zh'/'name_zh'/'name_en' 之一"""
+    def _k(it):
+        if key: return it.get(key, "")
+        for k in ("title_zh", "title_en", "name_zh", "name_en", "title", "name"):
+            v = it.get(k)
+            if v: return v
+        return ""
+    return [it for it in items if is_zh_or_en(_k(it))]
+
 def finalize(name, obj, old, keys=("indices","news","corporate","ipo")):
-    """失败的板块用旧数据补；并对内容板块做赛道优先排序"""
+    """失败的板块用旧数据补；过滤非中英内容；对内容板块做赛道优先排序"""
     for k in keys:
         if obj.get(k) is None: obj[k] = old.get(k, [])
     for k in ("news","corporate","ipo"):
-        if isinstance(obj.get(k), list): prioritize(obj[k])
+        if isinstance(obj.get(k), list):
+            obj[k] = filt(obj[k])          # 过滤掉日韩泰阿拉伯等非中英内容
+            prioritize(obj[k])
     return obj
 
 # =========================================================
@@ -257,6 +282,8 @@ def fetch_cn():
 
 # =========================================================
 #  港股 — akshare
+#  企业动态：stock_hk_profit_forecast_et (券商研报/业绩预测)
+#  IPO 参考：stock_zh_ah_spot_em (A+H 双重上市,头部几条作准新股参考)
 # =========================================================
 def fetch_hk():
     import akshare as ak
@@ -283,9 +310,64 @@ def fetch_hk():
                         "sectors":tag(title,summ)})
         return out
 
+    def corporate():
+        """港股企业动态: 券商业绩预测 + 分红派息公告,合成近期动态列表"""
+        out=[]
+        # 1) 券商研报/业绩预测 (48 行,按更新时间倒序保留最近)
+        try:
+            df = ak.stock_hk_profit_forecast_et()
+            for r in df.to_dict("records"):
+                fy = str(pick(r,"财政年度"))
+                bro = str(pick(r,"证券商"))
+                rating = str(pick(r,"评级"))
+                tgt = pick(r,"目标价")
+                upd = str(pick(r,"更新日期"))
+                eps = pick(r,"每股盈利")
+                tag_lbl = "评级" if rating else "业绩"
+                title_zh = f"[{bro}] {fy}财年 评级={rating or '-'} 目标价={tgt} EPS={eps}"
+                title_en = f"[{bro}] FY{fy} Rating={rating or '-'} Target={tgt} EPS={eps}"
+                out.append({"tag":tag_lbl,"title_zh":title_zh,"title_en":title_en,
+                            "code":str(pick(r,"证券商","code",default=""))[:0]+"",  # 券商研报无个股代码
+                            "time":upd,"sectors":tag(fy+str(tgt)+str(eps))})
+        except Exception as e:
+            print(f"  [WARN] hk.profit_forecast: {e}")
+        # 2) 分红派息公告
+        try:
+            df = ak.stock_hk_dividend_payout_em()
+            for r in df.head(10).to_dict("records"):
+                plan = str(pick(r,"分红方案"))
+                fy = str(pick(r,"财政年度"))
+                upd = str(pick(r,"最新公告日期"))
+                out.append({"tag":"分红","title_zh":f"{fy}财年 分红方案: {plan}",
+                            "title_en":f"FY{fy} Dividend: {plan}",
+                            "code":"","time":upd,"sectors":tag(plan)})
+        except Exception as e:
+            print(f"  [WARN] hk.dividend: {e}")
+        # 按时间倒序
+        out.sort(key=lambda x: x.get("time","") or "", reverse=True)
+        return out[:30]
+
+    def ipo():
+        """港股 IPO 参考: A+H 双重上市股(近期活跃,作为准新股展示); akshare 无专门的港股 IPO 实时接口"""
+        out=[]
+        try:
+            df = ak.stock_zh_ah_spot_em().head(10)
+            for r in df.to_dict("records"):
+                nm = str(pick(r,"名称"))
+                code_h = str(pick(r,"H股代码"))
+                price_h = pick(r,"最新价-HKD","")
+                out.append({"name_zh":nm,"name_en":nm,
+                            "code":code_h.zfill(5) if code_h else "",
+                            "date":"","price":f"HK${price_h}" if price_h else "",
+                            "market_zh":"港股","market_en":"HKEX",
+                            "sectors":tag(nm)})
+        except Exception as e:
+            print(f"  [WARN] hk.ipo (A+H): {e}")
+        return out
+
     obj={"market":"hk","updated_at":now_iso(8),
          "indices":section("hk","indices",indices),"news":section("hk","news",news),
-         "corporate":[],"ipo":[]}
+         "corporate":section("hk","corporate",corporate),"ipo":section("hk","ipo",ipo)}
     return finalize("hk", obj, old)
 
 # =========================================================
