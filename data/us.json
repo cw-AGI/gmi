@@ -1,6 +1,6 @@
 {
   "market": "us",
-  "updated_at": "2026-06-28T03:26:36-04:00",
+  "updated_at": "2026-06-28T03:40:47-04:00",
   "indices": [
     {
       "name_zh": "标普500",
@@ -106,7 +106,8 @@
       "source": "PLTR · Yahoo",
       "url": "https://finnhub.io/api/news?id=abf39c14634201a57fe08a442fa43b12a151ef0c7a8f629e421b1059aeaad65f",
       "sectors": [
-        "ai"
+        "ai",
+        "finance"
       ]
     },
     {
@@ -258,6 +259,7 @@
       "url": "https://finnhub.io/api/news?id=a707a0374ad77697caa51d5017d8c757af06c03b5b546c454c524d99c0c609af",
       "sectors": [
         "comm",
+        "consumer",
         "space"
       ]
     },
@@ -330,6 +332,7 @@
       "url": "https://finnhub.io/api/news?id=2326d0015cb7cd459a2b10cb2e71b4f1dee0923ac72d78bd2ff2635e7ebf97ef",
       "sectors": [
         "energy",
+        "industry",
         "space"
       ]
     },
@@ -431,6 +434,7 @@
       "source": "LMT · CNBC",
       "url": "https://finnhub.io/api/news?id=f2bac9582892b7ec66fbd3c9b893f20f133e7e3c34ca50d6f05743a7fc496857",
       "sectors": [
+        "finance",
         "space"
       ]
     },
@@ -447,6 +451,7 @@
       "sectors": [
         "ai",
         "bio",
+        "finance",
         "tech"
       ]
     },
@@ -476,6 +481,7 @@
       "url": "https://finnhub.io/api/news?id=dd6dbe699550ad20127170145bca33c94c4d656844ab9827b0a68caafb713698",
       "sectors": [
         "bio",
+        "finance",
         "space"
       ]
     },
@@ -522,6 +528,20 @@
       ]
     },
     {
+      "time": "06-27 15:00",
+      "title_en": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
+      "title_zh": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
+      "summary_en": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'  Reuters",
+      "summary_zh": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
       "time": "06-27 09:12",
       "title_en": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
       "title_zh": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
@@ -547,6 +567,20 @@
       "url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
       "sectors": [
         "energy"
+      ]
+    },
+    {
+      "time": "06-27 03:46",
+      "title_en": "World Bank approves $1.1 billion emergency financing for Bangladesh - Reuters",
+      "title_zh": "World Bank approves $1.1 billion emergency financing for Bangladesh - Reuters",
+      "summary_en": "World Bank approves $1.1 billion emergency financing for Bangladesh  Reuters",
+      "summary_zh": "World Bank approves $1.1 billion emergency financing for Bangladesh  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjZRMkdVV1Y4WFZ6VXQ3bVRud0Y3NTJsLTdCcU01cEVkVkFLWU5GZ29rSWEtR2Q0NTV1MHJQRnhxS29KdVNld2M2TWF2WWk0QVZvLWVOZ3Vvb1JMa2lwbE00d2RnUFV1X0VDUEVNWG9iYk5jTE96ei1vMzFlT3RDd25XZGFQd3JBVEx6U194eFc3d2NVQ2JSMWdTNm0ydFRLVjJrSWhpSFRYNnM3czdTaHBvTDBhZmc?oc=5",
+      "sectors": [
+        "finance"
       ]
     },
     {
@@ -612,18 +646,6 @@
       "sectors": []
     },
     {
-      "time": "06-27 15:00",
-      "title_en": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
-      "title_zh": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
-      "summary_en": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'  Reuters",
-      "summary_zh": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5",
-      "sectors": []
-    },
-    {
       "time": "06-27 10:59",
       "title_en": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm - Reuters",
       "title_zh": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm - Reuters",
@@ -669,18 +691,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW5xT1FoZjhhZUMxZlZNYzF1S2ZkeXYzTWk1d3EwaXE5TTJhd1RfT1pBeXN1aE4weWdWUWlkYkNnV0RXcXFHU2tuTjN2bDBYMDhTeExHSDdOY3hZT2FlcHZOM2RFZ1hVeWc1VmRDaV9mS0U4SWpkenBra1JIb3YtYzFmNHVrVG80d19hTVI0Z3RCcFR2UFFZVGs0bmF0bTBfUkRHZnVfYWxpV0FmbE9CeGV2QXZZdVRUVUhldXh6Sk95OEppV3c?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "06-27 03:46",
-      "title_en": "World Bank approves $1.1 billion emergency financing for Bangladesh - Reuters",
-      "title_zh": "World Bank approves $1.1 billion emergency financing for Bangladesh - Reuters",
-      "summary_en": "World Bank approves $1.1 billion emergency financing for Bangladesh  Reuters",
-      "summary_zh": "World Bank approves $1.1 billion emergency financing for Bangladesh  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjZRMkdVV1Y4WFZ6VXQ3bVRud0Y3NTJsLTdCcU01cEVkVkFLWU5GZ29rSWEtR2Q0NTV1MHJQRnhxS29KdVNld2M2TWF2WWk0QVZvLWVOZ3Vvb1JMa2lwbE00d2RnUFV1X0VDUEVNWG9iYk5jTE96ei1vMzFlT3RDd25XZGFQd3JBVEx6U194eFc3d2NVQ2JSMWdTNm0ydFRLVjJrSWhpSFRYNnM3czdTaHBvTDBhZmc?oc=5",
       "sectors": []
     },
     {
