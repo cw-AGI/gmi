@@ -247,14 +247,48 @@ def fetch_cn():
         return out
 
     def corporate():
-        df=ak.stock_info_cjzc_em()
-        out=[]
-        for r in df.head(25).to_dict("records"):
-            title=str(pick(r,"标题","title","内容"))[:60]
-            out.append({"tag":"公告","title_zh":title,
-                        "time":str(pick(r,"发布时间","时间",default="今日"))[-8:-3] if pick(r,"发布时间","时间") else "今日",
-                        "code":"","sectors":tag(title)})
-        return out
+        """企业公告 — 用分红(近 1 年数据) + 业绩预告 历史数据"""
+        out = []
+        # 1) 分红配送 — 近 1 年有效,855 行
+        try:
+            df = ak.stock_fhps_em(date="20250630")
+            if df is not None and len(df):
+                # 只取 实施分配 / 预披露 且最新公告 > 2024-06 的
+                df = df.sort_values("最新公告日期", ascending=False).head(20)
+                for _, r in df.iterrows():
+                    nm = str(r.get("名称", ""))
+                    code = str(r.get("代码", ""))
+                    plan = str(r.get("方案进度", ""))
+                    date = r.get("最新公告日期")
+                    date_str = date.strftime("%Y-%m-%d") if hasattr(date, "strftime") else str(date)
+                    title = f"{nm}({code}) 分红方案: {plan} · 公告 {date_str}"
+                    out.append({
+                        "tag": "分红", "title_zh": title, "title_en": title,
+                        "time": date_str, "code": code,
+                        "sectors": tag(nm)
+                    })
+        except Exception as e:
+            print(f"  [WARN] fhps: {str(e)[:80]}")
+        # 2) 业绩预告 — 历史数据(akshare 此接口数据停在 2020,作为补充)
+        try:
+            df = ak.stock_yjyg_em()
+            df = df.sort_values("公告日期", ascending=False).head(10)
+            for _, r in df.iterrows():
+                nm = str(r.get("股票简称", ""))
+                code = str(r.get("股票代码", ""))
+                yj_type = str(r.get("预告类型", ""))
+                pct = r.get("业绩变动幅度", 0)
+                date = r.get("公告日期")
+                date_str = date.strftime("%Y-%m-%d") if hasattr(date, "strftime") else str(date)
+                title = f"{nm}({code}) 业绩预告: {yj_type} {pct:+.1f}%"
+                out.append({
+                    "tag": "业绩", "title_zh": title, "title_en": title,
+                    "time": date_str, "code": code,
+                    "sectors": tag(nm)
+                })
+        except Exception as e:
+            print(f"  [WARN] yjyg: {str(e)[:80]}")
+        return out[:30]
 
     def ipo():
         df=ak.stock_xgsglb_em(symbol="全部股票")
