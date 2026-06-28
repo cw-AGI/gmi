@@ -344,15 +344,16 @@ function renderGrid(){
       `<div class="bd"><div class="t">${L(c.title_zh,c.title_en)}</div>`+
       `<div class="m">${c.time||""}${c.code?" · "+c.code:""}</div>${pills(c.sectors)}</div></a>`;
   }).join("");
-  // 新股（赛道筛选）
-  const ipo = (d.ipo||[]).filter(inSector).map(p=>
-    `<div class="ipo"><div class="top"><span class="nm">${L(p.name_zh,p.name_en)}</span>`+
-    `<span class="cd">${p.code||""}</span></div>`+
-    `<div class="row">`+
-    (p.date?`<span><b>${L('申购','Date')}</b>${p.date}</span>`:"")+
-    (p.price?`<span class="pr"><b style="color:var(--faint)">${L('价格','Price')}</b>${p.price}</span>`:"")+
-    `</div>`+(p.market_zh||p.market_en?`<div class="mk">${L(p.market_zh,p.market_en)}</div>`:"")+pills(p.sectors)+`</div>`
-  ).join("");
+  // 新股（赛道筛选）— 有 url 时整块可点
+  const ipo = (d.ipo||[]).filter(inSector).map(p=>{
+    const inner = `<div class="ipo-inner"><div class="top"><span class="nm">${L(p.name_zh,p.name_en)}</span>`+
+      `<span class="cd">${p.code||""}</span></div>`+
+      `<div class="row">`+
+      (p.date?`<span><b>${L('申购','Date')}</b>${p.date}</span>`:"")+
+      (p.price?`<span class="pr"><b style="color:var(--faint)">${L('价格','Price')}</b>${p.price}</span>`:"")+
+      `</div>`+(p.market_zh||p.market_en?`<div class="mk">${L(p.market_zh,p.market_en)}</div>`:"")+pills(p.sectors)+`</div>`;
+    return p.url ? `<a class="ipo" href="${p.url}" target="_blank" rel="noopener">${inner}</a>` : `<div class="ipo">${inner}</div>`;
+  }).join("");
 
   const cnt = (full,arr)=> activeSector==="all" ? full : arr; // 计数随筛选变化
   document.getElementById("grid").innerHTML =

@@ -38,6 +38,15 @@ SECTORS = [
   ("bio",    "生物科学", "Bio",
      ["生物","医药","基因","创新药","疫苗","细胞","抗体","制药","mrna",
       "biotech","pharma","gene","vaccine","clinical","therapeutics","fda","biopharma"]),
+  ("finance","金融", "Finance",
+     ["银行","证券","保险","金融","信托","理财","券商","信用卡","资产管理","金控","上市银行",
+      "bank","banking","securities","insurance","financial","fintech","wealth","broker","ipo"]),
+  ("industry","工业制造", "Industry",
+     ["机械","钢铁","化工","建材","汽车","装备","制造","工业","机床","重卡","半导体设备","光伏设备",
+      "machinery","steel","chemical","automotive","manufacturing","industrial","plant"]),
+  ("consumer","消费", "Consumer",
+     ["消费","零售","食品","饮料","白酒","家电","餐饮","美妆","服装","电商","超市",
+      "consumer","retail","food","beverage","liquor","restaurant","e-commerce"]),
 ]
 SECTOR_IDS = [s[0] for s in SECTORS]
 
@@ -265,6 +274,7 @@ def fetch_cn():
                     out.append({
                         "tag": "分红", "title_zh": title, "title_en": title,
                         "time": date_str, "code": code,
+                        "url": f"https://data.eastmoney.com/notices/stock/{code}.html" if code else "",
                         "sectors": tag(nm)
                     })
         except Exception as e:
@@ -284,6 +294,7 @@ def fetch_cn():
                 out.append({
                     "tag": "业绩", "title_zh": title, "title_en": title,
                     "time": date_str, "code": code,
+                    "url": f"https://data.eastmoney.com/notices/stock/{code}.html" if code else "",
                     "sectors": tag(nm)
                 })
         except Exception as e:
@@ -295,10 +306,13 @@ def fetch_cn():
         out=[]
         for r in df.head(25).to_dict("records"):
             nm=str(pick(r,"股票简称","名称","简称"))
-            out.append({"name_zh":nm,"code":str(pick(r,"股票代码","代码")),
+            cd=str(pick(r,"股票代码","代码"))
+            out.append({"name_zh":nm,"name_en":nm,"code":cd,
                         "date":str(pick(r,"申购日期","发行日期"))[-5:] if pick(r,"申购日期","发行日期") else "",
                         "price":("¥"+str(pick(r,"发行价格","发行价"))) if pick(r,"发行价格","发行价") else "",
-                        "market_zh":str(pick(r,"板块",default="A股")),"sectors":tag(nm)})
+                        "market_zh":str(pick(r,"板块",default="A股")),
+                        "url":f"https://quote.eastmoney.com/{cd}.html" if cd else "",
+                        "sectors":tag(nm)})
         return out
 
     def boards():
