@@ -1,182 +1,173 @@
 {
   "market": "us",
-  "updated_at": "2026-07-10T07:13:41-04:00",
+  "updated_at": "2026-07-10T11:26:30-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 751.71,
-      "change": 6.31,
-      "change_pct": 0.8465
+      "value": 753.1,
+      "change": 1.39,
+      "change_pct": 0.1849
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 723.28,
-      "change": 11.84,
-      "change_pct": 1.6642
+      "value": 723.44,
+      "change": 0.16,
+      "change_pct": 0.0221
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 524.19,
-      "change": 1.42,
-      "change_pct": 0.2716
+      "value": 525.64,
+      "change": 1.45,
+      "change_pct": 0.2766
     }
   ],
   "news": [
     {
-      "time": "07-10 05:50",
-      "title_en": "Robinhood Could Be a Major Threat to Solana. Here's Why.",
-      "title_zh": "Robinhood Could Be a Major Threat to Solana. Here's Why.",
-      "summary_en": "Tokenized stocks are becoming the focus of a lot of competition.",
-      "summary_zh": "Tokenized stocks are becoming the focus of a lot of competition.",
+      "time": "07-10 09:50",
+      "title_en": "A Once-in-a-Decade Opportunity: 3 Magnificent S&P 500 Stocks Down 29% to 42% Buy Right Now",
+      "title_zh": "A Once-in-a-Decade Opportunity: 3 Magnificent S&P 500 Stocks Down 29% to 42% Buy Right Now",
+      "summary_en": "Technology and AI stocks are stealing most of the market's attention, but these three \"boring\" stocks offer outperformance potential.",
+      "summary_zh": "Technology and AI stocks are stealing most of the market's attention, but these three \"boring\" stocks offer outperformance potential.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=99bd72a973db5d9ed4c31e0747aece78837c83d057771042d7fdc912f704eb60",
+      "url": "https://finnhub.io/api/news?id=834b778064a312a064d808bc4daad9c5eae585ca12fae61261ada137bdd5efa2",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "07-10 05:49",
-      "title_en": "SpaceX Lands on the Nasdaq-100: What Comes Next for Investors",
-      "title_zh": "SpaceX Lands on the Nasdaq-100: What Comes Next for Investors",
-      "summary_en": "Joining the index will lead to billions more being directed toward the stock. But it's unclear whether that's enough to buoy the share price.",
-      "summary_zh": "Joining the index will lead to billions more being directed toward the stock. But it's unclear whether that's enough to buoy the share price.",
+      "time": "07-10 09:47",
+      "title_en": "TSMC’s Photonic Ramp Could Be the Quiet Catalyst in AI Chips",
+      "title_zh": "TSMC’s Photonic Ramp Could Be the Quiet Catalyst in AI Chips",
+      "summary_en": "Taiwan Semiconductor is quietly ramping a technology that could make today's AI chip bottlenecks look minor by comparison, and the window for investors to position ahead of the shift may be narrowing fast.",
+      "summary_zh": "Taiwan Semiconductor is quietly ramping a technology that could make today's AI chip bottlenecks look minor by comparison, and the window for investors to position ahead of the shift may be narrowing fast.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=23264b1fe3b60ce7ed979a56bf770014245274bd4464f8a39db3a32c2d8dc844",
+      "url": "https://finnhub.io/api/news?id=a989adc331aaada978363d4ed752b5ece73ea7dfeffbe2c236577065a304f064",
       "sectors": [
         "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-10 09:06",
+      "title_en": "Price Prediction: Up 144% YTD, Where Will AMD Be In 2027?",
+      "title_zh": "Price Prediction: Up 144% YTD, Where Will AMD Be In 2027?",
+      "summary_en": "AMD has nearly tripled in a year on the back of exploding Data Center revenue and Lisa Su's boldest guidance yet, but the stock sits 12% off its highs with analyst targets still lagging the price. Whether $800 is a stretch goal or the next logical stop depends on three things going right.",
+      "summary_zh": "AMD has nearly tripled in a year on the back of exploding Data Center revenue and Lisa Su's boldest guidance yet, but the stock sits 12% off its highs with analyst targets still lagging the price. Whether $800 is a stretch goal or the next logical stop depends on three things going right.",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=5194f071dd94083b47c732bb141e5f07e541069f9d6ac6b380d0d600ee5b4403",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-10 08:57",
+      "title_en": "Cathie Wood Dumps AMD, Doubles Down on Meta Stock",
+      "title_zh": "Cathie Wood Dumps AMD, Doubles Down on Meta Stock",
+      "summary_en": "Cathie Wood's Latest Trade: Big Meta Bet, Fresh AMD Sell-Off",
+      "summary_zh": "Cathie Wood's Latest Trade: Big Meta Bet, Fresh AMD Sell-Off",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=d14620620af605b12cb9ccbd4d8c219ae49594fc202c9def18d5c30c8604c831",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "07-10 08:14",
+      "title_en": "Palantir (PLTR) Lands First Latin America Commercial Customer With GNP And Rackspace",
+      "title_zh": "Palantir (PLTR) Lands First Latin America Commercial Customer With GNP And Rackspace",
+      "summary_en": "Palantir Technologies (NasdaqGS:PLTR) announced a multi-year, multimillion-dollar expansion with GNP Seguros, Mexico’s largest insurer. The deal marks Palantir’s first publicly disclosed commercial customer in Latin America across multiple insurance lines. Palantir also finalized an operating model with Rackspace to deploy its AI platforms in regulated and sovereign environments. The Rackspace partnership targets mission-critical sectors including healthcare, finance, and energy. Palantir...",
+      "summary_zh": "Palantir Technologies (NasdaqGS:PLTR) announced a multi-year, multimillion-dollar expansion with GNP Seguros, Mexico’s largest insurer. The deal marks Palantir’s first publicly disclosed commercial customer in Latin America across multiple insurance lines. Palantir also finalized an operating model with Rackspace to deploy its AI platforms in regulated and sovereign environments. The Rackspace partnership targets mission-critical sectors including healthcare, finance, and energy. Palantir...",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=21195e042b1fa1e0b65b9084eb2476ff96532cde91f60f8faacc0d0705d8249a",
+      "sectors": [
+        "ai",
+        "energy",
+        "finance",
         "space"
       ]
     },
     {
-      "time": "07-10 05:11",
-      "title_en": "AMD (AMD) Partners With 5C To Build Gigascale AI Campuses",
-      "title_zh": "AMD (AMD) Partners With 5C To Build Gigascale AI Campuses",
-      "summary_en": "AMD (NasdaqGS:AMD) and 5C agreed to work together on next generation gigascale AI campuses. The partnership centers on AMD's Helios rack scale platform and aims to support large AI training sites. The collaboration extends AMD's role beyond supplying chips into broader AI infrastructure solutions. For investors tracking AMD, this move highlights how the company is positioning itself across the AI value chain, not just in chips but in full rack scale infrastructure. As AI workloads become...",
-      "summary_zh": "AMD (NasdaqGS:AMD) and 5C agreed to work together on next generation gigascale AI campuses. The partnership centers on AMD's Helios rack scale platform and aims to support large AI training sites. The collaboration extends AMD's role beyond supplying chips into broader AI infrastructure solutions. For investors tracking AMD, this move highlights how the company is positioning itself across the AI value chain, not just in chips but in full rack scale infrastructure. As AI workloads become...",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cee8f0741874336f61e06a318190ef46f1dfb4a94efaccfbc5765b6dee0e3d4",
-      "sectors": [
-        "ai",
-        "bio",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-10 04:03",
-      "title_en": "Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia",
-      "title_zh": "Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia",
-      "summary_en": "Advanced Micro Devices Inc. (NASDAQ:AMD) is positioning itself to challenge Nvidia Corp.‘s (NASDAQ:NVDA) long-standing dominance in the lucrative AI accelerator market. According to a fresh analysis released by Cathie Wood‘s ARK Invest, internal research reveals that AMD chips “can already be more performant than Nvidia chips” per dollar on select workloads, highlighting a massive shift in data center cost efficiency. The CPU Playbook Applied to GPUs ARK Invest’s Director of Research, AI & Cloud",
-      "summary_zh": "Advanced Micro Devices Inc. (NASDAQ:AMD) is positioning itself to challenge Nvidia Corp.‘s (NASDAQ:NVDA) long-standing dominance in the lucrative AI accelerator market. According to a fresh analysis released by Cathie Wood‘s ARK Invest, internal research reveals that AMD chips “can already be more performant than Nvidia chips” per dollar on select workloads, highlighting a massive shift in data center cost efficiency. The CPU Playbook Applied to GPUs ARK Invest’s Director of Research, AI & Cloud",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=65ed858831888576399a255280894e2b50c0b6ca330cd9d802007a14124bb808",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-10 05:03",
-      "title_en": "1 Cash-Heavy Stock with Impressive Fundamentals and 2 Facing Challenges",
-      "title_zh": "1 Cash-Heavy Stock with Impressive Fundamentals and 2 Facing Challenges",
-      "summary_en": "Companies with more cash than debt can be financially resilient, but that doesn’t mean they’re all strong investments. Some lack leverage because they struggle to grow or generate consistent profits, making them unattractive borrowers.",
-      "summary_zh": "Companies with more cash than debt can be financially resilient, but that doesn’t mean they’re all strong investments. Some lack leverage because they struggle to grow or generate consistent profits, making them unattractive borrowers.",
+      "time": "07-10 08:08",
+      "title_en": "PLTR Is Back At A Level It Has Defended Before",
+      "title_zh": "PLTR Is Back At A Level It Has Defended Before",
+      "summary_en": "After a sharp slide, Palantir's stock is testing a price floor that has held strong before, forcing investors to decide if the company's explosive growth is enough to command a fourth defense.",
+      "summary_zh": "After a sharp slide, Palantir's stock is testing a price floor that has held strong before, forcing investors to decide if the company's explosive growth is enough to command a fourth defense.",
       "context_en": "📰 Source: PLTR · Yahoo · English original",
       "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
       "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=09376a686b265d0b4a489ba25e577afa9a2b19240db62e016ef5704d932e819f",
+      "url": "https://finnhub.io/api/news?id=98faf10c1cbcbe723aaae304484e6fdd51ebab4dd2866bc8fbc80e3377972762",
       "sectors": [
-        "ai",
-        "bio",
-        "finance"
+        "ai"
       ]
     },
     {
-      "time": "07-09 14:57",
-      "title_en": "Rackspace Stock Offering Overshadows AI Deal",
-      "title_zh": "Rackspace Stock Offering Overshadows AI Deal",
-      "summary_en": "Stock offering overshadows ambitious enterprise AI expansion plans",
-      "summary_zh": "Stock offering overshadows ambitious enterprise AI expansion plans",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd69091c2fc3c6e6d0eca58e7260aa537510d7a303a6b79ec64b06a4342537a8",
-      "sectors": [
-        "ai",
-        "space"
-      ]
-    },
-    {
-      "time": "07-10 05:47",
-      "title_en": "After Laying Off 3,200 Employees, Xbox CEO Joins the Fed’s Jobs Task Force",
-      "title_zh": "After Laying Off 3,200 Employees, Xbox CEO Joins the Fed’s Jobs Task Force",
-      "summary_en": "Three days after announcing the gaming industry's biggest layoff of 2026, Xbox CEO Asha Sharma accepted a new role shaping how the Federal Reserve thinks about AI and jobs for the next decade.",
-      "summary_zh": "Three days after announcing the gaming industry's biggest layoff of 2026, Xbox CEO Asha Sharma accepted a new role shaping how the Federal Reserve thinks about AI and jobs for the next decade.",
+      "time": "07-10 09:43",
+      "title_en": "Stock Market Today: Dow Jones Index Rises Ahead Of SK Hynix Stock Debut (Live Coverage)",
+      "title_zh": "Stock Market Today: Dow Jones Index Rises Ahead Of SK Hynix Stock Debut (Live Coverage)",
+      "summary_en": "Stock Market Today: The Dow Jones index rose Friday, while the Nasdaq edged higher ahead of the debut of SK Hynix stock.",
+      "summary_zh": "Stock Market Today: The Dow Jones index rose Friday, while the Nasdaq edged higher ahead of the debut of SK Hynix stock.",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=78217bdbd8006813e05d3bd60a88eaaae525a1a19d3c67eb28eaf6946945848a",
+      "url": "https://finnhub.io/api/news?id=204081d3b6d823b7cf8a445d4403ff6c1ffb5cc3b040574f675ef7a1a8015df0",
       "sectors": [
-        "ai",
         "tech"
       ]
     },
     {
-      "time": "07-10 05:38",
-      "title_en": "Generative Artificial Intelligence (AI) in Utilities Market Now Available, Profiles Microsoft, IBM, NVIDIA, and 21 Other Key Industry Leaders",
-      "title_zh": "Generative Artificial Intelligence (AI) in Utilities Market Now Available, Profiles Microsoft, IBM, NVIDIA, and 21 Other Key Industry Leaders",
-      "summary_en": "The generative AI in utilities market presents opportunities in enhancing utility management with applications like predictive maintenance and smart grid optimization. Key growth drivers include integration with IoT, cloud platforms, and renewable energy solutions, alongside advancements in AI algorithms for efficient and sustainable resource management. Generative AI in Utilities Market Generative AI in Utilities Market Dublin, July 10, 2026 (GLOBE NEWSWIRE) -- The \"Generative AI in Utilities M",
-      "summary_zh": "The generative AI in utilities market presents opportunities in enhancing utility management with applications like predictive maintenance and smart grid optimization. Key growth drivers include integration with IoT, cloud platforms, and renewable energy solutions, alongside advancements in AI algorithms for efficient and sustainable resource management. Generative AI in Utilities Market Generative AI in Utilities Market Dublin, July 10, 2026 (GLOBE NEWSWIRE) -- The \"Generative AI in Utilities M",
+      "time": "07-10 09:42",
+      "title_en": "Microsoft carbon emissions rose 25% in 2025 amid AI data center boom",
+      "title_zh": "Microsoft carbon emissions rose 25% in 2025 amid AI data center boom",
+      "summary_en": "The company produced 34 million metric tons of CO₂ equivalent last year, putting its 2030 carbon-negative pledge under pressure",
+      "summary_zh": "The company produced 34 million metric tons of CO₂ equivalent last year, putting its 2030 carbon-negative pledge under pressure",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=960267322db7d81ff621767e22d7e4400c14a78e887846f8e3412e5d10feda89",
+      "url": "https://finnhub.io/api/news?id=713b792b8e6b18d15b6aa5e0ac36f4130aa51a930de94edc0144e6464b0d37c1",
       "sectors": [
         "ai",
-        "bio",
-        "energy",
         "tech"
       ]
     },
     {
-      "time": "07-10 04:50",
-      "title_en": "Micron's $250 Billion Bet Powers a Chip Comeback, But Pepsi and Levi Get Punished Anyway",
-      "title_zh": "Micron's $250 Billion Bet Powers a Chip Comeback, But Pepsi and Levi Get Punished Anyway",
-      "summary_en": "Chip stocks led Wall Street higher Thursday after Micron raised its US manufacturing pledge to $250 billion and a leaked Meta memo lit a fire under optics names, while PepsiCo and Levi Strauss both fell despite solid quarters. Oil retreated from its Iran-driven spike, existing home sales cooled again, and Meta put a price tag on its best AI model for the first time.",
-      "summary_zh": "Chip stocks led Wall Street higher Thursday after Micron raised its US manufacturing pledge to $250 billion and a leaked Meta memo lit a fire under optics names, while PepsiCo and Levi Strauss both fell despite solid quarters. Oil retreated from its Iran-driven spike, existing home sales cooled again, and Meta put a price tag on its best AI model for the first time.",
-      "context_en": "📰 Source: AAPL · ChartMill · English original",
-      "context_zh": "📰 来源: AAPL · ChartMill · 英文原文(未翻译)",
-      "source": "AAPL · ChartMill",
-      "url": "https://finnhub.io/api/news?id=34458460238ea0010a9203dbf0e744c3b49dcfdbdd65d0a4a4aba8af1a4864e1",
-      "sectors": [
-        "ai",
-        "energy",
-        "industry",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-10 03:41",
-      "title_en": "The Zacks Analyst Blog Highlights Apple, KLA, Western Digital and Optex Systems",
-      "title_zh": "The Zacks Analyst Blog Highlights Apple, KLA, Western Digital and Optex Systems",
-      "summary_en": "AI demand and cloud spending support KLA and Western Digital, while Apple and Optex face mixed headwinds and opportunities in Zacks' latest research.",
-      "summary_zh": "AI demand and cloud spending support KLA and Western Digital, while Apple and Optex face mixed headwinds and opportunities in Zacks' latest research.",
+      "time": "07-10 08:11",
+      "title_en": "Apple Faces 23% Downside Call",
+      "title_zh": "Apple Faces 23% Downside Call",
+      "summary_en": "Hedgeye says high expectations and a premium valuation could put pressure on the stock.",
+      "summary_zh": "Hedgeye says high expectations and a premium valuation could put pressure on the stock.",
       "context_en": "📰 Source: AAPL · Yahoo · English original",
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=6691c397a4a0948deba06a048dab30e90e8e62d401d5d7b0a2550138e4f813d1",
+      "url": "https://finnhub.io/api/news?id=ba4d1cf4bb93d8818dabeb150852b4c22d64ddb327b6d7eec956457fce953e29",
       "sectors": [
-        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-10 07:20",
+      "title_en": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Shows Perfect Technical and Strong Growth Momentum Setup",
+      "title_zh": "Taiwan Semiconductor-SP ADR (NYSE:TSM) Shows Perfect Technical and Strong Growth Momentum Setup",
+      "summary_en": "High growth momentum investing focuses on stocks with accelerating earnings, rising margins, and strong technicals. TSM scores a perfect 10 technical rating, with 47% EPS growth and expanding profit margins, making it a standout candidate.",
+      "summary_zh": "High growth momentum investing focuses on stocks with accelerating earnings, rising margins, and strong technicals. TSM scores a perfect 10 technical rating, with 47% EPS growth and expanding profit margins, making it a standout candidate.",
+      "context_en": "📰 Source: TSM · ChartMill · English original",
+      "context_zh": "📰 来源: TSM · ChartMill · 英文原文(未翻译)",
+      "source": "TSM · ChartMill",
+      "url": "https://finnhub.io/api/news?id=77791210578f6f80c24caa39a9dc1aa89425f34309cfa944fd93bdd7c31d0d3e",
+      "sectors": [
         "tech"
       ]
     },
@@ -195,61 +186,58 @@
       ]
     },
     {
-      "time": "07-09 06:42",
-      "title_en": "SHOC: More Aggressive And Concentrated Chip ETF With Upside Ahead",
-      "title_zh": "SHOC: More Aggressive And Concentrated Chip ETF With Upside Ahead",
-      "summary_en": "Strive US Semiconductor ETF (SHOC) rated Buy: AI-driven data center upside, 21% target upside & 53% 2027 EPS growth.",
-      "summary_zh": "Strive US Semiconductor ETF (SHOC) rated Buy: AI-driven data center upside, 21% target upside & 53% 2027 EPS growth.",
-      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
-      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
-      "source": "TSM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8c9096e11bca42f0ede0773aa978441e8b433d098b97191f1dc4c30876a98fed",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "07-10 05:30",
-      "title_en": "3 Hypergrowth Tech Stocks to Buy With $3,000 Right Now",
-      "title_zh": "3 Hypergrowth Tech Stocks to Buy With $3,000 Right Now",
-      "summary_en": "There are several hypergrowth stocks available in the tech space.",
-      "summary_zh": "There are several hypergrowth stocks available in the tech space.",
+      "time": "07-10 08:51",
+      "title_en": "Marvell Stock And The Multi-Year Bet Management Made",
+      "title_zh": "Marvell Stock And The Multi-Year Bet Management Made",
+      "summary_en": "After a monster run, executives are promising accelerating growth for years to come, forcing investors to decide if the best gains are already in the rearview mirror.",
+      "summary_zh": "After a monster run, executives are promising accelerating growth for years to come, forcing investors to decide if the best gains are already in the rearview mirror.",
       "context_en": "📰 Source: AVGO · Yahoo · English original",
       "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
       "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=58ef20e08fbc73f725384543fe23ee79db029cc39e2cf7aab73eaba9b98470b2",
+      "url": "https://finnhub.io/api/news?id=04e3f0df7c8f18d3ec1c0cc852321a0e741197a0cd9b0863c8bbd747234536ae",
       "sectors": [
-        "space",
         "tech"
       ]
     },
     {
-      "time": "07-10 04:06",
-      "title_en": "Data Center Infrastructure Management (DCIM) Software Market Report Published; Profiles Schneider Electric, Vertiv, IBM, Cisco, HPE & 10 Others; Segments by Deployment, Solution, Data Center & Industry",
-      "title_zh": "Data Center Infrastructure Management (DCIM) Software Market Report Published; Profiles Schneider Electric, Vertiv, IBM, Cisco, HPE & 10 Others; Segments by Deployment, Solution, Data Center & Industry",
-      "summary_en": "The DCIM software market is poised for growth driven by booming data center expansion, cloud computing, AI adoption, and the need for real-time infrastructure management. Key opportunities include AI-enhanced optimization for energy efficiency, supporting scalable, hybrid IT architectures, and addressing sustainability mandates despite integration challenges and deployment costs. Data Center Infrastructure Management (DCIM) Software Market Data Center Infrastructure Management (DCIM) Software Ma",
-      "summary_zh": "The DCIM software market is poised for growth driven by booming data center expansion, cloud computing, AI adoption, and the need for real-time infrastructure management. Key opportunities include AI-enhanced optimization for energy efficiency, supporting scalable, hybrid IT architectures, and addressing sustainability mandates despite integration challenges and deployment costs. Data Center Infrastructure Management (DCIM) Software Market Data Center Infrastructure Management (DCIM) Software Ma",
+      "time": "07-10 07:59",
+      "title_en": "US Equity Futures Mixed Ahead of South Korean Chipmaker SK Hynix's Trading Debut",
+      "title_zh": "US Equity Futures Mixed Ahead of South Korean Chipmaker SK Hynix's Trading Debut",
+      "summary_en": "The benchmark US stock measures were struggling for direction before the open Friday as traders awai",
+      "summary_zh": "The benchmark US stock measures were struggling for direction before the open Friday as traders awai",
+      "context_en": "📰 Source: AVGO · Yahoo · English original",
+      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
+      "source": "AVGO · Yahoo",
+      "url": "https://finnhub.io/api/news?id=f14ae8fb7beeac0ac253256e595814f959c16053178014cdf79446488911df2a",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "07-10 07:54",
+      "title_en": "5 Cloud Computing Stocks to Buy for 2H 2026 as Digital Demand Soars",
+      "title_zh": "5 Cloud Computing Stocks to Buy for 2H 2026 as Digital Demand Soars",
+      "summary_en": "AMZN, GOOGL, CSCO, NET and PLTR are five cloud computing stocks positioned to benefit from AI-driven expanding data center growth in 2H 2026.",
+      "summary_zh": "AMZN, GOOGL, CSCO, NET and PLTR are five cloud computing stocks positioned to benefit from AI-driven expanding data center growth in 2H 2026.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=52dfebb7011392f608651e47fe5a0ae551405cf0607dcaf01f6810fdbff437d0",
+      "url": "https://finnhub.io/api/news?id=04d778fb84226ed4819f1ecf5f26e3b6185c84dc6216d6fc720911770939edcb",
       "sectors": [
-        "ai",
         "comm",
-        "energy",
         "tech"
       ]
     },
     {
-      "time": "07-09 23:09",
-      "title_en": "Dow Jones Futures: SK Hynix Raises $26.5 Billion After Micron, Sandisk Jump, Nasdaq Tops Key Level",
-      "title_zh": "Dow Jones Futures: SK Hynix Raises $26.5 Billion After Micron, Sandisk Jump, Nasdaq Tops Key Level",
-      "summary_en": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
-      "summary_zh": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
+      "time": "07-10 07:48",
+      "title_en": "Dow Jones Futures Rise, Delta Falls On Earnings; Micron, Sandisk Slide As SK Hynix Raises $26.5 Billion",
+      "title_zh": "Dow Jones Futures Rise, Delta Falls On Earnings; Micron, Sandisk Slide As SK Hynix Raises $26.5 Billion",
+      "summary_en": "Delta fell on earnings. Memory giant SK Hynix is set for its Nasdaq debut after a huge offering as peers Micron and Sandisk dipped.",
+      "summary_zh": "Delta fell on earnings. Memory giant SK Hynix is set for its Nasdaq debut after a huge offering as peers Micron and Sandisk dipped.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=99248b7f0d9163212a65321e8226e8fe7f50c47d4a31016f83a8340e06550e96",
+      "url": "https://finnhub.io/api/news?id=983711a90b51d295825d7d7df759e9e30ba9526695946a3378233d72aed1d9b3",
       "sectors": [
         "comm"
       ]
@@ -286,6 +274,20 @@
       ]
     },
     {
+      "time": "07-10 07:11",
+      "title_en": "2 Value Stocks with Promising Prospects and 1 That Underwhelm",
+      "title_zh": "2 Value Stocks with Promising Prospects and 1 That Underwhelm",
+      "summary_en": "Value investing has produced some of the world’s most famous investing billionaires, including Warren Buffett, David Einhorn, and Seth Klarman, who built their fortunes by purchasing wonderful businesses at reasonable prices. But these hidden gems are few and far between - many stocks that appear cheap often stay that way because they face structural issues.",
+      "summary_zh": "Value investing has produced some of the world’s most famous investing billionaires, including Warren Buffett, David Einhorn, and Seth Klarman, who built their fortunes by purchasing wonderful businesses at reasonable prices. But these hidden gems are few and far between - many stocks that appear cheap often stay that way because they face structural issues.",
+      "context_en": "📰 Source: FSLR · Yahoo · English original",
+      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
+      "source": "FSLR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=36712625c3142f03a483933aa600d91604341ab36a2f350e020c937ce2dd724e",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "07-09 12:54",
       "title_en": "What ICLN's Concentrated Holdings Say About This Dip",
       "title_zh": "What ICLN's Concentrated Holdings Say About This Dip",
@@ -297,21 +299,6 @@
       "url": "https://finnhub.io/api/news?id=00d0096f7f8593d3e66738e3c2db2a281f597c19039b334ad8b267698ab70d4c",
       "sectors": [
         "energy"
-      ]
-    },
-    {
-      "time": "07-09 10:07",
-      "title_en": "How Is First Solar Expanding Its Manufacturing Asset Base?",
-      "title_zh": "How Is First Solar Expanding Its Manufacturing Asset Base?",
-      "summary_en": "FSLR expands its manufacturing asset base through continued investments in facilities and equipment to support long-term production growth.",
-      "summary_zh": "FSLR expands its manufacturing asset base through continued investments in facilities and equipment to support long-term production growth.",
-      "context_en": "📰 Source: FSLR · Yahoo · English original",
-      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
-      "source": "FSLR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=54bf6f582174687752ae4dbff2b7d58b5d8f3b1398ba4fb61ae966c2a0db34af",
-      "sectors": [
-        "energy",
-        "industry"
       ]
     },
     {
@@ -357,6 +344,21 @@
       ]
     },
     {
+      "time": "07-10 08:00",
+      "title_en": "3 Space Economy Stocks to Buy in July",
+      "title_zh": "3 Space Economy Stocks to Buy in July",
+      "summary_en": "The space economy is transitioning from science project to revenue-generating industry, and July has produced a sharp pullback across the sector leaders. All three names below have sold off sharply over the past month, yet the underlying contract pipelines, spectrum positions, and government awards keep expanding. Treat this as a high-risk speculative bucket: Every pick ... 3 Space Economy Stocks to Buy in July",
+      "summary_zh": "The space economy is transitioning from science project to revenue-generating industry, and July has produced a sharp pullback across the sector leaders. All three names below have sold off sharply over the past month, yet the underlying contract pipelines, spectrum positions, and government awards keep expanding. Treat this as a high-risk speculative bucket: Every pick ... 3 Space Economy Stocks to Buy in July",
+      "context_en": "📰 Source: RKLB · Yahoo · English original",
+      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
+      "source": "RKLB · Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb89f8baeabfb69ceb30dfac6cb735652b61eec8a48c8f0b2972c7691f4ae02f",
+      "sectors": [
+        "bio",
+        "space"
+      ]
+    },
+    {
       "time": "07-10 03:10",
       "title_en": "Rocket Lab (RKLB) Stock Faces Fresh Questions After Beck Sale And $8 Billion Iridium Deal",
       "title_zh": "Rocket Lab (RKLB) Stock Faces Fresh Questions After Beck Sale And $8 Billion Iridium Deal",
@@ -368,20 +370,6 @@
       "url": "https://finnhub.io/api/news?id=9a2d5a95fc40bc9ecfadbf4659eedb20bc1ef1425a8eec5cb22ba8ab47909089",
       "sectors": [
         "industry",
-        "space"
-      ]
-    },
-    {
-      "time": "07-10 00:04",
-      "title_en": "RKLB Stock Rises Overnight: Analyst Calls Rocket Lab One Of SpaceX’s Most ‘Capable And Innovative’ Rivals In Space Race",
-      "title_zh": "RKLB Stock Rises Overnight: Analyst Calls Rocket Lab One Of SpaceX’s Most ‘Capable And Innovative’ Rivals In Space Race",
-      "summary_en": "William Blair said there is demand for alternatives to the Falcon 9 and Starship.",
-      "summary_zh": "William Blair said there is demand for alternatives to the Falcon 9 and Starship.",
-      "context_en": "📰 Source: RKLB · Yahoo · English original",
-      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
-      "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=29d00af319610e6c2664dbc7d8acd7f96ec18a9a38f6c51407ac661d25ed4217",
-      "sectors": [
         "space"
       ]
     },
@@ -414,6 +402,21 @@
       ]
     },
     {
+      "time": "07-10 06:23",
+      "title_en": "3 Industrials Stocks with Warning Signs",
+      "title_zh": "3 Industrials Stocks with Warning Signs",
+      "summary_en": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Sure, they are at the whim of macroeconomic factors that influence capital spending (like interest rates), but the industry has held its ground over the past six months as its 8.3% return was almost identical to the S&P 500.",
+      "summary_zh": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Sure, they are at the whim of macroeconomic factors that influence capital spending (like interest rates), but the industry has held its ground over the past six months as its 8.3% return was almost identical to the S&P 500.",
+      "context_en": "📰 Source: LMT · Yahoo · English original",
+      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
+      "source": "LMT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5df6fb0423fdde3209b6067144d11274ab2809a249caeeeea72cb5f35959d48",
+      "sectors": [
+        "industry",
+        "space"
+      ]
+    },
+    {
       "time": "07-09 15:01",
       "title_en": "NLight Flashes Buy Signal On U.S. Contract For Missile, Drone Defense",
       "title_zh": "NLight Flashes Buy Signal On U.S. Contract For Missile, Drone Defense",
@@ -429,44 +432,29 @@
       ]
     },
     {
-      "time": "07-09 14:08",
-      "title_en": "Goldman Stock Pops On $70 Bil Heap Of Fresh Asset Management Deals",
-      "title_zh": "Goldman Stock Pops On $70 Bil Heap Of Fresh Asset Management Deals",
-      "summary_en": "Goldman stock rose 4.1% Thursday on fresh deals, contributing to the Dow Jones Industrial Average's uptick.",
-      "summary_zh": "Goldman stock rose 4.1% Thursday on fresh deals, contributing to the Dow Jones Industrial Average's uptick.",
-      "context_en": "📰 Source: LMT · Yahoo · English original",
-      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
-      "source": "LMT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=53c4a746e5d21ccb97bbc95cf354eee2356861793b42b1c44f6319f499acc0b9",
-      "sectors": [
-        "industry",
-        "space"
-      ]
-    },
-    {
-      "time": "07-09 19:03",
-      "title_en": "Why Moderna (MRNA) Stock Is Trading Up Today",
-      "title_zh": "Why Moderna (MRNA) Stock Is Trading Up Today",
-      "summary_en": "Shares of biotechnology company Moderna (NASDAQ:MRNA) jumped 2.6% in the afternoon session after the European Commission signed a contract to procure up to 24 million doses of the company's vaccine for Respiratory Syncytial Virus (RSV).",
-      "summary_zh": "Shares of biotechnology company Moderna (NASDAQ:MRNA) jumped 2.6% in the afternoon session after the European Commission signed a contract to procure up to 24 million doses of the company's vaccine for Respiratory Syncytial Virus (RSV).",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ab0b94ca5c3320fabd479de649c38d68888692582fd06f5482b569484475db3",
+      "time": "07-10 10:35",
+      "title_en": "Which S&P500 stocks are gapping on Friday?",
+      "title_zh": "Which S&P500 stocks are gapping on Friday?",
+      "summary_en": "Wondering which stocks are making significant price gaps? Explore the S&P500 index on Friday to find the gap up and gap down stocks in today's session.",
+      "summary_zh": "Wondering which stocks are making significant price gaps? Explore the S&P500 index on Friday to find the gap up and gap down stocks in today's session.",
+      "context_en": "📰 Source: MRNA · ChartMill · English original",
+      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
+      "source": "MRNA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=c8728c954ec0457bbc0355faa6edee84f50fc80691ec4a97c3b60539cf9855e5",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "07-09 18:12",
-      "title_en": "Moderna (MRNA) Stock May Sit Above Fair Value Following Pipeline Expansion",
-      "title_zh": "Moderna (MRNA) Stock May Sit Above Fair Value Following Pipeline Expansion",
-      "summary_en": "Moderna has delivered a sharp 148.1% gain year to date, yet its low value score and rich market multiples suggest the stock is far from a clear bargain. Year to date, Moderna is up 148.1%, which puts recent enthusiasm firmly ahead of its longer term share price record. Excitement around Moderna's expanded mRNA pipeline beyond vaccines can support growth expectations, while concerns about ongoing losses and the time it may take to turn that pipeline into steady cash flow remain a key risk for...",
-      "summary_zh": "Moderna has delivered a sharp 148.1% gain year to date, yet its low value score and rich market multiples suggest the stock is far from a clear bargain. Year to date, Moderna is up 148.1%, which puts recent enthusiasm firmly ahead of its longer term share price record. Excitement around Moderna's expanded mRNA pipeline beyond vaccines can support growth expectations, while concerns about ongoing losses and the time it may take to turn that pipeline into steady cash flow remain a key risk for...",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=e322ebb25f950e49f4530018b3e1fb5036e82c83f93a0cfb93b68a729ff637ee",
+      "time": "07-10 08:35",
+      "title_en": "These S&P500 stocks that are showing activity before the opening bell on Friday.",
+      "title_zh": "These S&P500 stocks that are showing activity before the opening bell on Friday.",
+      "summary_en": "Get insights into the top gainers and losers in the S&P500 index of Friday's pre-market session.",
+      "summary_zh": "Get insights into the top gainers and losers in the S&P500 index of Friday's pre-market session.",
+      "context_en": "📰 Source: MRNA · ChartMill · English original",
+      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
+      "source": "MRNA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=f52c8250e0b7c5bf63adede8719b8b36ec36adf202be2253cbdc14a0b6cdcb3a",
       "sectors": [
         "bio"
       ]
@@ -529,7 +517,21 @@
       ]
     },
     {
-      "time": "07-10 04:42",
+      "time": "07-10 09:42",
+      "title_en": "48-year-old worked at a garden center for $17/hour to make ends meet: 'It's one of the best jobs I've ever had'",
+      "title_zh": "48-year-old worked at a garden center for $17/hour to make ends meet: 'It's one of the best jobs I've ever had'",
+      "summary_en": "\"Without a job, I felt invisible. With a job, I felt seen, useful, and purposeful again,\" says Leslie Friday, who sold plants and flowers while job searching after a layoff. \"I loved every minute.\"",
+      "summary_zh": "\"Without a job, I felt invisible. With a job, I felt seen, useful, and purposeful again,\" says Leslie Friday, who sold plants and flowers while job searching after a layoff. \"I loved every minute.\"",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/48-year-old-worked-at-a-garden-center-to-make-ends-meet-one-of-best-jobs-ever-had.html",
+      "sectors": [
+        "industry"
+      ]
+    },
+    {
+      "time": "07-10 06:04",
       "title_en": "US-Iran escalation could threaten 2027 oil market surplus, IEA says - Reuters",
       "title_zh": "US-Iran escalation could threaten 2027 oil market surplus, IEA says - Reuters",
       "summary_en": "US-Iran escalation could threaten 2027 oil market surplus, IEA says  Reuters",
@@ -544,10 +546,10 @@
     },
     {
       "time": "07-09 21:33",
-      "title_en": "Oil heads for weekly gain as Middle East supply risks persist - Reuters",
-      "title_zh": "Oil heads for weekly gain as Middle East supply risks persist - Reuters",
-      "summary_en": "Oil heads for weekly gain as Middle East supply risks persist  Reuters",
-      "summary_zh": "Oil heads for weekly gain as Middle East supply risks persist  Reuters",
+      "title_en": "Oil heads for weekly gains as Middle East supply risks persist - Reuters",
+      "title_zh": "Oil heads for weekly gains as Middle East supply risks persist - Reuters",
+      "summary_en": "Oil heads for weekly gains as Middle East supply risks persist  Reuters",
+      "summary_zh": "Oil heads for weekly gains as Middle East supply risks persist  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -657,25 +659,47 @@
       ]
     },
     {
-      "time": "07-09 12:33",
-      "title_en": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
-      "title_zh": "Fuel markets flash supply crunch despite calmer oil prices - Reuters",
-      "summary_en": "Fuel markets flash supply crunch despite calmer oil prices  Reuters",
-      "summary_zh": "Fuel markets flash supply crunch despite calmer oil prices  Reuters",
+      "time": "07-10 08:54",
+      "title_en": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes - Reuters",
+      "title_zh": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes - Reuters",
+      "summary_en": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes  Reuters",
+      "summary_zh": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDZ1NldKak53VnZLd1p1SUtzd0htUnB0QTV6akdPUEphWFBDb09Xcm04NnVMZXp1bUtIRlgwd3J6b1VKbjZIMWZfbXNyLWlMc2ZETTktRExibFdEMWFuRjZOYUttS0FXd0k5eDdmcV9pTmVxUlJ6eUk0R2RqVXg3bEZwc3I0cVFYUEFvVHlMRmRUc3JxODk3LWRtdm4xN3AyS2xHZjRZZkdrLXR0YjRz?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-10 07:05",
+      "title_en": "China temporarily bans helium exports as US-Iran tensions flare again - Reuters",
+      "title_zh": "China temporarily bans helium exports as US-Iran tensions flare again - Reuters",
+      "summary_en": "China temporarily bans helium exports as US-Iran tensions flare again  Reuters",
+      "summary_zh": "China temporarily bans helium exports as US-Iran tensions flare again  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3JNM3pfZEJxTV9oX1JMNXdpSzJ5a2NvTFBNZXBHUWpLMnEyM3BqYjNEcDg0WGZsZGhSaktsODR1di1NbU56SzJRZ2NmcXloY3p1MURESl8xS3NFTDRaYkFLZ3VLQU40X0Rwb0V1amJPRE1BVmdLZmJEc29YVjB0d1FQTFgzZWFSekwxRzE0aDFaeDlUZWlsNkpUcUNuNWM?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-10 06:24",
+      "title_en": "Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines - Reuters",
+      "title_zh": "Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines - Reuters",
+      "summary_en": "Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines  Reuters",
+      "summary_zh": "Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjJOeUlsWVliM0doZUlfUDdXVjA5OXpjUDdPNjlFXzFzRGZKcDhhaDVGZFNDc3RRM3QwLVdWdTdaaXJZN0NfRUhjQWkxSzBVZlBMd1l1dlZpVVVOOEFfbWVmUzVYMFlZZGpCWENSR3FRVGNPZjhXcU96VTY3b1hjTk45ZWMwRnR3RVRsRG5UR1ZqdU5RLWhhWWtnWVBjeGk4YTg3c294YjdUVkVqWS1WY3dNWnpCalBERVZQbkRIdw?oc=5",
+      "sectors": []
     },
     {
       "time": "07-10 00:44",
-      "title_en": "More LNG, Japan-linked vessels transit Hormuz despite renewed Mideast tensions - Reuters",
-      "title_zh": "More LNG, Japan-linked vessels transit Hormuz despite renewed Mideast tensions - Reuters",
-      "summary_en": "More LNG, Japan-linked vessels transit Hormuz despite renewed Mideast tensions  Reuters",
-      "summary_zh": "More LNG, Japan-linked vessels transit Hormuz despite renewed Mideast tensions  Reuters",
+      "title_en": "Traffic slows through Strait of Hormuz as Iran tensions flare - Reuters",
+      "title_zh": "Traffic slows through Strait of Hormuz as Iran tensions flare - Reuters",
+      "summary_en": "Traffic slows through Strait of Hormuz as Iran tensions flare  Reuters",
+      "summary_zh": "Traffic slows through Strait of Hormuz as Iran tensions flare  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -752,42 +776,6 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/07/09/action-starved-traders-look-to-small-cap-stocks-for-the-next-big-move.html",
-      "sectors": []
-    },
-    {
-      "time": "07-09 11:52",
-      "title_en": "Cramer defends a struggling tech giant and says another stock could soon be a buy",
-      "title_zh": "Cramer defends a struggling tech giant and says another stock could soon be a buy",
-      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "summary_zh": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/cramer-defends-a-tech-giant-says-another-stock-could-be-a-buy-soon.html",
-      "sectors": []
-    },
-    {
-      "time": "07-09 10:11",
-      "title_en": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-      "title_zh": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-      "summary_en": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers like Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-      "summary_zh": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers like Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-      "sectors": []
-    },
-    {
-      "time": "07-09 10:00",
-      "title_en": "June home sales disappoint as prices reach an all-time high",
-      "title_zh": "June home sales disappoint as prices reach an all-time high",
-      "summary_en": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
-      "summary_zh": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
       "sectors": []
     }
   ],
