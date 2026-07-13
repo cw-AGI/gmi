@@ -1,131 +1,187 @@
 {
   "market": "us",
-  "updated_at": "2026-07-13T07:22:52-04:00",
+  "updated_at": "2026-07-13T11:38:38-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 754.95,
-      "change": 3.24,
-      "change_pct": 0.431
+      "value": 752.26,
+      "change": -2.69,
+      "change_pct": -0.3563
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 725.51,
-      "change": 2.23,
-      "change_pct": 0.3083
+      "value": 717.3,
+      "change": -8.21,
+      "change_pct": -1.1316
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 525.78,
-      "change": 1.59,
-      "change_pct": 0.3033
+      "value": 524.9,
+      "change": -0.88,
+      "change_pct": -0.1674
     }
   ],
   "news": [
     {
-      "time": "07-13 05:35",
-      "title_en": "Ranking the \"Magnificent 7\" Stocks by Free-Cash-Flow Yield",
-      "title_zh": "Ranking the \"Magnificent 7\" Stocks by Free-Cash-Flow Yield",
-      "summary_en": "The artificial intelligence (AI) boom is altering the financial landscape of America's largest tech companies.",
-      "summary_zh": "The artificial intelligence (AI) boom is altering the financial landscape of America's largest tech companies.",
+      "time": "07-13 09:55",
+      "title_en": "This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale?",
+      "title_zh": "This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale?",
+      "summary_en": "While the Nasdaq bleeds and investors pile into healthcare and staples at record highs, one Wall Street strategist is shopping the wreckage in memory chips, and her valuation case is harder to dismiss than it looks.",
+      "summary_zh": "While the Nasdaq bleeds and investors pile into healthcare and staples at record highs, one Wall Street strategist is shopping the wreckage in memory chips, and her valuation case is harder to dismiss than it looks.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=a455756fcf49cc351f2e4c2ca395272206ccb37a6d19b1a932823cf0ae9face9",
-      "sectors": [
-        "ai",
-        "finance"
-      ]
-    },
-    {
-      "time": "07-13 05:26",
-      "title_en": "Wall Street's Newest Blockbuster Stock Split Was Just Announced -- and This Non-Tech Titan Has Skyrocketed 457,000% Since Its IPO",
-      "title_zh": "Wall Street's Newest Blockbuster Stock Split Was Just Announced -- and This Non-Tech Titan Has Skyrocketed 457,000% Since Its IPO",
-      "summary_en": "This consumer-facing company has increased its net sales annually for more than three decades.",
-      "summary_zh": "This consumer-facing company has increased its net sales annually for more than three decades.",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=e19bf66ae3491c7f58a4919bc51719850d603b1460c3cab71980b93956d72e35",
-      "sectors": [
-        "ai",
-        "consumer",
-        "finance",
-        "space"
-      ]
-    },
-    {
-      "time": "07-13 05:21",
-      "title_en": "Advanced Micro Devices (AMD): Turing Inc. is being backed by AMD Ventures, Reports Bloomberg",
-      "title_zh": "Advanced Micro Devices (AMD): Turing Inc. is being backed by AMD Ventures, Reports Bloomberg",
-      "summary_en": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Best Monopoly Stocks to Buy According to Hedge Funds. On July 6, Bloomberg reported that Turing Inc. is being backed by AMD Ventures. Furthermore, it has started adopting Advanced Micro Devices, Inc. (NASDAQ:AMD)’s AI accelerators in its systems. To provide a brief background, AMD Ventures is the corporate venture […]",
-      "summary_zh": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Best Monopoly Stocks to Buy According to Hedge Funds. On July 6, Bloomberg reported that Turing Inc. is being backed by AMD Ventures. Furthermore, it has started adopting Advanced Micro Devices, Inc. (NASDAQ:AMD)’s AI accelerators in its systems. To provide a brief background, AMD Ventures is the corporate venture […]",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=e703a79b998996e30a0ec65076c78c7f62e75809c01118006939dfbb1b303aa8",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "07-13 05:10",
-      "title_en": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
-      "title_zh": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
-      "summary_en": "The company that builds the world's most advanced chips is about to tell investors how hot AI demand really is.",
-      "summary_zh": "The company that builds the world's most advanced chips is about to tell investors how hot AI demand really is.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4309f6b34ff66777a6c86773c6728e9952732d695d54e0d63c49ca7f8f3d713",
+      "url": "https://finnhub.io/api/news?id=4fb5260cf909f587cf8f7a693fb86376123cdc42a30296557d7aa340fb0c97f1",
       "sectors": [
         "ai",
         "tech"
       ]
     },
     {
-      "time": "07-12 21:02",
-      "title_en": "Zeta Global Eyes AI Infrastructure Shift as Palantir Integration Nears",
-      "title_zh": "Zeta Global Eyes AI Infrastructure Shift as Palantir Integration Nears",
-      "summary_en": "Zeta Global (NYSE:ZETA) executives said the company is moving beyond its core marketing technology positioning and toward what they described as an AI infrastructure and business intelligence platform, supported by recently announced partnerships with Palantir, OpenAI and Snowflake. Speaking during",
-      "summary_zh": "Zeta Global (NYSE:ZETA) executives said the company is moving beyond its core marketing technology positioning and toward what they described as an AI infrastructure and business intelligence platform, supported by recently announced partnerships with Palantir, OpenAI and Snowflake. Speaking during",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=e410eaef67d2a614aedb641a5a43d6d090bac11cd9c80005934f9bd94f6717a4",
+      "time": "07-13 09:53",
+      "title_en": "SK Hynix stock sees record plunge in Korea despite impressive Nasdaq debut",
+      "title_zh": "SK Hynix stock sees record plunge in Korea despite impressive Nasdaq debut",
+      "summary_en": "SK Hynix (SKHYV, SKHY) made its impressive Nasdaq (^IXIC) debut on Friday, but the South Korean shares (000660.KS) are now plunging. Yahoo Finance Senior Business Reporter Ines Ferré and AInvest managing editor Adam Shapiro chat with Morning Brief host Julie Hyman about the company's market moves and earnings outlook.",
+      "summary_zh": "SK Hynix (SKHYV, SKHY) made its impressive Nasdaq (^IXIC) debut on Friday, but the South Korean shares (000660.KS) are now plunging. Yahoo Finance Senior Business Reporter Ines Ferré and AInvest managing editor Adam Shapiro chat with Morning Brief host Julie Hyman about the company's market moves and earnings outlook.",
+      "context_en": "📰 Source: NVDA · Yahoo · English original",
+      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
+      "source": "NVDA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfeacf0597544221fa6e12c9de7d26017e8dd967d1654527a11e0491b54229ed",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "07-12 19:37",
-      "title_en": "Palantir CEO has a blunt verdict on OpenAI and Anthropic",
-      "title_zh": "Palantir CEO has a blunt verdict on OpenAI and Anthropic",
-      "summary_en": "Palantir posted the highest revenue growth rate in its history in the first quarter of fiscal year 2026. U.S. commercial revenue jumped 133%. The company raised its full-year guidance by 10 points. By any operational measure, things are going well. And yet Alex Karp walked onto CNBC's Squawk Box ...",
-      "summary_zh": "Palantir posted the highest revenue growth rate in its history in the first quarter of fiscal year 2026. U.S. commercial revenue jumped 133%. The company raised its full-year guidance by 10 points. By any operational measure, things are going well. And yet Alex Karp walked onto CNBC's Squawk Box ...",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2985ba8b5a5b2136e22c8b67964c7ee1f2618f7df9a2efc620e2544fde1ada61",
+      "time": "07-13 09:12",
+      "title_en": "What Investors Keep Asking About NVDA",
+      "title_zh": "What Investors Keep Asking About NVDA",
+      "summary_en": "After a historic run, the critical questions for NVIDIA are no longer about this quarter's numbers but where the next layers of growth will come from and if the company can actually execute on its breathtakingly complex roadmap.",
+      "summary_zh": "After a historic run, the critical questions for NVIDIA are no longer about this quarter's numbers but where the next layers of growth will come from and if the company can actually execute on its breathtakingly complex roadmap.",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a43a767393e7cdaedd4c585709c54ef3d516cdcb6d69313ca190619a178dd6c",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "07-13 05:27",
-      "title_en": "Meta’s Potential AI Cloud Push Could Boost Earnings, Wolfe Research Says",
-      "title_zh": "Meta’s Potential AI Cloud Push Could Boost Earnings, Wolfe Research Says",
-      "summary_en": "Meta Platforms Inc (NASDAQ:META) is one of billionaire David Abrams’ top stock picks with upside potential. Analysts project more than 40% upside for Meta stock from the current level. This social media stock is popular with elite investors, as some 262 hedge funds own Meta shares. On July 2, Wolfe Research reaffirmed its Outperform rating […]",
-      "summary_zh": "Meta Platforms Inc (NASDAQ:META) is one of billionaire David Abrams’ top stock picks with upside potential. Analysts project more than 40% upside for Meta stock from the current level. This social media stock is popular with elite investors, as some 262 hedge funds own Meta shares. On July 2, Wolfe Research reaffirmed its Outperform rating […]",
+      "time": "07-13 09:06",
+      "title_en": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump",
+      "title_zh": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump",
+      "summary_en": "Semiconductor Stocks Tumble as SK Hynix Weakness Ripples Through the Sector",
+      "summary_zh": "Semiconductor Stocks Tumble as SK Hynix Weakness Ripples Through the Sector",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2e564263f3cea202159b0eff6135e9ca59a291bb7bc141be230c1991ac0c69d",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 09:40",
+      "title_en": "Cramer’s Ultimatum to Palantir: Disavow the “Satanic” Video Today",
+      "title_zh": "Cramer’s Ultimatum to Palantir: Disavow the “Satanic” Video Today",
+      "summary_en": "Jim Cramer spent two years telling investors to trust Palantir, so when he walked onto Mad Dash and called a company-produced video satanic, the enterprise software world took notice and so did the stock.",
+      "summary_zh": "Jim Cramer spent two years telling investors to trust Palantir, so when he walked onto Mad Dash and called a company-produced video satanic, the enterprise software world took notice and so did the stock.",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=aae25d3be86a8bd6fd8b4f7be45efad56d5b952da0e3d3607131d4f02308568e",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 08:15",
+      "title_en": "Can Ondas Drive Growth Through AI-Powered Defense Systems?",
+      "title_zh": "Can Ondas Drive Growth Through AI-Powered Defense Systems?",
+      "summary_en": "ONDS expands AI-powered autonomous defense with new platforms, Palantir partnership and DZYNE acquisition while raising 2026 revenue guidance.",
+      "summary_zh": "ONDS expands AI-powered autonomous defense with new platforms, Palantir partnership and DZYNE acquisition while raising 2026 revenue guidance.",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=808bb2a590390a3af350d3f7750bcfcfc1e9920887b401a028d7bca7a306c45b",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "07-13 09:15",
+      "title_en": "The $6 Billion Cybersecurity Prize Tech Giants Are Circling",
+      "title_zh": "The $6 Billion Cybersecurity Prize Tech Giants Are Circling",
+      "summary_en": "SentinelOne has quietly built a cybersecurity platform that four of the world's most powerful tech companies would each benefit from owning, but for very different reasons. Only one of them makes a clean strategic case without antitrust landmines or cultural resistance getting in the way.",
+      "summary_zh": "SentinelOne has quietly built a cybersecurity platform that four of the world's most powerful tech companies would each benefit from owning, but for very different reasons. Only one of them makes a clean strategic case without antitrust landmines or cultural resistance getting in the way.",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=07ce91ea5ccc87f16f0f0c26647cdcffde57cc7a0ffdbed83efe11723530992b",
+      "url": "https://finnhub.io/api/news?id=bd451216bd154be78eef908cda7d27fe33cb910bbeecfe5560d75f6f43d3d124",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 09:12",
+      "title_en": "Is Adobe Stock Really Broken, or Just Violently Marked Down?",
+      "title_zh": "Is Adobe Stock Really Broken, or Just Violently Marked Down?",
+      "summary_en": "The market has punished this software giant as if its core business is failing, yet the company's financial engine continues to run with remarkable efficiency.",
+      "summary_zh": "The market has punished this software giant as if its core business is failing, yet the company's financial engine continues to run with remarkable efficiency.",
+      "context_en": "📰 Source: MSFT · Yahoo · English original",
+      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
+      "source": "MSFT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=31d3adcd1b18b1aad6982f578cf0fb50d7db6013a6a7aec599ce12a6eecb45e8",
+      "sectors": [
+        "finance",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 09:34",
+      "title_en": "Musk and Altman Clash Again",
+      "title_zh": "Musk and Altman Clash Again",
+      "summary_en": "The rivalry now spans lawsuits, AI models and competing business plans.",
+      "summary_zh": "The rivalry now spans lawsuits, AI models and competing business plans.",
+      "context_en": "📰 Source: AAPL · Yahoo · English original",
+      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b9cd6ea5bc7ae0be926cfd4397e402dd98f864697d2f8d4d0d35e4dc5267d99",
       "sectors": [
         "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 09:28",
+      "title_en": "Apple Sues OpenAI Over Trade Secrets",
+      "title_zh": "Apple Sues OpenAI Over Trade Secrets",
+      "summary_en": "The lawsuit adds fresh pressure to the companies' AI partnership and hardware ambitions.",
+      "summary_zh": "The lawsuit adds fresh pressure to the companies' AI partnership and hardware ambitions.",
+      "context_en": "📰 Source: AAPL · Yahoo · English original",
+      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6788156cbbc2c50692f278bf377ff8bf866f3c3e9bf39e9d09d1f44b5b7c59c",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 04:30",
+      "title_en": "Dividend Harvesting Portfolio Week 280: $28,000 Allocated, $3,144.21 In Projected Dividends",
+      "title_zh": "Dividend Harvesting Portfolio Week 280: $28,000 Allocated, $3,144.21 In Projected Dividends",
+      "summary_en": "Dividend Harvesting Portfolio hits 42.65% ROI: adding Oracle (ORCL), AI-driven growth and dividend income at $3,144/yr.",
+      "summary_zh": "Dividend Harvesting Portfolio hits 42.65% ROI: adding Oracle (ORCL), AI-driven growth and dividend income at $3,144/yr.",
+      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
+      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
+      "source": "TSM · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f9aebeb30423a7521ea2f861d27cdac918b1b601db54cf537e328563b591b75",
+      "sectors": [
         "tech"
       ]
     },
@@ -145,92 +201,45 @@
       ]
     },
     {
-      "time": "07-12 08:35",
-      "title_en": "Wall Street Brunch: Will AI Steal Earnings Spotlight From Banks?",
-      "title_zh": "Wall Street Brunch: Will AI Steal Earnings Spotlight From Banks?",
-      "summary_en": "Will AI earnings eclipse big bank reports. Taiwan Semi, ASML offer clues on AI demand. Headline CPI seen cooling.",
-      "summary_zh": "Will AI earnings eclipse big bank reports. Taiwan Semi, ASML offer clues on AI demand. Headline CPI seen cooling.",
-      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
-      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
-      "source": "TSM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0cc77e30ad19e0252aafb19bbd465d9fc5f1e33058f06a29444b97b0bf5ff854",
-      "sectors": [
-        "ai",
-        "finance",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-13 00:58",
-      "title_en": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
-      "title_zh": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
-      "summary_en": "The selloff in chip stocks comes amid a broader rotation within the tech sector, with investor money flowing out of chip names and back into Big Tech.",
-      "summary_zh": "The selloff in chip stocks comes amid a broader rotation within the tech sector, with investor money flowing out of chip names and back into Big Tech.",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=f303054dd86537d48f358bbadda705c7eac9e7507bec15005c7eff5007a2ff10",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "07-12 18:25",
-      "title_en": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
-      "title_zh": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
-      "summary_en": "This trio is dominating the AI computing space.",
-      "summary_zh": "This trio is dominating the AI computing space.",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8f440b5020fec9773812b6e07bb077dc0b0761cadf62b52cd0675093362cfce",
-      "sectors": [
-        "ai",
-        "space",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-13 04:08",
-      "title_en": "Italy Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities Featuring AWS, Google, Oracle, OVHcloud, Atos, Cisco, Dell Technologies, NVIDIA and More",
-      "title_zh": "Italy Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities Featuring AWS, Google, Oracle, OVHcloud, Atos, Cisco, Dell Technologies, NVIDIA and More",
-      "summary_en": "Italian Data Center Market Italian Data Center Market Dublin, July 13, 2026 (GLOBE NEWSWIRE) -- The \"Italy Data Center Market - Investment Analysis & Growth Opportunities 2026-2031\" has been added to ResearchAndMarkets.com's offering.The Italy data center market is poised for substantial growth, with an expected CAGR of 10.42% from 2025 to 2031. The increasing demand for technologies such as AI/ML, big data, and IoT is pushing the development of AI-ready data centers, marking a significant phase",
-      "summary_zh": "Italian Data Center Market Italian Data Center Market Dublin, July 13, 2026 (GLOBE NEWSWIRE) -- The \"Italy Data Center Market - Investment Analysis & Growth Opportunities 2026-2031\" has been added to ResearchAndMarkets.com's offering.The Italy data center market is poised for substantial growth, with an expected CAGR of 10.42% from 2025 to 2031. The increasing demand for technologies such as AI/ML, big data, and IoT is pushing the development of AI-ready data centers, marking a significant phase",
+      "time": "07-13 05:00",
+      "title_en": "Bull of the Day: Cisco Systems (CSCO)",
+      "title_zh": "Bull of the Day: Cisco Systems (CSCO)",
+      "summary_en": "Cisco shares have been red-hot in 2026 on the back of favorable quarterly results that have revealed hot demand for its solutions for AI infrastructure.",
+      "summary_zh": "Cisco shares have been red-hot in 2026 on the back of favorable quarterly results that have revealed hot demand for its solutions for AI infrastructure.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8458e2e4d33a4739427ad7c5d948136edfcaf9bbba019fd4ddd51150f1a57cb8",
+      "url": "https://finnhub.io/api/news?id=34c3441be1c40b4834b169800613af31f35c14469c671e5ec86dc924202f7030",
       "sectors": [
         "ai",
-        "comm",
-        "tech"
+        "comm"
       ]
     },
     {
-      "time": "07-13 04:05",
-      "title_en": "Bahrain Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities",
-      "title_zh": "Bahrain Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities",
-      "summary_en": "Key developments include AWS's new cloud region with three availability zones in Manama, several partnerships forming to enhance local infrastructure, and upcoming data center facilities by firms like Gulf Data Hub. Prominent vendors such as Cisco, Oracle, and Dell are active, alongside major construction players like AECOM, solidifying Bahrain as an emerging data center hub. Bahraini Data Center Market Bahraini Data Center Market Dublin, July 13, 2026 (GLOBE NEWSWIRE) -- The \"Bahrain Data Cente",
-      "summary_zh": "Key developments include AWS's new cloud region with three availability zones in Manama, several partnerships forming to enhance local infrastructure, and upcoming data center facilities by firms like Gulf Data Hub. Prominent vendors such as Cisco, Oracle, and Dell are active, alongside major construction players like AECOM, solidifying Bahrain as an emerging data center hub. Bahraini Data Center Market Bahraini Data Center Market Dublin, July 13, 2026 (GLOBE NEWSWIRE) -- The \"Bahrain Data Cente",
-      "context_en": "📰 Source: CSCO · Yahoo · English original",
-      "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
-      "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=ae195318aba2d0ea3f958fee711118c1cc0ddaab0847aa944d9594341da13ded",
-      "sectors": [
-        "comm",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-12 09:08",
-      "title_en": "T Mobile (TMUS) Teams Up On Real Time Number Checks To Fight Fraud",
-      "title_zh": "T Mobile (TMUS) Teams Up On Real Time Number Checks To Fight Fraud",
-      "summary_en": "T-Mobile US announced a new collaboration with AT&T, Verizon, and Aduna to roll out real-time mobile number verification across major US carriers. The network-based solution is aimed at reducing AI-driven identity theft and fraud for millions of mobile users. The carriers plan to use this shared infrastructure to verify mobile numbers directly at the network level during digital transactions. T-Mobile US (NasdaqGS: TMUS) is putting its weight behind fraud prevention at a time when identity...",
-      "summary_zh": "T-Mobile US announced a new collaboration with AT&T, Verizon, and Aduna to roll out real-time mobile number verification across major US carriers. The network-based solution is aimed at reducing AI-driven identity theft and fraud for millions of mobile users. The carriers plan to use this shared infrastructure to verify mobile numbers directly at the network level during digital transactions. T-Mobile US (NasdaqGS: TMUS) is putting its weight behind fraud prevention at a time when identity...",
+      "time": "07-13 09:59",
+      "title_en": "Bernstein Cuts AT&T, Verizon, T-Mobile Price Targets Amid Starlink Threat",
+      "title_zh": "Bernstein Cuts AT&T, Verizon, T-Mobile Price Targets Amid Starlink Threat",
+      "summary_en": "Bernstein cut price targets on AT&T, T-Mobile and Verizon on views Elon Musk's Starlink poses a competitive threat. SpaceX stock fell.",
+      "summary_zh": "Bernstein cut price targets on AT&T, T-Mobile and Verizon on views Elon Musk's Starlink poses a competitive threat. SpaceX stock fell.",
       "context_en": "📰 Source: TMUS · Yahoo · English original",
       "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
       "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=9443876801f6c783cbe78467707931bfc98a62fe5763d3ce0d875aad62f561ad",
+      "url": "https://finnhub.io/api/news?id=333ed6366a7f68e329d244a077c962f6e463da36d97d6310e8b544779fe0ae19",
+      "sectors": [
+        "comm",
+        "space"
+      ]
+    },
+    {
+      "time": "07-13 08:32",
+      "title_en": "The Cash Machine The Market Put On Sale: VZ",
+      "title_zh": "The Cash Machine The Market Put On Sale: VZ",
+      "summary_en": "The market is offering a startlingly high cash return to own this telecom giant, forcing a hard look at whether the offer is a bargain or a trap.",
+      "summary_zh": "The market is offering a startlingly high cash return to own this telecom giant, forcing a hard look at whether the offer is a bargain or a trap.",
+      "context_en": "📰 Source: TMUS · Yahoo · English original",
+      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
+      "source": "TMUS · Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1551e4ff6782a9dda6255f72022c10d18a93a62e66f41e598fc156f0bbfcaef",
       "sectors": [
         "comm"
       ]
@@ -241,12 +250,13 @@
       "title_zh": "Street Calls of the Week",
       "summary_en": "T-Mobile US What happened? On Monday, BofA Securities upgraded T-Mobile US Inc (NASDAQ:TMUS) to Buy with a $220 price target. *TLDR: T-Mobile insulated from satellite threats; strong urban pricing power. What’s the full story? The tier 1 bank upgrades T-Mobile to Buy from Neutral, keeping a $220 price objective based on a conservative 12.7x FCF multiple. The market is overreacting to peak competition fears. While a low Earth orbit (LEO) broadband rollout threatens to disrupt traditional wireless",
       "summary_zh": "T-Mobile US What happened? On Monday, BofA Securities upgraded T-Mobile US Inc (NASDAQ:TMUS) to Buy with a $220 price target. *TLDR: T-Mobile insulated from satellite threats; strong urban pricing power. What’s the full story? The tier 1 bank upgrades T-Mobile to Buy from Neutral, keeping a $220 price objective based on a conservative 12.7x FCF multiple. The market is overreacting to peak competition fears. While a low Earth orbit (LEO) broadband rollout threatens to disrupt traditional wireless",
-      "context_en": "📰 Source: TMUS · Yahoo · English original",
-      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
-      "source": "TMUS · Yahoo",
+      "context_en": "📰 Source: FSLR · Yahoo · English original",
+      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
+      "source": "FSLR · Yahoo",
       "url": "https://finnhub.io/api/news?id=d29f4fbb848786eacacbeeeabea6b1704ac9e9bc4ab40dafa015c3fbbcaed2cb",
       "sectors": [
         "comm",
+        "energy",
         "finance",
         "space"
       ]
@@ -294,15 +304,29 @@
       ]
     },
     {
-      "time": "07-13 00:17",
-      "title_en": "NASA ETF Tumbles Toward Launch Lows Amid SpaceX Selloff — But Tema Quietly Adds Over 5M ASTS, RKLB And LUNR Shares",
-      "title_zh": "NASA ETF Tumbles Toward Launch Lows Amid SpaceX Selloff — But Tema Quietly Adds Over 5M ASTS, RKLB And LUNR Shares",
-      "summary_en": "Tema also built an $89.2 million ASTS stake ahead of its next BlueBird satellite launch, while RKLB became the largest of the three positions by value.",
-      "summary_zh": "Tema also built an $89.2 million ASTS stake ahead of its next BlueBird satellite launch, while RKLB became the largest of the three positions by value.",
-      "context_en": "📰 Source: RKLB · Yahoo · English original",
-      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
-      "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=c524eae9b34cc8fed980773a3033377c9a2138090d96d2e6159310fb35145644",
+      "time": "07-13 04:56",
+      "title_en": "Momentus: Future Space Infrastructure Exposure",
+      "title_zh": "Momentus: Future Space Infrastructure Exposure",
+      "summary_en": "Momentus (MNTS) stock buy case: water-based MET propulsion moat, strong cash & debt-free balance sheet, and government upsideâread the thesis now.",
+      "summary_zh": "Momentus (MNTS) stock buy case: water-based MET propulsion moat, strong cash & debt-free balance sheet, and government upsideâread the thesis now.",
+      "context_en": "📰 Source: RKLB · SeekingAlpha · English original",
+      "context_zh": "📰 来源: RKLB · SeekingAlpha · 英文原文(未翻译)",
+      "source": "RKLB · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c30e13d293015b7ca212a984d3c5cda199e72746e4514345906afd33a99b23e3",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "07-13 06:00",
+      "title_en": "Lockheed Martin Corporation (LMT) Signs a MoU At NATO Summit",
+      "title_zh": "Lockheed Martin Corporation (LMT) Signs a MoU At NATO Summit",
+      "summary_en": "Lockheed Martin Corporation (NYSE:LMT) is one of the Best Space Technology Stocks to Buy Now. Recently, on July 7, Lockheed Martin Corporation (NYSE:LMT) announced signing a memorandum of understanding at the NATO Summit Defense Industry Forum. The MoU is to address Europe’s demand for locally produced munitions. ​Management noted that the MoU is backed by […]",
+      "summary_zh": "Lockheed Martin Corporation (NYSE:LMT) is one of the Best Space Technology Stocks to Buy Now. Recently, on July 7, Lockheed Martin Corporation (NYSE:LMT) announced signing a memorandum of understanding at the NATO Summit Defense Industry Forum. The MoU is to address Europe’s demand for locally produced munitions. ​Management noted that the MoU is backed by […]",
+      "context_en": "📰 Source: LMT · Yahoo · English original",
+      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
+      "source": "LMT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f3311696804bded322ce9d58e3c7b2ee7a090334e138b9e59886a01bed94a6f",
       "sectors": [
         "space"
       ]
@@ -322,59 +346,99 @@
       ]
     },
     {
-      "time": "07-12 20:37",
-      "title_en": "Goldman Sachs quietly snags a corner of America's retirement money",
-      "title_zh": "Goldman Sachs quietly snags a corner of America's retirement money",
-      "summary_en": "A quiet transformation is happening inside America's largest corporations. And actually, most people have no idea it is occurring. The pension funds and 401(k) plans covering millions of American workers are increasingly being handed over to Wall Street's elite firms to manage. Why? It’s like ...",
-      "summary_zh": "A quiet transformation is happening inside America's largest corporations. And actually, most people have no idea it is occurring. The pension funds and 401(k) plans covering millions of American workers are increasingly being handed over to Wall Street's elite firms to manage. Why? It’s like ...",
-      "context_en": "📰 Source: LMT · Yahoo · English original",
-      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
-      "source": "LMT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=4ba00d43315b7feeacb3546b6f88994d605628e0ccfda92be3cc57e3f2465f4f",
-      "sectors": [
-        "space"
-      ]
-    },
-    {
-      "time": "07-13 04:10",
-      "title_en": "US Stock Market Today: S&P 500 Futures Rise As Inflation Cools And Earnings Loom",
-      "title_zh": "US Stock Market Today: S&P 500 Futures Rise As Inflation Cools And Earnings Loom",
-      "summary_en": "The Morning Bull - US Market Morning Update Monday, Jul, 13 2026 US stock futures are pointing higher this morning, with E-mini S&P 500 contracts up about 0.4%, as investors digest a mix of cooling inflation and uneven growth signals abroad. Softer price data in countries like France, where inflation sits at 1.8%, suggests global cost of living pressures are easing, which can take some pressure off central banks to keep lifting interest rates. At the same time, weaker industrial output in...",
-      "summary_zh": "The Morning Bull - US Market Morning Update Monday, Jul, 13 2026 US stock futures are pointing higher this morning, with E-mini S&P 500 contracts up about 0.4%, as investors digest a mix of cooling inflation and uneven growth signals abroad. Softer price data in countries like France, where inflation sits at 1.8%, suggests global cost of living pressures are easing, which can take some pressure off central banks to keep lifting interest rates. At the same time, weaker industrial output in...",
+      "time": "07-13 09:12",
+      "title_en": "What It Means To Hold Moderna Stock In A Crash",
+      "title_zh": "What It Means To Hold Moderna Stock In A Crash",
+      "summary_en": "The company's pipeline is more advanced than ever, but its history shows a pattern of deep, prolonged drops when the market turns.",
+      "summary_zh": "The company's pipeline is more advanced than ever, but its history shows a pattern of deep, prolonged drops when the market turns.",
       "context_en": "📰 Source: MRNA · Yahoo · English original",
       "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
       "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=af5eb902aca1992ec5be596a883f3a2dc814c0cdaac87d634e05625c0cd64bc8",
-      "sectors": [
-        "bio",
-        "finance",
-        "industry"
-      ]
-    },
-    {
-      "time": "07-10 16:44",
-      "title_en": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles",
-      "title_zh": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles",
-      "summary_en": "Stock Market Today: The Dow Jones index rises Friday while SK Hynix spikes in its U.S. debut. Chili's stock breaks out.",
-      "summary_zh": "Stock Market Today: The Dow Jones index rises Friday while SK Hynix spikes in its U.S. debut. Chili's stock breaks out.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=de5a1bf97e4c73b4b8c964715ac59f0c6f06e02de4899d9fa077f93762668cfd",
+      "url": "https://finnhub.io/api/news?id=c3654f647a3a47105890017a1058d688704c7d5e8383e61c6ed4d24e55ec464f",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "07-13 02:47",
-      "title_en": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices - Reuters",
-      "title_zh": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices - Reuters",
-      "summary_en": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices  Reuters",
-      "summary_zh": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices  Reuters",
+      "time": "07-13 04:20",
+      "title_en": "Moderna, Takeda and Capricor on the verge of notching big drug approvals",
+      "title_zh": "Moderna, Takeda and Capricor on the verge of notching big drug approvals",
+      "summary_en": "Two of the companies are taking a second-go at FDA approval this summer, while another hopes to cement its leader-status in the battle to bring a new sleep treatment to market.",
+      "summary_zh": "Two of the companies are taking a second-go at FDA approval this summer, while another hopes to cement its leader-status in the battle to bring a new sleep treatment to market.",
+      "context_en": "📰 Source: MRNA · Yahoo · English original",
+      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
+      "source": "MRNA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbed7f50e76169885f3ee752a5d4dc459a65e615e71f72c26bb80ca6f09f9856",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "07-13 09:38",
+      "title_en": "S&P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide - Reuters",
+      "title_zh": "S&P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide - Reuters",
+      "summary_en": "S&P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide  Reuters",
+      "summary_zh": "S&P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 08:57",
+      "title_en": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "title_zh": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "summary_en": "Chip stocks are selling off, and Apple lands a big price target hike.",
+      "summary_zh": "Chip stocks are selling off, and Apple lands a big price target hike.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 08:56",
+      "title_en": "Trump: U.S. should be reimbursed for guarding Strait of Hormuz",
+      "title_zh": "Trump: U.S. should be reimbursed for guarding Strait of Hormuz",
+      "summary_en": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+      "summary_zh": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "07-13 08:51",
+      "title_en": "We're buying more of Jim Cramer's new favorite chip stock on the dip",
+      "title_zh": "We're buying more of Jim Cramer's new favorite chip stock on the dip",
+      "summary_en": "We're picking up more shares, consistent with the game plan we laid out in Friday's Morning Meeting.",
+      "summary_zh": "We're picking up more shares, consistent with the game plan we laid out in Friday's Morning Meeting.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/were-buying-more-of-jim-cramers-new-favorite-chip-stock-on-the-dip.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "07-13 08:46",
+      "title_en": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+      "title_zh": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+      "summary_en": "OPEC further lowers 2026 global oil demand growth forecast  Reuters",
+      "summary_zh": "OPEC further lowers 2026 global oil demand growth forecast  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU5MOHBacUxNbU1jV2Z6ZlJhVlk0TFdfa2MxRjlRTXpvTkRvVHdneFhfakxTakNyMnVTUTFVTy1Nc254X0VCaWQxdjJ2YTlxYmRDOFdxeVZVWkRidVAzMVZMRkd3SWpIVmw2X01KVFJfSHFmdW1rZVc5ejNkeUxBU25kTVU0U3pXVEZMdHpHLXJGclRyS2g5OGMzaFFxMWdnVDdQMGZ4bnhjdmpkX0tr?oc=5",
       "sectors": [
         "energy"
       ]
@@ -423,10 +487,10 @@
     },
     {
       "time": "07-12 20:25",
-      "title_en": "Shares skid, bond yields rise as Gulf conflict sends oil surging - Reuters",
-      "title_zh": "Shares skid, bond yields rise as Gulf conflict sends oil surging - Reuters",
-      "summary_en": "Shares skid, bond yields rise as Gulf conflict sends oil surging  Reuters",
-      "summary_zh": "Shares skid, bond yields rise as Gulf conflict sends oil surging  Reuters",
+      "title_en": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging - Reuters",
+      "title_zh": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging - Reuters",
+      "summary_en": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging  Reuters",
+      "summary_zh": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -437,10 +501,10 @@
     },
     {
       "time": "07-12 18:12",
-      "title_en": "Oil gains over 2% as fresh military strikes threaten Hormuz shipments - Reuters",
-      "title_zh": "Oil gains over 2% as fresh military strikes threaten Hormuz shipments - Reuters",
-      "summary_en": "Oil gains over 2% as fresh military strikes threaten Hormuz shipments  Reuters",
-      "summary_zh": "Oil gains over 2% as fresh military strikes threaten Hormuz shipments  Reuters",
+      "title_en": "Oil gains over 4% as Trump says US reinstating Iran naval blockade - Reuters",
+      "title_zh": "Oil gains over 4% as Trump says US reinstating Iran naval blockade - Reuters",
+      "summary_en": "Oil gains over 4% as Trump says US reinstating Iran naval blockade  Reuters",
+      "summary_zh": "Oil gains over 4% as Trump says US reinstating Iran naval blockade  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -450,43 +514,87 @@
       ]
     },
     {
-      "time": "07-12 12:29",
-      "title_en": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island - Reuters",
-      "title_zh": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island - Reuters",
-      "summary_en": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island  Reuters",
-      "summary_zh": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island  Reuters",
+      "time": "07-13 09:58",
+      "title_en": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
+      "title_zh": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
+      "summary_en": "UK bans support for two Iranian groups over antisemitic attacks in Britain  Reuters",
+      "summary_zh": "UK bans support for two Iranian groups over antisemitic attacks in Britain  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFNWV2l4NHpONDVaQ0VPNVczX3ZhaHJHS08ycWJvWDhabVJlZDZrQU5rSDZ0bGRNZXhudFVxSDkzQnNoSTZqWkRXd0RrSWNEVGpHMzBVS2J5ZlZXZ0RPeG93ZWF2QjJWY05oV2FlVlFTODJ3dmJOSnVVOFlJSHFLUzdfYXVhY0NDOEdOVXctakZucmJZLUoxVFhuSk9qRGxPX2lMT3lmenA5LXdmTUpaSVhGcTg?oc=5",
-      "sectors": [
-        "space"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+      "sectors": []
     },
     {
-      "time": "07-12 10:58",
-      "title_en": "Here are the 3 big things we're watching in the stock market this week",
-      "title_zh": "Here are the 3 big things we're watching in the stock market this week",
-      "summary_en": "The state of the U.S. economy is in focus across bank earnings and inflation data.",
-      "summary_zh": "The state of the U.S. economy is in focus across bank earnings and inflation data.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/12/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-      "sectors": [
-        "finance"
-      ]
+      "time": "07-13 09:42",
+      "title_en": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation - Reuters",
+      "title_zh": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation - Reuters",
+      "summary_en": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation  Reuters",
+      "summary_zh": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-13 09:03",
+      "title_en": "Trump says the US should control the Strait of Hormuz and get paid for it - Reuters",
+      "title_zh": "Trump says the US should control the Strait of Hormuz and get paid for it - Reuters",
+      "summary_en": "Trump says the US should control the Strait of Hormuz and get paid for it  Reuters",
+      "summary_zh": "Trump says the US should control the Strait of Hormuz and get paid for it  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-13 05:59",
+      "title_en": "London's FTSE 100 muted as Iran escalates strikes on US bases - Reuters",
+      "title_zh": "London's FTSE 100 muted as Iran escalates strikes on US bases - Reuters",
+      "summary_en": "London's FTSE 100 muted as Iran escalates strikes on US bases  Reuters",
+      "summary_zh": "London's FTSE 100 muted as Iran escalates strikes on US bases  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONV9YYXpONTBaSkVUYjBPdUhqYmRVMTJ1Y3lnaVI2eVN4TElWVVM3dWJTVENqT1MyVVZGUkRYTEdVZnYwdklDYnRxNHZPaGpzdzdyTlZFcmstZ0J6dU9PR0Q1R21aYWNlLURuMTlfSHF6eVZTOXRsMDAtX0k5WmNTaVhjazlLUU1CZDlSOGJJek12ZG9PdHZtbE12YjhyalR4?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-13 02:47",
+      "title_en": "US and Iran trade attacks as Strait of Hormuz dispute deepens - Reuters",
+      "title_zh": "US and Iran trade attacks as Strait of Hormuz dispute deepens - Reuters",
+      "summary_en": "US and Iran trade attacks as Strait of Hormuz dispute deepens  Reuters",
+      "summary_zh": "US and Iran trade attacks as Strait of Hormuz dispute deepens  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+      "sectors": []
     },
     {
       "time": "07-13 00:52",
-      "title_en": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk - Reuters",
-      "title_zh": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk - Reuters",
-      "summary_en": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk  Reuters",
-      "summary_zh": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk  Reuters",
+      "title_en": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk - Reuters",
+      "title_zh": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk - Reuters",
+      "summary_en": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk  Reuters",
+      "summary_zh": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-13 00:15",
+      "title_en": "Gold extends decline as Middle East tensions bolster higher-for-longer rate view - Reuters",
+      "title_zh": "Gold extends decline as Middle East tensions bolster higher-for-longer rate view - Reuters",
+      "summary_en": "Gold extends decline as Middle East tensions bolster higher-for-longer rate view  Reuters",
+      "summary_zh": "Gold extends decline as Middle East tensions bolster higher-for-longer rate view  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclJuSi1YOVNaUjRBaVVhUkY3bjhqa2paOEZrM0FES0pvZ1BpTm1waUtGb2RHdzhhcHNVRWRxM2dGdXVkS1prcEZRdzhDQjhLLVpYNnlKWDdPekxsWHgxU016NlVzTllUZ1AtSWFMajhrcmRXcUFWNThJVjdLYWlpakZEVHI1eWFmS3pSS3RWelgwY1NUVXpaZ2RuV2RKdkVxckxoNlRpOEo?oc=5",
       "sectors": []
     },
     {
@@ -523,102 +631,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 12:43",
-      "title_en": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports - Reuters",
-      "title_zh": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports - Reuters",
-      "summary_en": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports  Reuters",
-      "summary_zh": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 11:08",
-      "title_en": "Lindsey Graham dies, Iran strikes and World Cup semis set - Reuters",
-      "title_zh": "Lindsey Graham dies, Iran strikes and World Cup semis set - Reuters",
-      "summary_en": "Lindsey Graham dies, Iran strikes and World Cup semis set  Reuters",
-      "summary_zh": "Lindsey Graham dies, Iran strikes and World Cup semis set  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXhfNmVlMUNVcFlBYzVMck55ajZsTGI2X2NDZjZ5ZEQyRTBTWmtWeUtVd2ljRWZvSm5tWm1qR2tDS2RqYzdhZ0ZQWkNlN0tCaTNiakhDcmNpWUNVTHJiejExMVdGU0NlUWp1MU11U2J1VzlodzFYeExWWnl2THNRWm5oemlxaFZOdVJ4UUFYdWZmR0xCNUtrMWZBbEl0dw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 09:30",
-      "title_en": "Trump says Strait of Hormuz open to commercial traffic - Reuters",
-      "title_zh": "Trump says Strait of Hormuz open to commercial traffic - Reuters",
-      "summary_en": "Trump says Strait of Hormuz open to commercial traffic  Reuters",
-      "summary_zh": "Trump says Strait of Hormuz open to commercial traffic  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM04zYVJRb2pfTkwzT0lIUm8wWHpKRkc4WE9TazFxdGQ4RktValc5UXhBbmM3ZGlHaFNBZm5MVDI4a3dDMG8zX2pza3NSb2o5dS1RYVNLUzFhd0wtOFZucWdhcHMzZFgyRWRaNUJUOUJ6VXp2ZEl4NXFmeXFiRWQzZDNQbWFqRDRpVnZXNmNwWmQ0a3RMeDRkTUQ0NkZXUUhZUHc?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 09:07",
-      "title_en": "Gulf bourses subdued as US and Iran exchange strikes - Reuters",
-      "title_zh": "Gulf bourses subdued as US and Iran exchange strikes - Reuters",
-      "summary_en": "Gulf bourses subdued as US and Iran exchange strikes  Reuters",
-      "summary_zh": "Gulf bourses subdued as US and Iran exchange strikes  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1pXOXRCNmZyZWlJV04zUzZFZmtwSG01b1IwN3VENmRyaTRoOThIR3hHbmJVTWNpU1NVTVNtRUMzTmNWXzg1WGdfeEFnZUNEQ3BUdUwyTVdickl6aFdqRzRUOHJ2VXA4Wk9oazhIdnFoczZwa2Jld1hPOEZIRlprYk9SWndKdEU3Z3RTSWhSZWF5MnZYRzNxWVEtRUlpakhU?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 08:26",
-      "title_en": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says - Reuters",
-      "title_zh": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says - Reuters",
-      "summary_en": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says  Reuters",
-      "summary_zh": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDMxYmdvOG53OXFHRXRla2dlUjR0WXYyc3E0TS1WaUVaMDJBUnp1RFhGeUdlMVdUTFpUdmZmbU42RTJIVi1Cc1ZvWWE5U0NsR2ZIeE5Hd2cyeERTMGdWQ0pPV1JmempuQzZQckp1NkY4SDJwbWR0aWhkaXVsSjd3SWVXbnFZcTZ5ZnlOdmVzZXZnTzlQMERBY2gzTV9LbEpDR1RZcDV4d1gtR29Vc0lJOVZrZDdxdzN1MmlIUHAxMA?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 08:10",
-      "title_en": "I've studied more than 200 kids: Parents whose kids still confide in them as adults do 7 things early on",
-      "title_zh": "I've studied more than 200 kids: Parents whose kids still confide in them as adults do 7 things early on",
-      "summary_en": "After studying more than 200 parent-child relationships, parenting expert Reem Raouda shares the habits that help kids feel comfortable talking to their parents — from childhood through adulthood.",
-      "summary_zh": "After studying more than 200 parent-child relationships, parenting expert Reem Raouda shares the habits that help kids feel comfortable talking to their parents — from childhood through adulthood.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/12/ive-studied-more-than-200-kids-parents-whose-children-actually-enjoy-talking-to-them-do-7-things.html",
-      "sectors": []
-    },
-    {
-      "time": "07-12 07:40",
-      "title_en": "One Indian national missing after attack on vessel off Oman, foreign ministry says - Reuters",
-      "title_zh": "One Indian national missing after attack on vessel off Oman, foreign ministry says - Reuters",
-      "summary_en": "One Indian national missing after attack on vessel off Oman, foreign ministry says  Reuters",
-      "summary_zh": "One Indian national missing after attack on vessel off Oman, foreign ministry says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWJXSGd0QTVpY0Q3ZDBxWndCTGNGOTRoSkZmYWxOUTRfdTZ4Z2lXN2FzRWJ1cjlZSnZURFBGNFJOenpWZ2dkZWNJNUdybXlZN1BQS0xDMmNhZ1dCYXIwVTNudEZvME1rUlNPLS1EMXVPamlSbzV4Z1BWYXNFQXhlNlQ2MGQ3NXFxd0dfUTd4NHptemJLdlg4ZlktMl9pd1JkQnp2YUZSQWgwQjlDNWJCWTIwYnE0aC1fRk05aFI1Y3lLRTZ4?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-12 06:25",
-      "title_en": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died - Reuters",
-      "title_zh": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died - Reuters",
-      "summary_en": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died  Reuters",
-      "summary_zh": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1rc0xhYTFPOVc4UmhSS3NVcWxlZ25meVNQZG5VUE9PYU1KdkItN1dwbnNzcVZtcHFrWTJ0enhEVzF4cG9nQlpCeTRlcmM3UXNrc1V3dmtzQkwycHdFRHY0c2NKSjhsUkZ4ZGIyZXFwR2R4bkxxZHdzbTdBR254eVhDb09BZEJVRU1xUWtYR1BiOGk0RjU3cUZVdFhpWm1WQUsxWnFPQVJjLVNSYWxJeHZROEVYRC1rc2IteXBtYw?oc=5",
       "sectors": []
     }
   ],
