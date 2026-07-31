@@ -1,83 +1,85 @@
 {
   "market": "us",
-  "updated_at": "2026-07-31T06:48:22-04:00",
+  "updated_at": "2026-07-31T11:13:08-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 741.69,
-      "change": 12.23,
-      "change_pct": 1.6766
+      "value": 741.39,
+      "change": -0.3,
+      "change_pct": -0.0404
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 683.55,
-      "change": 21.82,
-      "change_pct": 3.2974
+      "value": 683.84,
+      "change": 0.29,
+      "change_pct": 0.0424
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 521.51,
-      "change": 6.1,
-      "change_pct": 1.1835
+      "value": 522.12,
+      "change": 0.61,
+      "change_pct": 0.117
     }
   ],
   "news": [
     {
-      "time": "07-31 05:52",
-      "title_en": "A Can Of Coke Cost 35 Cents When Warren Buffett First Bought Shares in 1988. Here’s How Much You’d Have If You’d Invested $10,000 In Coca-Cola Stock Then.",
-      "title_zh": "A Can Of Coke Cost 35 Cents When Warren Buffett First Bought Shares in 1988. Here’s How Much You’d Have If You’d Invested $10,000 In Coca-Cola Stock Then.",
-      "summary_en": "Warren Buffett quietly poured over a billion dollars into Coca-Cola stock back when a can cost pocket change, then never sold a single share. The math on what that kind of patience actually produced over 38 years will surprise you.",
-      "summary_zh": "Warren Buffett quietly poured over a billion dollars into Coca-Cola stock back when a can cost pocket change, then never sold a single share. The math on what that kind of patience actually produced over 38 years will surprise you.",
+      "time": "07-31 09:50",
+      "title_en": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Surges On Earnings (Live Coverage)",
+      "title_zh": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Surges On Earnings (Live Coverage)",
+      "summary_en": "Stock Market Today: The Dow Jones index rises Friday even as Apple dives on a weak sales forecast. Amazon stock surges on earnings.",
+      "summary_zh": "Stock Market Today: The Dow Jones index rises Friday even as Apple dives on a weak sales forecast. Amazon stock surges on earnings.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8805f5c3df148bd2bf0544e6b630df4f1a34bf2d433af43a97d8484771fcdd89",
+      "url": "https://finnhub.io/api/news?id=311f734c82669afeefd6a2c79fa584d6e8c11b4bd4e0a56b2d41a0f04c8ccd31",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "07-31 05:50",
-      "title_en": "If a Bear Market Is Coming in 2026, History Says This 1 Investment Is the Safest Place to Park Your Money",
-      "title_zh": "If a Bear Market Is Coming in 2026, History Says This 1 Investment Is the Safest Place to Park Your Money",
-      "summary_en": "It might not be a good choice over the long term.",
-      "summary_zh": "It might not be a good choice over the long term.",
+      "time": "07-31 09:43",
+      "title_en": "AI’s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market",
+      "title_zh": "AI’s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market",
+      "summary_en": "The host’s argument on Investing Insights lands with a specific market backdrop: Large AI companies like NVIDIA (NASDAQ:NVDA) and Microsoft (NASDAQ:MSFT) dominate indexes right now, but the buildout underneath is quietly minting a second tier of beneficiaries in power generation and industrial metals. The host compared today’s AI moment to the late 1990s internet boom, ... AI’s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market",
+      "summary_zh": "The host’s argument on Investing Insights lands with a specific market backdrop: Large AI companies like NVIDIA (NASDAQ:NVDA) and Microsoft (NASDAQ:MSFT) dominate indexes right now, but the buildout underneath is quietly minting a second tier of beneficiaries in power generation and industrial metals. The host compared today’s AI moment to the late 1990s internet boom, ... AI’s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=39594e3821e763187aa340fb40f05f3813e3fc1f3ddaab788b3902d7c45fc688",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "07-31 04:50",
-      "title_en": "MU, SKHY, NVDA, AMD, INTC Extend Rally Premarket, But Chip Stocks Still On Track For Worst Month Since 2002",
-      "title_zh": "MU, SKHY, NVDA, AMD, INTC Extend Rally Premarket, But Chip Stocks Still On Track For Worst Month Since 2002",
-      "summary_en": "The gains in U.S. chip stocks on Thursday and Friday mark a dramatic reversal of the selloff this month.",
-      "summary_zh": "The gains in U.S. chip stocks on Thursday and Friday mark a dramatic reversal of the selloff this month.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=011096ccceb5f50fcbd9900494db1fb82cc74e500fd6f8921f724503e22fef9d",
+      "url": "https://finnhub.io/api/news?id=4a3e29ec05af841406019af45d9d42114ee6a97e69456f8c0a7663522063a702",
       "sectors": [
         "ai",
-        "tech"
+        "bio",
+        "industry"
       ]
     },
     {
-      "time": "07-31 02:05",
-      "title_en": "Chip Stocks Are Falling: Here Are 2 to Buy on the Dip",
-      "title_zh": "Chip Stocks Are Falling: Here Are 2 to Buy on the Dip",
-      "summary_en": "Focus on the long game.",
-      "summary_zh": "Focus on the long game.",
+      "time": "07-31 08:47",
+      "title_en": "Update: Amazon Overperformance Lifts US Equity Futures Pre-Bell Amid Potential Expansion of Middle East Conflict to Egypt",
+      "title_zh": "Update: Amazon Overperformance Lifts US Equity Futures Pre-Bell Amid Potential Expansion of Middle East Conflict to Egypt",
+      "summary_en": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "summary_zh": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
       "context_en": "📰 Source: AMD · Yahoo · English original",
       "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
       "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=19dba202e7c7683f559cf7b99c7c4d2f91fff3fa7f72041da77e12a6afcc8a59",
+      "url": "https://finnhub.io/api/news?id=84f0275a275618ec204a5a85015de38502cbd34f3bc57cbee2dc1cd924dd6bc9",
+      "sectors": [
+        "ai",
+        "energy"
+      ]
+    },
+    {
+      "time": "07-31 08:35",
+      "title_en": "1 Key Metric To Watch That Could Send Arm Stock Soaring",
+      "title_zh": "1 Key Metric To Watch That Could Send Arm Stock Soaring",
+      "summary_en": "Arm delivered solid results, but all eyes are on its upcoming AGI CPU chip.",
+      "summary_zh": "Arm delivered solid results, but all eyes are on its upcoming AGI CPU chip.",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=0249875e115412939fc70b508a7c274fbf936b9c8aea31840e93d53e74144bda",
       "sectors": [
         "ai",
         "tech"
@@ -98,74 +100,43 @@
       ]
     },
     {
-      "time": "07-30 18:00",
-      "title_en": "Analyst compares SpaceX, Palantir to Bitcoin",
-      "title_zh": "Analyst compares SpaceX, Palantir to Bitcoin",
-      "summary_en": "Though Palantir Technologies Inc. (Nasdaq: PLTR), Space Exploration Technologies or SpaceX (Nasdaq: SPCX), and Bitcoin (BTC) are entirely different assets, they are all different kinds of stake on the same geopolitical shift, 10x Research said on May 19. Founded by Peter Thiel, Stephen Cohen, Joe ...",
-      "summary_zh": "Though Palantir Technologies Inc. (Nasdaq: PLTR), Space Exploration Technologies or SpaceX (Nasdaq: SPCX), and Bitcoin (BTC) are entirely different assets, they are all different kinds of stake on the same geopolitical shift, 10x Research said on May 19. Founded by Peter Thiel, Stephen Cohen, Joe ...",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=31cddc4daa0659508000d79453163d0245f15154c52ef922ceddb1555fdb869a",
+      "time": "07-31 05:19",
+      "title_en": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings",
+      "title_zh": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings",
+      "summary_en": "Michael Burry expands short positions against Nvidia and AI, while piling into de-risked value stocks like Lululemon and DraftKings.",
+      "summary_zh": "Michael Burry expands short positions against Nvidia and AI, while piling into de-risked value stocks like Lululemon and DraftKings.",
+      "context_en": "📰 Source: PLTR · Benzinga · English original",
+      "context_zh": "📰 来源: PLTR · Benzinga · 英文原文(未翻译)",
+      "source": "PLTR · Benzinga",
+      "url": "https://finnhub.io/api/news?id=2e185e671adf043329c8ad262dbe711abae7aa2143e57bd1b616e1a016eba4ea",
       "sectors": [
-        "ai",
-        "space"
+        "ai"
       ]
     },
     {
-      "time": "07-31 05:20",
-      "title_en": "Microsoft's Cloud Blowout Powers Nasdaq, Then Apple And Amazon Split The Megacap Trade All Over Again",
-      "title_zh": "Microsoft's Cloud Blowout Powers Nasdaq, Then Apple And Amazon Split The Megacap Trade All Over Again",
-      "summary_en": "The Nasdaq closed 2.8% higher on Thursday as Microsoft's Q4 blowout answered the AI-capex sceptics and dragged the entire cloud complex with it. After the bell, Amazon delivered another AWS acceleration while Apple's soft guidance sent the stock into an ugly after-hours print. PCE inflation cooled, Q2 GDP slowed, and the Fed sat still.",
-      "summary_zh": "The Nasdaq closed 2.8% higher on Thursday as Microsoft's Q4 blowout answered the AI-capex sceptics and dragged the entire cloud complex with it. After the bell, Amazon delivered another AWS acceleration while Apple's soft guidance sent the stock into an ugly after-hours print. PCE inflation cooled, Q2 GDP slowed, and the Fed sat still.",
-      "context_en": "📰 Source: MSFT · ChartMill · English original",
-      "context_zh": "📰 来源: MSFT · ChartMill · 英文原文(未翻译)",
-      "source": "MSFT · ChartMill",
-      "url": "https://finnhub.io/api/news?id=a6073c2686994a4a5d886856e46fb8432496b0fc14fedce5390d5ab44d944ec3",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "07-31 04:54",
-      "title_en": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
-      "title_zh": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
-      "summary_en": "On Stocktwits, retail sentiment for SPY remained 'bearish,' and improved to 'neutral' on QQQ as investors warmed to the latest AI-driven earnings.",
-      "summary_zh": "On Stocktwits, retail sentiment for SPY remained 'bearish,' and improved to 'neutral' on QQQ as investors warmed to the latest AI-driven earnings.",
+      "time": "07-31 09:49",
+      "title_en": "Stock markets rally on tech rebound",
+      "title_zh": "Stock markets rally on tech rebound",
+      "summary_en": "Global stock markets rallied Friday, led by a record surge of almost 18 percent for Seoul as technology firms performed a blistering recovery from an extended sell-off.However, the voracious buying sentiment that had characterised markets for much of the past two years was reignited Friday.",
+      "summary_zh": "Global stock markets rallied Friday, led by a record surge of almost 18 percent for Seoul as technology firms performed a blistering recovery from an extended sell-off.However, the voracious buying sentiment that had characterised markets for much of the past two years was reignited Friday.",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=0089ee288e4ffc8b57fb954b54c2e9fc1b67c7732210f4b8542cca2ba36de0dc",
-      "sectors": [
-        "ai",
-        "consumer",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-31 05:35",
-      "title_en": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching",
-      "title_zh": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching",
-      "summary_en": "Faster upgrades and more customers buying higher-priced devices are likely to be Apple's goals.",
-      "summary_zh": "Faster upgrades and more customers buying higher-priced devices are likely to be Apple's goals.",
-      "context_en": "📰 Source: AAPL · Yahoo · English original",
-      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
-      "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=abc5a096c059bc73f42e1a0be26fdfb9c34e95ee4d11a02f7ed286ab8ef8629c",
+      "url": "https://finnhub.io/api/news?id=9e9f654c9cd0b34f73f207e2088ef17b7e79ba82484c062b3d78b6a636912063",
       "sectors": [
         "tech"
       ]
     },
     {
-      "time": "07-31 05:30",
-      "title_en": "This Chinese computer chip maker burned through $5 billion in a decade — then made it all back in a single quarter",
-      "title_zh": "This Chinese computer chip maker burned through $5 billion in a decade — then made it all back in a single quarter",
-      "summary_en": "For most of its existence, CXMT bled cash. Today, it’s the king of Chinese chip makers. Learn just how big some analysts think this DRAM darling could grow.",
-      "summary_zh": "For most of its existence, CXMT bled cash. Today, it’s the king of Chinese chip makers. Learn just how big some analysts think this DRAM darling could grow.",
-      "context_en": "📰 Source: AAPL · Yahoo · English original",
-      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
-      "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=35ea5406521ab8c3fa4e3d466f03894f1a9ac41243f1241fd3db5541c3894f94",
+      "time": "07-31 10:35",
+      "title_en": "These S&P500 stocks are gapping in today's session",
+      "title_zh": "These S&P500 stocks are gapping in today's session",
+      "summary_en": "Let's have a look at the S&P500 gap up and gap down stocks in today's session.",
+      "summary_zh": "Let's have a look at the S&P500 gap up and gap down stocks in today's session.",
+      "context_en": "📰 Source: AAPL · ChartMill · English original",
+      "context_zh": "📰 来源: AAPL · ChartMill · 英文原文(未翻译)",
+      "source": "AAPL · ChartMill",
+      "url": "https://finnhub.io/api/news?id=709f67f86ab747d0315d9411a2d452a1aa73a192bfaa79693c1ad37daa9e1c90",
       "sectors": [
         "tech"
       ]
@@ -200,6 +171,22 @@
       ]
     },
     {
+      "time": "07-31 09:10",
+      "title_en": "Arista Networks vs. BigBear.ai: Which Tech Stock Is a Better Buy in 2026?",
+      "title_zh": "Arista Networks vs. BigBear.ai: Which Tech Stock Is a Better Buy in 2026?",
+      "summary_en": "Arista is a profitable AI infrastructure supplier, while BigBear.ai is positioning to win more government contracts.",
+      "summary_zh": "Arista is a profitable AI infrastructure supplier, while BigBear.ai is positioning to win more government contracts.",
+      "context_en": "📰 Source: AVGO · Yahoo · English original",
+      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
+      "source": "AVGO · Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3652bc34db0b3ec7e5b5a4682ba9b2e2e6c587047904ad118d336da84830953",
+      "sectors": [
+        "ai",
+        "comm",
+        "tech"
+      ]
+    },
+    {
       "time": "07-30 18:09",
       "title_en": "Should Samsung’s US$200 Billion AI Chip Pact With Broadcom Reshape Action From AVGO Investors?",
       "title_zh": "Should Samsung’s US$200 Billion AI Chip Pact With Broadcom Reshape Action From AVGO Investors?",
@@ -212,22 +199,6 @@
       "sectors": [
         "ai",
         "bio",
-        "tech"
-      ]
-    },
-    {
-      "time": "07-30 18:08",
-      "title_en": "Apple commits more than $30 billion to US manufacturing",
-      "title_zh": "Apple commits more than $30 billion to US manufacturing",
-      "summary_en": "During Thursday night's earnings call, Apple (AAPL) CEO Tim Cook highlighted a string of milestones, including the company's best-ever June quarter, with revenue reaching $109.4 billion. iPhone revenue surged 22% year-over-year to $54.3 billion, while Mac revenue climbed to a record $10.4 billion. Beyond the financial results, Cook reaffirmed Apple's commitment to US manufacturing, announcing plans to invest $600 billion in the United States over the next four years. The investment, which the company said includes the reinvestment of tariff-related funds, expands Apple's long-term domestic manufacturing strategy. As part of that effort, Apple has entered a new multiyear agreement with Broadcom (AVGO) under its American Manufacturing Program. The partnership is expected to contribute more than $30 billion in investment to build an end-to-end silicon supply chain and advanced manufacturing equipment in the United States.",
-      "summary_zh": "During Thursday night's earnings call, Apple (AAPL) CEO Tim Cook highlighted a string of milestones, including the company's best-ever June quarter, with revenue reaching $109.4 billion. iPhone revenue surged 22% year-over-year to $54.3 billion, while Mac revenue climbed to a record $10.4 billion. Beyond the financial results, Cook reaffirmed Apple's commitment to US manufacturing, announcing plans to invest $600 billion in the United States over the next four years. The investment, which the company said includes the reinvestment of tariff-related funds, expands Apple's long-term domestic manufacturing strategy. As part of that effort, Apple has entered a new multiyear agreement with Broadcom (AVGO) under its American Manufacturing Program. The partnership is expected to contribute more than $30 billion in investment to build an end-to-end silicon supply chain and advanced manufacturing equipment in the United States.",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=604778f81cf6ad34df0e0e2ea8418c4c27e7edb43d0f197d9655b777cf3d7e1d",
-      "sectors": [
-        "finance",
-        "industry",
         "tech"
       ]
     },
@@ -261,29 +232,30 @@
       ]
     },
     {
-      "time": "07-30 13:06",
-      "title_en": "AT&T Swapped Its Scoreboard For A Forecast",
-      "title_zh": "AT&T Swapped Its Scoreboard For A Forecast",
-      "summary_en": "The company still reports the numbers it used to lead with, but the case out front now rests on a payoff much further away.",
-      "summary_zh": "The company still reports the numbers it used to lead with, but the case out front now rests on a payoff much further away.",
-      "context_en": "📰 Source: TMUS · Yahoo · English original",
-      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
-      "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=017b875d0a479a79ee4f7c0a2b49b6d5912b33db16a44a40138b47fc4ee422fb",
+      "time": "07-31 04:30",
+      "title_en": "T-Mobile: The SpaceX Fear Is A Long-Term Buying Opportunity",
+      "title_zh": "T-Mobile: The SpaceX Fear Is A Long-Term Buying Opportunity",
+      "summary_en": "T-Mobile stock looks undervalued at 16.5x forward P/E, with rising guidance, strong FCF and buybacks. Read my analysis for a more in-depth look.",
+      "summary_zh": "T-Mobile stock looks undervalued at 16.5x forward P/E, with rising guidance, strong FCF and buybacks. Read my analysis for a more in-depth look.",
+      "context_en": "📰 Source: TMUS · SeekingAlpha · English original",
+      "context_zh": "📰 来源: TMUS · SeekingAlpha · 英文原文(未翻译)",
+      "source": "TMUS · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87475ff59b46e4c05b647ef8061975673e6e0ab8fe25825e88969bf640dbe71c",
       "sectors": [
-        "comm"
+        "comm",
+        "space"
       ]
     },
     {
-      "time": "07-30 11:27",
-      "title_en": "The Number That Could Keep Verizon Communications Stock Climbing",
-      "title_zh": "The Number That Could Keep Verizon Communications Stock Climbing",
-      "summary_en": "A falling churn rate is quietly doing more for Verizon than any headline contract, and it is why management keeps raising its own guidance.",
-      "summary_zh": "A falling churn rate is quietly doing more for Verizon than any headline contract, and it is why management keeps raising its own guidance.",
-      "context_en": "📰 Source: TMUS · Yahoo · English original",
-      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
-      "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8dcfe83e78bef0260071be1d7522f98c5f8fcc9c4c08160d247fafe0d6dc44bd",
+      "time": "07-31 03:15",
+      "title_en": "The Case For REITs In 2H 2026",
+      "title_zh": "The Case For REITs In 2H 2026",
+      "summary_en": "REITs are regaining strength as supply headwinds turn into tailwindsâcould a new bull market be starting? Read now for timely real estate investing...",
+      "summary_zh": "REITs are regaining strength as supply headwinds turn into tailwindsâcould a new bull market be starting? Read now for timely real estate investing...",
+      "context_en": "📰 Source: TMUS · SeekingAlpha · English original",
+      "context_zh": "📰 来源: TMUS · SeekingAlpha · 英文原文(未翻译)",
+      "source": "TMUS · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4eb490d0b04a33fb2b2456516016d6c77364ca0ce2a9fe97c7b824ad2df6cc2",
       "sectors": [
         "comm"
       ]
@@ -303,6 +275,21 @@
       ]
     },
     {
+      "time": "07-31 04:15",
+      "title_en": "Amazon To Rally Around 55%? Here Are 10 Top Analyst Forecasts For Friday",
+      "title_zh": "Amazon To Rally Around 55%? Here Are 10 Top Analyst Forecasts For Friday",
+      "summary_en": "Analysts change outlook &amp; price targets for Crocs, Monolithic Power, Axos Financial, Amazon, Karyopharm, Apple, Guardant Health, Pagaya Tech.",
+      "summary_zh": "Analysts change outlook &amp; price targets for Crocs, Monolithic Power, Axos Financial, Amazon, Karyopharm, Apple, Guardant Health, Pagaya Tech.",
+      "context_en": "📰 Source: FSLR · Benzinga · English original",
+      "context_zh": "📰 来源: FSLR · Benzinga · 英文原文(未翻译)",
+      "source": "FSLR · Benzinga",
+      "url": "https://finnhub.io/api/news?id=5a618eff19d5b0e560e843ffce6b99f5be996bfe851d02120b01514224903653",
+      "sectors": [
+        "energy",
+        "finance"
+      ]
+    },
+    {
       "time": "07-31 01:03",
       "title_en": "First Solar Inc (FSLR) (Q2 2026) Earnings Call Highlights: Record Sales and 100 GW Milestone ...",
       "title_zh": "First Solar Inc (FSLR) (Q2 2026) Earnings Call Highlights: Record Sales and 100 GW Milestone ...",
@@ -312,20 +299,6 @@
       "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
       "source": "FSLR · Yahoo",
       "url": "https://finnhub.io/api/news?id=6281f4f8cac06fc3d6f35fc1f5e968d3b29d6bc49e1b70bc38ef90ec302d3c2f",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "07-30 19:33",
-      "title_en": "First Solar, Inc. (FSLR) Q2 2026 Earnings Call Transcript",
-      "title_zh": "First Solar, Inc. (FSLR) Q2 2026 Earnings Call Transcript",
-      "summary_en": "First Solar, Inc. (FSLR) Q2 2026 Earnings Call July 30, 2026 4:30 PM EDTCompany ParticipantsByron Jeffers - VP, Treasurer & Head of Investor...",
-      "summary_zh": "First Solar, Inc. (FSLR) Q2 2026 Earnings Call July 30, 2026 4:30 PM EDTCompany ParticipantsByron Jeffers - VP, Treasurer & Head of Investor...",
-      "context_en": "📰 Source: FSLR · SeekingAlpha · English original",
-      "context_zh": "📰 来源: FSLR · SeekingAlpha · 英文原文(未翻译)",
-      "source": "FSLR · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c915141d4a9ac68cd48c33b6233d71b6d93abdbe97213f18daedcb5542c93f9d",
       "sectors": [
         "energy"
       ]
@@ -359,46 +332,43 @@
       ]
     },
     {
-      "time": "07-30 21:28",
-      "title_en": "Oil industry sees war windfall but girds for political blowback",
-      "title_zh": "Oil industry sees war windfall but girds for political blowback",
-      "summary_en": "US oil giants are set to report blowout profits Friday at a time when lofty gasoline prices are stressing consumers and exacerbating President Donald Trump's worries about upcoming midterm elections.Lowering gasoline prices before November is high on Trump's priority list, prompting numerous White House meetings, according to US media reports.",
-      "summary_zh": "US oil giants are set to report blowout profits Friday at a time when lofty gasoline prices are stressing consumers and exacerbating President Donald Trump's worries about upcoming midterm elections.Lowering gasoline prices before November is high on Trump's priority list, prompting numerous White House meetings, according to US media reports.",
+      "time": "07-31 09:25",
+      "title_en": "Sector Update: Energy Stocks Edge Higher Premarket Friday",
+      "title_zh": "Sector Update: Energy Stocks Edge Higher Premarket Friday",
+      "summary_en": "Energy stocks were edging higher premarket Friday, with the State Street Energy Select Sector SPDR E",
+      "summary_zh": "Energy stocks were edging higher premarket Friday, with the State Street Energy Select Sector SPDR E",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=662869c0040c79c517cea20e5fa2d55ce08cdae2ba2f5c92f75e54fd1e28f6a7",
+      "url": "https://finnhub.io/api/news?id=031b92e1b8adf8ced16cf5313f7c692c21174549c4c935e35b3cafe47a263d63",
       "sectors": [
-        "consumer",
         "energy"
       ]
     },
     {
-      "time": "07-30 18:01",
-      "title_en": "Friday's market movers: Oil earnings and consumer sentiment data",
-      "title_zh": "Friday's market movers: Oil earnings and consumer sentiment data",
-      "summary_en": "Asking for a Trend Host Josh Lipton previews what investors should be on the lookout for on Friday, July 31, including earnings from energy giants Exxon (XOM), Chevron (CVX), and biopharma AbbVie (ABBV) as well as the latest read on consumer sentiment.",
-      "summary_zh": "Asking for a Trend Host Josh Lipton previews what investors should be on the lookout for on Friday, July 31, including earnings from energy giants Exxon (XOM), Chevron (CVX), and biopharma AbbVie (ABBV) as well as the latest read on consumer sentiment.",
-      "context_en": "📰 Source: XOM · Yahoo · English original",
-      "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
-      "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=14dc8fa65654e512f70d4fda3e23e46128c2ac9e31b7c4e11adb51ad16cd7269",
-      "sectors": [
-        "bio",
-        "consumer",
-        "energy"
-      ]
-    },
-    {
-      "time": "07-31 01:18",
-      "title_en": "RKLB, RDW, FLY, VSAT Climb Overnight: $981M Space Force IDIQ Contract Opens Fresh Pentagon Opportunity",
-      "title_zh": "RKLB, RDW, FLY, VSAT Climb Overnight: $981M Space Force IDIQ Contract Opens Fresh Pentagon Opportunity",
-      "summary_en": "The IDIQ runs through July 29, 2032 and lets selected firms compete for future test, evaluation and training task orders.",
-      "summary_zh": "The IDIQ runs through July 29, 2032 and lets selected firms compete for future test, evaluation and training task orders.",
+      "time": "07-31 09:53",
+      "title_en": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
+      "title_zh": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
+      "summary_en": "Rocket Lab stock rises after landing new Electron launch deals. Space Force taps Rocket Lab, 14 vendors for $981 mil program.",
+      "summary_zh": "Rocket Lab stock rises after landing new Electron launch deals. Space Force taps Rocket Lab, 14 vendors for $981 mil program.",
       "context_en": "📰 Source: RKLB · Yahoo · English original",
       "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
       "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c69e607512c95356091f31acdf6d3e991b9d07dd711ddf17fbb44ff75986bf2",
+      "url": "https://finnhub.io/api/news?id=7c6531260d031142a997a2abf92c0196028ee271927f69593bb5e7f7525211b6",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "07-31 09:05",
+      "title_en": "Rocket Lab’s Rally Isn’t Random: 3 Catalysts Driving The Stock Higher",
+      "title_zh": "Rocket Lab’s Rally Isn’t Random: 3 Catalysts Driving The Stock Higher",
+      "summary_en": "Rocket Lab shares just shed more than a third of their value in a single month, yet three specific catalysts are quietly building pressure beneath the surface. Understanding what is actually driving this stock matters before the next move happens.",
+      "summary_zh": "Rocket Lab shares just shed more than a third of their value in a single month, yet three specific catalysts are quietly building pressure beneath the surface. Understanding what is actually driving this stock matters before the next move happens.",
+      "context_en": "📰 Source: RKLB · Yahoo · English original",
+      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
+      "source": "RKLB · Yahoo",
+      "url": "https://finnhub.io/api/news?id=10ff4477648db9d7d5a345768d9629ae54fb80242c3894920e93e8567e5e544b",
       "sectors": [
         "space"
       ]
@@ -463,61 +433,105 @@
       ]
     },
     {
-      "time": "07-30 11:45",
-      "title_en": "When will fusion power startup Commonwealth Fusion Systems go public?",
-      "title_zh": "When will fusion power startup Commonwealth Fusion Systems go public?",
-      "summary_en": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
-      "summary_zh": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f0b72b80f20cb1734cc4c653ea213e50f7ebf7604dda827380b5c51cba56cfa",
-      "sectors": [
-        "bio",
-        "finance"
-      ]
-    },
-    {
-      "time": "07-30 10:21",
-      "title_en": "Moderna (MRNA) Q2 Earnings: What To Expect",
-      "title_zh": "Moderna (MRNA) Q2 Earnings: What To Expect",
-      "summary_en": "Biotechnology company Moderna (NASDAQ:MRNA) will be announcing earnings results this Friday before market hours. Here’s what investors should know.",
-      "summary_zh": "Biotechnology company Moderna (NASDAQ:MRNA) will be announcing earnings results this Friday before market hours. Here’s what investors should know.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc026c98fea4324709a01e8a4a3c5c612c09d3cd2a3302964a661cc3b6940004",
+      "time": "07-31 08:35",
+      "title_en": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
+      "title_zh": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
+      "summary_en": "Discover the top S&P500 movers in Friday's pre-market session and stay informed about market dynamics.",
+      "summary_zh": "Discover the top S&P500 movers in Friday's pre-market session and stay informed about market dynamics.",
+      "context_en": "📰 Source: MRNA · ChartMill · English original",
+      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
+      "source": "MRNA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=3223cbf246df2f33c69539037f774a50260cd33d10286f045a518ad8062cad57",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "07-30 21:02",
-      "title_en": "Regeneron (REGN) Q2 2026 Earnings Call Transcript",
-      "title_zh": "Regeneron (REGN) Q2 2026 Earnings Call Transcript",
-      "summary_en": "Revenue surged 17% as Dupixent and EYLEA HD posted record sales.",
-      "summary_zh": "Revenue surged 17% as Dupixent and EYLEA HD posted record sales.",
-      "context_en": "📰 Source: REGN · Yahoo · English original",
-      "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
-      "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=57c25b6020fad77460e3e35f360d9a7b7f72aa120fe5c78a6b020ba4fa885b0e",
+      "time": "07-31 08:10",
+      "title_en": "Moderna (MRNA) Reports Q2 Loss, Tops Revenue Estimates",
+      "title_zh": "Moderna (MRNA) Reports Q2 Loss, Tops Revenue Estimates",
+      "summary_en": "Moderna (MRNA) delivered earnings and revenue surprises of 0.00% and +14.49%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "summary_zh": "Moderna (MRNA) delivered earnings and revenue surprises of 0.00% and +14.49%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "context_en": "📰 Source: MRNA · Yahoo · English original",
+      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
+      "source": "MRNA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d37bef2f33c33b4f6b6bfdf56597d464c5ea9a0b5ac0b25c4bcdeebf542418b",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "07-30 18:09",
-      "title_en": "Regeneron (REGN) Stock Looks Cheap On Earnings Yet Mixed Elsewhere",
-      "title_zh": "Regeneron (REGN) Stock Looks Cheap On Earnings Yet Mixed Elsewhere",
-      "summary_en": "Regeneron Pharmaceuticals stock has delivered a solid 36.1% return over the past year, yet the broader valuation checks point to a mixed picture rather than a clear bargain or clear overvaluation. Regeneron Pharmaceuticals has gained 36.1% over the last 12 months, which puts more attention on whether recent optimism is already reflected in the share price. On the one hand, progress in areas such as investigational therapies for food allergy can support expectations for future cash flows. On...",
-      "summary_zh": "Regeneron Pharmaceuticals stock has delivered a solid 36.1% return over the past year, yet the broader valuation checks point to a mixed picture rather than a clear bargain or clear overvaluation. Regeneron Pharmaceuticals has gained 36.1% over the last 12 months, which puts more attention on whether recent optimism is already reflected in the share price. On the one hand, progress in areas such as investigational therapies for food allergy can support expectations for future cash flows. On...",
+      "time": "07-31 07:00",
+      "title_en": "Regeneron Awards $150,000 to Winners of the 2026 Regeneron Prize for Creative Innovation",
+      "title_zh": "Regeneron Awards $150,000 to Winners of the 2026 Regeneron Prize for Creative Innovation",
+      "summary_en": "Early-career scientists from New York University, Stanford University and Rensselaer Polytechnic Institute were recognized for their ambitious \"dream project\" proposals TARRYTOWN, N.Y., July 31, 2026 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced the recipients of the 2026 Regeneron Prize for Creative Innovation (“the Regeneron Prize”). This annual award celebrates outstanding early-career scientists, nominated by their research universities, whose creativity",
+      "summary_zh": "Early-career scientists from New York University, Stanford University and Rensselaer Polytechnic Institute were recognized for their ambitious \"dream project\" proposals TARRYTOWN, N.Y., July 31, 2026 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced the recipients of the 2026 Regeneron Prize for Creative Innovation (“the Regeneron Prize”). This annual award celebrates outstanding early-career scientists, nominated by their research universities, whose creativity",
       "context_en": "📰 Source: REGN · Yahoo · English original",
       "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
       "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=65eb7ebca043cd80c0f3165cdcfcba133e36a3bd782ede06a48c7a5701f4fdd0",
+      "url": "https://finnhub.io/api/news?id=dada9a88e3254e2342e8485e9f877e39d85a31cf17c9b563d9348af51b27491f",
       "sectors": [
-        "bio",
-        "consumer"
+        "bio"
+      ]
+    },
+    {
+      "time": "07-31 00:06",
+      "title_en": "Regeneron Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary",
+      "title_zh": "Regeneron Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary",
+      "summary_en": "Moby summary of Regeneron Pharmaceuticals, Inc.'s Q2 2026 earnings call",
+      "summary_zh": "Moby summary of Regeneron Pharmaceuticals, Inc.'s Q2 2026 earnings call",
+      "context_en": "📰 Source: REGN · Yahoo · English original",
+      "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
+      "source": "REGN · Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e0831555539ff935f256ab947d3308a9259cb1106b613e377599eb713a8842f",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "07-31 09:20",
+      "title_en": "GM to launch new in-vehicle AI system later this year",
+      "title_zh": "GM to launch new in-vehicle AI system later this year",
+      "summary_en": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+      "summary_zh": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
+      "sectors": [
+        "ai",
+        "space",
+        "bio"
+      ]
+    },
+    {
+      "time": "07-31 09:05",
+      "title_en": "34-year-old CEO bet on AI video 5 years before ChatGPT—convincing Mark Cuban to invest was the easy part",
+      "title_zh": "34-year-old CEO bet on AI video 5 years before ChatGPT—convincing Mark Cuban to invest was the easy part",
+      "summary_en": "Victor Riparbelli launched Synthesia in 2017 to help people 'make a Hollywood film from a laptop.' After four years of middling results, he made a major shift.",
+      "summary_zh": "Victor Riparbelli launched Synthesia in 2017 to help people 'make a Hollywood film from a laptop.' After four years of middling results, he made a major shift.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/ceo-bet-on-ai-video-years-before-chatgptnow-his-startup-is-worth-billions.html",
+      "sectors": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "07-31 07:11",
+      "title_en": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+      "title_zh": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+      "summary_en": "CNBC's Arjun Kharpal sits down on The Tech Download podcast with the defense company chief.",
+      "summary_zh": "CNBC's Arjun Kharpal sits down on The Tech Download podcast with the defense company chief.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
+      "sectors": [
+        "ai",
+        "industry"
       ]
     },
     {
@@ -536,10 +550,10 @@
     },
     {
       "time": "07-30 23:00",
-      "title_en": "Oil falls on slightly improved flows through Gulf; set for monthly gain - Reuters",
-      "title_zh": "Oil falls on slightly improved flows through Gulf; set for monthly gain - Reuters",
-      "summary_en": "Oil falls on slightly improved flows through Gulf; set for monthly gain  Reuters",
-      "summary_zh": "Oil falls on slightly improved flows through Gulf; set for monthly gain  Reuters",
+      "title_en": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight - Reuters",
+      "title_zh": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight - Reuters",
+      "summary_en": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight  Reuters",
+      "summary_zh": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -605,32 +619,64 @@
       ]
     },
     {
-      "time": "07-30 12:46",
-      "title_en": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit - Reuters",
-      "title_zh": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit - Reuters",
-      "summary_en": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit  Reuters",
-      "summary_zh": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXV6ZUFyTnVCZmxRUVdTancteHlMckpydGNUdmYwdDFtaTllNmhNdkh2S0J1NS1CWDE1VG51Y18wcU41VloxRWZ5LWpTVGlGb2NfeDRkZ1RJeUs5aFFxaHIwVzByUk9md01STlJqVlRqLUNaVWdYN0psNXFGUlpuSVJOWGZ2LWtrNnJxbTlxUUNVNWxvOXJKZXM1alBLbzR4QXBUTjIzMXNwOG4zM2ZQVlZ6enJHZw?oc=5",
-      "sectors": [
-        "finance"
-      ]
-    },
-    {
-      "time": "07-30 11:43",
-      "title_en": "We're buying an AI stock that we recently took profits on and upgrading another",
-      "title_zh": "We're buying an AI stock that we recently took profits on and upgrading another",
-      "summary_en": "If leverage is out of the AI infrastructure stocks, then it's time to get more positive on the theme after their recent decline.",
-      "summary_zh": "If leverage is out of the AI infrastructure stocks, then it's time to get more positive on the theme after their recent decline.",
+      "time": "07-31 09:14",
+      "title_en": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "title_zh": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "summary_en": "Nasdaq futures are up, driven by an excellent quarter for Amazon.",
+      "summary_zh": "Nasdaq futures are up, driven by an excellent quarter for Amazon.",
       "context_en": "📰 Source: Finnhub / CNBC · English original",
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/were-buying-an-ai-stock-that-we-recently-took-profits-on-and-upgrading-another.html",
-      "sectors": [
-        "ai"
-      ]
+      "url": "https://www.cnbc.com/2026/07/31/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "sectors": []
+    },
+    {
+      "time": "07-31 08:41",
+      "title_en": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "title_zh": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "summary_en": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+      "summary_zh": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "sectors": []
+    },
+    {
+      "time": "07-31 06:24",
+      "title_en": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
+      "title_zh": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
+      "summary_en": "Trump convenes Cabinet at Camp David amid simmering Iran war  Reuters",
+      "summary_zh": "Trump convenes Cabinet at Camp David amid simmering Iran war  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-31 04:25",
+      "title_en": "Man suspected of spying on UK military base for Iran arrested in Cyprus - Reuters",
+      "title_zh": "Man suspected of spying on UK military base for Iran arrested in Cyprus - Reuters",
+      "summary_en": "Man suspected of spying on UK military base for Iran arrested in Cyprus  Reuters",
+      "summary_zh": "Man suspected of spying on UK military base for Iran arrested in Cyprus  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUERJVzM5MU9rRDVOc3RfUFdneGROMFVWdTlZU2d2RW0yVWtmcDk4cWhodHYtTF9CQlV0dmdIWmhlTUZFQllhWjZxb2RCTk1hTmxpcmxxNV8xM0pNaVh6ZThGZUdtTDVNOFhFSkhtRTdGOGk1RGZybVBQRXBxVVJLbXlfNFRSWUhiRXJfbDV2NUxFY1dlQ1Vsd3pJckNaenpNNVdSaWFn?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "07-31 02:05",
+      "title_en": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases - Reuters",
+      "title_zh": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases - Reuters",
+      "summary_en": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases  Reuters",
+      "summary_zh": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk5qYUJZMjJGUjlDVnpUSnRleDVfejMwdVpYTTJTT1oxVF90SEVMeklYbEZJd0FEdG8xWU5mcUZVUHVEWFczRmNQYWI0aEE0aGhXNnNwUG9rWGtYU1NrSGtBbC1yd2ZQMC1pLWtXNlp2SnM0RG1rLXgtWjl1V3NCOEVsMThwaEpNZXREVlJ0UFNESjZ3VkxyeHk2Q1A4VkJHN1I5ZjFfOA?oc=5",
+      "sectors": []
     },
     {
       "time": "07-30 17:43",
@@ -702,78 +748,6 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
-      "sectors": []
-    },
-    {
-      "time": "07-30 12:36",
-      "title_en": "Cramer predicts a breakout for Starbucks shares as CEO Niccol's turnaround accelerates",
-      "title_zh": "Cramer predicts a breakout for Starbucks shares as CEO Niccol's turnaround accelerates",
-      "summary_en": "\"There are so many good things ahead here,\" Jim Cramer said Thursday.",
-      "summary_zh": "\"There are so many good things ahead here,\" Jim Cramer said Thursday.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/cramer-predicts-a-breakout-for-starbucks-shares-as-ceo-niccols-turnaround-accelerates-.html",
-      "sectors": []
-    },
-    {
-      "time": "07-30 12:17",
-      "title_en": "Cramer sees a 'sure signal to buy' stocks. Plus what we want from Amazon's results",
-      "title_zh": "Cramer sees a 'sure signal to buy' stocks. Plus what we want from Amazon's results",
-      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "summary_zh": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/cramer-sees-signal-to-buy-stocks-previews-reports-amzn-aapl.html",
-      "sectors": []
-    },
-    {
-      "time": "07-30 11:59",
-      "title_en": "The real story at Apple is the memory crunch — and there's little room for error",
-      "title_zh": "The real story at Apple is the memory crunch — and there's little room for error",
-      "summary_en": "It's a high-stakes quarter for the iPhone maker. Apple needs to show Wall Street exactly how it plans to mitigate the risks of rising memory costs.",
-      "summary_zh": "It's a high-stakes quarter for the iPhone maker. Apple needs to show Wall Street exactly how it plans to mitigate the risks of rising memory costs.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/the-real-story-at-apple-is-memory-and-theres-little-room-for-error.html",
-      "sectors": []
-    },
-    {
-      "time": "07-30 11:14",
-      "title_en": "Across Tehran, billboards threaten Trump, Israel - Reuters",
-      "title_zh": "Across Tehran, billboards threaten Trump, Israel - Reuters",
-      "summary_en": "Across Tehran, billboards threaten Trump, Israel  Reuters",
-      "summary_zh": "Across Tehran, billboards threaten Trump, Israel  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzZLeW9yMVlqY1o1V1pRMlBMeEUzMTFITmw1ZS0xbXZGMkQ2OVBfbzZUNzktNWR6SjQ3QmctOVBvNi1WeFZqOUEyMWRuaTduVURRZGpRZUhGd0I2bVdKZmFENjRzWmhfUXo5NVlsYXdpc1dITm13TXZoMFlPaE44Rm1STnB0d1k0TjQ5YlBFalhmUGxwRUE?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-30 10:58",
-      "title_en": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say - Reuters",
-      "title_zh": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say - Reuters",
-      "summary_en": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say  Reuters",
-      "summary_zh": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5nRVpXaFJmYzZnNk1aMDMwdmc4NDdTalNOTWtaWHhzZGFXWE5JanRRM192OC1qZUs4Q0JHUktVR2VEb1lvdWh4ZjFEd0xQWW1aZkczRFY4VmxQTVV1anlGQ2RsSjFPTjB0aW53NGloTU9Na0hhM1V2ZnpTRFAwOTEtQUpIZ085VHZyS05XN241U3EyZmFqa3hGNzZsU0ZjN1Y2cTRaakE0bWU5VmV6ZTVR?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "07-30 10:55",
-      "title_en": "How NBCUniversal's deal with YouTube could jumpstart the next chapter of the streaming wars",
-      "title_zh": "How NBCUniversal's deal with YouTube could jumpstart the next chapter of the streaming wars",
-      "summary_en": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
-      "summary_zh": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
       "sectors": []
     }
   ],
