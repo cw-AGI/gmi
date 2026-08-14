@@ -1,57 +1,70 @@
 {
   "market": "us",
-  "updated_at": "2026-08-14T05:15:03-04:00",
+  "updated_at": "2026-08-14T10:07:25-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 777.88,
-      "change": 5.39,
-      "change_pct": 0.6977
+      "value": 778.71,
+      "change": 0.83,
+      "change_pct": 0.1067
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 732.07,
-      "change": 8.37,
-      "change_pct": 1.1566
+      "value": 734.04,
+      "change": 1.97,
+      "change_pct": 0.2691
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 537.91,
-      "change": 0.76,
-      "change_pct": 0.1415
+      "value": 537.49,
+      "change": -0.42,
+      "change_pct": -0.0781
     }
   ],
   "news": [
     {
-      "time": "08-14 03:27",
-      "title_en": "Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.",
-      "title_zh": "Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.",
-      "summary_en": "Bitcoin's breakdowns are typically followed by surprise breakout rallies.",
-      "summary_zh": "Bitcoin's breakdowns are typically followed by surprise breakout rallies.",
+      "time": "08-14 05:57",
+      "title_en": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+      "title_zh": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+      "summary_en": "The next AI winners may look nothing like Nvidia.",
+      "summary_zh": "The next AI winners may look nothing like Nvidia.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed302dace8a472546acaac17b060f2d00841567ea9d118a3a03a5d75019c5bb0",
+      "url": "https://finnhub.io/api/news?id=5958f486c0c7755211c6c6308a6d1f60c1b65de72ee3d5c5f19164d67a5c1552",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "08-14 03:25",
-      "title_en": "Should You Forget Berkshire Hathaway and Buy a Focused Financial Stock Instead?",
-      "title_zh": "Should You Forget Berkshire Hathaway and Buy a Focused Financial Stock Instead?",
-      "summary_en": "One option currently provides a guaranteed return on investment.",
-      "summary_zh": "One option currently provides a guaranteed return on investment.",
+      "time": "08-14 05:35",
+      "title_en": "Vanguard Is Bullish on Developed Markets Outside the U.S. -- But How Can You Buy Them? These 2 ETFs Can Help.",
+      "title_zh": "Vanguard Is Bullish on Developed Markets Outside the U.S. -- But How Can You Buy Them? These 2 ETFs Can Help.",
+      "summary_en": "Want to put your money into global stocks that might be big winners from AI? These two low-cost ETFs offer international diversification.",
+      "summary_zh": "Want to put your money into global stocks that might be big winners from AI? These two low-cost ETFs offer international diversification.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=16bebcd6eb08475abd34ac7a95c2a8b9077d85fff2f35e8a2be04ed04d827402",
+      "url": "https://finnhub.io/api/news?id=4b47ae780278b9865b9cf221b77863681025d942a3cd960e14a5283c54a98f12",
       "sectors": [
-        "ai",
-        "finance"
+        "ai"
+      ]
+    },
+    {
+      "time": "08-14 02:31",
+      "title_en": "AMD: Why I'm Not Worried About The Multiple",
+      "title_zh": "AMD: Why I'm Not Worried About The Multiple",
+      "summary_en": "Advanced Micro Devices delivers strong top- and bottom-line growth and remains one of the leading companies in the AI revolution. See why AMD stock is a Buy.",
+      "summary_zh": "Advanced Micro Devices delivers strong top- and bottom-line growth and remains one of the leading companies in the AI revolution. See why AMD stock is a Buy.",
+      "context_en": "📰 Source: AMD · SeekingAlpha · English original",
+      "context_zh": "📰 来源: AMD · SeekingAlpha · 英文原文(未翻译)",
+      "source": "AMD · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b981cae9d4f22fc24420e444f847eb7f24dead932cac5e7103ae6d1ec524626a",
+      "sectors": [
+        "ai"
       ]
     },
     {
@@ -69,104 +82,87 @@
       ]
     },
     {
-      "time": "08-13 16:42",
-      "title_en": "Cerebras Stock PlummetsDespite Solid Earnings",
-      "title_zh": "Cerebras Stock PlummetsDespite Solid Earnings",
-      "summary_en": "Cerebras Systems stock has had a wild ride in a crowded field. Its stock was down despite a strong earnings report.",
-      "summary_zh": "Cerebras Systems stock has had a wild ride in a crowded field. Its stock was down despite a strong earnings report.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fbd08e0f5707c5f6fc48922ab561f722ee1c8aa3e8940f9f3ad9ca83a8c9ab5",
+      "time": "08-14 04:03",
+      "title_en": "Palantir: The Bears Are Running Out Of Arguments",
+      "title_zh": "Palantir: The Bears Are Running Out Of Arguments",
+      "summary_en": "Palantir (PLTR) Q2: 93% revenue growth, 62% operating margin and record $2.13B pipeline despite 54x sales valuation.",
+      "summary_zh": "Palantir (PLTR) Q2: 93% revenue growth, 62% operating margin and record $2.13B pipeline despite 54x sales valuation.",
+      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
+      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
+      "source": "PLTR · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a06ac29afd583ec34368562cc142d703883fbb808d6bb801af8619e518abcd1f",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "08-13 16:13",
-      "title_en": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For ‘Larger Fall’ — Here’s What He Did To NVDA, PLTR And TSLA",
-      "title_zh": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For ‘Larger Fall’ — Here’s What He Did To NVDA, PLTR And TSLA",
-      "summary_en": "‘The Big Short’ investor is cutting overall exposure and shifting his portfolio as a recent market rally pushes his short book into the red.",
-      "summary_zh": "‘The Big Short’ investor is cutting overall exposure and shifting his portfolio as a recent market rally pushes his short book into the red.",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=65330279aa584ddf1e94bf6d68f335b212b9fe35d33379aa257ce70ca1015094",
+      "time": "08-14 03:05",
+      "title_en": "My Near-Perfect $1 Million Retirement Portfolio",
+      "title_zh": "My Near-Perfect $1 Million Retirement Portfolio",
+      "summary_en": "Seven-bucket retirement portfolio blueprint with specific picks for reliable income, attractive yield, and sustainable dividend growthâlearn the strategy...",
+      "summary_zh": "Seven-bucket retirement portfolio blueprint with specific picks for reliable income, attractive yield, and sustainable dividend growthâlearn the strategy...",
+      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
+      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
+      "source": "PLTR · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "08-13 14:05",
-      "title_en": "What's going on in today's session: S&P500 most active stocks",
-      "title_zh": "What's going on in today's session: S&P500 most active stocks",
-      "summary_en": "Stay informed about the most active stocks in the S&P500 index on Thursday's session. Discover the stocks that are generating the highest trading volume and driving market activity.",
-      "summary_zh": "Stay informed about the most active stocks in the S&P500 index on Thursday's session. Discover the stocks that are generating the highest trading volume and driving market activity.",
-      "context_en": "📰 Source: PLTR · ChartMill · English original",
-      "context_zh": "📰 来源: PLTR · ChartMill · 英文原文(未翻译)",
-      "source": "PLTR · ChartMill",
-      "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
+      "time": "08-14 04:30",
+      "title_en": "Microsoft: The $678 Billion Answer To The AI Skeptics",
+      "title_zh": "Microsoft: The $678 Billion Answer To The AI Skeptics",
+      "summary_en": "Microsoftâs Q4/FY2026 shows Azure topping $100B, proven AI monetization, and undervalued shares. Learn more about MSFT stock here.",
+      "summary_zh": "Microsoftâs Q4/FY2026 shows Azure topping $100B, proven AI monetization, and undervalued shares. Learn more about MSFT stock here.",
+      "context_en": "📰 Source: MSFT · SeekingAlpha · English original",
+      "context_zh": "📰 来源: MSFT · SeekingAlpha · 英文原文(未翻译)",
+      "source": "MSFT · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0de4ce97b3a14e2181843abcfd980128c26fad223498122ddf85bb0ae67eb132",
       "sectors": [
         "ai",
-        "bio"
+        "tech"
       ]
     },
     {
-      "time": "08-14 03:13",
-      "title_en": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
-      "title_zh": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
-      "summary_en": "In August 2026, Stride, Inc. reported fourth-quarter and full-year results showing higher annual revenue of US$2.52 billion and improved profitability, extended its share repurchase authorization through October 2027, and confirmed it is actively evaluating acquisitions alongside ongoing buybacks. The appointment of Robert E. Knowling Jr. as CEO, combined with strong growth in career learning programs and continued capital returns, signals a renewed emphasis on both educational outcomes and...",
-      "summary_zh": "In August 2026, Stride, Inc. reported fourth-quarter and full-year results showing higher annual revenue of US$2.52 billion and improved profitability, extended its share repurchase authorization through October 2027, and confirmed it is actively evaluating acquisitions alongside ongoing buybacks. The appointment of Robert E. Knowling Jr. as CEO, combined with strong growth in career learning programs and continued capital returns, signals a renewed emphasis on both educational outcomes and...",
+      "time": "08-14 04:01",
+      "title_en": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
+      "title_zh": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
+      "summary_en": "Opportunities center on easy-to-use hybrid meeting systems, including all-in-one video bars, modular room kits, intelligent cameras and audio, and native Teams/Zoom support. Vendors can differentiate through reliability, user satisfaction, productivity gains and cost savings.Dublin, Aug. 14, 2026 (GLOBE NEWSWIRE) -- The \"MetriStar Top Provider: Room Video Conferencing Systems\" has been added to ResearchAndMarkets.com's offering As hybrid work continues to reshape enterprise collaboration, the 20",
+      "summary_zh": "Opportunities center on easy-to-use hybrid meeting systems, including all-in-one video bars, modular room kits, intelligent cameras and audio, and native Teams/Zoom support. Vendors can differentiate through reliability, user satisfaction, productivity gains and cost savings.Dublin, Aug. 14, 2026 (GLOBE NEWSWIRE) -- The \"MetriStar Top Provider: Room Video Conferencing Systems\" has been added to ResearchAndMarkets.com's offering As hybrid work continues to reshape enterprise collaboration, the 20",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=75ea1ce65404d729b4d990e6a96dfdd70b5772dca6d5ebe2fdbb9775581ad12e",
+      "url": "https://finnhub.io/api/news?id=42475d1b50ab94aa52a77b1dbedb5b2560c6348d07e58910b2085e6af9c98605",
       "sectors": [
         "tech"
       ]
     },
     {
-      "time": "08-14 01:30",
-      "title_en": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-      "title_zh": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-      "summary_en": "These new futures contracts would allow investors to hedge and speculate on the cost of renting chips that machines need to train and run AI models.",
-      "summary_zh": "These new futures contracts would allow investors to hedge and speculate on the cost of renting chips that machines need to train and run AI models.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ae65ea3fe426b1c62b7073d35dcead9146d50261ecaf7e18d41f245de7d008e",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "08-13 22:07",
-      "title_en": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-      "title_zh": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-      "summary_en": "On Thursday, Apple Inc. (NASDAQ:AAPL) CEO Tim Cook was joined by U.S. Commerce Secretary Howard Lutnick and others at the opening of the new Advanced Manufacturing Center in Houston, Texas, where Cupertino will begin making Mac mini computers later this year. Apple Opens Houston Manufacturing Center The 20,000-square-foot center will provide free training to small and midsized businesses, workers and students on advanced manufacturing techniques, including machine-learning-powered quality contro",
-      "summary_zh": "On Thursday, Apple Inc. (NASDAQ:AAPL) CEO Tim Cook was joined by U.S. Commerce Secretary Howard Lutnick and others at the opening of the new Advanced Manufacturing Center in Houston, Texas, where Cupertino will begin making Mac mini computers later this year. Apple Opens Houston Manufacturing Center The 20,000-square-foot center will provide free training to small and midsized businesses, workers and students on advanced manufacturing techniques, including machine-learning-powered quality contro",
+      "time": "08-14 03:50",
+      "title_en": "The Best \"Magnificent Seven\" Stocks to Buy in August",
+      "title_zh": "The Best \"Magnificent Seven\" Stocks to Buy in August",
+      "summary_en": "The Magnificent Seven have been mostly poor performers this year.",
+      "summary_zh": "The Magnificent Seven have been mostly poor performers this year.",
       "context_en": "📰 Source: AAPL · Yahoo · English original",
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bd02435632b5e2e750fc020928b90d16676c1f4c9bd0b381641f8d22f4fe3ce",
+      "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
       "sectors": [
-        "industry",
         "tech"
       ]
     },
     {
-      "time": "08-13 21:17",
-      "title_en": "Apple’s next iPhone battle just got more complicated",
-      "title_zh": "Apple’s next iPhone battle just got more complicated",
-      "summary_en": "Apple (AAPL) is preparing to undertake a pretty unpleasant AI test. Google has unveiled the Pixel 11 series. With Gemini Intelligence incorporated much more deeply into the smartphone experience, it offers customers an AI assistant that can comprehend what they're doing across messaging, calendars, ...",
-      "summary_zh": "Apple (AAPL) is preparing to undertake a pretty unpleasant AI test. Google has unveiled the Pixel 11 series. With Gemini Intelligence incorporated much more deeply into the smartphone experience, it offers customers an AI assistant that can comprehend what they're doing across messaging, calendars, ...",
-      "context_en": "📰 Source: AAPL · Yahoo · English original",
-      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
-      "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=95fe7aef1fb6fbcf3d9a5e828d0fccf54d2632551988d90ad4940d90d29485ee",
+      "time": "08-14 01:35",
+      "title_en": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
+      "title_zh": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
+      "summary_en": "",
+      "summary_zh": "",
+      "context_en": "📰 Source: AAPL · SeekingAlpha · English original",
+      "context_zh": "📰 来源: AAPL · SeekingAlpha · 英文原文(未翻译)",
+      "source": "AAPL · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9c46644e09772e1017bc7a5712d8bb34100b45c56d70816faaee72ccc1458dd",
       "sectors": [
-        "ai",
         "tech"
       ]
     },
@@ -200,30 +196,31 @@
       ]
     },
     {
-      "time": "08-13 21:23",
-      "title_en": "Why Coherent Stock Jumped Before Its Own Results Landed",
-      "title_zh": "Why Coherent Stock Jumped Before Its Own Results Landed",
-      "summary_en": "The gain was set before the results crossed, and its optical peers rose with it.",
-      "summary_zh": "The gain was set before the results crossed, and its optical peers rose with it.",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=74b6f870518e1862534826672f37691531a9f34364e281e5bea5114f85c59ac5",
+      "time": "08-14 07:22",
+      "title_en": "Broadcom (NASDAQ:AVGO) Combines Strong Growth Fundamentals with a Bull Flag Technical Setup",
+      "title_zh": "Broadcom (NASDAQ:AVGO) Combines Strong Growth Fundamentals with a Bull Flag Technical Setup",
+      "summary_en": "Broadcom (AVGO) combines top growth ratings with a bull flag setup, strong profitability, and accelerating EPS/revenue—worth watching for a breakout.",
+      "summary_zh": "Broadcom (AVGO) combines top growth ratings with a bull flag setup, strong profitability, and accelerating EPS/revenue—worth watching for a breakout.",
+      "context_en": "📰 Source: AVGO · ChartMill · English original",
+      "context_zh": "📰 来源: AVGO · ChartMill · 英文原文(未翻译)",
+      "source": "AVGO · ChartMill",
+      "url": "https://finnhub.io/api/news?id=8fb4adfa4e625756eb0ecefb76a8a88ede0f943009c97f6de0894ef2e112d0c6",
       "sectors": [
         "tech"
       ]
     },
     {
-      "time": "08-13 16:07",
-      "title_en": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-      "title_zh": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-      "summary_en": "Options are priced for a calmer stretch than the stock just delivered, and even that assumption leaves room to lose close to half a position or nearly double it.",
-      "summary_zh": "Options are priced for a calmer stretch than the stock just delivered, and even that assumption leaves room to lose close to half a position or nearly double it.",
+      "time": "08-14 04:35",
+      "title_en": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028",
+      "title_zh": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028",
+      "summary_en": "Broadcom and Taiwan Semiconductor have a lot of work to do to join the $4 trillion market cap club.",
+      "summary_zh": "Broadcom and Taiwan Semiconductor have a lot of work to do to join the $4 trillion market cap club.",
       "context_en": "📰 Source: AVGO · Yahoo · English original",
       "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
       "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=ade1a93d5b44a0c93c9e1b2ab6f8519431cbe1ea3208da6b583482a0c2f0086c",
+      "url": "https://finnhub.io/api/news?id=651bbfd3451869d4f7a3b810e72b44c2a3424590fefaf032c257e5250b800deb",
       "sectors": [
+        "ai",
         "tech"
       ]
     },
@@ -240,21 +237,6 @@
       "sectors": [
         "comm",
         "tech"
-      ]
-    },
-    {
-      "time": "08-14 01:23",
-      "title_en": "CSCO Stock In Focus: Wall Street Sees More Upside As AI Demand Fuels Cisco’s ‘Networking Supercycle’",
-      "title_zh": "CSCO Stock In Focus: Wall Street Sees More Upside As AI Demand Fuels Cisco’s ‘Networking Supercycle’",
-      "summary_en": "Cisco Systems gains Wall Street confidence as Truist, UBS and Rosenblatt raise price targets, citing strong results, AI demand, and networking growth.",
-      "summary_zh": "Cisco Systems gains Wall Street confidence as Truist, UBS and Rosenblatt raise price targets, citing strong results, AI demand, and networking growth.",
-      "context_en": "📰 Source: CSCO · Yahoo · English original",
-      "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
-      "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=853c9fbaed58a61a079f6d64c60b6ce4e74613bdb44035fd88f5479da5d4b304",
-      "sectors": [
-        "ai",
-        "comm"
       ]
     },
     {
@@ -538,88 +520,210 @@
       ]
     },
     {
-      "time": "08-13 22:40",
-      "title_en": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "title_zh": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "summary_en": "The US says more oil is leaving the Middle East, but is it really?  Reuters",
-      "summary_zh": "The US says more oil is leaving the Middle East, but is it really?  Reuters",
+      "time": "08-14 09:36",
+      "title_en": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "title_zh": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "summary_en": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster  Reuters",
+      "summary_zh": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "08-13 21:36",
-      "title_en": "Oil rises after US threatens indefinite blockade of Iran - Reuters",
-      "title_zh": "Oil rises after US threatens indefinite blockade of Iran - Reuters",
-      "summary_en": "Oil rises after US threatens indefinite blockade of Iran  Reuters",
-      "summary_zh": "Oil rises after US threatens indefinite blockade of Iran  Reuters",
+      "time": "08-14 07:15",
+      "title_en": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
+      "title_zh": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close - Reuters",
+      "summary_en": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close  Reuters",
+      "summary_zh": "Wall St futures muted as higher oil prices temper risk appetite after S&P record close  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "08-13 17:21",
-      "title_en": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-      "title_zh": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-      "summary_en": "Are global oil stocks big enough to weather another six months of US-Iran war?  Reuters",
-      "summary_zh": "Are global oil stocks big enough to weather another six months of US-Iran war?  Reuters",
+      "time": "08-14 07:03",
+      "title_en": "Oil set for weekly gains after US threatens indefinite blockade of Iran - Reuters",
+      "title_zh": "Oil set for weekly gains after US threatens indefinite blockade of Iran - Reuters",
+      "summary_en": "Oil set for weekly gains after US threatens indefinite blockade of Iran  Reuters",
+      "summary_zh": "Oil set for weekly gains after US threatens indefinite blockade of Iran  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "08-13 17:20",
-      "title_en": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
-      "title_zh": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
-      "summary_en": "Israel sends troops into West Bank homes besieged by Jewish settlers  Reuters",
-      "summary_zh": "Israel sends troops into West Bank homes besieged by Jewish settlers  Reuters",
+      "time": "08-14 02:01",
+      "title_en": "Israeli settlers divert Palestinian water to fill West Bank pool - Reuters",
+      "title_zh": "Israeli settlers divert Palestinian water to fill West Bank pool - Reuters",
+      "summary_en": "Israeli settlers divert Palestinian water to fill West Bank pool  Reuters",
+      "summary_zh": "Israeli settlers divert Palestinian water to fill West Bank pool  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnkwN181TzdJQXA2ajNoUENXQTVxVTBvaDVrMHNfT0FldklHZGZ0Y094aFRMM3B2ZXpBbjdneUdKQ2h4aFQyTjdweE1uNXRtWEpXdVhWc29HbkVyU01qcUtnek0yTjVqdU5pQUlkUVdEeGFxUVhEdGRjQ2hPT0JmYTRuMTVtVVhFU050aVhnVnlUZ2ltRVZROEJoQ3lUZC1jYVI3ZV9nSm53bU9pcGtmdjBSQXJQMFBJdzc4aGw3aU0wQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXVEdENUNENwYzlmYS1QQkxJeGlxVUt6Vkp4Zm80UklLMHBWRzNzWENDcUFhdkxkcUtMc2lmdzY1NElLSXFuT2wtWG5RNC1ybkk4V3RDMlJqQ3JDM1M0em5VanBHUHBTRTNJMjZ5TU00Z0MwT2t4bFVIMmJTMnpJdmg0czV4cDZDTWUxbHN6N2xadDhOd0hmYmpob1BTc2R4Y0l6V2I3WEpxTGxVNGpPWXpvc1otZk1l?oc=5",
       "sectors": [
         "finance"
       ]
     },
     {
-      "time": "08-13 15:23",
-      "title_en": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
-      "title_zh": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
-      "summary_en": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
-      "summary_zh": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
-      "sectors": [
-        "bio"
-      ]
-    },
-    {
-      "time": "08-13 13:21",
-      "title_en": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
-      "title_zh": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
-      "summary_en": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says  Reuters",
-      "summary_zh": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says  Reuters",
+      "time": "08-14 01:23",
+      "title_en": "Philippine president says joint oil and gas exploration with China a 'distinct possibility' - Reuters",
+      "title_zh": "Philippine president says joint oil and gas exploration with China a 'distinct possibility' - Reuters",
+      "summary_en": "Philippine president says joint oil and gas exploration with China a 'distinct possibility'  Reuters",
+      "summary_zh": "Philippine president says joint oil and gas exploration with China a 'distinct possibility'  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0JHby03N0ZqSUVaWDJZU2tvcHNIVDZmdTJNYzkwakcxSjljRmNwU3lfSTlicnoxTGl5MWpqLVQ5UTNmTnpPcXhMX0NXcFBBNTNYQ3d2X1YyRGt4VGJ4RWhuNHdvc0VfOUF1ZzZoc05QTEZ5ZXpMcEdrbTFib1hwX0tyaV9LZ1VUOENkSFJvcjdLb1Z5QjZVc0tGNlU3NmtDbUppVk1RU1NZR2dEcWpGc3hYN2c5SWkxTThLZ0tn?oc=5",
       "sectors": [
-        "consumer"
+        "energy"
       ]
+    },
+    {
+      "time": "08-13 22:47",
+      "title_en": "Fuel oil from Malaysia PRefChem refinery heads to US for first time since 2023 - Reuters",
+      "title_zh": "Fuel oil from Malaysia PRefChem refinery heads to US for first time since 2023 - Reuters",
+      "summary_en": "Fuel oil from Malaysia PRefChem refinery heads to US for first time since 2023  Reuters",
+      "summary_zh": "Fuel oil from Malaysia PRefChem refinery heads to US for first time since 2023  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUpUX3NDVmswOWd5ZXJYV0Qtb2E5UWI4WW04N21JS3JSRzcwWU9JZXppZEF0OU5fd1R0NThtMjlLWUVIXy1CN3BtSXZ2OEVCSG02R0locGlOcnBueWJacTA5ZDJ3YldxalBnaEVhRXlBVlNHSG45SXpuLV9LVjg0SlRoT1BFWDJBTG96TjRIMU5NenMyajNFWG9MOHN2RXpnWFpCN3Z0YnNrQ0h3Ymx1dEpoNkpRMHBMbXc?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "08-13 22:32",
+      "title_en": "Stocks nudge at record highs; cooler US inflation eclipses oil rally - Reuters",
+      "title_zh": "Stocks nudge at record highs; cooler US inflation eclipses oil rally - Reuters",
+      "summary_en": "Stocks nudge at record highs; cooler US inflation eclipses oil rally  Reuters",
+      "summary_zh": "Stocks nudge at record highs; cooler US inflation eclipses oil rally  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "08-14 10:00",
+      "title_en": "Housing investors say this is their worst market in at least 3 years",
+      "title_zh": "Housing investors say this is their worst market in at least 3 years",
+      "summary_en": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+      "summary_zh": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "sectors": []
+    },
+    {
+      "time": "08-14 09:17",
+      "title_en": "The Club's top 10 things to watch in the stock market Friday",
+      "title_zh": "The Club's top 10 things to watch in the stock market Friday",
+      "summary_en": "Stocks are headed for a mixed open following Thursday's record S&P 500 close.",
+      "summary_zh": "Stocks are headed for a mixed open following Thursday's record S&P 500 close.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "sectors": []
+    },
+    {
+      "time": "08-14 07:00",
+      "title_en": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - Reuters",
+      "title_zh": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - Reuters",
+      "summary_en": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz  Reuters",
+      "summary_zh": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-14 06:13",
+      "title_en": "Siege in Palestinian village draws US criticism as Israeli settlers dig in - Reuters",
+      "title_zh": "Siege in Palestinian village draws US criticism as Israeli settlers dig in - Reuters",
+      "summary_en": "Siege in Palestinian village draws US criticism as Israeli settlers dig in  Reuters",
+      "summary_zh": "Siege in Palestinian village draws US criticism as Israeli settlers dig in  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-14 04:55",
+      "title_en": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+      "title_zh": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+      "summary_en": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.",
+      "summary_zh": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+      "sectors": []
+    },
+    {
+      "time": "08-14 03:59",
+      "title_en": "China calls Taiwan's annual military drills a 'wasteful charade' - Reuters",
+      "title_zh": "China calls Taiwan's annual military drills a 'wasteful charade' - Reuters",
+      "summary_en": "China calls Taiwan's annual military drills a 'wasteful charade'  Reuters",
+      "summary_zh": "China calls Taiwan's annual military drills a 'wasteful charade'  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-14 00:54",
+      "title_en": "Air India A320 briefly lost key flight controls, Airbus analysis shows - Reuters",
+      "title_zh": "Air India A320 briefly lost key flight controls, Airbus analysis shows - Reuters",
+      "summary_en": "Air India A320 briefly lost key flight controls, Airbus analysis shows  Reuters",
+      "summary_zh": "Air India A320 briefly lost key flight controls, Airbus analysis shows  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-14 00:23",
+      "title_en": "China rejects New Zealand spy allegations as false - Reuters",
+      "title_zh": "China rejects New Zealand spy allegations as false - Reuters",
+      "summary_en": "China rejects New Zealand spy allegations as false  Reuters",
+      "summary_zh": "China rejects New Zealand spy allegations as false  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWxWY25FcmZzYjVJNnlyZEVhdUJMbkJ5c2NULWphdWg4RUMwVTYxRmlVc3JrS0prTEh1NXBXUGhnazVRS1lXVVE5QXFPM2dUcFFCQzVfVFhRLWpWOTU0aUhuUkxMSXNvdGlKVi14aHV2MVJaRWYxMDhxX01GcnVBY245NEpmXzdOVUNoaUdhRS1iNjdRaV9WbjVMUQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-14 00:02",
+      "title_en": "Gold steadies from two-month peak as inflation-led rally loses steam - Reuters",
+      "title_zh": "Gold steadies from two-month peak as inflation-led rally loses steam - Reuters",
+      "summary_en": "Gold steadies from two-month peak as inflation-led rally loses steam  Reuters",
+      "summary_zh": "Gold steadies from two-month peak as inflation-led rally loses steam  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+      "sectors": []
     },
     {
       "time": "08-13 23:48",
@@ -634,159 +738,39 @@
       "sectors": []
     },
     {
-      "time": "08-13 22:32",
-      "title_en": "Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters",
-      "title_zh": "Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters",
-      "summary_en": "Asian stocks head for strong weekly gains as US rate hike bets fade  Reuters",
-      "summary_zh": "Asian stocks head for strong weekly gains as US rate hike bets fade  Reuters",
+      "time": "08-13 23:48",
+      "title_en": "Reform UK's Nigel Farage to avoid election count against Count Binface - Reuters",
+      "title_zh": "Reform UK's Nigel Farage to avoid election count against Count Binface - Reuters",
+      "summary_en": "Reform UK's Nigel Farage to avoid election count against Count Binface  Reuters",
+      "summary_zh": "Reform UK's Nigel Farage to avoid election count against Count Binface  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-13 23:46",
+      "title_en": "Fire effects cleared up at Russian port of Ust-Luga after drone attack, governor says - Reuters",
+      "title_zh": "Fire effects cleared up at Russian port of Ust-Luga after drone attack, governor says - Reuters",
+      "summary_en": "Fire effects cleared up at Russian port of Ust-Luga after drone attack, governor says  Reuters",
+      "summary_zh": "Fire effects cleared up at Russian port of Ust-Luga after drone attack, governor says  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkpOZUdEZnZKWlZrcGJCTGJWRmZDNTFSUkctc0FXckpXYXFYOWNNOE9aYllQWnBVNG41bmJUdnRnb2U1MXVKY1hMb3pZaW9OSWpmX2EzRHRTQ3J4ZUk1ZHNLdEdfME9JNEt3cjhYMkV6Qy1kSmE5LXdDWlBaZUJ1RU5yMmVyXzNrRFdpYnNvRVFKbjdMdHo3N3NZYWtkUW1zYWU5anRVTXpPaG5icmtsMmpJRXA5THc?oc=5",
       "sectors": []
     },
     {
       "time": "08-13 22:28",
-      "title_en": "Indian shares slip as US threatens indefinite naval blockade of Iran - Reuters",
-      "title_zh": "Indian shares slip as US threatens indefinite naval blockade of Iran - Reuters",
-      "summary_en": "Indian shares slip as US threatens indefinite naval blockade of Iran  Reuters",
-      "summary_zh": "Indian shares slip as US threatens indefinite naval blockade of Iran  Reuters",
+      "title_en": "Indian shares end week lower as higher crude tempers risk appetite - Reuters",
+      "title_zh": "Indian shares end week lower as higher crude tempers risk appetite - Reuters",
+      "summary_en": "Indian shares end week lower as higher crude tempers risk appetite  Reuters",
+      "summary_zh": "Indian shares end week lower as higher crude tempers risk appetite  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 19:31",
-      "title_en": "Bessent says US to apply measures never seen on Iran - Reuters",
-      "title_zh": "Bessent says US to apply measures never seen on Iran - Reuters",
-      "summary_en": "Bessent says US to apply measures never seen on Iran  Reuters",
-      "summary_zh": "Bessent says US to apply measures never seen on Iran  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2p2QW55Tk9jcjF5Ti1OZmlpMGpLTEg0RU92RVEtMzFobXY2TmtNWjFJaUVZMl9RaWxWM09uV2xjVlQ0dnFHcGlEVi1Zc3ZnRHpFMkZ5VExoeTdzSVE0cmYzMVRFQUExRHA2RHNhZFpFMFZnNnIySjh3RTBRSXVtX3ZqVTJjVWhGSmdpTHVmY19QRE9ieWNmaDdaM2hmOHZfRFE?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 19:02",
-      "title_en": "Iran war a boon for China's e-trucks, fuelling export surge - Reuters",
-      "title_zh": "Iran war a boon for China's e-trucks, fuelling export surge - Reuters",
-      "summary_en": "Iran war a boon for China's e-trucks, fuelling export surge  Reuters",
-      "summary_zh": "Iran war a boon for China's e-trucks, fuelling export surge  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVEwN3ZXeTQ5RmxKUlJScTRsa1FpNGJCaGVfR1dkMDJMVkZnenFHUDcxVjdmbVk2ajJaaWxlTDZ3SkVZd1hLdG9yenk0X0hyb01wMXpxQ1JEbklIR3d1cVdtbVdETXNhRy1NQUhJSVpYa05vOEc4emFqc1R0eUNOWDhCYmlxaThjTm5TaDV2RmZaeWk4VlBINmM0UWVlaV9MSTRZc0xkQTZ4QQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 17:53",
-      "title_en": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
-      "title_zh": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
-      "summary_en": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure  Reuters",
-      "summary_zh": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFTRDhha2lGLW5hTU1KdDZnVjlxd2hEY1lqX3Zfd2NmVlRXZjVWbDNHMXdJem1SX1hsNUpoaF9lWHhYUVFmUWJ0SDBWRG5uOGMzYzI0MFh6ckthOWJNZXNtR0tJVFJFcEMtVjdwZVFpdURyczZ0NTkzMDh1dDJNRWxKQ2htMEpBQ3N2Q25OY19wRWxaYTVCTmJJRWprVFFSMWNITjl4QmUxQVN1MUFnNHRsRWJGYUpHZ1Ywb0Nn?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 17:37",
-      "title_en": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
-      "title_zh": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
-      "summary_en": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers  Reuters",
-      "summary_zh": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 17:19",
-      "title_en": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters",
-      "title_zh": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters",
-      "summary_en": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries  Reuters",
-      "summary_zh": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 17:17",
-      "title_en": "Bird remains found aboard 737 engine from Ryanair Greek incident - Reuters",
-      "title_zh": "Bird remains found aboard 737 engine from Ryanair Greek incident - Reuters",
-      "summary_en": "Bird remains found aboard 737 engine from Ryanair Greek incident  Reuters",
-      "summary_zh": "Bird remains found aboard 737 engine from Ryanair Greek incident  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmV1RmxReUYwWXhWWk54TWU5VHpXZ2FUREw4TEo2LTkyVi1MMkZSQ2h1SlZHMDdyWDRuaEdqS2loajVsQ1NwS3VkV0FNdGpfN181UmtLYUpUUnZ5eldNRDc0WEVqYVRsVjl5SGgyQnZIc2NZQ0dITFhaZ2JtdU1EbFdSeUlkRjZNeV85dmxaLUdhYTdtNzZvMnR4R0QyZm9HQU95Z2lIcTBxd0N5YXZ4MWtfYTdkeWFfS3dQZEFHaw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 16:58",
-      "title_en": "NEWSLETTER: Trump reckons with a war that won’t leave him alone - Reuters",
-      "title_zh": "NEWSLETTER: Trump reckons with a war that won’t leave him alone - Reuters",
-      "summary_en": "NEWSLETTER: Trump reckons with a war that won’t leave him alone  Reuters",
-      "summary_zh": "NEWSLETTER: Trump reckons with a war that won’t leave him alone  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFFaUWV6X2Y0Z1ZyZnlDaHlOUG5rSnFzdDFSVGx2SzluWVVJYlFlRFdMXzQzQkV4UERITFhfaEdQdmdCVS1tUmJWWFlYdnF6dk5IcXdPdERjVzZtQV9na3dtR2VxYkc2LWtHOFdlVl9LcEQyUHRPdWhuM2drMnpQV1BCTURwYUE1d0VMV2QzaW1PWms5V2pwUg?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 15:48",
-      "title_en": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
-      "title_zh": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
-      "summary_en": "US could not verify Israeli warnings of Iran plots against Trump, sources say  Reuters",
-      "summary_zh": "US could not verify Israeli warnings of Iran plots against Trump, sources say  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 13:51",
-      "title_en": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-      "title_zh": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-      "summary_en": "Iran, US make competing claims over control of Strait of Hormuz  Reuters",
-      "summary_zh": "Iran, US make competing claims over control of Strait of Hormuz  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 13:25",
-      "title_en": "Yemen at highest risk of major conflict since 2022 truce, UN warns - Reuters",
-      "title_zh": "Yemen at highest risk of major conflict since 2022 truce, UN warns - Reuters",
-      "summary_en": "Yemen at highest risk of major conflict since 2022 truce, UN warns  Reuters",
-      "summary_zh": "Yemen at highest risk of major conflict since 2022 truce, UN warns  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMC1Hb3ZMdDRzNVlfc1NxaWstRk16Vk44emxyaU4tcmtzOEExQ0pyUlQzS2ZsTkhlVWFkTlp5SUswUmlIcGZJWGE0X2FNRXh0cnJvQWpZV25OQ0xpUk1wU0VfeDhWdlRQQUpWZ3RqV2RULTN4Ty1nNnctTXZlU3U3TU1WSW01cG1vWWIxNkR4M1JPNzVtT1ZVSGQxUlZsV3Y1U2tIcktxTE1oTnluc2Z1TXdsVQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-13 12:43",
-      "title_en": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
-      "title_zh": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
-      "summary_en": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says  Reuters",
-      "summary_zh": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
       "sectors": []
     }
   ],
