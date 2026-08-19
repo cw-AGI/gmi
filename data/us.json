@@ -1,56 +1,58 @@
 {
   "market": "us",
-  "updated_at": "2026-08-19T04:48:36-04:00",
+  "updated_at": "2026-08-19T09:36:08-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 767.45,
-      "change": -5.22,
-      "change_pct": -0.6756
+      "value": 770.05,
+      "change": 2.6,
+      "change_pct": 0.3388
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 717.51,
-      "change": -12.36,
-      "change_pct": -1.6935
+      "value": 719.74,
+      "change": 2.23,
+      "change_pct": 0.3108
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 532.91,
-      "change": -1.28,
-      "change_pct": -0.2396
+      "value": 534.04,
+      "change": 1.13,
+      "change_pct": 0.212
     }
   ],
   "news": [
     {
-      "time": "08-18 21:41",
-      "title_en": "NVDY Isn't The Fund It Was - Because Nvidia Isn't The Stock It Was",
-      "title_zh": "NVDY Isn't The Fund It Was - Because Nvidia Isn't The Stock It Was",
-      "summary_en": "YieldMax NVDY is downgraded to Hold as Nvidia volatility falls, reducing option income and upside.",
-      "summary_zh": "YieldMax NVDY is downgraded to Hold as Nvidia volatility falls, reducing option income and upside.",
-      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
-      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
-      "source": "NVDA · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2b56a5687bdc80333f6fced8d708f8cdc6035e7faf00a87c0bf26aa4107159d3",
+      "time": "08-19 05:41",
+      "title_en": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
+      "title_zh": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
+      "summary_en": "NVIDIA fits affordable growth: strong earnings/revenue growth, forward P/E below S&P 500, top profitability/health. A balanced growth-value pick.",
+      "summary_zh": "NVIDIA fits affordable growth: strong earnings/revenue growth, forward P/E below S&P 500, top profitability/health. A balanced growth-value pick.",
+      "context_en": "📰 Source: NVDA · ChartMill · English original",
+      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
+      "source": "NVDA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=c76fb2ffc4b6a48e2bb32a05ecaa356238a074c97e35811359aa83d3f9934d42",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "08-18 15:10",
-      "title_en": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "title_zh": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "summary_en": "Join us in exploring the top gainers and losers within the dow jones index one hour before the close of the markets on Tuesday as we examine the latest happenings in today's session.",
-      "summary_zh": "Join us in exploring the top gainers and losers within the dow jones index one hour before the close of the markets on Tuesday as we examine the latest happenings in today's session.",
+      "time": "08-19 04:07",
+      "title_en": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
+      "title_zh": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
+      "summary_en": "Rising long-end Treasury yields and a sharp reversal in semiconductors dragged US stocks lower on Tuesday, August 18, 2026. Duolingo bucked the trend on a broker upgrade while Baidu and Klarna disappointed.",
+      "summary_zh": "Rising long-end Treasury yields and a sharp reversal in semiconductors dragged US stocks lower on Tuesday, August 18, 2026. Duolingo bucked the trend on a broker upgrade while Baidu and Klarna disappointed.",
       "context_en": "📰 Source: NVDA · ChartMill · English original",
       "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
       "source": "NVDA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
+      "url": "https://finnhub.io/api/news?id=62931e0861f4d587e501c84a06cf467fff02e73396bc22fd37f2c5a19c943e4b",
       "sectors": [
-        "ai"
+        "ai",
+        "finance",
+        "tech"
       ]
     },
     {
@@ -83,6 +85,20 @@
       ]
     },
     {
+      "time": "08-19 02:22",
+      "title_en": "Why Wall Street Still Underestimates Palantir",
+      "title_zh": "Why Wall Street Still Underestimates Palantir",
+      "summary_en": "Palantir Q2 2026 revenue grew 19% QoQ, with U.S. Commercial sales up 149% YoY and Government revenue up 79% YoY. Learn why PLTR stock is a buy.",
+      "summary_zh": "Palantir Q2 2026 revenue grew 19% QoQ, with U.S. Commercial sales up 149% YoY and Government revenue up 79% YoY. Learn why PLTR stock is a buy.",
+      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
+      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
+      "source": "PLTR · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=086f1f854c0c902c061bb48c172bad4094a4abb9e7592e4af16f3e352b2ece75",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
       "time": "08-18 08:55",
       "title_en": "Palantir: The Easy Money Is Gone",
       "title_zh": "Palantir: The Easy Money Is Gone",
@@ -94,21 +110,6 @@
       "url": "https://finnhub.io/api/news?id=c8f9ae243344d1a1dfb0b5c4d982b715397565db572bc253dc6dd0d623c986f7",
       "sectors": [
         "ai"
-      ]
-    },
-    {
-      "time": "08-18 08:38",
-      "title_en": "'British data group Quantexa explores UK or US IPO, sources say' - Reuters",
-      "title_zh": "'British data group Quantexa explores UK or US IPO, sources say' - Reuters",
-      "summary_en": "https://www.reuters.com/world/british-data-group-quantexa-explores-uk-or-us-ipo-sources-say-2026-08-18/",
-      "summary_zh": "https://www.reuters.com/world/british-data-group-quantexa-explores-uk-or-us-ipo-sources-say-2026-08-18/",
-      "context_en": "📰 Source: PLTR · Benzinga · English original",
-      "context_zh": "📰 来源: PLTR · Benzinga · 英文原文(未翻译)",
-      "source": "PLTR · Benzinga",
-      "url": "https://finnhub.io/api/news?id=46db90755f1f4f596d9ee4f1bd8eae153a4ca455921548aaf91c23efa6f3dbdf",
-      "sectors": [
-        "ai",
-        "finance"
       ]
     },
     {
@@ -138,6 +139,20 @@
       "url": "https://finnhub.io/api/news?id=f7edbc3ed471f9093691c66f152989caca89da0b3b41e19da47bf4021190bf3b",
       "sectors": [
         "energy",
+        "tech"
+      ]
+    },
+    {
+      "time": "08-18 15:10",
+      "title_en": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "title_zh": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "summary_en": "Join us in exploring the top gainers and losers within the dow jones index one hour before the close of the markets on Tuesday as we examine the latest happenings in today's session.",
+      "summary_zh": "Join us in exploring the top gainers and losers within the dow jones index one hour before the close of the markets on Tuesday as we examine the latest happenings in today's session.",
+      "context_en": "📰 Source: AAPL · ChartMill · English original",
+      "context_zh": "📰 来源: AAPL · ChartMill · 英文原文(未翻译)",
+      "source": "AAPL · ChartMill",
+      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
+      "sectors": [
         "tech"
       ]
     },
@@ -179,21 +194,6 @@
       "context_zh": "📰 来源: AVGO · Benzinga · 英文原文(未翻译)",
       "source": "AVGO · Benzinga",
       "url": "https://finnhub.io/api/news?id=8be0662f56a93fc1a3eafb7348c7ea178f1847ba7757168a8bfdfcfd45768efa",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "08-18 05:30",
-      "title_en": "Accenture Could Be Dead Money",
-      "title_zh": "Accenture Could Be Dead Money",
-      "summary_en": "Accenture (ACN) stock faces AI disruption and slowing growth; bookings slip, and guidance is key. Read here for a detailed investment analysis.",
-      "summary_zh": "Accenture (ACN) stock faces AI disruption and slowing growth; bookings slip, and guidance is key. Read here for a detailed investment analysis.",
-      "context_en": "📰 Source: AVGO · SeekingAlpha · English original",
-      "context_zh": "📰 来源: AVGO · SeekingAlpha · 英文原文(未翻译)",
-      "source": "AVGO · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a7e4c59a6d97369192e2fdd9b75645fa6f3b0812ec8b6f11fac6ab39afe08a6a",
       "sectors": [
         "ai",
         "tech"
@@ -369,30 +369,29 @@
       ]
     },
     {
-      "time": "08-17 14:54",
-      "title_en": "Behind the Ticker: How VFLO Beats Growth at Its Own Game",
-      "title_zh": "Behind the Ticker: How VFLO Beats Growth at Its Own Game",
-      "summary_en": "Free cash flow funds are having a moment, but many of the traditional FCF strategies miss the bigger picture and greater return potential. Victory Capital’s Mannik Dhillon breaks down how VFLO turned a forward-looking value investing strategy into one of the decade’s biggest ETF launches, all without a single Mag 7 stock, in this episode of Behind the Ticker.",
-      "summary_zh": "Free cash flow funds are having a moment, but many of the traditional FCF strategies miss the bigger picture and greater return potential. Victory Capital’s Mannik Dhillon breaks down how VFLO turned a forward-looking value investing strategy into one of the decade’s biggest ETF launches, all without a single Mag 7 stock, in this episode of Behind the Ticker.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=016d45c0ff50fb3b563059cb73a0060281769c9ee42ccf60d3d9b2bf5133307b",
+      "time": "08-19 08:35",
+      "title_en": "Top S&P500 movers in Wednesday's pre-market session",
+      "title_zh": "Top S&P500 movers in Wednesday's pre-market session",
+      "summary_en": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "summary_zh": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "context_en": "📰 Source: MRNA · ChartMill · English original",
+      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
+      "source": "MRNA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=c58a9c33229815012952c86e761766a0666280beddf95bea50271904dede2ca4",
       "sectors": [
-        "bio",
-        "space"
+        "bio"
       ]
     },
     {
-      "time": "08-17 05:11",
-      "title_en": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
-      "title_zh": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
-      "summary_en": "Strain selection timing and mRNA skepticism could limit the impact of Moderna’s game-changing mRNA flu shot.",
-      "summary_zh": "Strain selection timing and mRNA skepticism could limit the impact of Moderna’s game-changing mRNA flu shot.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b9a3068f3ef9b5b70da0fec87840377e53943fbd7bad879b88c577173fa7fbf",
+      "time": "08-19 08:30",
+      "title_en": "Stay updated with the stocks that are on the move in today's pre-market session.",
+      "title_zh": "Stay updated with the stocks that are on the move in today's pre-market session.",
+      "summary_en": "Before the opening bell on Wednesday, let's take a glimpse of the US markets and explore the top gainers and losers in today's pre-market session.",
+      "summary_zh": "Before the opening bell on Wednesday, let's take a glimpse of the US markets and explore the top gainers and losers in today's pre-market session.",
+      "context_en": "📰 Source: MRNA · ChartMill · English original",
+      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
+      "source": "MRNA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=51fcf9114e5542f7d6be3f5d48a06b71d0cf00f79fba30c571ba73594b3c0e72",
       "sectors": [
         "bio"
       ]
@@ -412,11 +411,67 @@
       ]
     },
     {
+      "time": "08-19 09:08",
+      "title_en": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "title_zh": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "summary_en": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
+      "summary_zh": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "08-19 08:01",
+      "title_en": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
+      "title_zh": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
+      "summary_en": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight  Reuters",
+      "summary_zh": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "time": "08-19 07:43",
+      "title_en": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus - Reuters",
+      "title_zh": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus - Reuters",
+      "summary_en": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus  Reuters",
+      "summary_zh": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "sectors": [
+        "consumer"
+      ]
+    },
+    {
+      "time": "08-19 07:40",
+      "title_en": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
+      "title_zh": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
+      "summary_en": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says  Reuters",
+      "summary_zh": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "08-18 20:39",
-      "title_en": "Oil extends climb on prolonged Hormuz export uncertainty - Reuters",
-      "title_zh": "Oil extends climb on prolonged Hormuz export uncertainty - Reuters",
-      "summary_en": "Oil extends climb on prolonged Hormuz export uncertainty  Reuters",
-      "summary_zh": "Oil extends climb on prolonged Hormuz export uncertainty  Reuters",
+      "title_en": "Oil hits three-week high on uncertainty over Hormuz - Reuters",
+      "title_zh": "Oil hits three-week high on uncertainty over Hormuz - Reuters",
+      "summary_en": "Oil hits three-week high on uncertainty over Hormuz  Reuters",
+      "summary_zh": "Oil hits three-week high on uncertainty over Hormuz  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -440,32 +495,28 @@
       ]
     },
     {
-      "time": "08-18 12:19",
-      "title_en": "Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO",
-      "title_zh": "Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO",
-      "summary_en": "Amid the country's ongoing cyclospora outbreak, salad-focused restaurants like Sweetgreen and Saladworks are shifting their marketing.",
-      "summary_zh": "Amid the country's ongoing cyclospora outbreak, salad-focused restaurants like Sweetgreen and Saladworks are shifting their marketing.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/cyclospora-outbreak-changing-american-workplace-salad-lunch.html",
-      "sectors": [
-        "consumer"
-      ]
-    },
-    {
-      "time": "08-18 12:15",
-      "title_en": "FTSE 100 steady as energy stocks offset bond jitters - Reuters",
-      "title_zh": "FTSE 100 steady as energy stocks offset bond jitters - Reuters",
-      "summary_en": "FTSE 100 steady as energy stocks offset bond jitters  Reuters",
-      "summary_zh": "FTSE 100 steady as energy stocks offset bond jitters  Reuters",
+      "time": "08-19 04:37",
+      "title_en": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
+      "title_zh": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
+      "summary_en": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base  Reuters",
+      "summary_zh": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlFYeHFieTNRSFZ2Z01Hci02VUdqdFdYbW1mUThhbmJ0TThKSGJEOXByYldoQTAwVVJyckhvbTN0V1BzRXR5LTduUHR1NUNuczc5bmszUURoMUMxaWhPVlp4cXlUS29VSXZ2dy14WmFYbGlOTng1LWY2Ylh0ekxyREhjUFl6RHpRcHBwZ2swY0xZN09GUURWTFNn?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-19 03:11",
+      "title_en": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas - Reuters",
+      "title_zh": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas - Reuters",
+      "summary_en": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas  Reuters",
+      "summary_zh": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmZvWi1pSnAyOW9WZ0lLdkhfcDZvVXNPODFDRE9OYjVvYXJ1MmJzNFN5Z1FJNDgyNzFRR05pNHlValB2RFZuT3lmSVU4UEFkNUdSaEQ0RXBUZ2c0enpCRzlOZWJVUERyTGxlYUplTnY5YVNYekNZMXdqQWtsM1lLUWI1WGxHd0V6d183MGxVQkpqdFpDUmRVZjloNFVyWnRWSU9J?oc=5",
+      "sectors": []
     },
     {
       "time": "08-19 01:19",
@@ -588,6 +639,18 @@
       "sectors": []
     },
     {
+      "time": "08-18 13:02",
+      "title_en": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - Reuters",
+      "title_zh": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - Reuters",
+      "summary_en": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say  Reuters",
+      "summary_zh": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c?oc=5",
+      "sectors": []
+    },
+    {
       "time": "08-18 12:23",
       "title_en": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
       "title_zh": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
@@ -597,66 +660,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-18 11:23",
-      "title_en": "US housing market remains under pressure in July; factory output rises - Reuters",
-      "title_zh": "US housing market remains under pressure in July; factory output rises - Reuters",
-      "summary_en": "US housing market remains under pressure in July; factory output rises  Reuters",
-      "summary_zh": "US housing market remains under pressure in July; factory output rises  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnVKc1I4UWRkNWlXWm93ZGptQURzVVRySXZTSUQyX2RKejdFSUo1cDYwdEVUeWlZZE55dVVyOFZ2YklvZlFobVBiZmdHRFF2NG4yYUFydy0zWldPMFNjR21JcWlCMHFMU0E2R2pQLW9za285UG1NOEI4Q0xmX3M1THZuZG1NaGowSGtJX2ZfTXQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-18 11:23",
-      "title_en": "We're adding to our position in a stock that's been hurt by rekindled Middle East tensions",
-      "title_zh": "We're adding to our position in a stock that's been hurt by rekindled Middle East tensions",
-      "summary_en": "The stock has pulled back in recent weeks despite a series of positive updates.",
-      "summary_zh": "The stock has pulled back in recent weeks despite a series of positive updates.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/were-adding-to-our-position-in-a-stock-thats-been-hurt-by-rekindled-middle-east-tensions-.html",
-      "sectors": []
-    },
-    {
-      "time": "08-18 11:18",
-      "title_en": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-      "title_zh": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-      "summary_en": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut  Reuters",
-      "summary_zh": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-18 11:07",
-      "title_en": "South African rand flat as pressure on currency persists - Reuters",
-      "title_zh": "South African rand flat as pressure on currency persists - Reuters",
-      "summary_en": "South African rand flat as pressure on currency persists  Reuters",
-      "summary_zh": "South African rand flat as pressure on currency persists  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazJZWmZPOTczR2lXTDd1RWpaUnFfSHpnaGkxbTQxM0gyX1FwdFFCWWlXcnVwbWxRaElZQWFrbG95NXpxdzY1cENxTlB2WE9CalFIU1BxS0txajVlSXpmTlVWaXJWR0M0UElYSFhub0ppUFY3WFppNVVYNGJJelR4WFVtSnlOZWxrMXl1M004dmhhcW9NRDJXQVdNZHBpbzhvQzJhR0MxdWV3RXBTSDVoQ0ZIZG1ZTVhuVVNBMw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-18 11:05",
-      "title_en": "At a Gaza zoo, war takes its toll on the animals - Reuters",
-      "title_zh": "At a Gaza zoo, war takes its toll on the animals - Reuters",
-      "summary_en": "At a Gaza zoo, war takes its toll on the animals  Reuters",
-      "summary_zh": "At a Gaza zoo, war takes its toll on the animals  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTFSYk0tRUo4VW10aGlEN2Uxa19MWi1MYkRyX01ZUWJvcFoyOVZyQjctNWdpRlpuMEZ4SlBGNTByS2h3MjBMeWhmUlplSk5Hd29qSW5zUThtQm1XSVJMZk5vSUhhRXA4d3RuQTJsTjFTSERscWJLYlliVUdDeW1yMk5BQXh6cm9HRTVPdi0xUi0xNWM?oc=5",
       "sectors": []
     }
   ],
