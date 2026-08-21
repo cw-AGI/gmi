@@ -1,30 +1,44 @@
 {
   "market": "us",
-  "updated_at": "2026-08-21T04:52:16-04:00",
+  "updated_at": "2026-08-21T09:37:16-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 762.6,
-      "change": -6.46,
-      "change_pct": -0.84
+      "value": 765.0,
+      "change": 2.4,
+      "change_pct": 0.3147
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 710.93,
-      "change": -5.15,
-      "change_pct": -0.7192
+      "value": 712.21,
+      "change": 1.28,
+      "change_pct": 0.18
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 527.51,
-      "change": -6.76,
-      "change_pct": -1.2653
+      "value": 529.81,
+      "change": 2.3,
+      "change_pct": 0.436
     }
   ],
   "news": [
+    {
+      "time": "08-21 04:00",
+      "title_en": "Nvidia: There Is No Plan B",
+      "title_zh": "Nvidia: There Is No Plan B",
+      "summary_en": "Nvidia Corporation is valued at $5.45T, trading at 22x forward earnings, with 85% annual revenue growth and a singular focus on AI. Click for this NVDA update.",
+      "summary_zh": "Nvidia Corporation is valued at $5.45T, trading at 22x forward earnings, with 85% annual revenue growth and a singular focus on AI. Click for this NVDA update.",
+      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
+      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
+      "source": "NVDA · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fba8f1f77c01a624e196e4b357b1335a7b53a3df2b39be1ae58938f84185f18f",
+      "sectors": [
+        "ai"
+      ]
+    },
     {
       "time": "08-20 20:30",
       "title_en": "Nvidia Next Up",
@@ -40,15 +54,15 @@
       ]
     },
     {
-      "time": "08-20 16:24",
-      "title_en": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update",
-      "title_zh": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update",
-      "summary_en": "",
-      "summary_zh": "",
-      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
-      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
-      "source": "NVDA · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d34e4cb40cc75d54d268277ce81d9c6581998aa1f8ad4091d34324375bc7500b",
+      "time": "08-21 03:00",
+      "title_en": "EOS: Looking To Explain Weaker Results, Still A 'Buy'",
+      "title_zh": "EOS: Looking To Explain Weaker Results, Still A 'Buy'",
+      "summary_en": "The Eaton Vance Enhanced Equity Income Fund II trades at a rare 10.45% discount, offering an 8.36% yield attractive to income-focused investors. Learn more on EOS here.",
+      "summary_zh": "The Eaton Vance Enhanced Equity Income Fund II trades at a rare 10.45% discount, offering an 8.36% yield attractive to income-focused investors. Learn more on EOS here.",
+      "context_en": "📰 Source: AMD · SeekingAlpha · English original",
+      "context_zh": "📰 来源: AMD · SeekingAlpha · 英文原文(未翻译)",
+      "source": "AMD · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1b28db6798a5f7fbb7a5ac8249e4a625ee682eaaca45c1de30818da665bf6fe5",
       "sectors": [
         "ai"
       ]
@@ -68,18 +82,18 @@
       ]
     },
     {
-      "time": "08-20 08:05",
-      "title_en": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
-      "title_zh": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
-      "summary_en": "JPMorgan reiterates Overweight on Broadcom (AVGO), citing intact Google TPU roadmap, surging network demand, and projected $56B+ AI revenue.",
-      "summary_zh": "JPMorgan reiterates Overweight on Broadcom (AVGO), citing intact Google TPU roadmap, surging network demand, and projected $56B+ AI revenue.",
-      "context_en": "📰 Source: AMD · Benzinga · English original",
-      "context_zh": "📰 来源: AMD · Benzinga · 英文原文(未翻译)",
-      "source": "AMD · Benzinga",
-      "url": "https://finnhub.io/api/news?id=63c566376229af761e76e86d8d60aaa72226cbc105b2c97850699d483dab931e",
+      "time": "08-21 01:14",
+      "title_en": "Palantir: Why Michael Burry's Put Buys Should Not Deter Retail Investors",
+      "title_zh": "Palantir: Why Michael Burry's Put Buys Should Not Deter Retail Investors",
+      "summary_en": "Palantir's U.S. commercial business is delivering triple-digit growth, with GAAP net income margins rising. Learn why PLTR stock is a strong buy.",
+      "summary_zh": "Palantir's U.S. commercial business is delivering triple-digit growth, with GAAP net income margins rising. Learn why PLTR stock is a strong buy.",
+      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
+      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
+      "source": "PLTR · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb6d0b4e229c71f8998c80f8371c3b91003c4401f6d439d64fb5bfb42f9d5191",
       "sectors": [
         "ai",
-        "comm"
+        "consumer"
       ]
     },
     {
@@ -98,29 +112,43 @@
       ]
     },
     {
-      "time": "08-20 21:01",
-      "title_en": "Palantir: Buy Before The Next Leg Higher",
-      "title_zh": "Palantir: Buy Before The Next Leg Higher",
-      "summary_en": "Palantir (PLTR) stock Q2 blew past estimates; revenue was +93% and guidance was raised. Read here for a detailed investment analysis.",
-      "summary_zh": "Palantir (PLTR) stock Q2 blew past estimates; revenue was +93% and guidance was raised. Read here for a detailed investment analysis.",
-      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
-      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
-      "source": "PLTR · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=09dd430241735b1edee854831b176c591fbb7c99a727eecb0b7e7fbdd2f84658",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "08-20 15:10",
-      "title_en": "Which dow jones stocks are moving on Thursday?",
-      "title_zh": "Which dow jones stocks are moving on Thursday?",
-      "summary_en": "Uncover the latest developments among dow jones stocks in today's session. Stay tuned to the dow jones index's top gainers and losers on Thursday.",
-      "summary_zh": "Uncover the latest developments among dow jones stocks in today's session. Stay tuned to the dow jones index's top gainers and losers on Thursday.",
+      "time": "08-21 06:31",
+      "title_en": "Microsoft (NASDAQ:MSFT): A Quality Investing Standout With a Premium Price",
+      "title_zh": "Microsoft (NASDAQ:MSFT): A Quality Investing Standout With a Premium Price",
+      "summary_en": "Microsoft excels in quality investing metrics: 17.5% revenue growth, 33.8% ROIC, strong cash flow, though valuation remains rich.",
+      "summary_zh": "Microsoft excels in quality investing metrics: 17.5% revenue growth, 33.8% ROIC, strong cash flow, though valuation remains rich.",
       "context_en": "📰 Source: MSFT · ChartMill · English original",
       "context_zh": "📰 来源: MSFT · ChartMill · 英文原文(未翻译)",
       "source": "MSFT · ChartMill",
-      "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
+      "url": "https://finnhub.io/api/news?id=f14abe63a75e22aed48d9262c67c4e343ec306833e27dcf67dabfa5774cf3274",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "08-20 16:24",
+      "title_en": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update",
+      "title_zh": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update",
+      "summary_en": "",
+      "summary_zh": "",
+      "context_en": "📰 Source: MSFT · SeekingAlpha · English original",
+      "context_zh": "📰 来源: MSFT · SeekingAlpha · 英文原文(未翻译)",
+      "source": "MSFT · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d34e4cb40cc75d54d268277ce81d9c6581998aa1f8ad4091d34324375bc7500b",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "08-21 04:30",
+      "title_en": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
+      "title_zh": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
+      "summary_en": "Direct indexing is rising fast: build an 11-stock, sector-matched S&P 500-style portfolio and boost after-tax returns with tax-loss harvesting. Read more here.",
+      "summary_zh": "Direct indexing is rising fast: build an 11-stock, sector-matched S&P 500-style portfolio and boost after-tax returns with tax-loss harvesting. Read more here.",
+      "context_en": "📰 Source: AAPL · SeekingAlpha · English original",
+      "context_zh": "📰 来源: AAPL · SeekingAlpha · 英文原文(未翻译)",
+      "source": "AAPL · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25595542c954f854dc850eb0078ca0894ab39750efa9c25c5000303b15e24f4d",
       "sectors": [
         "tech"
       ]
@@ -168,31 +196,16 @@
       ]
     },
     {
-      "time": "08-20 13:45",
-      "title_en": "Hedging Exposure In This Volatile Market",
-      "title_zh": "Hedging Exposure In This Volatile Market",
-      "summary_en": "Michael Kramer from Reading The MarketsÂ shares why it's important to understand market direction, implied volatility and option positioning.",
-      "summary_zh": "Michael Kramer from Reading The MarketsÂ shares why it's important to understand market direction, implied volatility and option positioning.",
+      "time": "08-21 04:36",
+      "title_en": "Buying Marvell Before Broadcom Is A Big Mistake",
+      "title_zh": "Buying Marvell Before Broadcom Is A Big Mistake",
+      "summary_en": "Broadcom trades at a forward PEG of 0.66x and a FY3 PE under 14x, reflecting significant earnings expansion potential. Learn why AVGO stock is a buy.",
+      "summary_zh": "Broadcom trades at a forward PEG of 0.66x and a FY3 PE under 14x, reflecting significant earnings expansion potential. Learn why AVGO stock is a buy.",
       "context_en": "📰 Source: AVGO · SeekingAlpha · English original",
       "context_zh": "📰 来源: AVGO · SeekingAlpha · 英文原文(未翻译)",
       "source": "AVGO · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=93f337f985f0311e22819a35e71c4675f54bf694bae3c2e6449779c783ab45d3",
+      "url": "https://finnhub.io/api/news?id=41a87a44b2d9db0343df5a3e124c0a41c98f2e1827eabeae6e09369b39409150",
       "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "08-20 12:15",
-      "title_en": "'Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal' - Bloomberg",
-      "title_zh": "'Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal' - Bloomberg",
-      "summary_en": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
-      "summary_zh": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
-      "context_en": "📰 Source: AVGO · Benzinga · English original",
-      "context_zh": "📰 来源: AVGO · Benzinga · 英文原文(未翻译)",
-      "source": "AVGO · Benzinga",
-      "url": "https://finnhub.io/api/news?id=be47314eef46f3b29cea6eeebfb187ebbd7607353b02e61277f02148e320b8f9",
-      "sectors": [
-        "ai",
         "tech"
       ]
     },
@@ -281,30 +294,15 @@
       ]
     },
     {
-      "time": "08-20 10:07",
-      "title_en": "Targa Resources: Reloading The Chamber For Growth With ExxonMobil Deal",
-      "title_zh": "Targa Resources: Reloading The Chamber For Growth With ExxonMobil Deal",
-      "summary_en": "Targa Resources inks a 20-year ExxonMobil midstream deal, funding new plants and pipelines for long-term growth. Click for more on TRGP stock.",
-      "summary_zh": "Targa Resources inks a 20-year ExxonMobil midstream deal, funding new plants and pipelines for long-term growth. Click for more on TRGP stock.",
+      "time": "08-21 05:15",
+      "title_en": "PEO: An 8% Yielding Income Powerhouse To Buy Now",
+      "title_zh": "PEO: An 8% Yielding Income Powerhouse To Buy Now",
+      "summary_en": "Explore Adams Natural Resources Fund (PEO): low-cost energy exposure to XOM/CVX, 2% NAV quarterly distributions, no leverage, discount to NAVâread now.",
+      "summary_zh": "Explore Adams Natural Resources Fund (PEO): low-cost energy exposure to XOM/CVX, 2% NAV quarterly distributions, no leverage, discount to NAVâread now.",
       "context_en": "📰 Source: XOM · SeekingAlpha · English original",
       "context_zh": "📰 来源: XOM · SeekingAlpha · 英文原文(未翻译)",
       "source": "XOM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7fa788701bf769e1d3b0c68e2481700bfbca9d5db4dc1da4fae3559c499dcc3e",
-      "sectors": [
-        "energy",
-        "industry"
-      ]
-    },
-    {
-      "time": "08-20 06:10",
-      "title_en": "Alger Growth & Income Fund Q2 2026 Portfolio Review",
-      "title_zh": "Alger Growth & Income Fund Q2 2026 Portfolio Review",
-      "summary_en": "Class A shares of the Alger Growth & Income Fund outperformed the S&P 500 Index during the second quarter of 2026. Read more here.",
-      "summary_zh": "Class A shares of the Alger Growth & Income Fund outperformed the S&P 500 Index during the second quarter of 2026. Read more here.",
-      "context_en": "📰 Source: XOM · SeekingAlpha · English original",
-      "context_zh": "📰 来源: XOM · SeekingAlpha · 英文原文(未翻译)",
-      "source": "XOM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=760fa10842d910ccb0c023188dea8e82ca2a62649e98addd82f655c1097fc6f4",
+      "url": "https://finnhub.io/api/news?id=a5ce3692a0ff3fa28f2ca9e7cf6daf27ef3706c39afdacc5316c67a48d296525",
       "sectors": [
         "energy"
       ]
@@ -397,6 +395,20 @@
       ]
     },
     {
+      "time": "08-21 04:39",
+      "title_en": "Walmart's Guide-Down Sinks the Dow as Trump Readies an \"Economic D-Day\" for Iran",
+      "title_zh": "Walmart's Guide-Down Sinks the Dow as Trump Readies an \"Economic D-Day\" for Iran",
+      "summary_en": "US stocks closed sharply lower on Thursday, August 20, 2026, as Walmart's downbeat outlook wiped nearly 10% off the shares, President Trump threatened Iran with the harshest sanctions package ever from Monday, and long-dated Treasury yields ticked higher again. John Deere's Q3 beat and a bitcoin surge past $70,000 offered the only real bright spots.",
+      "summary_zh": "US stocks closed sharply lower on Thursday, August 20, 2026, as Walmart's downbeat outlook wiped nearly 10% off the shares, President Trump threatened Iran with the harshest sanctions package ever from Monday, and long-dated Treasury yields ticked higher again. John Deere's Q3 beat and a bitcoin surge past $70,000 offered the only real bright spots.",
+      "context_en": "📰 Source: MRNA · ChartMill · English original",
+      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
+      "source": "MRNA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=6ce35ac37bb20f3f0877546c5a59b6279b06bd0bba9d04f6c33f383c18cea0c3",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
       "time": "08-20 15:05",
       "title_en": "Exploring the top movers within the S&P500 index during today's session.",
       "title_zh": "Exploring the top movers within the S&P500 index during today's session.",
@@ -406,20 +418,6 @@
       "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
       "source": "MRNA · ChartMill",
       "url": "https://finnhub.io/api/news?id=79817c6765abca477c158dde61718bc04fe3d602b4fecbff929b0a7fcd1bb05a",
-      "sectors": [
-        "bio"
-      ]
-    },
-    {
-      "time": "08-20 14:05",
-      "title_en": "Looking for the most active stocks in the S&P500 index on Thursday?",
-      "title_zh": "Looking for the most active stocks in the S&P500 index on Thursday?",
-      "summary_en": "Let's have a look at what is happening on the US markets on Thursday. Below you can find the most active S&P500 stocks in today's session.",
-      "summary_zh": "Let's have a look at what is happening on the US markets on Thursday. Below you can find the most active S&P500 stocks in today's session.",
-      "context_en": "📰 Source: MRNA · ChartMill · English original",
-      "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
-      "source": "MRNA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=de80fd99b19d51b1c063dd5d4eb7830387e2c641e2ad3bda312e7bbd5d6af86f",
       "sectors": [
         "bio"
       ]
@@ -481,11 +479,25 @@
       ]
     },
     {
+      "time": "08-21 04:45",
+      "title_en": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
+      "title_zh": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
+      "summary_en": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say  Reuters",
+      "summary_zh": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "08-20 21:50",
-      "title_en": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
-      "title_zh": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
-      "summary_en": "Oil set for second weekly rise as unsettled US-Iran war crimps supply  Reuters",
-      "summary_zh": "Oil set for second weekly rise as unsettled US-Iran war crimps supply  Reuters",
+      "title_en": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+      "title_zh": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+      "summary_en": "Oil set for second weekly gain as US ramps up pressure on Iran  Reuters",
+      "summary_zh": "Oil set for second weekly gain as US ramps up pressure on Iran  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -510,32 +522,64 @@
       ]
     },
     {
-      "time": "08-20 12:30",
-      "title_en": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
-      "title_zh": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
-      "summary_en": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
-      "summary_zh": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
+      "time": "08-21 08:59",
+      "title_en": "Here are the top 10 things we're watching in the stock market Friday",
+      "title_zh": "Here are the top 10 things we're watching in the stock market Friday",
+      "summary_en": "Stocks are set for a higher open Friday following a nasty rate-driven pullback on Thursday",
+      "summary_zh": "Stocks are set for a higher open Friday following a nasty rate-driven pullback on Thursday",
       "context_en": "📰 Source: Finnhub / CNBC · English original",
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
-      "sectors": [
-        "ai"
-      ]
+      "url": "https://www.cnbc.com/2026/08/21/here-are-the-top-10-things-were-watching-in-the-stock-market-friday.html",
+      "sectors": []
     },
     {
-      "time": "08-20 12:00",
-      "title_en": "ENERGY WATCH: Oil squeeze is just getting started - Reuters",
-      "title_zh": "ENERGY WATCH: Oil squeeze is just getting started - Reuters",
-      "summary_en": "ENERGY WATCH: Oil squeeze is just getting started  Reuters",
-      "summary_zh": "ENERGY WATCH: Oil squeeze is just getting started  Reuters",
+      "time": "08-21 08:32",
+      "title_en": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
+      "title_zh": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
+      "summary_en": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
+      "summary_zh": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+      "sectors": []
+    },
+    {
+      "time": "08-21 07:35",
+      "title_en": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "title_zh": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "summary_en": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
+      "summary_zh": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+      "sectors": []
+    },
+    {
+      "time": "08-21 07:25",
+      "title_en": "Take Five: Six months of war - Reuters",
+      "title_zh": "Take Five: Six months of war - Reuters",
+      "summary_en": "Take Five: Six months of war  Reuters",
+      "summary_zh": "Take Five: Six months of war  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVJoQTJUUmRvTm0wRml6UXowWDVpZUVSXzliSFhkY0U3VU5TbVhqR2dQN1F5UnJ4bl9JNGVleEF1VEhCSF9ILVhRNmZ1VzNYREllbnlGRVg4MUliaDR5UlNETjVOeHl5dE5kejhrZk14RWxqWENqaTBER3lLUFRuSnRhMUJTYjZLSHgycVlQTnF2U1BURHVnY3JtWkhiRWZ1SlV0Z3dXMms3WllyV0VlRkRqbWFTZ01v?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-21 04:24",
+      "title_en": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
+      "title_zh": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
+      "summary_en": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure  Reuters",
+      "summary_zh": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
+      "sectors": []
     },
     {
       "time": "08-21 00:01",
@@ -563,10 +607,10 @@
     },
     {
       "time": "08-20 19:59",
-      "title_en": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
-      "title_zh": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
-      "summary_en": "US says it will impose 'toughest sanctions in history' on Iran  Reuters",
-      "summary_zh": "US says it will impose 'toughest sanctions in history' on Iran  Reuters",
+      "title_en": "Iran vows 'devastating' response to US threat to cut off its economic lifelines - Reuters",
+      "title_zh": "Iran vows 'devastating' response to US threat to cut off its economic lifelines - Reuters",
+      "summary_en": "Iran vows 'devastating' response to US threat to cut off its economic lifelines  Reuters",
+      "summary_zh": "Iran vows 'devastating' response to US threat to cut off its economic lifelines  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -679,54 +723,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-20 12:15",
-      "title_en": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
-      "title_zh": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
-      "summary_en": "As football season approaches, many Americans are planning to take on debt to pay for tickets, memorabilia, parlays and more.",
-      "summary_zh": "As football season approaches, many Americans are planning to take on debt to pay for tickets, memorabilia, parlays and more.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
-      "sectors": []
-    },
-    {
-      "time": "08-20 11:54",
-      "title_en": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "title_zh": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "summary_en": "Trump threatens to isolate Iran. Who are its trading partners?  Reuters",
-      "summary_zh": "Trump threatens to isolate Iran. Who are its trading partners?  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-20 11:42",
-      "title_en": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe - Reuters",
-      "title_zh": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe - Reuters",
-      "summary_en": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe  Reuters",
-      "summary_zh": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF95VlNpbHpVYW5pUXFDWG45czgtQUFscFd5aC1iUDNocHhLNmR0UHhNcENfbnk0YUc1VzhyNGFfSjRQN2M2aHlwc0pLc095QW5sOTJQemdDV2lwLUNTcTZPZTE2M01DWTd4WnFZVG83a3hueVdaYUJDdnlySURNMlV2akZfLWdMcFhUTml4TV9yMVlGRFNtLXZ3WVNLSC05VTZnSnkyUUJCZXhob3pSNjBBTGI5enUwcDF3a3RZdTc?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-20 11:08",
-      "title_en": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-      "title_zh": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-      "summary_en": "Private equity firm Arctos has agreed to buy 10% of the Atlanta Falcons in a deal valued at $10.6 billion, two sources told CNBC.",
-      "summary_zh": "Private equity firm Arctos has agreed to buy 10% of the Atlanta Falcons in a deal valued at $10.6 billion, two sources told CNBC.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
       "sectors": []
     }
   ],
