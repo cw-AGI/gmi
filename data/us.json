@@ -1,55 +1,68 @@
 {
   "market": "us",
-  "updated_at": "2026-08-25T04:52:47-04:00",
+  "updated_at": "2026-08-25T09:40:04-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 763.47,
-      "change": -2.25,
-      "change_pct": -0.2938
+      "value": 766.21,
+      "change": 2.74,
+      "change_pct": 0.3589
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 706.32,
-      "change": -7.12,
-      "change_pct": -0.998
+      "value": 711.72,
+      "change": 5.4,
+      "change_pct": 0.7645
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 533.65,
-      "change": 1.43,
-      "change_pct": 0.2687
+      "value": 534.44,
+      "change": 0.79,
+      "change_pct": 0.148
     }
   ],
   "news": [
     {
-      "time": "08-25 03:43",
-      "title_en": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
-      "title_zh": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
-      "summary_en": "Wall Street opened the week split on Monday, August 24, 2026, with the Nasdaq bleeding 0.8% as semiconductor names sold off ahead of Nvidia's Wednesday print and Asian equity supply raised AI dilution fears. Trump's fresh 50% tariff on Canadian autos hammered Ford, GM and Stellantis, while Treasury Secretary Bessent rolled out \"Operation Economic Outcast\" against Iran. All roads now lead to Nvidia, PCE, and Jackson Hole.",
-      "summary_zh": "Wall Street opened the week split on Monday, August 24, 2026, with the Nasdaq bleeding 0.8% as semiconductor names sold off ahead of Nvidia's Wednesday print and Asian equity supply raised AI dilution fears. Trump's fresh 50% tariff on Canadian autos hammered Ford, GM and Stellantis, while Treasury Secretary Bessent rolled out \"Operation Economic Outcast\" against Iran. All roads now lead to Nvidia, PCE, and Jackson Hole.",
-      "context_en": "📰 Source: NVDA · ChartMill · English original",
-      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
-      "source": "NVDA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
+      "time": "08-25 04:47",
+      "title_en": "JEPQ: There's Never Been A Better Time To Buy This ETF",
+      "title_zh": "JEPQ: There's Never Been A Better Time To Buy This ETF",
+      "summary_en": "JPMorgan Nasdaq Equity Premium Income ETF yields 10.9% via covered calls to cushion investors against volatile AI tech risks. Learn more about the JEPQ ETF here.",
+      "summary_zh": "JPMorgan Nasdaq Equity Premium Income ETF yields 10.9% via covered calls to cushion investors against volatile AI tech risks. Learn more about the JEPQ ETF here.",
+      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
+      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
+      "source": "NVDA · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15251ddaea213d3f888a9d0a33631e9ad615a0c37ab7141fe27766a0c565f0b8",
       "sectors": [
-        "ai",
-        "tech"
+        "ai"
       ]
     },
     {
-      "time": "08-24 15:10",
-      "title_en": "Exploring the top movers within the dow jones index during today's session.",
-      "title_zh": "Exploring the top movers within the dow jones index during today's session.",
-      "summary_en": "Wondering what's happening in today's session for the dow jones index? Stay informed with the top movers within the dow jones index on Monday.",
-      "summary_zh": "Wondering what's happening in today's session for the dow jones index? Stay informed with the top movers within the dow jones index on Monday.",
-      "context_en": "📰 Source: NVDA · ChartMill · English original",
-      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
-      "source": "NVDA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
+      "time": "08-25 04:00",
+      "title_en": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
+      "title_zh": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
+      "summary_en": "S&P 500 valuations look high, but forward P/E and AI-driven earnings growth support stocks. Explore AI hardware picks (NVDA, GOOGL, MU).",
+      "summary_zh": "S&P 500 valuations look high, but forward P/E and AI-driven earnings growth support stocks. Explore AI hardware picks (NVDA, GOOGL, MU).",
+      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
+      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
+      "source": "NVDA · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "08-25 04:00",
+      "title_en": "AMD: The AI Tipping Point Is Here (Rating Upgrade)",
+      "title_zh": "AMD: The AI Tipping Point Is Here (Rating Upgrade)",
+      "summary_en": "AMD upgraded to buy as AI-driven growth accelerates. Long-term prospects and operating leverage support a 15% annual return outlook through 2030. See more.",
+      "summary_zh": "AMD upgraded to buy as AI-driven growth accelerates. Long-term prospects and operating leverage support a 15% annual return outlook through 2030. See more.",
+      "context_en": "📰 Source: AMD · SeekingAlpha · English original",
+      "context_zh": "📰 来源: AMD · SeekingAlpha · 英文原文(未翻译)",
+      "source": "AMD · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8dd7b2e135c10e5b42a7f5c6f1d77b7d9692b72581f3a50d7c7b39bb2102a9bb",
       "sectors": [
         "ai"
       ]
@@ -69,18 +82,17 @@
       ]
     },
     {
-      "time": "08-24 09:16",
-      "title_en": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
-      "title_zh": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
-      "summary_en": "US equities mixed as tech stocks drag Nasdaq 100 lower, Trump escalates trade fight with Canada, and Fed Chair Warsh speaks at Jackson Hole.",
-      "summary_zh": "US equities mixed as tech stocks drag Nasdaq 100 lower, Trump escalates trade fight with Canada, and Fed Chair Warsh speaks at Jackson Hole.",
-      "context_en": "📰 Source: AMD · Benzinga · English original",
-      "context_zh": "📰 来源: AMD · Benzinga · 英文原文(未翻译)",
-      "source": "AMD · Benzinga",
-      "url": "https://finnhub.io/api/news?id=539e86b6c26dd71952d0007d07a6d7d868936c0d602967ec5eab590a5dc43689",
+      "time": "08-25 04:29",
+      "title_en": "TLT: AI Productivity Gains Threaten Long-End Treasuries",
+      "title_zh": "TLT: AI Productivity Gains Threaten Long-End Treasuries",
+      "summary_en": "Downgrading the iShares 20+ Year Treasury Bond ETF from buy to sell as real yields rise on AI-driven GDP strength. Learn more about the TLT ETF here.",
+      "summary_zh": "Downgrading the iShares 20+ Year Treasury Bond ETF from buy to sell as real yields rise on AI-driven GDP strength. Learn more about the TLT ETF here.",
+      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
+      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
+      "source": "PLTR · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=082baac6a7eb4628455a08f3f3ab0c49134fc6ff7a03fad7074071ceea5ee11b",
       "sectors": [
-        "ai",
-        "industry"
+        "ai"
       ]
     },
     {
@@ -99,17 +111,17 @@
       ]
     },
     {
-      "time": "08-24 10:50",
-      "title_en": "Trump Bought Dividend Stocks And Dumped AI (The Real Story)",
-      "title_zh": "Trump Bought Dividend Stocks And Dumped AI (The Real Story)",
-      "summary_en": "Trumpâs June stock disclosure shows a shift from dividend ETFs to individual dividend-growth stocks, with minimal tech/AI sellingâsee what it means. Click for more.",
-      "summary_zh": "Trumpâs June stock disclosure shows a shift from dividend ETFs to individual dividend-growth stocks, with minimal tech/AI sellingâsee what it means. Click for more.",
-      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
-      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
-      "source": "PLTR · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e04988931136a24c3c0c73e63ae859a7199eaaad6bf968af6e2a93a6548b2ef5",
+      "time": "08-25 00:50",
+      "title_en": "My Adjusted Recommended Portfolio For 2026 (SCHD Included)",
+      "title_zh": "My Adjusted Recommended Portfolio For 2026 (SCHD Included)",
+      "summary_en": "",
+      "summary_zh": "",
+      "context_en": "📰 Source: MSFT · SeekingAlpha · English original",
+      "context_zh": "📰 来源: MSFT · SeekingAlpha · 英文原文(未翻译)",
+      "source": "MSFT · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d65c2789cd06af8031a9bc210629bf7a93793e994e32a84726110ab6944848e8",
       "sectors": [
-        "ai"
+        "tech"
       ]
     },
     {
@@ -127,20 +139,6 @@
       ]
     },
     {
-      "time": "08-24 12:40",
-      "title_en": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "title_zh": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "summary_en": "Curious about the top performers within the dow jones index in the middle of the day on Monday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
-      "summary_zh": "Curious about the top performers within the dow jones index in the middle of the day on Monday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
-      "context_en": "📰 Source: MSFT · ChartMill · English original",
-      "context_zh": "📰 来源: MSFT · ChartMill · 英文原文(未翻译)",
-      "source": "MSFT · ChartMill",
-      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
       "time": "08-24 13:52",
       "title_en": "Cowell Remains Tethered To Apple But Investors Cheer Strong Earnings",
       "title_zh": "Cowell Remains Tethered To Apple But Investors Cheer Strong Earnings",
@@ -150,20 +148,6 @@
       "context_zh": "📰 来源: AAPL · Benzinga · 英文原文(未翻译)",
       "source": "AAPL · Benzinga",
       "url": "https://finnhub.io/api/news?id=2f48d983bd7a3006b3e02d1bc4ccadf789ebd14740b2a1b1eea7f1de4f5449ee",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "08-24 10:14",
-      "title_en": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
-      "title_zh": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
-      "summary_en": "Trump’s proposed 50% tariff on Canadian autos could hit automakers and supply chains. Here are the ETFs most exposed to the trade-war shock.",
-      "summary_zh": "Trump’s proposed 50% tariff on Canadian autos could hit automakers and supply chains. Here are the ETFs most exposed to the trade-war shock.",
-      "context_en": "📰 Source: AAPL · Benzinga · English original",
-      "context_zh": "📰 来源: AAPL · Benzinga · 英文原文(未翻译)",
-      "source": "AAPL · Benzinga",
-      "url": "https://finnhub.io/api/news?id=39011b3b644558bdbe1eb2189feb7b87b44fe7ab77d7ec19972ebcfef56dcfa9",
       "sectors": [
         "tech"
       ]
@@ -198,6 +182,21 @@
       ]
     },
     {
+      "time": "08-25 05:09",
+      "title_en": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
+      "title_zh": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
+      "summary_en": "Marvell has transitioned into a core provider of AI infrastructure, with Q1 results validating the AI-driven earnings inflection. Read more on MRVL stock here.",
+      "summary_zh": "Marvell has transitioned into a core provider of AI infrastructure, with Q1 results validating the AI-driven earnings inflection. Read more on MRVL stock here.",
+      "context_en": "📰 Source: AVGO · SeekingAlpha · English original",
+      "context_zh": "📰 来源: AVGO · SeekingAlpha · 英文原文(未翻译)",
+      "source": "AVGO · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b79b5a302e89eb720873a11871229e2f0eddf4a13f019bd80f74fe4a1b7d1d34",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
       "time": "08-24 14:21",
       "title_en": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
       "title_zh": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
@@ -213,18 +212,31 @@
       ]
     },
     {
-      "time": "08-24 09:52",
-      "title_en": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
-      "title_zh": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
-      "summary_en": "Markets are near record highs as yields and energy prices rise. Click for an updated market outlook.",
-      "summary_zh": "Markets are near record highs as yields and energy prices rise. Click for an updated market outlook.",
-      "context_en": "📰 Source: AVGO · SeekingAlpha · English original",
-      "context_zh": "📰 来源: AVGO · SeekingAlpha · 英文原文(未翻译)",
-      "source": "AVGO · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=74c428b2f640aae320191551ae774dcfcd20522fb3883b8639f5f241a28dc568",
+      "time": "08-24 15:10",
+      "title_en": "Exploring the top movers within the dow jones index during today's session.",
+      "title_zh": "Exploring the top movers within the dow jones index during today's session.",
+      "summary_en": "Wondering what's happening in today's session for the dow jones index? Stay informed with the top movers within the dow jones index on Monday.",
+      "summary_zh": "Wondering what's happening in today's session for the dow jones index? Stay informed with the top movers within the dow jones index on Monday.",
+      "context_en": "📰 Source: CSCO · ChartMill · English original",
+      "context_zh": "📰 来源: CSCO · ChartMill · 英文原文(未翻译)",
+      "source": "CSCO · ChartMill",
+      "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
       "sectors": [
-        "energy",
-        "tech"
+        "comm"
+      ]
+    },
+    {
+      "time": "08-24 12:40",
+      "title_en": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "title_zh": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "summary_en": "Curious about the top performers within the dow jones index in the middle of the day on Monday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
+      "summary_zh": "Curious about the top performers within the dow jones index in the middle of the day on Monday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
+      "context_en": "📰 Source: CSCO · ChartMill · English original",
+      "context_zh": "📰 来源: CSCO · ChartMill · 英文原文(未翻译)",
+      "source": "CSCO · ChartMill",
+      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
+      "sectors": [
+        "comm"
       ]
     },
     {
@@ -256,6 +268,20 @@
       ]
     },
     {
+      "time": "08-25 05:40",
+      "title_en": "First Solar (NASDAQ:FSLR) Stands Out as a Decent Value Stock with Strong Fundamentals",
+      "title_zh": "First Solar (NASDAQ:FSLR) Stands Out as a Decent Value Stock with Strong Fundamentals",
+      "summary_en": "First Solar (FSLR) screens as a decent value stock: cheap at 14x earnings with strong margins, low debt, and solid growth prospects.",
+      "summary_zh": "First Solar (FSLR) screens as a decent value stock: cheap at 14x earnings with strong margins, low debt, and solid growth prospects.",
+      "context_en": "📰 Source: FSLR · ChartMill · English original",
+      "context_zh": "📰 来源: FSLR · ChartMill · 英文原文(未翻译)",
+      "source": "FSLR · ChartMill",
+      "url": "https://finnhub.io/api/news?id=55c1ce71ea26f17f4cd911bb31e76c749272cc4756aa278a9cfe104f24cbf42b",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "08-24 08:08",
       "title_en": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
       "title_zh": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
@@ -265,20 +291,6 @@
       "context_zh": "📰 来源: FSLR · ChartMill · 英文原文(未翻译)",
       "source": "FSLR · ChartMill",
       "url": "https://finnhub.io/api/news?id=91332a4036ce17030a26be9ec5ccaab0a38cff400940fabdcf5bb371b3b07f3b",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "08-22 08:51",
-      "title_en": "First Solar (NASDAQ:FSLR) Passes the Peter Lynch Growth-at-a-Reasonable-Price Screen",
-      "title_zh": "First Solar (NASDAQ:FSLR) Passes the Peter Lynch Growth-at-a-Reasonable-Price Screen",
-      "summary_en": "First Solar matches Peter Lynch's growth-at-a-reasonable-price strategy with strong earnings, low PEG, zero debt, and solid valuation.",
-      "summary_zh": "First Solar matches Peter Lynch's growth-at-a-reasonable-price strategy with strong earnings, low PEG, zero debt, and solid valuation.",
-      "context_en": "📰 Source: FSLR · ChartMill · English original",
-      "context_zh": "📰 来源: FSLR · ChartMill · 英文原文(未翻译)",
-      "source": "FSLR · ChartMill",
-      "url": "https://finnhub.io/api/news?id=284b5bb593c83c6242808caaa98d1dd5cc9f1b0dbadca2579a163fa970df3d57",
       "sectors": [
         "energy"
       ]
@@ -341,6 +353,21 @@
       ]
     },
     {
+      "time": "08-24 09:16",
+      "title_en": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
+      "title_zh": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
+      "summary_en": "US equities mixed as tech stocks drag Nasdaq 100 lower, Trump escalates trade fight with Canada, and Fed Chair Warsh speaks at Jackson Hole.",
+      "summary_zh": "US equities mixed as tech stocks drag Nasdaq 100 lower, Trump escalates trade fight with Canada, and Fed Chair Warsh speaks at Jackson Hole.",
+      "context_en": "📰 Source: ASTS · Benzinga · English original",
+      "context_zh": "📰 来源: ASTS · Benzinga · 英文原文(未翻译)",
+      "source": "ASTS · Benzinga",
+      "url": "https://finnhub.io/api/news?id=539e86b6c26dd71952d0007d07a6d7d868936c0d602967ec5eab590a5dc43689",
+      "sectors": [
+        "industry",
+        "space"
+      ]
+    },
+    {
       "time": "08-22 05:33",
       "title_en": "AST SpaceMobile: Sovereign Satellite Strategy Wins More Contracts; Launch Risks Explored",
       "title_zh": "AST SpaceMobile: Sovereign Satellite Strategy Wins More Contracts; Launch Risks Explored",
@@ -384,6 +411,21 @@
       ]
     },
     {
+      "time": "08-25 01:05",
+      "title_en": "ValuEngine Weekly Market Summary And Commentary",
+      "title_zh": "ValuEngine Weekly Market Summary And Commentary",
+      "summary_en": "US equity markets were lower this week, with weakness led by tech, Industrials, Utilities, and broader growth-oriented benchmarks. The profound structural shift in the stock market continues",
+      "summary_zh": "US equity markets were lower this week, with weakness led by tech, Industrials, Utilities, and broader growth-oriented benchmarks. The profound structural shift in the stock market continues",
+      "context_en": "📰 Source: MRNA · SeekingAlpha · English original",
+      "context_zh": "📰 来源: MRNA · SeekingAlpha · 英文原文(未翻译)",
+      "source": "MRNA · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=00e970b4377bb34d823acb0e17854754ef94345db03bcf36dc5610c8d1e84129",
+      "sectors": [
+        "bio",
+        "industry"
+      ]
+    },
+    {
       "time": "08-24 15:05",
       "title_en": "Stay informed with the top movers within the S&P500 index on Monday.",
       "title_zh": "Stay informed with the top movers within the S&P500 index on Monday.",
@@ -393,6 +435,20 @@
       "context_zh": "📰 来源: MRNA · ChartMill · 英文原文(未翻译)",
       "source": "MRNA · ChartMill",
       "url": "https://finnhub.io/api/news?id=37c77b353f564166487672d942c21d5b0eced09b4ede4b83d36496c9b06c59c3",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "08-25 05:01",
+      "title_en": "Regeneron: Why I Still See Upside After The Rally",
+      "title_zh": "Regeneron: Why I Still See Upside After The Rally",
+      "summary_en": "Regeneron Pharmaceuticals, Inc. stock outlook: Eylea pressure eases as Dupixent jumps; FDA OKs Pasatru. Read why REGN stock is a buy.",
+      "summary_zh": "Regeneron Pharmaceuticals, Inc. stock outlook: Eylea pressure eases as Dupixent jumps; FDA OKs Pasatru. Read why REGN stock is a buy.",
+      "context_en": "📰 Source: REGN · SeekingAlpha · English original",
+      "context_zh": "📰 来源: REGN · SeekingAlpha · 英文原文(未翻译)",
+      "source": "REGN · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e6fefaa99fcd424019f11ce4f04ca63d98863c1cd874b1f5971c0ae40aed934",
       "sectors": [
         "bio"
       ]
@@ -412,6 +468,63 @@
       ]
     },
     {
+      "time": "08-25 09:00",
+      "title_en": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+      "title_zh": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+      "summary_en": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.",
+      "summary_zh": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "08-25 08:59",
+      "title_en": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "title_zh": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "summary_en": "Chip stocks are bouncing back, one day before Nvidia's earnings report Wednesday night.",
+      "summary_zh": "Chip stocks are bouncing back, one day before Nvidia's earnings report Wednesday night.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "08-25 07:21",
+      "title_en": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "title_zh": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "summary_en": "The AI company said the incident \"illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority.\"",
+      "summary_zh": "The AI company said the incident \"illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority.\"",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "08-25 05:26",
+      "title_en": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "title_zh": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "summary_en": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+      "summary_zh": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
       "time": "08-24 23:40",
       "title_en": "United States sanctions oil trader Wellbred over Iran links - Reuters",
       "title_zh": "United States sanctions oil trader Wellbred over Iran links - Reuters",
@@ -426,26 +539,11 @@
       ]
     },
     {
-      "time": "08-24 21:26",
-      "title_en": "Shares drift ahead of Nvidia earnings; oil wobbles - Reuters",
-      "title_zh": "Shares drift ahead of Nvidia earnings; oil wobbles - Reuters",
-      "summary_en": "Shares drift ahead of Nvidia earnings; oil wobbles  Reuters",
-      "summary_zh": "Shares drift ahead of Nvidia earnings; oil wobbles  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
-      "sectors": [
-        "ai",
-        "energy"
-      ]
-    },
-    {
       "time": "08-24 21:16",
-      "title_en": "Oil extends fall as investors shrug off latest US sanctions on Iran - Reuters",
-      "title_zh": "Oil extends fall as investors shrug off latest US sanctions on Iran - Reuters",
-      "summary_en": "Oil extends fall as investors shrug off latest US sanctions on Iran  Reuters",
-      "summary_zh": "Oil extends fall as investors shrug off latest US sanctions on Iran  Reuters",
+      "title_en": "Oil hits one-week low as investors shrug off US sanctions on Iran - Reuters",
+      "title_zh": "Oil hits one-week low as investors shrug off US sanctions on Iran - Reuters",
+      "summary_en": "Oil hits one-week low as investors shrug off US sanctions on Iran  Reuters",
+      "summary_zh": "Oil hits one-week low as investors shrug off US sanctions on Iran  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -455,7 +553,7 @@
       ]
     },
     {
-      "time": "08-24 21:06",
+      "time": "08-24 20:27",
       "title_en": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
       "title_zh": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
       "summary_en": "Six months into Iran war, almost half of global oil flows from war zones  Reuters",
@@ -469,46 +567,88 @@
       ]
     },
     {
-      "time": "08-24 17:56",
-      "title_en": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-      "title_zh": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-      "summary_en": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
-      "summary_zh": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+      "time": "08-25 08:55",
+      "title_en": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+      "title_zh": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+      "summary_en": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+      "summary_zh": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
       "context_en": "📰 Source: Finnhub / CNBC · English original",
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-      "sectors": [
-        "bio"
-      ]
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "sectors": []
     },
     {
-      "time": "08-24 17:53",
-      "title_en": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "title_zh": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "summary_en": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
-      "summary_zh": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
-      "sectors": [
-        "comm"
-      ]
+      "time": "08-25 08:00",
+      "title_en": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+      "title_zh": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+      "summary_en": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
+      "summary_zh": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+      "sectors": []
     },
     {
-      "time": "08-24 15:51",
-      "title_en": "Here's what the charts say about Nvidia's stock heading into earnings",
-      "title_zh": "Here's what the charts say about Nvidia's stock heading into earnings",
-      "summary_en": "We see a flashing yellow light into Nvidia's earnings report Wednesday night.",
-      "summary_zh": "We see a flashing yellow light into Nvidia's earnings report Wednesday night.",
+      "time": "08-25 07:34",
+      "title_en": "Gold slips on profit-taking after rally to over three-month high - Reuters",
+      "title_zh": "Gold slips on profit-taking after rally to over three-month high - Reuters",
+      "summary_en": "Gold slips on profit-taking after rally to over three-month high  Reuters",
+      "summary_zh": "Gold slips on profit-taking after rally to over three-month high  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-25 07:00",
+      "title_en": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "title_zh": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "summary_en": "United is betting big on premium, international travel with a host of new routes.",
+      "summary_zh": "United is betting big on premium, international travel with a host of new routes.",
       "context_en": "📰 Source: Finnhub / CNBC · English original",
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
-      "sectors": [
-        "ai"
-      ]
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "sectors": []
+    },
+    {
+      "time": "08-25 06:57",
+      "title_en": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
+      "title_zh": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
+      "summary_en": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports  Reuters",
+      "summary_zh": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-25 05:24",
+      "title_en": "European shares climb on softer-than-feared Iran sanctions, defence gains - Reuters",
+      "title_zh": "European shares climb on softer-than-feared Iran sanctions, defence gains - Reuters",
+      "summary_en": "European shares climb on softer-than-feared Iran sanctions, defence gains  Reuters",
+      "summary_zh": "European shares climb on softer-than-feared Iran sanctions, defence gains  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYV9RU3NQS3FlMnJsNy1fRTVxZVJOX0htaElRYmMyRE5jazNycV9lbU9DN0dWaEZ4eUZQcW5sbll6YUlpaDk2ZE9wc1dRTERkM1JhYjFOWW1XcENBVXhTeXNvWjZZZ1hpTUlnbDF4VkJmUXRYNXNBTWM1a0NweVJUVXZfV3pxeS1IbUhVZVNaaU5hZEg2TjRDeXZwNUhudjVFVjBlVWxDcVBEX052?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-25 05:08",
+      "title_en": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says - Reuters",
+      "title_zh": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says - Reuters",
+      "summary_en": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says  Reuters",
+      "summary_zh": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVRRRXpGLTQzSUFSbHE2c1c0RGxGTGRhOWpneHlwRTI5WlBDQWY1UWJBOWFITHFyZkxGQ2xGYzkxT1ZZLWtCM0ZRbVhncEUyeTM3aG05Y0gtekpwNE1vdjdkNjNUc1BiOUw1cDljM1gtX0p3Yi16elh6UTNYeGJlNXRiVlZRU0diWnlnVkVOVnVuY2JITnNKVHgzRnJGVzRsTW5jRXNB?oc=5",
+      "sectors": []
     },
     {
       "time": "08-25 03:48",
@@ -536,10 +676,10 @@
     },
     {
       "time": "08-24 21:31",
-      "title_en": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks - Reuters",
-      "title_zh": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks - Reuters",
-      "summary_en": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks  Reuters",
-      "summary_zh": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks  Reuters",
+      "title_en": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks - Reuters",
+      "title_zh": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks - Reuters",
+      "summary_en": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks  Reuters",
+      "summary_zh": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -547,39 +687,27 @@
       "sectors": []
     },
     {
+      "time": "08-24 21:26",
+      "title_en": "Investors shrug off US sanctions plan for Iran, bitcoin powers on - Reuters",
+      "title_zh": "Investors shrug off US sanctions plan for Iran, bitcoin powers on - Reuters",
+      "summary_en": "Investors shrug off US sanctions plan for Iran, bitcoin powers on  Reuters",
+      "summary_zh": "Investors shrug off US sanctions plan for Iran, bitcoin powers on  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
+      "sectors": []
+    },
+    {
       "time": "08-24 20:57",
-      "title_en": "Iran vows to retaliate after US widens sanctions - Reuters",
-      "title_zh": "Iran vows to retaliate after US widens sanctions - Reuters",
-      "summary_en": "Iran vows to retaliate after US widens sanctions  Reuters",
-      "summary_zh": "Iran vows to retaliate after US widens sanctions  Reuters",
+      "title_en": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
+      "title_zh": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
+      "summary_en": "Iran vows to resist widened US sanctions, says Washington seeks talks  Reuters",
+      "summary_zh": "Iran vows to resist widened US sanctions, says Washington seeks talks  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-24 20:43",
-      "title_en": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "title_zh": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "summary_en": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
-      "summary_zh": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-24 20:33",
-      "title_en": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "title_zh": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "summary_en": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
-      "summary_zh": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
       "sectors": []
     },
     {
@@ -592,78 +720,6 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
-      "sectors": []
-    },
-    {
-      "time": "08-24 18:40",
-      "title_en": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "title_zh": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "summary_en": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
-      "summary_zh": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
-      "sectors": []
-    },
-    {
-      "time": "08-24 18:26",
-      "title_en": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "title_zh": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "summary_en": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves  Reuters",
-      "summary_zh": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-24 17:13",
-      "title_en": "TRADING DAY Tech, tariffs & Treasuries - Reuters",
-      "title_zh": "TRADING DAY Tech, tariffs & Treasuries - Reuters",
-      "summary_en": "TRADING DAY Tech, tariffs & Treasuries  Reuters",
-      "summary_zh": "TRADING DAY Tech, tariffs & Treasuries  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmpoclpIbHRCNUVXQ0IyQ1ZQbDJoR0VQQ0JuN2k4YVJuekdBQ05YcHI5WnVtc0JNSzN6MDhFSzRSS2dvbWRzUnFxSEJ5TURVVEFuc3Vha0sxdGhSbUZ6TllJSkU0c0JrMFFOb2dsN3VLRTItYnE4MVNVWVJQR3o3alhlSFAzVXNla1pBcXNnTnNwencyLWtpRmJteWVFYnJtS0IzbzZR?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-24 15:43",
-      "title_en": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says - Reuters",
-      "title_zh": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says - Reuters",
-      "summary_en": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says  Reuters",
-      "summary_zh": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjNOaTQ3NkZ4V1N0SHI2ek42SEVXX0xHVVZXbHU1WGZXRFA5MHJ1YkdSLWxzREw2UnZURlFrVG1wWkZOVlU3VWg3dHVkeGpLbk1pMGJzRUVlLWpndGVoWlRwS2p2dlBXWXg5ZzR5UUVhd3g2RElhdklmbG1mNXZ5MDJrNUNROTZhcGY0ZC0yX21pblpqakFsY3VUaEhUelZfNllQemQ2QnR2Uk9sZW9IQjRJOFlBUkx3c3ZJd1JWMktDUQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-24 15:06",
-      "title_en": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "title_zh": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "summary_en": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds  Reuters",
-      "summary_zh": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-24 15:02",
-      "title_en": "Israeli fire kills two young children in Gaza, medics say - Reuters",
-      "title_zh": "Israeli fire kills two young children in Gaza, medics say - Reuters",
-      "summary_en": "Israeli fire kills two young children in Gaza, medics say  Reuters",
-      "summary_zh": "Israeli fire kills two young children in Gaza, medics say  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbF9zZGt2ZlE1OVRreUg3STlOdFNxVS1GNmFoU210enY4aEotOVZ6aF9UUUNEZ3pLLVViMkM1ajljOGNIS1pFRENOSmM3V2cxOVhlYjJOMmhPcUY0T3E1Nnp1MGd6dkJINjFqTkpzX1ZFd3NhNUxfdEhuRS1IaFFXWmdublNNNVdweklHY3dQM1JvMW44Rk8yUWdRQVNXZjNtOGUtNjFpeHVySDg?oc=5",
       "sectors": []
     }
   ],
