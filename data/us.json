@@ -1,54 +1,54 @@
 {
   "market": "us",
-  "updated_at": "2026-08-27T14:23:50-04:00",
+  "updated_at": "2026-08-27T15:02:05-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 770.33,
-      "change": 4.25,
-      "change_pct": 0.5548
+      "value": 769.9,
+      "change": 3.82,
+      "change_pct": 0.4986
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 718.28,
-      "change": 6.91,
-      "change_pct": 0.9714
+      "value": 718.3,
+      "change": 6.93,
+      "change_pct": 0.9742
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 535.15,
-      "change": 0.92,
-      "change_pct": 0.1722
+      "value": 535.01,
+      "change": 0.78,
+      "change_pct": 0.146
     }
   ],
   "news": [
     {
-      "time": "08-27 13:05",
-      "title_en": "Unusual volume S&P500 stocks in Thursday's session",
-      "title_zh": "Unusual volume S&P500 stocks in Thursday's session",
-      "summary_en": "Let's take a closer look at the S&P500 stocks with an unusual volume in today's session on Thursday. Stay informed about the market activity below.",
-      "summary_zh": "Let's take a closer look at the S&P500 stocks with an unusual volume in today's session on Thursday. Stay informed about the market activity below.",
+      "time": "08-27 14:05",
+      "title_en": "What's going on in today's session: S&P500 most active stocks",
+      "title_zh": "What's going on in today's session: S&P500 most active stocks",
+      "summary_en": "Curious about the most active S&P500 stocks in today's session? Join us as we explore the US markets on Thursday and uncover the stocks that are leading the way in terms of trading volume and market attention.",
+      "summary_zh": "Curious about the most active S&P500 stocks in today's session? Join us as we explore the US markets on Thursday and uncover the stocks that are leading the way in terms of trading volume and market attention.",
       "context_en": "📰 Source: NVDA · ChartMill · English original",
       "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
       "source": "NVDA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=d48796cc69a43823be6c22612d5357f99b79b08a60dc1a4901a9cd49469cc0f1",
+      "url": "https://finnhub.io/api/news?id=ec2b40b60a205b60de6817ccb29564ac8d77ca419b4368cf7973ff4726b60f7f",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "08-27 12:40",
-      "title_en": "Exploring the top movers within the dow jones index during today's session.",
-      "title_zh": "Exploring the top movers within the dow jones index during today's session.",
-      "summary_en": "Let's have a look at the top dow jones gainers and losers in the middle of the day of today's session.",
-      "summary_zh": "Let's have a look at the top dow jones gainers and losers in the middle of the day of today's session.",
+      "time": "08-27 14:00",
+      "title_en": "These stocks are the most active in today's session",
+      "title_zh": "These stocks are the most active in today's session",
+      "summary_en": "Stay updated with the latest market activity on Thursday. Explore the most active stocks in today's session and stay informed about the stocks that are in the spotlight.",
+      "summary_zh": "Stay updated with the latest market activity on Thursday. Explore the most active stocks in today's session and stay informed about the stocks that are in the spotlight.",
       "context_en": "📰 Source: NVDA · ChartMill · English original",
       "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
       "source": "NVDA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=5c23c716656d25f98d61da7895898b299ef98b2bd2a7cea04355a7c099030532",
+      "url": "https://finnhub.io/api/news?id=391b1ea8b9684cb0627f32220a0f54c496de9b29a8a76774493d2178d40af9f6",
       "sectors": [
         "ai"
       ]
@@ -98,17 +98,16 @@
       ]
     },
     {
-      "time": "08-26 08:26",
-      "title_en": "The Government Took Equity In Quantum Stocks, So Should We",
-      "title_zh": "The Government Took Equity In Quantum Stocks, So Should We",
-      "summary_en": "Explore quantum computing investing: why profits are years away, why broad/AI funds miss it, and how QTUM vs WQTM ETFs offer diversified exposureâlearn...",
-      "summary_zh": "Explore quantum computing investing: why profits are years away, why broad/AI funds miss it, and how QTUM vs WQTM ETFs offer diversified exposureâlearn...",
-      "context_en": "📰 Source: PLTR · SeekingAlpha · English original",
-      "context_zh": "📰 来源: PLTR · SeekingAlpha · 英文原文(未翻译)",
-      "source": "PLTR · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=526b9cab301084be2bd6dff7af650538fa06a5242359ebf2c95023bd0bb9e74d",
+      "time": "08-27 12:40",
+      "title_en": "Exploring the top movers within the dow jones index during today's session.",
+      "title_zh": "Exploring the top movers within the dow jones index during today's session.",
+      "summary_en": "Let's have a look at the top dow jones gainers and losers in the middle of the day of today's session.",
+      "summary_zh": "Let's have a look at the top dow jones gainers and losers in the middle of the day of today's session.",
+      "context_en": "📰 Source: MSFT · ChartMill · English original",
+      "context_zh": "📰 来源: MSFT · ChartMill · 英文原文(未翻译)",
+      "source": "MSFT · ChartMill",
+      "url": "https://finnhub.io/api/news?id=5c23c716656d25f98d61da7895898b299ef98b2bd2a7cea04355a7c099030532",
       "sectors": [
-        "ai",
         "tech"
       ]
     },
@@ -214,15 +213,15 @@
       ]
     },
     {
-      "time": "08-26 01:49",
-      "title_en": "iPhone Buyers Rush in Before Potential Apple Price Increases",
-      "title_zh": "iPhone Buyers Rush in Before Potential Apple Price Increases",
-      "summary_en": "Apple global iPhone shipments jumped 13% in Q2 2026, driven by strong iPhone 17 demand and stable pricing. Read the breakdown.",
-      "summary_zh": "Apple global iPhone shipments jumped 13% in Q2 2026, driven by strong iPhone 17 demand and stable pricing. Read the breakdown.",
+      "time": "08-26 08:34",
+      "title_en": "T-Mobile USA To Permanently Lay Off 77 Employees In Washington, Beginning Sept. 21",
+      "title_zh": "T-Mobile USA To Permanently Lay Off 77 Employees In Washington, Beginning Sept. 21",
+      "summary_en": "https://esd.wa.gov/employer-requirements/layoffs-and-employee-notifications/worker-adjustment-and-retraining-notification-warn-layoff-and-closure-database",
+      "summary_zh": "https://esd.wa.gov/employer-requirements/layoffs-and-employee-notifications/worker-adjustment-and-retraining-notification-warn-layoff-and-closure-database",
       "context_en": "📰 Source: TMUS · Benzinga · English original",
       "context_zh": "📰 来源: TMUS · Benzinga · 英文原文(未翻译)",
       "source": "TMUS · Benzinga",
-      "url": "https://finnhub.io/api/news?id=75f9fb4d19da30529d1441a673c25d38008b68687a61a59573865836ed164581",
+      "url": "https://finnhub.io/api/news?id=01dbd0e4b4b5d6251ae5e7472cb58e6a2c6ab660930dda0a1e6e6c1d9d338fd8",
       "sectors": [
         "comm"
       ]
@@ -256,6 +255,20 @@
       ]
     },
     {
+      "time": "08-26 20:31",
+      "title_en": "Analyst Says National Average Gas Price Will Likely Fall Below $4/Gallon by Labor Day, but There’s a Catch: ‘Still…the Most Expensive…’",
+      "title_zh": "Analyst Says National Average Gas Price Will Likely Fall Below $4/Gallon by Labor Day, but There’s a Catch: ‘Still…the Most Expensive…’",
+      "summary_en": "The national average price of gas could fall below $4/gal by Labor Day despite uncertainty in global oil supply.",
+      "summary_zh": "The national average price of gas could fall below $4/gal by Labor Day despite uncertainty in global oil supply.",
+      "context_en": "📰 Source: XOM · Benzinga · English original",
+      "context_zh": "📰 来源: XOM · Benzinga · 英文原文(未翻译)",
+      "source": "XOM · Benzinga",
+      "url": "https://finnhub.io/api/news?id=7e03466e48754f780bc3f6b38ca73bf1037fd618d2f953621852202babbbc6c3",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "08-26 12:26",
       "title_en": "2026 2H Oil Stock Roundup: ExxonMobil Better Poised Than Enbridge",
       "title_zh": "2026 2H Oil Stock Roundup: ExxonMobil Better Poised Than Enbridge",
@@ -270,17 +283,18 @@
       ]
     },
     {
-      "time": "08-26 03:18",
-      "title_en": "Iran Slams Trump’s ‘Economic D-Day’ as ‘Systemic Bullying,’ Accuses US of ‘Annihilating’ International Law",
-      "title_zh": "Iran Slams Trump’s ‘Economic D-Day’ as ‘Systemic Bullying,’ Accuses US of ‘Annihilating’ International Law",
-      "summary_en": "Iran criticizes Trump administration&#39;s economic restrictions, calling them annihilating international law and accusing U.S. of bullying.",
-      "summary_zh": "Iran criticizes Trump administration&#39;s economic restrictions, calling them annihilating international law and accusing U.S. of bullying.",
-      "context_en": "📰 Source: XOM · Benzinga · English original",
-      "context_zh": "📰 来源: XOM · Benzinga · 英文原文(未翻译)",
-      "source": "XOM · Benzinga",
-      "url": "https://finnhub.io/api/news?id=6cc218487d9ea18791488565187046c614efec9de67cafbb793f3be46e2d195f",
+      "time": "08-27 09:35",
+      "title_en": "10 Industrials Stocks Whale Activity In Today’s Session",
+      "title_zh": "10 Industrials Stocks Whale Activity In Today’s Session",
+      "summary_en": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "summary_zh": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "context_en": "📰 Source: RKLB · Benzinga · English original",
+      "context_zh": "📰 来源: RKLB · Benzinga · 英文原文(未翻译)",
+      "source": "RKLB · Benzinga",
+      "url": "https://finnhub.io/api/news?id=2d65dcd8356635bea019bedd859120d43ad89cdad086ff177889b6fb7577593c",
       "sectors": [
-        "energy"
+        "industry",
+        "space"
       ]
     },
     {
@@ -295,23 +309,6 @@
       "url": "https://finnhub.io/api/news?id=910ea47afe775de23d6454cedfb54b913803c6ec098b662f99cf46a0577ee670",
       "sectors": [
         "space"
-      ]
-    },
-    {
-      "time": "08-26 23:41",
-      "title_en": "NASA Chief Jared Isaacman Wants Data Centers In Space as AI Devours Electricity, Says US Should Tap ‘Free Fusion Reactor’ To Win AI Race",
-      "title_zh": "NASA Chief Jared Isaacman Wants Data Centers In Space as AI Devours Electricity, Says US Should Tap ‘Free Fusion Reactor’ To Win AI Race",
-      "summary_en": "NASA Admin Jared Isaacman wants to move AI data centers to Earth orbit, using solar power to strengthen US&#39;s position in space and AI race.",
-      "summary_zh": "NASA Admin Jared Isaacman wants to move AI data centers to Earth orbit, using solar power to strengthen US&#39;s position in space and AI race.",
-      "context_en": "📰 Source: RKLB · Benzinga · English original",
-      "context_zh": "📰 来源: RKLB · Benzinga · 英文原文(未翻译)",
-      "source": "RKLB · Benzinga",
-      "url": "https://finnhub.io/api/news?id=0bdb8fedeeb5ead4976ee0171f05a7b783136e67e2e15c32f5869343dfd8ae2c",
-      "sectors": [
-        "ai",
-        "energy",
-        "space",
-        "tech"
       ]
     },
     {
@@ -528,10 +525,10 @@
     },
     {
       "time": "08-26 21:20",
-      "title_en": "Oil gains as traders weigh prospects of easing Middle East supply disruptions - Reuters",
-      "title_zh": "Oil gains as traders weigh prospects of easing Middle East supply disruptions - Reuters",
-      "summary_en": "Oil gains as traders weigh prospects of easing Middle East supply disruptions  Reuters",
-      "summary_zh": "Oil gains as traders weigh prospects of easing Middle East supply disruptions  Reuters",
+      "title_en": "Oil rises by over $1 as White House says no US-Iran talks happening - Reuters",
+      "title_zh": "Oil rises by over $1 as White House says no US-Iran talks happening - Reuters",
+      "summary_en": "Oil rises by over $1 as White House says no US-Iran talks happening  Reuters",
+      "summary_zh": "Oil rises by over $1 as White House says no US-Iran talks happening  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
@@ -541,18 +538,28 @@
       ]
     },
     {
-      "time": "08-26 16:13",
-      "title_en": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
-      "title_zh": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
-      "summary_en": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
-      "summary_zh": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
+      "time": "08-27 14:14",
+      "title_en": "What Warsh will say and how the market will react, according to prediction markets",
+      "title_zh": "What Warsh will say and how the market will react, according to prediction markets",
+      "summary_en": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
+      "summary_zh": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
       "context_en": "📰 Source: Finnhub / CNBC · English original",
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-      "sectors": [
-        "ai"
-      ]
+      "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
+      "sectors": []
+    },
+    {
+      "time": "08-27 12:59",
+      "title_en": "Jim Cramer says the 'worst is over' at Salesforce, sees another 20% upside from here",
+      "title_zh": "Jim Cramer says the 'worst is over' at Salesforce, sees another 20% upside from here",
+      "summary_en": "Jim Cramer believes the comeback rally in Salesforce is far from over.",
+      "summary_zh": "Jim Cramer believes the comeback rally in Salesforce is far from over.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/jim-cramer-says-the-worst-is-over-at-salesforce-sees-another-20percent-upside-from-here.html",
+      "sectors": []
     },
     {
       "time": "08-27 09:40",
@@ -684,18 +691,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-26 15:27",
-      "title_en": "NEWSLETTER: Can US pressure stem cash flows to Iran? - Reuters",
-      "title_zh": "NEWSLETTER: Can US pressure stem cash flows to Iran? - Reuters",
-      "summary_en": "NEWSLETTER: Can US pressure stem cash flows to Iran?  Reuters",
-      "summary_zh": "NEWSLETTER: Can US pressure stem cash flows to Iran?  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTU4bDAweWpxVjVSanl3VWdoMTQzQkRoRDdBam45NzdTbFRRU0hKZ3k1V2xYODZMZnNHdkdSaGpSNHFSSTJ5R3hoY0I5N3RydTFZdTZ0RmU2SWlwcFJ0bDduSFVtakQ0aUpJU0R2UGswejY4Vll6ZlM3d0VEZmFZVld4Y3p2SElPLV9IQ1d0ZHhLXzhj?oc=5",
       "sectors": []
     }
   ],
