@@ -1,30 +1,44 @@
 {
   "market": "us",
-  "updated_at": "2026-08-28T15:34:18-04:00",
+  "updated_at": "2026-08-28T16:10:10-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 769.46,
-      "change": -1.64,
-      "change_pct": -0.2127
+      "value": 769.35,
+      "change": -1.75,
+      "change_pct": -0.2269
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 716.62,
-      "change": -4.49,
-      "change_pct": -0.6227
+      "value": 716.43,
+      "change": -4.68,
+      "change_pct": -0.649
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 535.17,
-      "change": -0.05,
-      "change_pct": -0.0093
+      "value": 535.06,
+      "change": -0.16,
+      "change_pct": -0.0299
     }
   ],
   "news": [
+    {
+      "time": "08-28 15:10",
+      "title_en": "What's going on in today's session: dow jones movers",
+      "title_zh": "What's going on in today's session: dow jones movers",
+      "summary_en": "Get insights into the dow jones index performance on Friday. Explore the top gainers and losers within the dow jones index in today's session.",
+      "summary_zh": "Get insights into the dow jones index performance on Friday. Explore the top gainers and losers within the dow jones index in today's session.",
+      "context_en": "📰 Source: NVDA · ChartMill · English original",
+      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
+      "source": "NVDA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
+      "sectors": [
+        "ai"
+      ]
+    },
     {
       "time": "08-28 14:05",
       "title_en": "Most active S&P500 stocks in Friday's session",
@@ -35,20 +49,6 @@
       "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
       "source": "NVDA · ChartMill",
       "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "08-28 14:00",
-      "title_en": "These stocks are the most active in today's session",
-      "title_zh": "These stocks are the most active in today's session",
-      "summary_en": "Friday's session is buzzing with activity. Check out the stocks that are attracting the most attention and driving market activity!",
-      "summary_zh": "Friday's session is buzzing with activity. Check out the stocks that are attracting the most attention and driving market activity!",
-      "context_en": "📰 Source: NVDA · ChartMill · English original",
-      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
-      "source": "NVDA · ChartMill",
-      "url": "https://finnhub.io/api/news?id=ccc3c26fea555b03d814c5c12a5db12d4793626b2a6ca91c5eb7fdade59417ed",
       "sectors": [
         "ai"
       ]
@@ -96,21 +96,6 @@
       ]
     },
     {
-      "time": "08-28 10:03",
-      "title_en": "Microsoft: The Rerating Is Probably Over For Now (Rating Downgrade)",
-      "title_zh": "Microsoft: The Rerating Is Probably Over For Now (Rating Downgrade)",
-      "summary_en": "Microsoft rallied after Q4 results, reversing prior negative sentiment tied to AI CapEx and Azure growth deceleration. Read more on MSFT stock here.",
-      "summary_zh": "Microsoft rallied after Q4 results, reversing prior negative sentiment tied to AI CapEx and Azure growth deceleration. Read more on MSFT stock here.",
-      "context_en": "📰 Source: MSFT · SeekingAlpha · English original",
-      "context_zh": "📰 来源: MSFT · SeekingAlpha · 英文原文(未翻译)",
-      "source": "MSFT · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=67ad2ed6e6cf5762de61fe8d77d555c5cdf9373f4664e36c8e63772725b6a41e",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
       "time": "08-28 07:41",
       "title_en": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
       "title_zh": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
@@ -125,32 +110,18 @@
       ]
     },
     {
-      "time": "08-28 08:10",
-      "title_en": "Nvidia Earnings And The Ecosystem: The 70% Guide, And Everything It Sets In Motion",
-      "title_zh": "Nvidia Earnings And The Ecosystem: The 70% Guide, And Everything It Sets In Motion",
-      "summary_en": "Nvidia (NVDA) reported results on Wednesday, August 27. The results were solid, but the â27 guide (F28) is what significantly surprised to the upside. Read more here...",
-      "summary_zh": "Nvidia (NVDA) reported results on Wednesday, August 27. The results were solid, but the â27 guide (F28) is what significantly surprised to the upside. Read more here...",
+      "time": "08-28 11:25",
+      "title_en": "Broadcom: I Am Hedging Before Q3, You Should Too",
+      "title_zh": "Broadcom: I Am Hedging Before Q3, You Should Too",
+      "summary_en": "Broadcom may face downside into Q3 earnings as expectations soar post-Nvidia. Click here for more on AVGO.",
+      "summary_zh": "Broadcom may face downside into Q3 earnings as expectations soar post-Nvidia. Click here for more on AVGO.",
       "context_en": "📰 Source: AVGO · SeekingAlpha · English original",
       "context_zh": "📰 来源: AVGO · SeekingAlpha · 英文原文(未翻译)",
       "source": "AVGO · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=701b2cbd572d5052bba3b972d6bd50938a4b8637e6d2ffaaddbd6ae5e100eae0",
+      "url": "https://finnhub.io/api/news?id=6be85b5cd0ec6d610d5e69926b737836a203aebc633974f9f7efa98778ac91ae",
       "sectors": [
         "ai",
         "tech"
-      ]
-    },
-    {
-      "time": "08-28 04:05",
-      "title_en": "'I Don't Know John Ternus,' Jim Cramer Says — but He Trusts Tim Cook's Word on Apple's Next CEO",
-      "title_zh": "'I Don't Know John Ternus,' Jim Cramer Says — but He Trusts Tim Cook's Word on Apple's Next CEO",
-      "summary_en": "Jim Cramer recommends buying CSCO, notes its strong quarter. APPL still a good buy with Tim Cook&#39;s successor announced. Vale may hedge inflation. ERock not advised, go with CoreWeave. Cisco, Apple, ERock shares up, Vale down.",
-      "summary_zh": "Jim Cramer recommends buying CSCO, notes its strong quarter. APPL still a good buy with Tim Cook&#39;s successor announced. Vale may hedge inflation. ERock not advised, go with CoreWeave. Cisco, Apple, ERock shares up, Vale down.",
-      "context_en": "📰 Source: CSCO · Benzinga · English original",
-      "context_zh": "📰 来源: CSCO · Benzinga · 英文原文(未翻译)",
-      "source": "CSCO · Benzinga",
-      "url": "https://finnhub.io/api/news?id=8c25443755266ec6f2f5e14cdee984e6db202ce5d664950ac5390369eeebe24b",
-      "sectors": [
-        "comm"
       ]
     },
     {
@@ -494,6 +465,18 @@
       ]
     },
     {
+      "time": "08-28 15:35",
+      "title_en": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
+      "title_zh": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
+      "summary_en": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.",
+      "summary_zh": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
+      "sectors": []
+    },
+    {
       "time": "08-28 15:23",
       "title_en": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
       "title_zh": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
@@ -647,18 +630,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRktXN2YycnhZcGwzVkYxc0lVNzI0SU5ONUhEYzNEaUt6akFhdEJwS0ZKdWxQU2NWbThlUG1WZklhcDNaNGVGdUR6X3JwN1ZHcTQ4Wnp4M0dRRjFtTV9wN0c4aWl3QnVwQzlvcm5kVF9Nc1hRWW90eURDOTQ4UkFmVlZDZHBJRW81OHBnNkhTbVpRT2ZNOG1zMmpsaDRvU0lXWHk0TWFONjhXZ2hDWi1ud1VTVmRscWNBejgwNk53ZHNYZUxKVklzTlN3?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-27 20:37",
-      "title_en": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says - Reuters",
-      "title_zh": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says - Reuters",
-      "summary_en": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says  Reuters",
-      "summary_zh": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW43Vk95endNOWY5dnh3SUs0amx5SDJXVEFuWTRoX0F0Vnl6azdkM3NYWmRMZXZPZ0pIRkpZTmZrcExyVG9GWVYyaHlXeFR6aVR1dS15RWcyNmxWZVNDNTBmRXRQSU9ESG1BcHE2YWU0d0M5MW1fcDgtUFFQYnZRTDYxMEp6S2l1c1ZaS3hodWRnSnlPR3hBLVFSLWlCUXR4SlFrb0Z6dnpCVFZneS1CZzVPR2JoRUJ5am0zdw?oc=5",
       "sectors": []
     }
   ],
