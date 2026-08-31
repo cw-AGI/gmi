@@ -1,55 +1,68 @@
 {
   "market": "us",
-  "updated_at": "2026-08-31T11:19:32-04:00",
+  "updated_at": "2026-08-31T12:06:28-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 765.6,
-      "change": -3.75,
-      "change_pct": -0.4874
+      "value": 765.2,
+      "change": -4.15,
+      "change_pct": -0.5394
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 714.39,
-      "change": -2.04,
-      "change_pct": -0.2847
+      "value": 713.54,
+      "change": -2.89,
+      "change_pct": -0.4034
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 531.57,
-      "change": -3.49,
-      "change_pct": -0.6523
+      "value": 531.59,
+      "change": -3.47,
+      "change_pct": -0.6485
     }
   ],
   "news": [
     {
-      "time": "08-31 06:00",
-      "title_en": "Nvidia: Trillions In AI Spend Over 5 Years Keeps The Growth Cycle Intact",
-      "title_zh": "Nvidia: Trillions In AI Spend Over 5 Years Keeps The Growth Cycle Intact",
-      "summary_en": "Nvidia Corporation Strong Buy: AI data center boom, Vera Rubin GPUs/CPUs, key risks, and $506 target. Click for this NVDA earnings update.",
-      "summary_zh": "Nvidia Corporation Strong Buy: AI data center boom, Vera Rubin GPUs/CPUs, key risks, and $506 target. Click for this NVDA earnings update.",
-      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
-      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
-      "source": "NVDA · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ca6298f12d71df209bf6b633de9c8b53e91ff0df4a12e2b808d830e97e9371d4",
+      "time": "08-31 07:30",
+      "title_en": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+      "title_zh": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+      "summary_en": "Former NYT Tokyo bureau chief Howard French says Nvidia’s financing web increasingly resembles 1980s Japan as AI spending surges.",
+      "summary_zh": "Former NYT Tokyo bureau chief Howard French says Nvidia’s financing web increasingly resembles 1980s Japan as AI spending surges.",
+      "context_en": "📰 Source: NVDA · Benzinga · English original",
+      "context_zh": "📰 来源: NVDA · Benzinga · 英文原文(未翻译)",
+      "source": "NVDA · Benzinga",
+      "url": "https://finnhub.io/api/news?id=2467d2ca8f3ca52ba8fa625342e81c9bc2ff0ffdf8b5cdc895a83f702dfba8ba",
       "sectors": [
-        "ai",
-        "tech"
+        "ai"
       ]
     },
     {
-      "time": "08-31 04:30",
-      "title_en": "Dividend Harvesting Portfolio Week 287: $28,700 Allocated, $3,270.88 In Projected Dividends",
-      "title_zh": "Dividend Harvesting Portfolio Week 287: $28,700 Allocated, $3,270.88 In Projected Dividends",
-      "summary_en": "Dividend Harvesting Portfolio update: 45.46% ROI, $3,270 forward income at 7.84% yield.",
-      "summary_zh": "Dividend Harvesting Portfolio update: 45.46% ROI, $3,270 forward income at 7.84% yield.",
-      "context_en": "📰 Source: NVDA · SeekingAlpha · English original",
-      "context_zh": "📰 来源: NVDA · SeekingAlpha · 英文原文(未翻译)",
-      "source": "NVDA · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c7873c284a1cda36df65c7f7f383e8a5f54fcfaebeb705358044514b0275aa8c",
+      "time": "08-31 06:52",
+      "title_en": "QUICK SPARK: Michael Burry Highlights Same AI 'Terminator Risk' as Bill Ackman",
+      "title_zh": "QUICK SPARK: Michael Burry Highlights Same AI 'Terminator Risk' as Bill Ackman",
+      "summary_en": "Michael Burry recommends reading the recent post from Dwarkesh Patel on AI agent security incidents at OpenAI.",
+      "summary_zh": "Michael Burry recommends reading the recent post from Dwarkesh Patel on AI agent security incidents at OpenAI.",
+      "context_en": "📰 Source: NVDA · Benzinga · English original",
+      "context_zh": "📰 来源: NVDA · Benzinga · 英文原文(未翻译)",
+      "source": "NVDA · Benzinga",
+      "url": "https://finnhub.io/api/news?id=24a91dea650a42e88eb86006ab781bf5b93afc1b692ef6c0e31db272fb0e427a",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "08-31 05:27",
+      "title_en": "AMD Expands Global AI Footprint With New Saudi Platform",
+      "title_zh": "AMD Expands Global AI Footprint With New Saudi Platform",
+      "summary_en": "AMD partnered with Cisco and HUMAIN to deploy a high-performance AI platform in Saudi Arabia, expanding its global footprint with plans for 1 GW by 2030.",
+      "summary_zh": "AMD partnered with Cisco and HUMAIN to deploy a high-performance AI platform in Saudi Arabia, expanding its global footprint with plans for 1 GW by 2030.",
+      "context_en": "📰 Source: AMD · Benzinga · English original",
+      "context_zh": "📰 来源: AMD · Benzinga · 英文原文(未翻译)",
+      "source": "AMD · Benzinga",
+      "url": "https://finnhub.io/api/news?id=fc6b094e7f24a0646ff03906f590e257e9dc04d67abd69c24c1a00b80a1fd0ea",
       "sectors": [
         "ai"
       ]
@@ -66,21 +79,6 @@
       "url": "https://finnhub.io/api/news?id=c41651ec2da0872185aff3aa7ad3470900318cfee1386bc5100c5df18440d2a5",
       "sectors": [
         "ai"
-      ]
-    },
-    {
-      "time": "08-31 03:41",
-      "title_en": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
-      "title_zh": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
-      "summary_en": "New Fed chair Kevin Warsh sounded hawkish in his first Jackson Hole speech, lifting Treasury yields and dragging the Nasdaq lower. Chips led the reversal, PayPal cratered on failed M&A, and French quantum firm Pasqal nearly doubled in its debut.",
-      "summary_zh": "New Fed chair Kevin Warsh sounded hawkish in his first Jackson Hole speech, lifting Treasury yields and dragging the Nasdaq lower. Chips led the reversal, PayPal cratered on failed M&A, and French quantum firm Pasqal nearly doubled in its debut.",
-      "context_en": "📰 Source: AMD · ChartMill · English original",
-      "context_zh": "📰 来源: AMD · ChartMill · 英文原文(未翻译)",
-      "source": "AMD · ChartMill",
-      "url": "https://finnhub.io/api/news?id=2d5abdb607b055573b7822022510206b08f75be320eb83da85199aa95a9795c4",
-      "sectors": [
-        "ai",
-        "tech"
       ]
     },
     {
@@ -126,21 +124,6 @@
       ]
     },
     {
-      "time": "08-30 06:07",
-      "title_en": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
-      "title_zh": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
-      "summary_en": "Augustâs jobs report could cement a September rate hike. Broadcom earnings give another look at the AI spending. John Ternus takes the reins from Tim Cook at Apple.",
-      "summary_zh": "Augustâs jobs report could cement a September rate hike. Broadcom earnings give another look at the AI spending. John Ternus takes the reins from Tim Cook at Apple.",
-      "context_en": "📰 Source: AAPL · SeekingAlpha · English original",
-      "context_zh": "📰 来源: AAPL · SeekingAlpha · 英文原文(未翻译)",
-      "source": "AAPL · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b65dcfa0f8f8e542ff67693f72381cc5309af36902e5be4ba7bbc2a6c8f91e94",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
       "time": "08-28 07:41",
       "title_en": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
       "title_zh": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
@@ -155,18 +138,31 @@
       ]
     },
     {
-      "time": "08-30 01:58",
-      "title_en": "Wall Street Week Ahead",
-      "title_zh": "Wall Street Week Ahead",
-      "summary_en": "Wall Street heads into September: August jobs report, AI chip earnings, and Teslaâs Cybercab launchâplus Fed Beige Book insights.",
-      "summary_zh": "Wall Street heads into September: August jobs report, AI chip earnings, and Teslaâs Cybercab launchâplus Fed Beige Book insights.",
-      "context_en": "📰 Source: AVGO · SeekingAlpha · English original",
-      "context_zh": "📰 来源: AVGO · SeekingAlpha · 英文原文(未翻译)",
-      "source": "AVGO · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba315618ffbe316cfaad6942270af6a92eed58515a9f13eba6d622c94ad24900",
+      "time": "08-31 04:28",
+      "title_en": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus (UPDATED)",
+      "title_zh": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus (UPDATED)",
+      "summary_en": "U.S. stock futures were lower on Monday, as the Dow Jones, S&amp;P 500 and Nasdaq 100 indices fell, following Friday&#39;s lower close.",
+      "summary_zh": "U.S. stock futures were lower on Monday, as the Dow Jones, S&amp;P 500 and Nasdaq 100 indices fell, following Friday&#39;s lower close.",
+      "context_en": "📰 Source: AVGO · Benzinga · English original",
+      "context_zh": "📰 来源: AVGO · Benzinga · 英文原文(未翻译)",
+      "source": "AVGO · Benzinga",
+      "url": "https://finnhub.io/api/news?id=9b0f6816b92992a29a46fd55746ede74d007ee5c9e263c4a969140337e1a5d99",
       "sectors": [
-        "ai",
-        "space",
+        "tech"
+      ]
+    },
+    {
+      "time": "08-30 21:58",
+      "title_en": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "title_zh": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary_en": "Will the S&amp;P 500 open higher? Polymarket odds plunge to 36% as Wall Street reacts to U.S.-Iran strikes, oil prices, and a crucial jobs week.",
+      "summary_zh": "Will the S&amp;P 500 open higher? Polymarket odds plunge to 36% as Wall Street reacts to U.S.-Iran strikes, oil prices, and a crucial jobs week.",
+      "context_en": "📰 Source: AVGO · Benzinga · English original",
+      "context_zh": "📰 来源: AVGO · Benzinga · 英文原文(未翻译)",
+      "source": "AVGO · Benzinga",
+      "url": "https://finnhub.io/api/news?id=25962831b90b6605c6dc1c5eaf17a2af332f537e8ab4b38a89e9c5fca14ecb8d",
+      "sectors": [
+        "energy",
         "tech"
       ]
     },
@@ -180,20 +176,6 @@
       "context_zh": "📰 来源: CSCO · ChartMill · 英文原文(未翻译)",
       "source": "CSCO · ChartMill",
       "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
-      "sectors": [
-        "comm"
-      ]
-    },
-    {
-      "time": "08-28 12:40",
-      "title_en": "Stay informed with the top movers within the dow jones index on Friday.",
-      "title_zh": "Stay informed with the top movers within the dow jones index on Friday.",
-      "summary_en": "Join us in exploring the top gainers and losers within the dow jones index in the middle of the day on Friday as we examine the latest happenings in today's session.",
-      "summary_zh": "Join us in exploring the top gainers and losers within the dow jones index in the middle of the day on Friday as we examine the latest happenings in today's session.",
-      "context_en": "📰 Source: CSCO · ChartMill · English original",
-      "context_zh": "📰 来源: CSCO · ChartMill · 英文原文(未翻译)",
-      "source": "CSCO · ChartMill",
-      "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019",
       "sectors": [
         "comm"
       ]
@@ -358,17 +340,45 @@
       ]
     },
     {
-      "time": "08-28 06:35",
-      "title_en": "CRISPR Therapeutics Data From Its Phase 1 Clinical Study Of CTX Shows 79% Mean Reductions From Baseline For ANGPTL3, 48% Maximum For Triglycerides",
-      "title_zh": "CRISPR Therapeutics Data From Its Phase 1 Clinical Study Of CTX Shows 79% Mean Reductions From Baseline For ANGPTL3, 48% Maximum For Triglycerides",
-      "summary_en": "CRISPR Therapeutics (NASDAQ:CRSP) today presented durability data from its Phase 1a clinical trial evaluating CTX310®, an investigational, in vivo CRISPR/Cas9 gene editing therapy targeting ANGPTL3. A single-course",
-      "summary_zh": "CRISPR Therapeutics (NASDAQ:CRSP) today presented durability data from its Phase 1a clinical trial evaluating CTX310®, an investigational, in vivo CRISPR/Cas9 gene editing therapy targeting ANGPTL3. A single-course",
+      "time": "08-31 04:35",
+      "title_en": "Citizens Reiterates Market Outperform on CRISPR Therapeutics, Maintains $80 Price Target",
+      "title_zh": "Citizens Reiterates Market Outperform on CRISPR Therapeutics, Maintains $80 Price Target",
+      "summary_en": "Citizens  analyst Silvan Turkcan   reiterates CRISPR Therapeutics (NASDAQ:CRSP) with a Market Outperform and maintains $80 price target.",
+      "summary_zh": "Citizens  analyst Silvan Turkcan   reiterates CRISPR Therapeutics (NASDAQ:CRSP) with a Market Outperform and maintains $80 price target.",
       "context_en": "📰 Source: CRSP · Benzinga · English original",
       "context_zh": "📰 来源: CRSP · Benzinga · 英文原文(未翻译)",
       "source": "CRSP · Benzinga",
-      "url": "https://finnhub.io/api/news?id=7242bfebba6764885e79a8d8099330610705e65032e5e0aac63f84d8fe3e9502",
+      "url": "https://finnhub.io/api/news?id=993b7816955222f66121ad967b8aef87803ffc78cb7f15934e94b880e1b38d98",
       "sectors": [
         "bio"
+      ]
+    },
+    {
+      "time": "08-31 02:03",
+      "title_en": "Needham Reiterates Buy on CRISPR Therapeutics, Maintains $82 Price Target",
+      "title_zh": "Needham Reiterates Buy on CRISPR Therapeutics, Maintains $82 Price Target",
+      "summary_en": "Needham  analyst Gil Blum   reiterates CRISPR Therapeutics (NASDAQ:CRSP) with a Buy and maintains $82 price target.",
+      "summary_zh": "Needham  analyst Gil Blum   reiterates CRISPR Therapeutics (NASDAQ:CRSP) with a Buy and maintains $82 price target.",
+      "context_en": "📰 Source: CRSP · Benzinga · English original",
+      "context_zh": "📰 来源: CRSP · Benzinga · 英文原文(未翻译)",
+      "source": "CRSP · Benzinga",
+      "url": "https://finnhub.io/api/news?id=a07e04092de834e751d3b86f1ecdb8c121be3bde74fa7b26fdb5429c35115894",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "08-31 09:39",
+      "title_en": "A look at Iran's Kharg Island and energy sector - Reuters",
+      "title_zh": "A look at Iran's Kharg Island and energy sector - Reuters",
+      "summary_en": "A look at Iran's Kharg Island and energy sector  Reuters",
+      "summary_zh": "A look at Iran's Kharg Island and energy sector  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmt4Q3IzMGlodHRiaUpZWVBLUHNxQW5ydExabHlPNzlIMF85QjNWODQ0MWl6Y3ZETVJEVUpYaHN6a0ZabWlWNHpfMHRleWJfdllvZDRCRG5qVDVDb0JsZTh0M2xobFNQYTNMWGhMVkItM3RPRWZLaTdqQ2xKdmdtV3VCbjBmNE1nalpQZUxJelBoQmM?oc=5",
+      "sectors": [
+        "energy"
       ]
     },
     {
@@ -397,6 +407,20 @@
       "url": "https://www.cnbc.com/2026/08/31/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
       "sectors": [
         "energy"
+      ]
+    },
+    {
+      "time": "08-31 08:41",
+      "title_en": "EU aviation safety agency narrows Gulf airspace warning - Reuters",
+      "title_zh": "EU aviation safety agency narrows Gulf airspace warning - Reuters",
+      "summary_en": "EU aviation safety agency narrows Gulf airspace warning  Reuters",
+      "summary_zh": "EU aviation safety agency narrows Gulf airspace warning  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVczeUFtaTZ6UjkwS0lSdkI1ZE9xU195ZE5FTDJQZ01QdGNtelZHc3YwUXhfMDFwUUJidGFCTmtrVElnYjRNaU84N0FRb2I2cEdOQTE2dnBySDZFVFhxdlV3MkxSSmRURzRBSG9ENHA1Qkc4VTFZeUo4ZXJycjRDek9uX0ZIWGk1ZlJkWEZUZ3dQTEdlanFMVVhhSzJadmJJTjZLS3FwWTc1NGRTaFE?oc=5",
+      "sectors": [
+        "space"
       ]
     },
     {
@@ -498,32 +522,16 @@
       ]
     },
     {
-      "time": "08-30 22:54",
-      "title_en": "Indian shares set for cautious start; MSCI rejig, HDFC Bank in focus - Reuters",
-      "title_zh": "Indian shares set for cautious start; MSCI rejig, HDFC Bank in focus - Reuters",
-      "summary_en": "Indian shares set for cautious start; MSCI rejig, HDFC Bank in focus  Reuters",
-      "summary_zh": "Indian shares set for cautious start; MSCI rejig, HDFC Bank in focus  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhzUmFDRUhTV200UmE3NjFXbDJXVXNKQVlWV2FaN2l1dzUxM1dNZUtZaDJNblc4Q295TWN3S3R5M0xvVXRMZ3oyQzBuWHJkZnczM2dTQy1kQXlLcWRUTG96b19CNm1YbEhvdjdoVk84bnVzV0k1ZGh1T3lJRnZOanlRNjZwVVNkQ282bC1hQkJXWXliUGJsQUVwcVY3SkIyb3dHTjhCSzZQNkk?oc=5",
-      "sectors": [
-        "finance"
-      ]
-    },
-    {
-      "time": "08-30 20:38",
-      "title_en": "Bond markets face fresh selling as oil prices jump, stocks cautious - Reuters",
-      "title_zh": "Bond markets face fresh selling as oil prices jump, stocks cautious - Reuters",
-      "summary_en": "Bond markets face fresh selling as oil prices jump, stocks cautious  Reuters",
-      "summary_zh": "Bond markets face fresh selling as oil prices jump, stocks cautious  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "time": "08-31 11:23",
+      "title_en": "We're trimming one of our top-performing tech stocks to lock in some gains",
+      "title_zh": "We're trimming one of our top-performing tech stocks to lock in some gains",
+      "summary_en": "This sale does not reflect a call on earnings Tuesday evening after the closing bell.",
+      "summary_zh": "This sale does not reflect a call on earnings Tuesday evening after the closing bell.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/were-trimming-a-top-performing-stock-to-lock-in-some-gains.html",
+      "sectors": []
     },
     {
       "time": "08-31 09:34",
@@ -547,6 +555,18 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzNCeTl1Slh2LXg1ZW04UUFZS2xtdHE5ZjhXZ2FlVmZsTTRiN2dENVBjZFAyTWk3a0s1cDltV1dsSXFjWlNuTU5RaG9abDE2bVFGS3lNTC1NZWFsS2hUM3FpQUJQd2Y0dVdMWlhEUjdMb1B3blNPV0I4VDZwVkVleDNjRHlMNTY3aGFzRThESGhMejJFcENCR2hzZFpsVHRhMC1WSVV1SlZwVk1wV0xKTk5NMUZLbVI5VFNqRUprTU90UQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "08-31 08:49",
+      "title_en": "Taiwan says 'unpredictable' China strengthens air and sea control nearby - Reuters",
+      "title_zh": "Taiwan says 'unpredictable' China strengthens air and sea control nearby - Reuters",
+      "summary_en": "Taiwan says 'unpredictable' China strengthens air and sea control nearby  Reuters",
+      "summary_zh": "Taiwan says 'unpredictable' China strengthens air and sea control nearby  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWGpQaG9aejdkNW53TDNqVW04YzBQZE55SlJVU3JZVzByZHlUWEp5bXEwdFU1S1hmZDROaHFUeUR1aThZaGg3WnJQMTRtWlkyWTF0RDZEUnFsYmxTUG5JMldvdEtMeHBJQmxscFZ5NXRqSWhXRXBmOVc1TmFkbDNROExFWlZuM0JESE5kVzVZYzVvV1d3SjhvZGhVNGE0c0VWUjQxeTZjLUlnLUVPNmFHUmd4VVJfMXE2RnFPcmZQZklad1kzWWYwaA?oc=5",
       "sectors": []
     },
     {
@@ -607,30 +627,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ09ObHphV0lHczYtdENzRzVQNFUtNUhLLU90dF92aTNaZU4yYm4zT1lScGhlekhEM1RVaGVVQUhQZEp2VUtLV19UelcwWnFUWkdkN0dhRUdtYkUtU3FIckVldDU5VnRnSkRaRkRGVkVyWHdBLTZzQUIzX1pMYUZSclpFSTZSOVBFZzlvSGpIWnlwNW84VDhZNm1LTjFDV2pZeG9WajktcllVb2VsVTdTTlhpUXFEVFg1NnJmZ2ZyQzRxakxUdTVzQ3BLOXBnSDA?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-30 22:54",
-      "title_en": "China's three biggest airlines post heavy first-half losses as fuel shock bites - Reuters",
-      "title_zh": "China's three biggest airlines post heavy first-half losses as fuel shock bites - Reuters",
-      "summary_en": "China's three biggest airlines post heavy first-half losses as fuel shock bites  Reuters",
-      "summary_zh": "China's three biggest airlines post heavy first-half losses as fuel shock bites  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZXdPS1l4N3NDN29UV3B4Zlhickk3SGkyTXZmSmxuaEEyUnhSWjFhdW1oZTIxaEVaMHV5empoZUNkenAyTDVlMENDcnVSR18wYTVrSTJ5R2p2ZWhTTlZiWWpaa0xlY0JIMDlEWm1rMWYzV2o2WFZVOHItTGpiQ3J5ajFtY1dpMkFhNW51dVozZEp4MmJweUNwMWdrSnE5WHJZdFcwQWlDdl9HRnkwMjd5eEVQOThuaWhLdFVsT0otblR6OUx0ZWZCbjZxTVNOQ2lwNHhVYw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "08-30 22:14",
-      "title_en": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters",
-      "title_zh": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters",
-      "summary_en": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details  Reuters",
-      "summary_zh": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5",
       "sectors": []
     }
   ],
