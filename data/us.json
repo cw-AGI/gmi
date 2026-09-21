@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-09-21T10:29:28-04:00",
+  "updated_at": "2026-09-21T11:03:38-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 769.18,
-      "change": 7.49,
-      "change_pct": 0.9833
+      "value": 769.25,
+      "change": 7.56,
+      "change_pct": 0.9925
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 734.98,
-      "change": 13.53,
-      "change_pct": 1.8754
+      "value": 735.93,
+      "change": 14.48,
+      "change_pct": 2.0071
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 518.49,
-      "change": 2.61,
-      "change_pct": 0.5059
+      "value": 518.04,
+      "change": 2.16,
+      "change_pct": 0.4187
     }
   ],
   "news": [
@@ -56,6 +56,20 @@
       ]
     },
     {
+      "time": "09-21 10:35",
+      "title_en": "Monday's session: gap up and gap down stock in the S&P500 index",
+      "title_zh": "Monday's session: gap up and gap down stock in the S&P500 index",
+      "summary_en": "Wondering which stocks are making significant price gaps? Explore the S&P500 index on Monday to find the gap up and gap down stocks in today's session.",
+      "summary_zh": "Wondering which stocks are making significant price gaps? Explore the S&P500 index on Monday to find the gap up and gap down stocks in today's session.",
+      "context_en": "📰 Source: AMD · ChartMill · English original",
+      "context_zh": "📰 来源: AMD · ChartMill · 英文原文(未翻译)",
+      "source": "AMD · ChartMill",
+      "url": "https://finnhub.io/api/news?id=bb1e82c03b2c4dd83d55cae74c37f851d80a18305d70a579433a1ed7e68a629e",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
       "time": "09-21 09:50",
       "title_en": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
       "title_zh": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
@@ -67,50 +81,6 @@
       "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
       "sectors": [
         "ai"
-      ]
-    },
-    {
-      "time": "09-21 09:37",
-      "title_en": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-      "title_zh": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-      "summary_en": "A supply-chain report lit a fuse under AMD shares Monday morning, but the move hinges on whether the chip giant is flexing pricing power or simply handing a supplier's bill to its customers.",
-      "summary_zh": "A supply-chain report lit a fuse under AMD shares Monday morning, but the move hinges on whether the chip giant is flexing pricing power or simply handing a supplier's bill to its customers.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=fae669ecb6e184066d966bca9ef2e7bfed6d0b0685bbf660792d31f03bac5450",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "09-21 08:10",
-      "title_en": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
-      "title_zh": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
-      "summary_en": "Market uncertainty persists, but Zacks highlights strong gains across key portfolios and stocks, including PBF, PLTR and ADBE",
-      "summary_zh": "Market uncertainty persists, but Zacks highlights strong gains across key portfolios and stocks, including PBF, PLTR and ADBE",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=549978088471503f39ef8adfc2316186f5ce7fc93dab84136070f50605ea2d73",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "09-21 07:55",
-      "title_en": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",
-      "title_zh": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",
-      "summary_en": "DELL, SMCI and HPE are seeing surging AI-server demand, record backlogs and stronger guidance as data centers expand AI infrastructure.",
-      "summary_zh": "DELL, SMCI and HPE are seeing surging AI-server demand, record backlogs and stronger guidance as data centers expand AI infrastructure.",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=58d2dee4734c154bb86c1a84e730b5fd4fc7a36ea6ed57ad60ae9457e6af75be",
-      "sectors": [
-        "ai",
-        "tech"
       ]
     },
     {
@@ -153,6 +123,21 @@
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
       "url": "https://finnhub.io/api/news?id=4c89feb39088967780262cb602f84a49c8ad39a091bba74dbaf7610918ab8aa5",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "09-21 09:37",
+      "title_en": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+      "title_zh": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+      "summary_en": "A supply-chain report lit a fuse under AMD shares Monday morning, but the move hinges on whether the chip giant is flexing pricing power or simply handing a supplier's bill to its customers.",
+      "summary_zh": "A supply-chain report lit a fuse under AMD shares Monday morning, but the move hinges on whether the chip giant is flexing pricing power or simply handing a supplier's bill to its customers.",
+      "context_en": "📰 Source: TSM · Yahoo · English original",
+      "context_zh": "📰 来源: TSM · Yahoo · 英文原文(未翻译)",
+      "source": "TSM · Yahoo",
+      "url": "https://finnhub.io/api/news?id=fae669ecb6e184066d966bca9ef2e7bfed6d0b0685bbf660792d31f03bac5450",
       "sectors": [
         "ai",
         "tech"
@@ -319,19 +304,17 @@
       ]
     },
     {
-      "time": "09-20 15:26",
-      "title_en": "Bloom Energy’s “Time-to-Power” Moat",
-      "title_zh": "Bloom Energy’s “Time-to-Power” Moat",
-      "summary_en": "How bottlenecks in the power generation space could benefit companies such as Emphase and Bloom Energy.",
-      "summary_zh": "How bottlenecks in the power generation space could benefit companies such as Emphase and Bloom Energy.",
-      "context_en": "📰 Source: ENPH · Yahoo · English original",
-      "context_zh": "📰 来源: ENPH · Yahoo · 英文原文(未翻译)",
-      "source": "ENPH · Yahoo",
-      "url": "https://finnhub.io/api/news?id=67af06b6e6b0377853aa8aaefd08c2636d72c3a9fc28675bad52ad34278ad3ee",
+      "time": "09-21 02:57",
+      "title_en": "Goldman Sachs Maintains Buy on Enphase Energy, Lowers Price Target to $47",
+      "title_zh": "Goldman Sachs Maintains Buy on Enphase Energy, Lowers Price Target to $47",
+      "summary_en": "Goldman Sachs  analyst Brian Lee   maintains Enphase Energy (NASDAQ:ENPH) with a Buy and lowers the price target from $55 to $47.",
+      "summary_zh": "Goldman Sachs  analyst Brian Lee   maintains Enphase Energy (NASDAQ:ENPH) with a Buy and lowers the price target from $55 to $47.",
+      "context_en": "📰 Source: ENPH · Benzinga · English original",
+      "context_zh": "📰 来源: ENPH · Benzinga · 英文原文(未翻译)",
+      "source": "ENPH · Benzinga",
+      "url": "https://finnhub.io/api/news?id=0ae1e0474c1b9f19029b088b5daeac2f2b6bd05345effd8265a851d2a7599817",
       "sectors": [
-        "bio",
-        "energy",
-        "space"
+        "energy"
       ]
     },
     {
@@ -393,6 +376,21 @@
       ]
     },
     {
+      "time": "09-21 06:27",
+      "title_en": "What's Going On with AST SpaceMobile Stock Monday?",
+      "title_zh": "What's Going On with AST SpaceMobile Stock Monday?",
+      "summary_en": "AST SpaceMobile is trading higher Monday after FCC Chair Brendan Carr said future spectrum auctions could generate more than $100 billion.",
+      "summary_zh": "AST SpaceMobile is trading higher Monday after FCC Chair Brendan Carr said future spectrum auctions could generate more than $100 billion.",
+      "context_en": "📰 Source: ASTS · Benzinga · English original",
+      "context_zh": "📰 来源: ASTS · Benzinga · 英文原文(未翻译)",
+      "source": "ASTS · Benzinga",
+      "url": "https://finnhub.io/api/news?id=19d7c2b03fab8909d641462cac80da6fdd150eb73dc40b926388d8a98bdfd5fe",
+      "sectors": [
+        "bio",
+        "space"
+      ]
+    },
+    {
       "time": "09-21 04:12",
       "title_en": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
       "title_zh": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
@@ -403,22 +401,6 @@
       "source": "ASTS · Yahoo",
       "url": "https://finnhub.io/api/news?id=36a374b6ddbe765f9ab2b29e368471685d9f77fe27db24ccc12687c25908f830",
       "sectors": [
-        "industry",
-        "space"
-      ]
-    },
-    {
-      "time": "09-21 04:04",
-      "title_en": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-      "title_zh": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-      "summary_en": "Friday's quarterly options expiry turned Wall Street into a roller coaster, with the ten-year yield back at 5% and crypto stocks surging as bitcoin reclaimed $80,000. Netflix drew a rare sell rating, two steelmakers stumbled, and the White House announced an \"AI Force\" over the weekend.",
-      "summary_zh": "Friday's quarterly options expiry turned Wall Street into a roller coaster, with the ten-year yield back at 5% and crypto stocks surging as bitcoin reclaimed $80,000. Netflix drew a rare sell rating, two steelmakers stumbled, and the White House announced an \"AI Force\" over the weekend.",
-      "context_en": "📰 Source: ASTS · ChartMill · English original",
-      "context_zh": "📰 来源: ASTS · ChartMill · 英文原文(未翻译)",
-      "source": "ASTS · ChartMill",
-      "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
-      "sectors": [
-        "ai",
         "industry",
         "space"
       ]
@@ -453,30 +435,29 @@
       ]
     },
     {
-      "time": "09-21 03:00",
-      "title_en": "Moderna’s Bob Langer and AI pioneer Yann LeCun join board of Cellular Intelligence, bringing AI into medicine via a Parkinson’s drug",
-      "title_zh": "Moderna’s Bob Langer and AI pioneer Yann LeCun join board of Cellular Intelligence, bringing AI into medicine via a Parkinson’s drug",
-      "summary_en": "CI is pairing top AI and biotech minds on its board (plus an advisory role for OpenAI's Fidji Simo) as it tests models on a Novo Nordisk drug.",
-      "summary_zh": "CI is pairing top AI and biotech minds on its board (plus an advisory role for OpenAI's Fidji Simo) as it tests models on a Novo Nordisk drug.",
+      "time": "09-21 10:12",
+      "title_en": "Moderna Announces Late-Breaking Data to be Presented at ESMO Congress 2026",
+      "title_zh": "Moderna Announces Late-Breaking Data to be Presented at ESMO Congress 2026",
+      "summary_en": "The presentation details are as follows:Presidential Symposium: * LBA1- INTerpath-001: Phase 3 study of the mRNA-based individualized neoantigen therapy (INT) intismeran autogene (intismeran) plus pembrolizumab (pembro) vs pembro alone for adjuvant treatment of resected stage IIB-IV melanoma (MEL) Session Type/Title: Presidential Symposium Date & Time: Saturday, October 24, 4:30 PM CEST / 10:30 AM EDT Presenter: Georgina V. Long (Sydney, Australia, NSW)Poster Presentations: * Abstract 3151P: Adj",
+      "summary_zh": "The presentation details are as follows:Presidential Symposium: * LBA1- INTerpath-001: Phase 3 study of the mRNA-based individualized neoantigen therapy (INT) intismeran autogene (intismeran) plus pembrolizumab (pembro) vs pembro alone for adjuvant treatment of resected stage IIB-IV melanoma (MEL) Session Type/Title: Presidential Symposium Date & Time: Saturday, October 24, 4:30 PM CEST / 10:30 AM EDT Presenter: Georgina V. Long (Sydney, Australia, NSW)Poster Presentations: * Abstract 3151P: Adj",
       "context_en": "📰 Source: MRNA · Yahoo · English original",
       "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
       "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=d48db34fe9e6d6a14ac08140d9dcc47f972aea346c970f2d89324a53f536f9dd",
+      "url": "https://finnhub.io/api/news?id=d59977c043e481bc9c380401822c69bbe5433531c9eb0c6a6038b25ad7177e52",
       "sectors": [
-        "ai",
         "bio"
       ]
     },
     {
-      "time": "09-20 19:47",
-      "title_en": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "title_zh": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "summary_en": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "summary_zh": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2ea13b23a104faf1ba4862c03c465c112e39302e58c02ec34ad001af012a740",
+      "time": "09-21 06:13",
+      "title_en": "Moderna To Present Three Abstracts On Intismeran Autogene At European Society For Medical Oncology Congress 2026",
+      "title_zh": "Moderna To Present Three Abstracts On Intismeran Autogene At European Society For Medical Oncology Congress 2026",
+      "summary_en": "Moderna, Inc. (NASDAQ:MRNA) today announced that three abstracts on intismeran autogene, an investigational mRNA-based individualized neoantigen therapy, have been accepted for presentation at the European Society for",
+      "summary_zh": "Moderna, Inc. (NASDAQ:MRNA) today announced that three abstracts on intismeran autogene, an investigational mRNA-based individualized neoantigen therapy, have been accepted for presentation at the European Society for",
+      "context_en": "📰 Source: MRNA · Benzinga · English original",
+      "context_zh": "📰 来源: MRNA · Benzinga · 英文原文(未翻译)",
+      "source": "MRNA · Benzinga",
+      "url": "https://finnhub.io/api/news?id=78b6f2912aeec0a40d3cfc1d5bc2aa458cb199f8b2fd683109d392bf6d27c3eb",
       "sectors": [
         "bio"
       ]
@@ -653,6 +634,18 @@
       ]
     },
     {
+      "time": "09-21 10:08",
+      "title_en": "Houthis push for control of Yemen highlands as Trump is said to have called off strikes - Reuters",
+      "title_zh": "Houthis push for control of Yemen highlands as Trump is said to have called off strikes - Reuters",
+      "summary_en": "Houthis push for control of Yemen highlands as Trump is said to have called off strikes  Reuters",
+      "summary_zh": "Houthis push for control of Yemen highlands as Trump is said to have called off strikes  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHBmWjNkMFR2Skw0MWVFaENxamFwbXN0RGxRei1RenlFVk11R1loSlZtdm16SW5ITGFMalY1bkNBOUVONnVVdENtbDZSdzByT0l0NkJiZUlSSzBvRHBBNWxKd01ja09Eb1Nla205aW5oQkxGVGpiUjZQUTJVYy1EWGx6R2JPN2pGWXVUU29CQ1ZyQmpSMWlzQ1VYUzhidC1SZ3VSMFhyVndUYUZYTXItOGgyTktsQnV1QW1ETzN4NnI2eWhZMXhoZ1h4eEU?oc=5",
+      "sectors": []
+    },
+    {
       "time": "09-21 08:56",
       "title_en": "Our top 10 things to watch in the stock market Monday",
       "title_zh": "Our top 10 things to watch in the stock market Monday",
@@ -665,15 +658,15 @@
       "sectors": []
     },
     {
-      "time": "09-21 07:29",
-      "title_en": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes - Reuters",
-      "title_zh": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes - Reuters",
-      "summary_en": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes  Reuters",
-      "summary_zh": "Houthis push for control of Yemen highlands as Trump reported to have called off airstrikes  Reuters",
+      "time": "09-21 06:42",
+      "title_en": "COMMENTARY: Morning Bid: Summiteering - Reuters",
+      "title_zh": "COMMENTARY: Morning Bid: Summiteering - Reuters",
+      "summary_en": "COMMENTARY: Morning Bid: Summiteering  Reuters",
+      "summary_zh": "COMMENTARY: Morning Bid: Summiteering  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHBmWjNkMFR2Skw0MWVFaENxamFwbXN0RGxRei1RenlFVk11R1loSlZtdm16SW5ITGFMalY1bkNBOUVONnVVdENtbDZSdzByT0l0NkJiZUlSSzBvRHBBNWxKd01ja09Eb1Nla205aW5oQkxGVGpiUjZQUTJVYy1EWGx6R2JPN2pGWXVUU29CQ1ZyQmpSMWlzQ1VYUzhidC1SZ3VSMFhyVndUYUZYTXItOGgyTktsQnV1QW1ETzN4NnI2eWhZMXhoZ1h4eEU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEFPNUpOV29zcl9nZlFKaEJNS2tjMnN2OUNidVJvanpPRUE0RTVLNm1tOGZSQzMxLXAzVy1sWk1SM2hjNHQ1bU5GbzdxdGsxT09Ob3FNTEJMTnc2dTFPM1p2UHpQRndJVlRTb3ZzWS1UOHZpSjhpLVEwQVA1bU9ZTlduRVlVdUZwVlJpcjBlZTdiZ2pqXzlv?oc=5",
       "sectors": []
     },
     {
@@ -770,18 +763,6 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
-      "sectors": []
-    },
-    {
-      "time": "09-20 09:19",
-      "title_en": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
-      "title_zh": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
-      "summary_en": "Iran and US trade threats after Houthi attacks escalate regional conflict  Reuters",
-      "summary_zh": "Iran and US trade threats after Houthi attacks escalate regional conflict  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
       "sectors": []
     }
   ],
