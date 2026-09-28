@@ -1,174 +1,158 @@
 {
   "market": "us",
-  "updated_at": "2026-09-28T12:42:28-04:00",
+  "updated_at": "2026-09-28T15:53:37-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 767.1,
-      "change": -4.25,
-      "change_pct": -0.551
+      "value": 765.27,
+      "change": -6.08,
+      "change_pct": -0.7882
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 737.64,
-      "change": -6.86,
-      "change_pct": -0.9214
+      "value": 736.24,
+      "change": -8.26,
+      "change_pct": -1.1095
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 515.0,
-      "change": -2.49,
-      "change_pct": -0.4812
+      "value": 514.07,
+      "change": -3.42,
+      "change_pct": -0.6609
     }
   ],
   "news": [
     {
-      "time": "09-28 11:44",
-      "title_en": "Why Boeing Stock Just Dropped",
-      "title_zh": "Why Boeing Stock Just Dropped",
-      "summary_en": "Uh-oh. Boeing just found another problem with its 737 MAX airplane.",
-      "summary_zh": "Uh-oh. Boeing just found another problem with its 737 MAX airplane.",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=43b16289ac557060c75f8d230386bc7100536edafb32a65ecc97d39bcfd90207",
+      "time": "09-28 15:10",
+      "title_en": "Top dow jones movers in Monday's session",
+      "title_zh": "Top dow jones movers in Monday's session",
+      "summary_en": "Curious about the dow jones stocks that are in motion on Monday? Join us as we explore the top movers within the dow jones index during today's session.",
+      "summary_zh": "Curious about the dow jones stocks that are in motion on Monday? Join us as we explore the top movers within the dow jones index during today's session.",
+      "context_en": "📰 Source: NVDA · ChartMill · English original",
+      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
+      "source": "NVDA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=e7314e47396ff982ffb99f585545511c858008d4c9e0017fe81912982ec663c9",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "09-28 11:37",
-      "title_en": "Top Midday Stories: MongoDB CEO Leaves to Lead Meta Enterprise Platform; Nvidia Ups Buyback Program by $150 Billion",
-      "title_zh": "Top Midday Stories: MongoDB CEO Leaves to Lead Meta Enterprise Platform; Nvidia Ups Buyback Program by $150 Billion",
-      "summary_en": "All three major US stock indexes were down in late-morning trading Monday, as oil prices were up aft",
-      "summary_zh": "All three major US stock indexes were down in late-morning trading Monday, as oil prices were up aft",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=925d218bbcf391db7d1a0c02450291bd167231636df926ea16e07c27b24610c4",
-      "sectors": [
-        "ai",
-        "energy"
-      ]
-    },
-    {
-      "time": "09-28 11:28",
-      "title_en": "Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner",
-      "title_zh": "Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner",
-      "summary_en": "By Karen Roman Vinson & Elkins said Kirsten Harmon is the firm’s latest New York-based partner in its Corporate practice, having previously served at as partner at Simpson Thacher & Bartlett. Ms. Harmon has experience on a broad range of capital markets transactions, including initial public offerings, high-yield debt, and equity and equity-linked securities offerings, […] The post Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner appeared first on ExecEdge.",
-      "summary_zh": "By Karen Roman Vinson & Elkins said Kirsten Harmon is the firm’s latest New York-based partner in its Corporate practice, having previously served at as partner at Simpson Thacher & Bartlett. Ms. Harmon has experience on a broad range of capital markets transactions, including initial public offerings, high-yield debt, and equity and equity-linked securities offerings, […] The post Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner appeared first on ExecEdge.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d664df2182f1603b97916326190d67f5b9f107421a4e240a414a71193b29599",
-      "sectors": [
-        "ai",
-        "finance"
-      ]
-    },
-    {
-      "time": "09-28 11:17",
-      "title_en": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
-      "title_zh": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
-      "summary_en": "Nvidia bucked the trend on Monday as the rest of the chip sector slipped, but semiconductors have still wildly outperformed the broader market this year.",
-      "summary_zh": "Nvidia bucked the trend on Monday as the rest of the chip sector slipped, but semiconductors have still wildly outperformed the broader market this year.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c217f0e337b450f7efd3e6d3e914ed8c85f4c9dd229d4c73a4eb784ed8dbe8b",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "09-28 11:30",
-      "title_en": "If You Invest $10,000 in Palantir Today, Here’s What It Could Be Worth by 2030",
-      "title_zh": "If You Invest $10,000 in Palantir Today, Here’s What It Could Be Worth by 2030",
-      "summary_en": "Palantir just posted its ninth straight earnings beat and triple-digit revenue growth, but its valuation sits at levels that make even bulls nervous. Here is what five years of holding the stock could realistically do to a $10,000 position.",
-      "summary_zh": "Palantir just posted its ninth straight earnings beat and triple-digit revenue growth, but its valuation sits at levels that make even bulls nervous. Here is what five years of holding the stock could realistically do to a $10,000 position.",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d174b4c65907a410135c14c779edcc84098893809ff5c9fc0898db491760661",
+      "time": "09-28 14:05",
+      "title_en": "What's going on in today's session: S&P500 most active stocks",
+      "title_zh": "What's going on in today's session: S&P500 most active stocks",
+      "summary_en": "Curious about the most active S&P500 stocks in today's session? Join us as we explore the US markets on Monday and uncover the stocks that are leading the way in terms of trading volume and market attention.",
+      "summary_zh": "Curious about the most active S&P500 stocks in today's session? Join us as we explore the US markets on Monday and uncover the stocks that are leading the way in terms of trading volume and market attention.",
+      "context_en": "📰 Source: NVDA · ChartMill · English original",
+      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
+      "source": "NVDA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=e93f8bbdaf9e27b5576156150c176c8ec6a78c8e81bd48cdc72fc49106290908",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "09-28 10:23",
-      "title_en": "Capital Markets Assessment and IPO Readiness: 2nd LA CorpGov Forum",
-      "title_zh": "Capital Markets Assessment and IPO Readiness: 2nd LA CorpGov Forum",
-      "summary_en": "CorpGov hosted the second LA CorpGov Forum on Sept. 18, 2026, at The Huntington Library in San Marino, California. This event brought together members of the financial community from both LA and beyond in panels focused on the finance of entertainment and media, sports, along with capital markets and shareholder activism. Panel: Capital Markets Assessment […] The post Capital Markets Assessment and IPO Readiness: 2nd LA CorpGov Forum appeared first on CorpGov.",
-      "summary_zh": "CorpGov hosted the second LA CorpGov Forum on Sept. 18, 2026, at The Huntington Library in San Marino, California. This event brought together members of the financial community from both LA and beyond in panels focused on the finance of entertainment and media, sports, along with capital markets and shareholder activism. Panel: Capital Markets Assessment […] The post Capital Markets Assessment and IPO Readiness: 2nd LA CorpGov Forum appeared first on CorpGov.",
+      "time": "09-28 15:05",
+      "title_en": "Stay informed with the top movers within the S&P500 index on Monday.",
+      "title_zh": "Stay informed with the top movers within the S&P500 index on Monday.",
+      "summary_en": "Curious about the S&P500 stocks that are in motion on Monday? Join us as we explore the top movers within the S&P500 index during today's session.",
+      "summary_zh": "Curious about the S&P500 stocks that are in motion on Monday? Join us as we explore the top movers within the S&P500 index during today's session.",
+      "context_en": "📰 Source: AMD · ChartMill · English original",
+      "context_zh": "📰 来源: AMD · ChartMill · 英文原文(未翻译)",
+      "source": "AMD · ChartMill",
+      "url": "https://finnhub.io/api/news?id=c12fd4505fe17fdad5ac70e1ca08de2c446637afd094d810b99c6d6f5a82993e",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "09-28 13:24",
+      "title_en": "When Should You Buy NVIDIA Stock After This Run?",
+      "title_zh": "When Should You Buy NVIDIA Stock After This Run?",
+      "summary_en": "A $10,000 holding in NVIDIA (NVDA) stock three months ago was worth about $11,700 as of September 25, 2026. Yet against profits, the shares still trade near the low end of their ten-year range. If you have been waiting to buy NVIDIA, have you already missed it.",
+      "summary_zh": "A $10,000 holding in NVIDIA (NVDA) stock three months ago was worth about $11,700 as of September 25, 2026. Yet against profits, the shares still trade near the low end of their ten-year range. If you have been waiting to buy NVIDIA, have you already missed it.",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=c538610b3401de0da1d9f4e05e0b62fc909bea232630fa32243413b867fd623c",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "09-28 13:13",
+      "title_en": "Palantir Stock Falls as Sovereign AI Gains an External Guardrail",
+      "title_zh": "Palantir Stock Falls as Sovereign AI Gains an External Guardrail",
+      "summary_en": "Nvidia's runtime complements Palantir governance, but today's announcement contains no customer contract.",
+      "summary_zh": "Nvidia's runtime complements Palantir governance, but today's announcement contains no customer contract.",
       "context_en": "📰 Source: PLTR · Yahoo · English original",
       "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
       "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=5fbcd3138068b2bae5413f7007d93b906d3011ae0ad0790bc0335bbbd415e007",
+      "url": "https://finnhub.io/api/news?id=f010fbeb00d1d2410fa63e81ab68cc041783321e6c6ada4eafeefb1145b7dd04",
       "sectors": [
-        "ai",
-        "finance"
+        "ai"
       ]
     },
     {
-      "time": "09-28 11:34",
-      "title_en": "AI Stock Leader Arista Eyes Latest Buy Point With RS Line At New Highs",
-      "title_zh": "AI Stock Leader Arista Eyes Latest Buy Point With RS Line At New Highs",
-      "summary_en": "Arista Stock: The AI stock leader is approaching a new buy point despite Monday's market weakness. Its RS line hit a new high last week.",
-      "summary_zh": "Arista Stock: The AI stock leader is approaching a new buy point despite Monday's market weakness. Its RS line hit a new high last week.",
+      "time": "09-28 12:30",
+      "title_en": "The $1 Trillion Question Facing Palantir Stock",
+      "title_zh": "The $1 Trillion Question Facing Palantir Stock",
+      "summary_en": "Palantir just posted growth numbers that humiliated Wall Street estimates, yet the stock still needs to more than double before it touches a trillion-dollar valuation. Here is what the math actually says about whether that gap ever closes.",
+      "summary_zh": "Palantir just posted growth numbers that humiliated Wall Street estimates, yet the stock still needs to more than double before it touches a trillion-dollar valuation. Here is what the math actually says about whether that gap ever closes.",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ece174597658893ae1a4dbf55514e4224a1d8e914422d6661973920e69fde48",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "09-28 13:32",
+      "title_en": "Meta enters the enterprise AI battle",
+      "title_zh": "Meta enters the enterprise AI battle",
+      "summary_en": "The Mark Hang panel discusses Meta's (META) moving into the enterprise space, igniting competition with giants Microsoft (MSFT) and Alphabet (GOOGL, GOOG).",
+      "summary_zh": "The Mark Hang panel discusses Meta's (META) moving into the enterprise space, igniting competition with giants Microsoft (MSFT) and Alphabet (GOOGL, GOOG).",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b8501c088e3f5c03813b94aff37c9b645ae5c19307b3b91f7ce4cb71e1c88f1",
+      "url": "https://finnhub.io/api/news?id=9d072b023522014ef64dd69619ae7dd18de4fdd9864a5da21f6b1951489d18a5",
       "sectors": [
         "ai",
+        "space",
         "tech"
       ]
     },
     {
-      "time": "09-28 11:33",
-      "title_en": "Goldman Sachs has a blunt message for AI stock investors",
-      "title_zh": "Goldman Sachs has a blunt message for AI stock investors",
-      "summary_en": "The AI spending boom is getting bigger, but the numbers behind it are starting to raise new questions for investors.",
-      "summary_zh": "The AI spending boom is getting bigger, but the numbers behind it are starting to raise new questions for investors.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=a23d6805485915b996a5499c25402cbbdf455d3cba915128bf114380ebf1de5a",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "09-28 11:17",
-      "title_en": "Nvidia Announces Largest Buyback In History. Cramer Says “It Will Change Trajectory Of The Stock” If The Buyback Is Active",
-      "title_zh": "Nvidia Announces Largest Buyback In History. Cramer Says “It Will Change Trajectory Of The Stock” If The Buyback Is Active",
-      "summary_en": "Jim Cramer spent months demanding a bigger buyback from Nvidia, and when the company finally delivered a record-shattering authorization, Cramer immediately placed a condition on it that could make or break the stock's direction.",
-      "summary_zh": "Jim Cramer spent months demanding a bigger buyback from Nvidia, and when the company finally delivered a record-shattering authorization, Cramer immediately placed a condition on it that could make or break the stock's direction.",
+      "time": "09-28 13:15",
+      "title_en": "Nvidia Thinks Its Stock Is Cheap. It’s Buying Back $150 Billion.",
+      "title_zh": "Nvidia Thinks Its Stock Is Cheap. It’s Buying Back $150 Billion.",
+      "summary_en": "Nvidia says it’s funding a “once-in-a-generation platform shift” while handing investors a record $150 billion buyback. At 16.5x forward earnings, Jensen Huang appears happy to buy his own dip.",
+      "summary_zh": "Nvidia says it’s funding a “once-in-a-generation platform shift” while handing investors a record $150 billion buyback. At 16.5x forward earnings, Jensen Huang appears happy to buy his own dip.",
       "context_en": "📰 Source: AAPL · Yahoo · English original",
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e20029ad1fa70daa3657e3e107ff6bb7fc0ad4abef896e3ce5939ce21a138f9",
+      "url": "https://finnhub.io/api/news?id=b465c1391d162d8efe8e4a3f9ae71a39454b88aaacebfad7bd0e046e87d14c6b",
       "sectors": [
         "ai",
+        "bio",
         "tech"
       ]
     },
     {
-      "time": "09-28 11:16",
-      "title_en": "Burford Capital shares gain on $5.7B Apple patent verdict",
-      "title_zh": "Burford Capital shares gain on $5.7B Apple patent verdict",
-      "summary_en": "Investing.com -- Burford Capital Ltd. rose over 12% on Monday, marking its largest intraday gain since late March, following a federal jury verdict in a patent case involving Apple Inc.",
-      "summary_zh": "Investing.com -- Burford Capital Ltd. rose over 12% on Monday, marking its largest intraday gain since late March, following a federal jury verdict in a patent case involving Apple Inc.",
+      "time": "09-28 12:15",
+      "title_en": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
+      "title_zh": "Nvidia, Apple Partner TSMC Reveals These Clues On How To Read Charts",
+      "summary_en": "As TSMC stock teases a breakout, it flashes telltale indicators and provides multiple ways to view the chart action.",
+      "summary_zh": "As TSMC stock teases a breakout, it flashes telltale indicators and provides multiple ways to view the chart action.",
       "context_en": "📰 Source: AAPL · Yahoo · English original",
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=15aa19cb77725497199b1da05da8e77599d093f457b35c16ed0bd0710e0f143b",
+      "url": "https://finnhub.io/api/news?id=3a36147a553fee3998f18faa01b847a1e1da1bea610477eafb5366892b46750a",
       "sectors": [
+        "ai",
         "tech"
       ]
     },
@@ -203,64 +187,34 @@
       ]
     },
     {
-      "time": "09-28 11:09",
-      "title_en": "Adobe And 2 Other Top AI Stocks To Watch",
-      "title_zh": "Adobe And 2 Other Top AI Stocks To Watch",
-      "summary_en": "Recent headlines around Nvidia’s new Open Agent Safety Platform show how fast the artificial intelligence story is moving from hype to hard infrastructure. That shift can leave many pure AI stocks looking crowded, while some essential picks tied to chips, software and cloud tools still trade at subdued valuations. This article breaks down three such underappreciated AI plays from our screener so you can judge the opportunity for yourself. The stocks highlighted below are just a starting...",
-      "summary_zh": "Recent headlines around Nvidia’s new Open Agent Safety Platform show how fast the artificial intelligence story is moving from hype to hard infrastructure. That shift can leave many pure AI stocks looking crowded, while some essential picks tied to chips, software and cloud tools still trade at subdued valuations. This article breaks down three such underappreciated AI plays from our screener so you can judge the opportunity for yourself. The stocks highlighted below are just a starting...",
+      "time": "09-28 12:20",
+      "title_en": "This Chip Giant's AI Revenue Grew 221% Last Quarter. It's Also Quietly Raised Its Dividend for 15 Straight Years.",
+      "title_zh": "This Chip Giant's AI Revenue Grew 221% Last Quarter. It's Also Quietly Raised Its Dividend for 15 Straight Years.",
+      "summary_en": "Broadcom might not be the most obvious dividend stock investment at first glance.",
+      "summary_zh": "Broadcom might not be the most obvious dividend stock investment at first glance.",
       "context_en": "📰 Source: AVGO · Yahoo · English original",
       "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
       "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f1ddf2c6596fc3fbacc72cbc21e8fb5ea1ba88d440346afd1de57196f7d9887",
+      "url": "https://finnhub.io/api/news?id=a46d3214393c70390bd9802897d2f849148d788776e24979ee07b92622e87c1a",
       "sectors": [
         "ai",
         "tech"
       ]
     },
     {
-      "time": "09-28 10:58",
-      "title_en": "Nvidia and AMD Just Got a New AI Demand Risk to Watch",
-      "title_zh": "Nvidia and AMD Just Got a New AI Demand Risk to Watch",
-      "summary_en": "Nvidia, AMD, Intel and Broadcom fell in Monday premarket trading after OpenAI paused some advanced AI model training and testing.",
-      "summary_zh": "Nvidia, AMD, Intel and Broadcom fell in Monday premarket trading after OpenAI paused some advanced AI model training and testing.",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=04a3954d2a96a9adffa7321bc826efc8519d160959723efc9d5855ba83cd7f5b",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "09-28 11:09",
-      "title_en": "Is Cisco Systems (CSCO) Reasonable After A 125% Run On Cash Flow?",
-      "title_zh": "Is Cisco Systems (CSCO) Reasonable After A 125% Run On Cash Flow?",
-      "summary_en": "Cisco Systems has put up a strong share price run in recent years, and the question now is whether the current US$106.70 level can be backed up by the cash the business is expected to generate. With Cisco active in areas like AI driven observability, quantum networking research and private 5G, investors are increasingly asking if the stock’s recent gains still line up with its underlying cash flow profile. Over the past 5 years, Cisco Systems has delivered a total return of 124.8%. This...",
-      "summary_zh": "Cisco Systems has put up a strong share price run in recent years, and the question now is whether the current US$106.70 level can be backed up by the cash the business is expected to generate. With Cisco active in areas like AI driven observability, quantum networking research and private 5G, investors are increasingly asking if the stock’s recent gains still line up with its underlying cash flow profile. Over the past 5 years, Cisco Systems has delivered a total return of 124.8%. This...",
+      "time": "09-28 13:15",
+      "title_en": "Manifest Joins Chainguard's Athena Coalition to Find Open-Source Risk Inside Software Products",
+      "title_zh": "Manifest Joins Chainguard's Athena Coalition to Find Open-Source Risk Inside Software Products",
+      "summary_en": "WASHINGTON, September 28, 2026--Manifest Cyber, a leader in software and AI supply chain security, today announced it has joined Athena, the Chainguard-led industry coalition for the orchestrated defense of open-source software. Manifest joins JPMorganChase, Morgan Stanley, Cisco, Cloudflare, Akamai, and PwC in the coalition, where it will bring its software supply chain illumination capabilities to help members rapidly assess the blast radius of new vulnerabilities across their internal and thi",
+      "summary_zh": "WASHINGTON, September 28, 2026--Manifest Cyber, a leader in software and AI supply chain security, today announced it has joined Athena, the Chainguard-led industry coalition for the orchestrated defense of open-source software. Manifest joins JPMorganChase, Morgan Stanley, Cisco, Cloudflare, Akamai, and PwC in the coalition, where it will bring its software supply chain illumination capabilities to help members rapidly assess the blast radius of new vulnerabilities across their internal and thi",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=9689d5d91d46b1a914b6f2b8307b6fa39d3b61c8411d96387aaf2919125518be",
+      "url": "https://finnhub.io/api/news?id=b697fd0938a092207b96bcc22c58ea74e76f0fb6275f0d7c663d13a9aa19df43",
       "sectors": [
         "ai",
-        "bio",
         "comm",
         "tech"
-      ]
-    },
-    {
-      "time": "09-28 10:35",
-      "title_en": "MSI Gains From Strong Order Bookings: Is Growth Set to Continue?",
-      "title_zh": "MSI Gains From Strong Order Bookings: Is Growth Set to Continue?",
-      "summary_en": "Motorola's record $15.6 billion backlog and 13% revenue growth fuel a higher 2026 outlook. Can strong order bookings sustain its growth momentum?",
-      "summary_zh": "Motorola's record $15.6 billion backlog and 13% revenue growth fuel a higher 2026 outlook. Can strong order bookings sustain its growth momentum?",
-      "context_en": "📰 Source: CSCO · Yahoo · English original",
-      "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
-      "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=25013f3f1d89c1e40e75e244892ffe92fed54030814f81d3f13cfc41d5fb0b33",
-      "sectors": [
-        "comm"
       ]
     },
     {
@@ -321,6 +275,20 @@
       ]
     },
     {
+      "time": "09-28 13:45",
+      "title_en": "First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says",
+      "title_zh": "First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says",
+      "summary_en": "First Solar (FSLR) faces medium-term pricing pressure due to factors including high US inventory lev",
+      "summary_zh": "First Solar (FSLR) faces medium-term pricing pressure due to factors including high US inventory lev",
+      "context_en": "📰 Source: FSLR · Yahoo · English original",
+      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
+      "source": "FSLR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=61fd762c9f08b93704ca31c6be2b61cc36326c26d59f02afcb85c5210d031ee2",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "09-28 08:12",
       "title_en": "Here Are Monday’s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More",
       "title_zh": "Here Are Monday’s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More",
@@ -330,20 +298,6 @@
       "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
       "source": "FSLR · Yahoo",
       "url": "https://finnhub.io/api/news?id=f3176aac72b0f396718e46bccef402a3ddacdecf9d2bc33fedfb0798c17b1aa4",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "09-28 06:26",
-      "title_en": "First Solar Shares Rise After KeyBanc Removes Underweight Rating",
-      "title_zh": "First Solar Shares Rise After KeyBanc Removes Underweight Rating",
-      "summary_en": "First Solar (NASDAQ:FSLR) shares rose 0. 8% in pre-market trading after KeyBanc upgraded the solar technology company to Sector Weight from Underweight, citing valuation following the stock’s year-to-date decline.",
-      "summary_zh": "First Solar (NASDAQ:FSLR) shares rose 0. 8% in pre-market trading after KeyBanc upgraded the solar technology company to Sector Weight from Underweight, citing valuation following the stock’s year-to-date decline.",
-      "context_en": "📰 Source: FSLR · Yahoo · English original",
-      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
-      "source": "FSLR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe035c5aa21f3574192164211c446a4892ae310f7738faa8fb92d160bb3fcb74",
       "sectors": [
         "energy"
       ]
@@ -393,34 +347,47 @@
       ]
     },
     {
-      "time": "09-28 09:00",
-      "title_en": "Nvidia, Meta, SpaceX, Kodiak Sciences, MongoDB, Boeing, and More Stocks That Explain Today’s Market",
-      "title_zh": "Nvidia, Meta, SpaceX, Kodiak Sciences, MongoDB, Boeing, and More Stocks That Explain Today’s Market",
-      "summary_en": "Stock futures fell Monday after talks between the U.S. and Iran failed to reach a peace deal, driving oil prices up and pushing bond yields to a 19-year high.  The chip maker said Monday it would launch the largest-ever U.S. stock buyback of $150 billion, bringing the total buyback authorization to $235 billion.  Chip manufacturer  Intel  declined 2.3% and memory-card maker  Sandisk  fell 2.8% ahead of the opening bell.",
-      "summary_zh": "Stock futures fell Monday after talks between the U.S. and Iran failed to reach a peace deal, driving oil prices up and pushing bond yields to a 19-year high.  The chip maker said Monday it would launch the largest-ever U.S. stock buyback of $150 billion, bringing the total buyback authorization to $235 billion.  Chip manufacturer  Intel  declined 2.3% and memory-card maker  Sandisk  fell 2.8% ahead of the opening bell.",
+      "time": "09-28 11:09",
+      "title_en": "Nvidia, Meta, Kodiak Sciences, MongoDB, SpaceX, IonQ, and More Stocks That Explain Today’s Market",
+      "title_zh": "Nvidia, Meta, Kodiak Sciences, MongoDB, SpaceX, IonQ, and More Stocks That Explain Today’s Market",
+      "summary_en": "FEATURE  Stocks fell Monday after talks between the U.S. and Iran failed to reach a peace deal, driving oil prices and bond yields higher even as President Donald Trump signaled negotiations would continue this week.",
+      "summary_zh": "FEATURE  Stocks fell Monday after talks between the U.S. and Iran failed to reach a peace deal, driving oil prices and bond yields higher even as President Donald Trump signaled negotiations would continue this week.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=9dab3858798928cb9721e095bc18c44d2be2da9e91fc68056169984135946c31",
+      "url": "https://finnhub.io/api/news?id=fdfb40cce8f6d87e54afa9f75537ce079cc9acea3ec7d68594b9de582c29f2ee",
       "sectors": [
         "ai",
         "energy",
-        "space",
-        "tech"
+        "space"
       ]
     },
     {
-      "time": "09-28 09:34",
-      "title_en": "Why Is Rocket Lab Stock Falling Today?",
-      "title_zh": "Why Is Rocket Lab Stock Falling Today?",
-      "summary_en": "Rocket Lab Corporation (NASDAQ:RKLB) shares are trading lower Monday premarket, down about 1%, as aerospace and defense names slide—led by a sharper drop in Boeing (NYSE:BA), pressuring the group. Separately, Rocket Lab recently completed its 97th Electron launch, delivering a Synspective satellite, according to Benzinga Pro. The Catalyst Rocket Lab appears to be moving in sympathy with a weaker aerospace tape, with Boeing down 2.57%, alongside declines in Howmet Aerospace (down 0.64%) and Gener",
-      "summary_zh": "Rocket Lab Corporation (NASDAQ:RKLB) shares are trading lower Monday premarket, down about 1%, as aerospace and defense names slide—led by a sharper drop in Boeing (NYSE:BA), pressuring the group. Separately, Rocket Lab recently completed its 97th Electron launch, delivering a Synspective satellite, according to Benzinga Pro. The Catalyst Rocket Lab appears to be moving in sympathy with a weaker aerospace tape, with Boeing down 2.57%, alongside declines in Howmet Aerospace (down 0.64%) and Gener",
+      "time": "09-28 13:15",
+      "title_en": "Cantor Backs Rocket Lab’s Launch Momentum After 97th Electron Mission – Highlights These ‘Competitive Advantages’",
+      "title_zh": "Cantor Backs Rocket Lab’s Launch Momentum After 97th Electron Mission – Highlights These ‘Competitive Advantages’",
+      "summary_en": "Cantor Fitzgerald said Rocket Lab’s launch record is a key differentiator, while reiterating an ‘Overweight’ rating and $122 price target.",
+      "summary_zh": "Cantor Fitzgerald said Rocket Lab’s launch record is a key differentiator, while reiterating an ‘Overweight’ rating and $122 price target.",
       "context_en": "📰 Source: RKLB · Yahoo · English original",
       "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
       "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d7add1a5773cd636f532098320403b5e05e786f28c2f6c2a0a7e3b62264aac9",
+      "url": "https://finnhub.io/api/news?id=b712a5f4bdaec48174050ccf761382ca88d8382dc72964e5de4602c580519164",
       "sectors": [
-        "bio",
+        "space"
+      ]
+    },
+    {
+      "time": "09-28 11:28",
+      "title_en": "Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner",
+      "title_zh": "Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner",
+      "summary_en": "By Karen Roman Vinson & Elkins said Kirsten Harmon is the firm’s latest New York-based partner in its Corporate practice, having previously served at as partner at Simpson Thacher & Bartlett. Ms. Harmon has experience on a broad range of capital markets transactions, including initial public offerings, high-yield debt, and equity and equity-linked securities offerings, […] The post Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner appeared first on ExecEdge.",
+      "summary_zh": "By Karen Roman Vinson & Elkins said Kirsten Harmon is the firm’s latest New York-based partner in its Corporate practice, having previously served at as partner at Simpson Thacher & Bartlett. Ms. Harmon has experience on a broad range of capital markets transactions, including initial public offerings, high-yield debt, and equity and equity-linked securities offerings, […] The post Kirsten Harmon Joins Vinson & Elkins as NY-Based Corporate Partner appeared first on ExecEdge.",
+      "context_en": "📰 Source: RKLB · Yahoo · English original",
+      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
+      "source": "RKLB · Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d664df2182f1603b97916326190d67f5b9f107421a4e240a414a71193b29599",
+      "sectors": [
+        "finance",
         "space"
       ]
     },
@@ -511,29 +478,29 @@
       ]
     },
     {
-      "time": "09-28 11:18",
-      "title_en": "1 Profitable Stock with Impressive Fundamentals and 2 That Underwhelm",
-      "title_zh": "1 Profitable Stock with Impressive Fundamentals and 2 That Underwhelm",
-      "summary_en": "While profitability is essential, it doesn’t guarantee long-term success. Some companies that rest on their margins will lose ground as competition intensifies — as Jeff Bezos said, “Your margin is my opportunity”.",
-      "summary_zh": "While profitability is essential, it doesn’t guarantee long-term success. Some companies that rest on their margins will lose ground as competition intensifies — as Jeff Bezos said, “Your margin is my opportunity”.",
+      "time": "09-28 13:25",
+      "title_en": "Should You Buy Regeneron Pharmaceuticals Stock Before Oct. 30?",
+      "title_zh": "Should You Buy Regeneron Pharmaceuticals Stock Before Oct. 30?",
+      "summary_en": "The healthcare company will release its third-quarter results next month.",
+      "summary_zh": "The healthcare company will release its third-quarter results next month.",
       "context_en": "📰 Source: REGN · Yahoo · English original",
       "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
       "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=02ceaf1f5fe3a661f54a1c8f6d68cbec2b057d781457de79a2ee533495f9dd21",
+      "url": "https://finnhub.io/api/news?id=fcd57ca225825364ca6e426cdf79ccc9dc0328c9d9b3727af525ef34e59c00f4",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "09-28 10:39",
-      "title_en": "Kodiak Sciences Stock Surges 156% After Eye-Disease Drugs Pass Key Trial",
-      "title_zh": "Kodiak Sciences Stock Surges 156% After Eye-Disease Drugs Pass Key Trial",
-      "summary_en": "Kodiak Sciences plans to file for regulatory approval of one drug candidate, Zenkuda, following its success in a trial for wet age-related macular degeneration.",
-      "summary_zh": "Kodiak Sciences plans to file for regulatory approval of one drug candidate, Zenkuda, following its success in a trial for wet age-related macular degeneration.",
+      "time": "09-28 13:15",
+      "title_en": "OCUL Stock Suffers Sharpest Drop Since February As KOD And FDMT Post Updates On Their Wet AMD Drugs",
+      "title_zh": "OCUL Stock Suffers Sharpest Drop Since February As KOD And FDMT Post Updates On Their Wet AMD Drugs",
+      "summary_en": "OCUL’s selloff on Monday was spurred by clinical updates from competitors on their wet AMD treatments.",
+      "summary_zh": "OCUL’s selloff on Monday was spurred by clinical updates from competitors on their wet AMD treatments.",
       "context_en": "📰 Source: REGN · Yahoo · English original",
       "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
       "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=093354583ce44fd78f370f143020d11cef3d075a2263ebea0cb0fd0c28b6fa03",
+      "url": "https://finnhub.io/api/news?id=b576f610d96405b931a94698596349fbd16fed37ad8bd783c27d08c480bdd2e0",
       "sectors": [
         "bio"
       ]
@@ -567,17 +534,45 @@
       ]
     },
     {
-      "time": "09-28 12:00",
-      "title_en": "Wall St declines as oil spikes after Trump rejects Iran peace proposal - Reuters",
-      "title_zh": "Wall St declines as oil spikes after Trump rejects Iran peace proposal - Reuters",
-      "summary_en": "Wall St declines as oil spikes after Trump rejects Iran peace proposal  Reuters",
-      "summary_zh": "Wall St declines as oil spikes after Trump rejects Iran peace proposal  Reuters",
+      "time": "09-28 14:54",
+      "title_en": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike",
+      "title_zh": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "summary_zh": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "09-28 14:48",
+      "title_en": "Wall St declines as oil prices, Treasury yields remain elevated - Reuters",
+      "title_zh": "Wall St declines as oil prices, Treasury yields remain elevated - Reuters",
+      "summary_en": "Wall St declines as oil prices, Treasury yields remain elevated  Reuters",
+      "summary_zh": "Wall St declines as oil prices, Treasury yields remain elevated  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
       "sectors": [
         "energy"
+      ]
+    },
+    {
+      "time": "09-28 13:48",
+      "title_en": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
+      "title_zh": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
+      "summary_en": "Micron reports after the bell Wednesday.",
+      "summary_zh": "Micron reports after the bell Wednesday.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
+      "sectors": [
+        "ai"
       ]
     },
     {
@@ -624,74 +619,64 @@
       ]
     },
     {
-      "time": "09-28 06:20",
-      "title_en": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices - Reuters",
-      "title_zh": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices - Reuters",
-      "summary_en": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices  Reuters",
-      "summary_zh": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices  Reuters",
+      "time": "09-28 15:11",
+      "title_en": "UK examines foreign state involvement in suspected airbase plot, releases suspects - Reuters",
+      "title_zh": "UK examines foreign state involvement in suspected airbase plot, releases suspects - Reuters",
+      "summary_en": "UK examines foreign state involvement in suspected airbase plot, releases suspects  Reuters",
+      "summary_zh": "UK examines foreign state involvement in suspected airbase plot, releases suspects  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmUtcnhXbVNOQ0lacFk2Z1JXa0JON1VtZTRsYnZVMDlKdjh0dXhobk9tajVtRVdUbE5RV2MxUy1MbUpkNkc4UXNvalZoZXltbUNScGEyanBReERmbTRuQnB2d2M2dkU3NkJ0anMybXdHWV9QWElRVG9WcDhNSzE4eTV4VWs4WWluaGpYR1NZZTNuYVFPNWZwUk1YcXNOR0NrN0REb2V5eENFRjFaTVNpeWtJdw?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5",
+      "sectors": []
     },
     {
-      "time": "09-28 03:54",
-      "title_en": "South African rand slips as US-Iran stalemate pushes oil prices higher - Reuters",
-      "title_zh": "South African rand slips as US-Iran stalemate pushes oil prices higher - Reuters",
-      "summary_en": "South African rand slips as US-Iran stalemate pushes oil prices higher  Reuters",
-      "summary_zh": "South African rand slips as US-Iran stalemate pushes oil prices higher  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXVjeHhnVS1HLV9mVnYtVHVhQ3NjcEFqREZJYUpRU3RhSElhQlJ4NERfQWhjdm44RGNQMFdBZlNfcU5PN1JuOU1DWW04RjFBSDZETlE5Z0h2VUkyRFJVTHdiTzBfM0lGVUw0akY5a01yM0J6WElBbERxREpBQkk3OGFjTDkyVElrUTRTckpFRHZ3aURTVkduYS0zdnMtZkVUenZrSk1kdEVoRnNpbkVlanlmdnQ0a2s?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "time": "09-28 14:41",
+      "title_en": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "title_zh": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "summary_en": "The judge said FEMA never explained how the election changes it wanted were \"tied to the goal of shoring up vulnerabilities to terrorist attacks.\"",
+      "summary_zh": "The judge said FEMA never explained how the election changes it wanted were \"tied to the goal of shoring up vulnerabilities to terrorist attacks.\"",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
+      "sectors": []
     },
     {
-      "time": "09-28 02:44",
-      "title_en": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth - Reuters",
-      "title_zh": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth - Reuters",
-      "summary_en": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth  Reuters",
-      "summary_zh": "Tullow Oil swings to positive free cash flow as Ghana output, higher oil prices drive growth  Reuters",
+      "time": "09-28 14:08",
+      "title_en": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says - Reuters",
+      "title_zh": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says - Reuters",
+      "summary_en": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says  Reuters",
+      "summary_zh": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhQbFJWa3BzeDliUGZGQ1ZVY19mbmY1bmNleGw0ODF6RjV2a0ljSkp3a29lLTBpd1A5M2hxWTg0UmZoSWUzRHFPTEhMQ0t0bUVWWmdIbXJJVW5qVHpfSnZxTzlWdTczY0RZamlVVldsZVZKS185Q21LcG82bkYwZEV0UkdET1AzVUozeWgwekpYSXhJZHo5NVZxV0k2aTBpT2pwUjRreS10dlRNMDBxM2NzYWRkcmFqZkdDMDFNWm1BTkpQcFdGdzN3?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5",
+      "sectors": []
     },
     {
-      "time": "09-28 02:02",
-      "title_en": "German gas supply is secure despite low storage levels, VNG chief says - Reuters",
-      "title_zh": "German gas supply is secure despite low storage levels, VNG chief says - Reuters",
-      "summary_en": "German gas supply is secure despite low storage levels, VNG chief says  Reuters",
-      "summary_zh": "German gas supply is secure despite low storage levels, VNG chief says  Reuters",
+      "time": "09-28 13:56",
+      "title_en": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show - Reuters",
+      "title_zh": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show - Reuters",
+      "summary_en": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show  Reuters",
+      "summary_zh": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDRjSXY3THA4d0lJaGlLM05DM3FVeDc3TFVFa3p2d1Z5OWRiNnBxbVhqMkVoZmw0M0xNeDVaNXhrTVN6bnhTRy1Pc0E4VXEwSjhsS3VkcE9BSjZMQ0hUM0FfM010Zk8zNGlZTUN0MmRZbS1ZTEhxQUFGWUVDUFBESzRKWkYxUUZMVjJIZzd0ZjZVbDViRFRDTkFpUjlCalJfODhOQUk5OC1Nc3d1X2NOdE5aUk1tWS1PdDdJZkNR?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHg0MGZvUkU3a2FULXNNc1pDUkE5VTZaZFptZ0R0dHhoc29SbmotRkg5SndfWk1rcy1hbzAxY2VKbDhzUVIxUlpoaVZCU0MwYmRub0FGR1VOaHpjaXBxTmhPcnJ5MDJUOExCTE56X3h6aDVRR2FRN1V1VWRJMmNnYTNBOXhxVjlJd1hHbnZfVWo1Rk55d04xM1FGOTdfbU1BVmZHYVgyb0tYUQ?oc=5",
+      "sectors": []
     },
     {
-      "time": "09-28 02:00",
-      "title_en": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink - Reuters",
-      "title_zh": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink - Reuters",
-      "summary_en": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink  Reuters",
-      "summary_zh": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink  Reuters",
+      "time": "09-28 13:02",
+      "title_en": "Suspected plot to attack UK's Fairford airbase, used by US: What do we know? - Reuters",
+      "title_zh": "Suspected plot to attack UK's Fairford airbase, used by US: What do we know? - Reuters",
+      "summary_en": "Suspected plot to attack UK's Fairford airbase, used by US: What do we know?  Reuters",
+      "summary_zh": "Suspected plot to attack UK's Fairford airbase, used by US: What do we know?  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ21VRGFRWnc1czVkOUdJbGJ3ZmMwNGUtVTFmbkxJcFBWZWNXdnVUcUFFajJGNFJJSGkwYldyWi1PNFhzQlQtUjhaNzg4OE9QRTF1bXd5dkVGR3BzZUJCaVFweUxuSlJhRjZfank4Tl9Ec2ZveGJKdlFFWjZXbEFud0FOVVR6bmhzVmNqMm5fN2xQcnI5TEdtU25NX3p6QkxRbE5wM0RGa2pIVDZMWjhrMHV6UEZZMlNielBwLWVHWmtYWU5LTnZJ?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnV2QWZzNUNIR09FaDEtTFBwU0g2SmZwZ0U3YVNNd0kyVGFQTDFLU2Y1T1FSOUFnSVNHNmtoc2hCYklVeHg4QVJ0UDJPRndqZVBiV3h1U3ZsZmpRQzdELWdMejhzazZMenlmT3FrdkVaM0dBRlBieGRlWG1DRDVnOTB0bjhiT3ppNzZSaWFwc2tGMU83U2c?oc=5",
+      "sectors": []
     },
     {
       "time": "09-28 12:02",
@@ -718,30 +703,6 @@
       "sectors": []
     },
     {
-      "time": "09-28 11:17",
-      "title_en": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says - Reuters",
-      "title_zh": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says - Reuters",
-      "summary_en": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says  Reuters",
-      "summary_zh": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "09-28 10:54",
-      "title_en": "What to know about suspected plot to attack UK RAF base used by US? - Reuters",
-      "title_zh": "What to know about suspected plot to attack UK RAF base used by US? - Reuters",
-      "summary_en": "What to know about suspected plot to attack UK RAF base used by US?  Reuters",
-      "summary_zh": "What to know about suspected plot to attack UK RAF base used by US?  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnV2QWZzNUNIR09FaDEtTFBwU0g2SmZwZ0U3YVNNd0kyVGFQTDFLU2Y1T1FSOUFnSVNHNmtoc2hCYklVeHg4QVJ0UDJPRndqZVBiV3h1U3ZsZmpRQzdELWdMejhzazZMenlmT3FrdkVaM0dBRlBieGRlWG1DRDVnOTB0bjhiT3ppNzZSaWFwc2tGMU83U2c?oc=5",
-      "sectors": []
-    },
-    {
       "time": "09-28 10:52",
       "title_en": "UK police release five on bail after arrests at airbase - Reuters",
       "title_zh": "UK police release five on bail after arrests at airbase - Reuters",
@@ -751,18 +712,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk93UTV0VmU2MTRiTHp0LXBrbnI0RTVabF9XYkstWm91LTZ0aFBnT0FzeTNENUtaakYwUlloc0M1SHFhSDVsQ09jNGlwQUtVM09iejRseHY1SVkxREx6aFRyYjRNU3JreGNRNXYxNVBhblZQN19OYW44X0hYdEE4d3J1TVlVcFJBOUNrbVBOT0xXYTFHeHoxaFhRNmF3bzRzV3U4bA?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "09-28 10:45",
-      "title_en": "Iran denies involvement in US-run airbase plot after UK nationals held - Reuters",
-      "title_zh": "Iran denies involvement in US-run airbase plot after UK nationals held - Reuters",
-      "summary_en": "Iran denies involvement in US-run airbase plot after UK nationals held  Reuters",
-      "summary_zh": "Iran denies involvement in US-run airbase plot after UK nationals held  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5",
       "sectors": []
     },
     {
@@ -790,6 +739,18 @@
       "sectors": []
     },
     {
+      "time": "09-28 09:09",
+      "title_en": "Most Gulf bourses retreat after Trump dismisses Iranian overture - Reuters",
+      "title_zh": "Most Gulf bourses retreat after Trump dismisses Iranian overture - Reuters",
+      "summary_en": "Most Gulf bourses retreat after Trump dismisses Iranian overture  Reuters",
+      "summary_zh": "Most Gulf bourses retreat after Trump dismisses Iranian overture  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlA3OUhOR3U5TUp4SHJWOHd1MFJhZ1MxNTRfZm5ZdnFsNTkzVGNEeFRBSmtsbmFRRHc0YWtETzM1VGx3NHc2a0JfanR3bGZIVEhvQ0hubEplTnA0UEJablJwOFJyUjlnNFJwM3BZVDZoU0lyZkFqcHdiVGp2R21IUVlPcGExeXdkQ0s0M3NnU1htTE85UnhaNTVTWVc3YVIwUy1sMmg4eHIxM2Zyd3loXw?oc=5",
+      "sectors": []
+    },
+    {
       "time": "09-28 09:08",
       "title_en": "Iran rejects suggestion it is linked to UK airbase arrests - Reuters",
       "title_zh": "Iran rejects suggestion it is linked to UK airbase arrests - Reuters",
@@ -802,27 +763,27 @@
       "sectors": []
     },
     {
-      "time": "09-28 05:33",
-      "title_en": "Qatar-linked LNG traffic through Hormuz strait picks up despite conflict - Reuters",
-      "title_zh": "Qatar-linked LNG traffic through Hormuz strait picks up despite conflict - Reuters",
-      "summary_en": "Qatar-linked LNG traffic through Hormuz strait picks up despite conflict  Reuters",
-      "summary_zh": "Qatar-linked LNG traffic through Hormuz strait picks up despite conflict  Reuters",
+      "time": "09-28 08:59",
+      "title_en": "Lebanon hopes for new staff-level agreement with IMF - Reuters",
+      "title_zh": "Lebanon hopes for new staff-level agreement with IMF - Reuters",
+      "summary_en": "Lebanon hopes for new staff-level agreement with IMF  Reuters",
+      "summary_zh": "Lebanon hopes for new staff-level agreement with IMF  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGJVSUk3X2d2T1ZVNjM0UmE0RTRXZEpvMWwyaXNrbFkzeWFEWG9RUTlLMFhyaUJ5NjJKb01FTEcyMXYtaXc4V29xRnc1WWJqeDZrQzlZZ2h3cUM0ZGhjWDJUQ0tiTFVJUzNlNjJPRVJSSTJYWUlhejNDeHFZeGRNS2M1YlNvbG1oaXZnaXo1VHJPeWxvTzJab1U4Zk5mb3IxeWR0QUhtbjZjYnlyUU8wVmRNZ1BBX3VpS2IzYlRvdS11QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXBIaDZyWUVya3RQVlRrN0hqczB5LWhkMGVlUHY5LUtjOHY1emdEdTI3bmdRQjlEb0xIQXFpNDdHdGt1QnliUDY2RzV6cXlyOEV3WlUyZE5iaE5Xajdrc2RFLVdjOUVCSG1xRFpuSnhqRTVDWU5WV2pNcWNjVmVkbHlUdFYtQTNlOVM4YXpNR1dmdVJBTzZtZFVVd19GX0dFZ1RSbzhOWl9PQQ?oc=5",
       "sectors": []
     },
     {
-      "time": "09-28 00:38",
-      "title_en": "Saudi foreign minister arrives in Washington for talks with Rubio - Reuters",
-      "title_zh": "Saudi foreign minister arrives in Washington for talks with Rubio - Reuters",
-      "summary_en": "Saudi foreign minister arrives in Washington for talks with Rubio  Reuters",
-      "summary_zh": "Saudi foreign minister arrives in Washington for talks with Rubio  Reuters",
+      "time": "09-28 06:19",
+      "title_en": "EU imposes sanctions over deportation of Ukrainian children to Russia - Reuters",
+      "title_zh": "EU imposes sanctions over deportation of Ukrainian children to Russia - Reuters",
+      "summary_en": "EU imposes sanctions over deportation of Ukrainian children to Russia  Reuters",
+      "summary_zh": "EU imposes sanctions over deportation of Ukrainian children to Russia  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVJqTlphdG95ZW84dGEzcXFwZTNrcVZWeS04TEQ5THdTNHg4UnE5NWlxbUVqRlF3ZHVvNnVpTEhMOTV2MVhMNEMxRk9DNTFXMGQ5ZUhiXy11RzZqSUFnVUc2LVhyRF9Ia2lBM3dJT1F5LTBEUlFyV21QYmtob0pTX09hb3VTVW9hTXF3cG5pVWhfYmdESHIzREZlMmcxSEVlQ0VUNHYyVU45bDRyc3lqNVVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1dmdFlnNnVwd3NndFlUZ0ZrcU9kSnRhMnJnYUFXalhpekx3LWVHazdLb1NMRWFrcTFqVVZDc2FIMDBQX1hxMXY4cng0ekJOeFpnU1NnQ1pwaW9JSUh6X1RPcjdlV1MyYnNlY253WUNHNkZqeUxPaUo1Z3lDSzZCRjZsTVpES2hjQzhpaHFrQ2lqX2lNRUdQWGk0ZGt5ZjNRMW5jMlg0V0Y?oc=5",
       "sectors": []
     }
   ],
