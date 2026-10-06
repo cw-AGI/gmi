@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-10-06T10:26:05-04:00",
+  "updated_at": "2026-10-06T11:00:49-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 779.58,
-      "change": 4.75,
-      "change_pct": 0.613
+      "value": 780.5,
+      "change": 5.67,
+      "change_pct": 0.7318
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 761.11,
-      "change": 4.91,
-      "change_pct": 0.6493
+      "value": 762.2,
+      "change": 6.0,
+      "change_pct": 0.7934
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 514.4,
-      "change": 2.29,
-      "change_pct": 0.4472
+      "value": 514.76,
+      "change": 2.65,
+      "change_pct": 0.5175
     }
   ],
   "news": [
@@ -145,29 +145,15 @@
       ]
     },
     {
-      "time": "10-06 04:19",
-      "title_en": "Nasdaq Hits a Fresh Record While the 10-Year Climbs to 5.31%",
-      "title_zh": "Nasdaq Hits a Fresh Record While the 10-Year Climbs to 5.31%",
-      "summary_en": "The Nasdaq closed at a record on Monday even as long-term Treasury yields hit multi-year highs. Brazilian stocks soared after the first round of the presidential election, Schneider Electric agreed to buy PTC for $22.6 billion, and Microsoft got a double upgrade from Melius.",
-      "summary_zh": "The Nasdaq closed at a record on Monday even as long-term Treasury yields hit multi-year highs. Brazilian stocks soared after the first round of the presidential election, Schneider Electric agreed to buy PTC for $22.6 billion, and Microsoft got a double upgrade from Melius.",
-      "context_en": "📰 Source: TSM · ChartMill · English original",
-      "context_zh": "📰 来源: TSM · ChartMill · 英文原文(未翻译)",
-      "source": "TSM · ChartMill",
-      "url": "https://finnhub.io/api/news?id=cf7d02a17a97c293cb3d48d6293c22a01187ab427091a00190a1bacf4496ab2e",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "10-06 03:30",
-      "title_en": "TSMC Q3 Preview: The Margin Guide Matters More Than The Print",
-      "title_zh": "TSMC Q3 Preview: The Margin Guide Matters More Than The Print",
-      "summary_en": "TSMC's Q3 revenue is set to exceed guidance, with Q4 and 2026 outlooks supported by robust AI demand and accelerated 2nm adoption. I rate the TSM stock as a buy.",
-      "summary_zh": "TSMC's Q3 revenue is set to exceed guidance, with Q4 and 2026 outlooks supported by robust AI demand and accelerated 2nm adoption. I rate the TSM stock as a buy.",
-      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
-      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
-      "source": "TSM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9deb4112f2594762d4908a48304829bb20250a67634f530628e1991cbf427839",
+      "time": "10-06 06:17",
+      "title_en": "AMD’s AI Boom Gets Bigger: Lisa Su Sees ‘Very, Very High’ Demand for Next Several Years",
+      "title_zh": "AMD’s AI Boom Gets Bigger: Lisa Su Sees ‘Very, Very High’ Demand for Next Several Years",
+      "summary_en": "AMD plans a major 2027 chip supply expansion as AI demand fuels growth and stock surges. Lisa Su targets 3–5 year capacity planning.",
+      "summary_zh": "AMD plans a major 2027 chip supply expansion as AI demand fuels growth and stock surges. Lisa Su targets 3–5 year capacity planning.",
+      "context_en": "📰 Source: TSM · Benzinga · English original",
+      "context_zh": "📰 来源: TSM · Benzinga · 英文原文(未翻译)",
+      "source": "TSM · Benzinga",
+      "url": "https://finnhub.io/api/news?id=b62905f86ab8a34e6a64d36c57dd8695192992d910aa8bfdd073457c25bb6450",
       "sectors": [
         "ai",
         "tech"
@@ -492,6 +478,20 @@
       ]
     },
     {
+      "time": "10-06 00:08",
+      "title_en": "Cathie Wood Claps Back After Being Confronted as ARKK Fell Nearly 15% While QQQ Soared 112% in Five Years — Calls It an ‘Incorrect Comparison’",
+      "title_zh": "Cathie Wood Claps Back After Being Confronted as ARKK Fell Nearly 15% While QQQ Soared 112% in Five Years — Calls It an ‘Incorrect Comparison’",
+      "summary_en": "Cathie Wood defends ARKK&#39;s 15% drop vs QQQ&#39;s 112% 5-year gain, calling it an &#39;incorrect comparison&#39; and blaming &#39;endpoint sensitivity.&#39;",
+      "summary_zh": "Cathie Wood defends ARKK&#39;s 15% drop vs QQQ&#39;s 112% 5-year gain, calling it an &#39;incorrect comparison&#39; and blaming &#39;endpoint sensitivity.&#39;",
+      "context_en": "📰 Source: CRSP · Benzinga · English original",
+      "context_zh": "📰 来源: CRSP · Benzinga · 英文原文(未翻译)",
+      "source": "CRSP · Benzinga",
+      "url": "https://finnhub.io/api/news?id=3ef1208dc23792129bb70dc851038f5bdf32bb6fd45801ebf346ed642b9ef852",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
       "time": "10-05 08:30",
       "title_en": "Wall Street Bulls Look Optimistic About CRISPR Therapeutics (CRSP): Should You Buy?",
       "title_zh": "Wall Street Bulls Look Optimistic About CRISPR Therapeutics (CRSP): Should You Buy?",
@@ -620,18 +620,16 @@
       ]
     },
     {
-      "time": "10-05 23:03",
-      "title_en": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows - Reuters",
-      "title_zh": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows - Reuters",
-      "summary_en": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows  Reuters",
-      "summary_zh": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows  Reuters",
+      "time": "10-06 10:06",
+      "title_en": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters",
+      "title_zh": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters",
+      "summary_en": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego  Reuters",
+      "summary_zh": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
+      "sectors": []
     },
     {
       "time": "10-06 10:00",
@@ -682,15 +680,15 @@
       "sectors": []
     },
     {
-      "time": "10-06 07:51",
-      "title_en": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego - Reuters",
-      "title_zh": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego - Reuters",
-      "summary_en": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego  Reuters",
-      "summary_zh": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego  Reuters",
+      "time": "10-06 08:29",
+      "title_en": "Ohio early voting begins with US Congress control on the line - Reuters",
+      "title_zh": "Ohio early voting begins with US Congress control on the line - Reuters",
+      "summary_en": "Ohio early voting begins with US Congress control on the line  Reuters",
+      "summary_zh": "Ohio early voting begins with US Congress control on the line  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NBVWtIOEhDaDlKenA1S0x2NUh3dDFfa1c5REw3OThWbjVzQnpwWVhQd09nYnBJU2dwMFJfZWxhcU1nb1JTR1JETm85R1lRV0RVZEViRmR0UGZJdmpSQUdNLXZhTWRleFRaMndmX283c29UY3FvZE9KSVBsRVM0ZW5rMXZYam9FeklWUTZoU3FKQ2pDcFBzc21LVFF6QndO?oc=5",
       "sectors": []
     },
     {
@@ -703,6 +701,18 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/make-it/2026/10/06/communication-assumptions-decision-making.html",
+      "sectors": []
+    },
+    {
+      "time": "10-06 06:12",
+      "title_en": "Israeli strikes kill two people in Gaza, medics say - Reuters",
+      "title_zh": "Israeli strikes kill two people in Gaza, medics say - Reuters",
+      "summary_en": "Israeli strikes kill two people in Gaza, medics say  Reuters",
+      "summary_zh": "Israeli strikes kill two people in Gaza, medics say  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0lvZ0RuYTQyWHRxYWd5X0phbDJGb0JWOXFkczJfMktSMlhmcGx2OGNVS2dWb0ZNZ1B2Rk1HRW5CczZQY2FtUGVxSm53TV9XTnFoRUl5R0Q3M3ZPVmh4OVYtZ19oM252RmRaYlBOZlFYZmhWZlRzemdCUGxtSmRaMWxFdVRpeVdtdlZKTzMwVDBuZjRFY3VVTVN5SWp5dFFrOERV?oc=5",
       "sectors": []
     },
     {
@@ -751,18 +761,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-05 19:17",
-      "title_en": "Trump says US will help Russia after Siberia plague institute death - Reuters",
-      "title_zh": "Trump says US will help Russia after Siberia plague institute death - Reuters",
-      "summary_en": "Trump says US will help Russia after Siberia plague institute death  Reuters",
-      "summary_zh": "Trump says US will help Russia after Siberia plague institute death  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
       "sectors": []
     }
   ],
