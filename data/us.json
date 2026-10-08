@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-10-08T10:49:54-04:00",
+  "updated_at": "2026-10-08T11:29:58-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 775.78,
-      "change": -1.44,
-      "change_pct": -0.1853
+      "value": 774.79,
+      "change": -2.43,
+      "change_pct": -0.3127
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 755.21,
-      "change": -2.52,
-      "change_pct": -0.3326
+      "value": 754.31,
+      "change": -3.42,
+      "change_pct": -0.4513
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 509.97,
-      "change": -1.05,
-      "change_pct": -0.2055
+      "value": 509.0,
+      "change": -2.02,
+      "change_pct": -0.3953
     }
   ],
   "news": [
@@ -173,6 +173,20 @@
       ]
     },
     {
+      "time": "10-08 06:59",
+      "title_en": "Intel Stock Is Falling Thursday: What's Going On?",
+      "title_zh": "Intel Stock Is Falling Thursday: What's Going On?",
+      "summary_en": "Intel (INTC) stock slips ~2% amid tech sell-off. CEO Lip-Bu Tan confirms Musk Terafab partnership remains active.",
+      "summary_zh": "Intel (INTC) stock slips ~2% amid tech sell-off. CEO Lip-Bu Tan confirms Musk Terafab partnership remains active.",
+      "context_en": "📰 Source: TSM · Benzinga · English original",
+      "context_zh": "📰 来源: TSM · Benzinga · 英文原文(未翻译)",
+      "source": "TSM · Benzinga",
+      "url": "https://finnhub.io/api/news?id=4ecd44eefddaaca2ffe6df3147c410862eb2149a7c6a8c875f82933ece1876c4",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
       "time": "10-08 05:28",
       "title_en": "TSMC: Global Chip Demand Shows No Signs Of Slowing",
       "title_zh": "TSMC: Global Chip Demand Shows No Signs Of Slowing",
@@ -184,21 +198,6 @@
       "url": "https://finnhub.io/api/news?id=b4b0e598df4fb5295420cc95c0000cf9d356ddf1df4dce0bb60a7f1b0cbae46a",
       "sectors": [
         "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "10-08 04:14",
-      "title_en": "GlobalFoundries Reaches Deal With TSMC To Create U.S.-Based Supply Of Silicon Interposers For TSMC's CoWoS Advanced Packaging Ecosystem",
-      "title_zh": "GlobalFoundries Reaches Deal With TSMC To Create U.S.-Based Supply Of Silicon Interposers For TSMC's CoWoS Advanced Packaging Ecosystem",
-      "summary_en": "GlobalFoundries (NASDAQ:GFS) (GF) today announced a manufacturing agreement with TSMC to establish a U.S.-based supply of silicon interposers for TSMC&#39;s CoWoS® advanced packaging ecosystem. Under the agreement, GF",
-      "summary_zh": "GlobalFoundries (NASDAQ:GFS) (GF) today announced a manufacturing agreement with TSMC to establish a U.S.-based supply of silicon interposers for TSMC&#39;s CoWoS® advanced packaging ecosystem. Under the agreement, GF",
-      "context_en": "📰 Source: TSM · Benzinga · English original",
-      "context_zh": "📰 来源: TSM · Benzinga · 英文原文(未翻译)",
-      "source": "TSM · Benzinga",
-      "url": "https://finnhub.io/api/news?id=cccf5f0302644d0876b61c20e795d27f8637839f5dc4f59f0e8fe4465b36143c",
-      "sectors": [
-        "industry",
         "tech"
       ]
     },
@@ -634,32 +633,28 @@
       ]
     },
     {
-      "time": "10-07 21:25",
-      "title_en": "Oil jumps as Middle East supply concerns persist amid shipping attacks - Reuters",
-      "title_zh": "Oil jumps as Middle East supply concerns persist amid shipping attacks - Reuters",
-      "summary_en": "Oil jumps as Middle East supply concerns persist amid shipping attacks  Reuters",
-      "summary_zh": "Oil jumps as Middle East supply concerns persist amid shipping attacks  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "time": "10-08 10:11",
+      "title_en": "10-year Treasury yield is little changed as Fed's Waller says more hikes needed, investors await 30-year auction",
+      "title_zh": "10-year Treasury yield is little changed as Fed's Waller says more hikes needed, investors await 30-year auction",
+      "summary_en": "U.S. Treasury yields climbed higher on Thursday as investors eagerly awaited the long-dated bond auction later in the day, after strong sales of 10-year notes.",
+      "summary_zh": "U.S. Treasury yields climbed higher on Thursday as investors eagerly awaited the long-dated bond auction later in the day, after strong sales of 10-year notes.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+      "sectors": []
     },
     {
-      "time": "10-07 19:13",
-      "title_en": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll - Reuters",
-      "title_zh": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll - Reuters",
-      "summary_en": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll  Reuters",
-      "summary_zh": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll  Reuters",
+      "time": "10-08 10:11",
+      "title_en": "Drones, explosions and soldiers in bulldozers: surrounded by Israelis in Lebanon's 'model town' - Reuters",
+      "title_zh": "Drones, explosions and soldiers in bulldozers: surrounded by Israelis in Lebanon's 'model town' - Reuters",
+      "summary_en": "Drones, explosions and soldiers in bulldozers: surrounded by Israelis in Lebanon's 'model town'  Reuters",
+      "summary_zh": "Drones, explosions and soldiers in bulldozers: surrounded by Israelis in Lebanon's 'model town'  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk9KZFZoanU3aUpvZm9jNU5pVUhQdVdWR1VTbGNCaGIyTmJCMzJTSDJWcXZGVG1GM3RNUU44eVY5NUpoLWdKMUhHVWEtMW1qb2dJc1J3c1c1cVVIRmNDTWdNcHFFN1FVRGxRYUpLYU43MTZJNmI2YzlwN2szVVZDdGQ0cHNNUEhoTlhrSDVNLVhVZkp6SXNjUVZnU05qOFFJX2w1aWdjT3U3UmlJMUk4ZVYyNVloeGVyUVJaNjVvNnBjUQ?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVpzVVAtSEdoLWNrSnFvbzFkTGZQQnUtZHV4b3M1cEhLV3NTc0tUamVQWWM4SGNMenVwM3EwNFlDaTFXTFY0Z3hqZUxLOElzZ043VkF6UUlfZDlwbzdUc3oyOFdrMkdsTXdPRldGWlpHUk4ydXR1TTdRY0Y1bU1pZU1KR1lLZENHT05FcVY1aFpNTUZia204VnVxUmpCbEN1N28yUXk0bXZtMG9lelZNc2JOc0NnSlJwWWhXQzU4aUV1RHpzdmoxTkNSOUtZazg?oc=5",
+      "sectors": []
     },
     {
       "time": "10-08 09:29",
@@ -671,6 +666,18 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
+      "sectors": []
+    },
+    {
+      "time": "10-08 09:17",
+      "title_en": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+      "title_zh": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+      "summary_en": "Attack risks rise for tankers as Iran vows to block more Hormuz routes  Reuters",
+      "summary_zh": "Attack risks rise for tankers as Iran vows to block more Hormuz routes  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5",
       "sectors": []
     },
     {
@@ -803,18 +810,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnAtMmE4Vi10TWlqTFQ0MkFXdzJCNlQzYlFSbXBkOVg5YW9Qd0YwcG5vZnVQS21ETGdLVnllV2RxRFZmZUZyaV8xZWtzVXNLMUxVV1BhQXc3Qm4wVjFaOTB4US1mR0MwWmxoTzdvSV9tUmxvbkx6cWppUkZPMnpHaXNPWjBTMmhBN1p5NDhmSkI1VWtiNEJQcjJLbEJPa2Jhc1VqLWNhR19JcEFkZk5kTmRjaEFnUQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-07 23:03",
-      "title_en": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile - Reuters",
-      "title_zh": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile - Reuters",
-      "summary_en": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile  Reuters",
-      "summary_zh": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREc3b1M4OVVFbEtXWE45ZWpjeDNiNGpGVnZIdEJQSUU2R2dmdzF4V3hFZ1RMSlgyX0Fmc295aXo3bGtsbHpYSlM5MUVjLXJsM1ZISFV4NVFQN04wY0M4ZFRud3pzVUd2ZjN4S1dRSzNkenVacC1naWFmdUMtRUVYUlQ3MWY4dHRyOHRkTThCcUYxV0NFOU9qNE5fUW92RmlfYmk3Z0ZqWDlfc2VmNVhHS0tPX2k2Ql94SHlCeThTUzJBUQ?oc=5",
       "sectors": []
     }
   ],
