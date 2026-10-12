@@ -1,30 +1,44 @@
 {
   "market": "us",
-  "updated_at": "2026-10-12T12:56:34-04:00",
+  "updated_at": "2026-10-12T13:42:45-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 777.61,
-      "change": -0.96,
-      "change_pct": -0.1233
+      "value": 777.72,
+      "change": -0.85,
+      "change_pct": -0.1092
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 745.9,
-      "change": -5.37,
-      "change_pct": -0.7148
+      "value": 745.82,
+      "change": -5.45,
+      "change_pct": -0.7254
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 517.99,
-      "change": 1.88,
-      "change_pct": 0.3643
+      "value": 518.0,
+      "change": 1.89,
+      "change_pct": 0.3662
     }
   ],
   "news": [
+    {
+      "time": "10-12 12:40",
+      "title_en": "Uncover the latest developments among dow jones stocks in today's session.",
+      "title_zh": "Uncover the latest developments among dow jones stocks in today's session.",
+      "summary_en": "Stay updated with the movements of the dow jones index in the middle of the day on Monday. Discover which stocks are leading as top gainers and losers in today's session.",
+      "summary_zh": "Stay updated with the movements of the dow jones index in the middle of the day on Monday. Discover which stocks are leading as top gainers and losers in today's session.",
+      "context_en": "📰 Source: NVDA · ChartMill · English original",
+      "context_zh": "📰 来源: NVDA · ChartMill · 英文原文(未翻译)",
+      "source": "NVDA · ChartMill",
+      "url": "https://finnhub.io/api/news?id=2333ac8c91406bf34315edb5c62ab7e754d81f2a9f8505fec08c8fc60def9b8a",
+      "sectors": [
+        "ai"
+      ]
+    },
     {
       "time": "10-12 11:52",
       "title_en": "Why Micron Stock Dropped on Monday",
@@ -37,21 +51,6 @@
       "url": "https://finnhub.io/api/news?id=2007cdc09dc12fa4211e448d85ec1d9f11971f9398f5566e490f4ac714fa10ad",
       "sectors": [
         "ai"
-      ]
-    },
-    {
-      "time": "10-12 11:50",
-      "title_en": "Where Will Axsome Therapeutics Be in 2030 as Auvelity Expands Into Alzheimer's?",
-      "title_zh": "Where Will Axsome Therapeutics Be in 2030 as Auvelity Expands Into Alzheimer's?",
-      "summary_en": "Auvelity's Alzheimer's expansion could transform Axsome by 2030.",
-      "summary_zh": "Auvelity's Alzheimer's expansion could transform Axsome by 2030.",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=66fb39c0c0e977c835bc72fc6f2e0140fa271777acd377ea5d60debe7facbf82",
-      "sectors": [
-        "ai",
-        "bio"
       ]
     },
     {
@@ -126,20 +125,6 @@
       "sectors": [
         "finance",
         "industry",
-        "tech"
-      ]
-    },
-    {
-      "time": "10-12 11:30",
-      "title_en": "If You Invest $500 a Month in Microsoft Starting Now, This is What You’d Have in 2030",
-      "title_zh": "If You Invest $500 a Month in Microsoft Starting Now, This is What You’d Have in 2030",
-      "summary_en": "Azure demand is outpacing Microsoft's ability to supply it, Copilot seats are surging, and the backlog just hit a record, yet the stock has barely moved in a year. Here is what a steady monthly commitment could realistically turn into by 2030 under three very different scenarios.",
-      "summary_zh": "Azure demand is outpacing Microsoft's ability to supply it, Copilot seats are surging, and the backlog just hit a record, yet the stock has barely moved in a year. Here is what a steady monthly commitment could realistically turn into by 2030 under three very different scenarios.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=52547976a4a84d023099f8c74ffd84f7728c1857c3fd320cd035a149d4f90c20",
-      "sectors": [
         "tech"
       ]
     },
@@ -249,20 +234,17 @@
       ]
     },
     {
-      "time": "10-12 11:00",
-      "title_en": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "title_zh": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "summary_en": "New Transceivers Enable AI Builders to Scale Compute Within the Same Network Footprint While Reducing Networking’s Share of the Power Budget Ultra-Dense Small Form Factor Pluggable Ultra-Dense Small Form Factor Pluggable is designed to be the first module to support 400Gb/s-per-lane electrical signals, enabling capacity up to 12.8Tb/s so AI factory builders can scale Ethernet AI fabrics, while extending a proven deployment model across multiple generations of data center networks. News Summary:",
-      "summary_zh": "New Transceivers Enable AI Builders to Scale Compute Within the Same Network Footprint While Reducing Networking’s Share of the Power Budget Ultra-Dense Small Form Factor Pluggable Ultra-Dense Small Form Factor Pluggable is designed to be the first module to support 400Gb/s-per-lane electrical signals, enabling capacity up to 12.8Tb/s so AI factory builders can scale Ethernet AI fabrics, while extending a proven deployment model across multiple generations of data center networks. News Summary:",
-      "context_en": "📰 Source: CSCO · Yahoo · English original",
-      "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
-      "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=eeed56723e1b1e852680297aaacbaca3703084014c6652f6c4250399365f26fb",
+      "time": "10-12 12:35",
+      "title_en": "Discover which S&P500 stocks are making waves on Monday.",
+      "title_zh": "Discover which S&P500 stocks are making waves on Monday.",
+      "summary_en": "Stay informed about the performance of the S&P500 index in the middle of the day on Monday. Uncover the top gainers and losers in today's session for valuable insights.",
+      "summary_zh": "Stay informed about the performance of the S&P500 index in the middle of the day on Monday. Uncover the top gainers and losers in today's session for valuable insights.",
+      "context_en": "📰 Source: TMUS · ChartMill · English original",
+      "context_zh": "📰 来源: TMUS · ChartMill · 英文原文(未翻译)",
+      "source": "TMUS · ChartMill",
+      "url": "https://finnhub.io/api/news?id=aa9e4c8a2b6d82815ed32d4c2f7a81ce11c4a5cf84eb068cff96ca2163909ff0",
       "sectors": [
-        "ai",
-        "bio",
-        "comm",
-        "tech"
+        "comm"
       ]
     },
     {
@@ -489,29 +471,15 @@
       ]
     },
     {
-      "time": "10-09 11:36",
-      "title_en": "Is Vertex Stock Worth More Than Its Competitors?",
-      "title_zh": "Is Vertex Stock Worth More Than Its Competitors?",
-      "summary_en": "Vertex Pharmaceuticals (VRTX) stock trades at 29.0 times earnings. That valuation prices the company higher than Regeneron and Incyte, two of its biotech peers. Vertex does generate the highest operating margin among its group of five companies, but its sales are growing more slowly than at three of the other four. So how much more are you paying for Vertex, and what do you get for it.",
-      "summary_zh": "Vertex Pharmaceuticals (VRTX) stock trades at 29.0 times earnings. That valuation prices the company higher than Regeneron and Incyte, two of its biotech peers. Vertex does generate the highest operating margin among its group of five companies, but its sales are growing more slowly than at three of the other four. So how much more are you paying for Vertex, and what do you get for it.",
-      "context_en": "📰 Source: REGN · Yahoo · English original",
-      "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
-      "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=78f2a1b20a92c2f2664cbf93a4df03d907ffde640be59eabf97e4f652329c59c",
-      "sectors": [
-        "bio"
-      ]
-    },
-    {
-      "time": "10-08 20:19",
-      "title_en": "What Is Going On With Regeneron Stock?",
-      "title_zh": "What Is Going On With Regeneron Stock?",
-      "summary_en": "Regeneron Pharmaceuticals (REGN) stock currently trades at 17.6 times earnings. That represents a notable discount to the 21.5 multiple of the median S&P 500 company. The shares have lost 4.1% over the past six months, trailing the 15.7% return of the broader index. Over twelve months, however, the stock returned 27% against the index's 17.1%. A valuation this low suggests investors are either overlooking a sound drug maker or pricing in underlying problems. So how healthy is the business you wo",
-      "summary_zh": "Regeneron Pharmaceuticals (REGN) stock currently trades at 17.6 times earnings. That represents a notable discount to the 21.5 multiple of the median S&P 500 company. The shares have lost 4.1% over the past six months, trailing the 15.7% return of the broader index. Over twelve months, however, the stock returned 27% against the index's 17.1%. A valuation this low suggests investors are either overlooking a sound drug maker or pricing in underlying problems. So how healthy is the business you wo",
-      "context_en": "📰 Source: REGN · Yahoo · English original",
-      "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
-      "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=bff74f60d6f2160c55eb02e7e452a8c1637af7ee73d80472a98ad1b017bcc0e4",
+      "time": "10-12 09:24",
+      "title_en": "Calls of the Day: Adobe, eBay and Regeneron",
+      "title_zh": "Calls of the Day: Adobe, eBay and Regeneron",
+      "summary_en": "The Investment Committee debate the latest Calls of the Day.",
+      "summary_zh": "The Investment Committee debate the latest Calls of the Day.",
+      "context_en": "📰 Source: REGN · CNBC · English original",
+      "context_zh": "📰 来源: REGN · CNBC · 英文原文(未翻译)",
+      "source": "REGN · CNBC",
+      "url": "https://finnhub.io/api/news?id=32f44f091b7278456647332f1e9e50dae6fde9e2e8c0875b9c7b690591abf9e4",
       "sectors": [
         "bio"
       ]
@@ -644,21 +612,7 @@
       ]
     },
     {
-      "time": "10-12 02:00",
-      "title_en": "COMMENTARY: The oil market's center of gravity is moving east - Reuters",
-      "title_zh": "COMMENTARY: The oil market's center of gravity is moving east - Reuters",
-      "summary_en": "COMMENTARY: The oil market's center of gravity is moving east  Reuters",
-      "summary_zh": "COMMENTARY: The oil market's center of gravity is moving east  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjYxNmhnSlJibVVZcGVOSld5YWc3c1NMeXVEcTNwN3pWclpSR0xKUHhObVdLempqUV9NSkM0VkhyZEY3Z2cyNFVNSEl0bkU4UmRVeXJVZ2x2MlRqMTltZ0N3a1hIejZmOVZlaXA5czc1X2k0OThSWnY2bjZsMXpLQmNfTk9uNnNoNDE3R3ZSb3dNV1lwd3hfQmhnYV9ZNVZDVGRVRnRPV052SEpyZ2xr?oc=5",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "10-12 11:15",
+      "time": "10-12 12:05",
       "title_en": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
       "title_zh": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
       "summary_en": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident  Reuters",
@@ -667,6 +621,18 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWJ0NVNWU296YXNLZ1BDNC11S1V3MW5uY1ViQ2M3VmZ4eVZVLWtTT2x4MG4zOGJncUVrOFFyZkcwekpYZXpWRWhvc0lxWkhveHU3MmV0VW03dEo1RmN4dzVhSVFWajBzMXlZVDFQWXRkQ3V3eFdVTDdadFpJNjFCVzVlQ05WMkYxZEpmelV6RDdBaWhSN19YVDJROXcySFo0anBOWTNQYk81TENDaUY4?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "10-12 11:03",
+      "title_en": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
+      "title_zh": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
+      "summary_en": "For those parents overwhelmed by headlines about the dangers of new tech, try using it and getting informed, says Emily Oster.",
+      "summary_zh": "For those parents overwhelmed by headlines about the dangers of new tech, try using it and getting informed, says Emily Oster.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
       "sectors": []
     },
     {
@@ -766,6 +732,18 @@
       "sectors": []
     },
     {
+      "time": "10-12 04:39",
+      "title_en": "Saudi shares fall after second airport attack as Gulf trade stays cautious - Reuters",
+      "title_zh": "Saudi shares fall after second airport attack as Gulf trade stays cautious - Reuters",
+      "summary_en": "Saudi shares fall after second airport attack as Gulf trade stays cautious  Reuters",
+      "summary_zh": "Saudi shares fall after second airport attack as Gulf trade stays cautious  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDJseDNYUmxPQzZqWnBZM1hRbXJhaGQwdklnQVZBUWp3WEY2SUczaGpYejg3bXRDYzdDN3ctYzRVNVhBc05Rc084QzdOemRFX1l0a2J5TElELVFXUldBZEd6WVItdjVaeFZfWTVEdjJ5VGVkVmxiLVZ5ZWg3ckFLclRTcG1OaExuTnZXamxFcElNalR0SWlPUm5qY2lIa0dFQVJmc24wX0F2WG1nc3hnV3Z0dXEyN0pLWmhnRXJHeFVJTVU?oc=5",
+      "sectors": []
+    },
+    {
       "time": "10-12 02:43",
       "title_en": "Israeli strike kills two people in Gaza, medics say - Reuters",
       "title_zh": "Israeli strike kills two people in Gaza, medics say - Reuters",
@@ -787,18 +765,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-12 01:11",
-      "title_en": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport - Reuters",
-      "title_zh": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport - Reuters",
-      "summary_en": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport  Reuters",
-      "summary_zh": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMF95Nm5HV1pQeTVrX1hkaU52bkVfQUNCcjlMMVVUazlFalZpd3dnTVdvOTAxMWdZMk1wU1hfNHkyYXBVY2ZnbnVUa0N2Nm9uOTVTYVQzeGphOExkTWtoRElvUzBqMS1PWkpOQ1VpZy1VN0tUQ2hmYzV5WG1uRVFBb00yb3RjZDZ6andza0lBak9HVXl2QVFZeWk4NXVpc0d4OTVnX2FSY203allXNVlLa1lENGI1bnFLWG1IQVZlS0NyYjZWTUE?oc=5",
       "sectors": []
     }
   ],
