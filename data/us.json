@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-10-19T10:56:03-04:00",
+  "updated_at": "2026-10-19T11:30:17-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 767.95,
-      "change": 4.7,
-      "change_pct": 0.6158
+      "value": 770.02,
+      "change": 6.77,
+      "change_pct": 0.887
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 721.11,
-      "change": 11.31,
-      "change_pct": 1.5934
+      "value": 724.0,
+      "change": 14.2,
+      "change_pct": 2.0006
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 518.73,
-      "change": -0.37,
-      "change_pct": -0.0713
+      "value": 520.35,
+      "change": 1.25,
+      "change_pct": 0.2408
     }
   ],
   "news": [
@@ -145,6 +145,21 @@
       ]
     },
     {
+      "time": "10-19 06:41",
+      "title_en": "Sandisk: TSMC Just Fired A $94 Billion Warning Shot",
+      "title_zh": "Sandisk: TSMC Just Fired A $94 Billion Warning Shot",
+      "summary_en": "Sandisk Corporation: AI storage demand stays resilient as TSMC/ASML guide higher; BiCS roadmap + Q1 NBM execution could drive recovery. Click for this SNDK update.",
+      "summary_zh": "Sandisk Corporation: AI storage demand stays resilient as TSMC/ASML guide higher; BiCS roadmap + Q1 NBM execution could drive recovery. Click for this SNDK update.",
+      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
+      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
+      "source": "TSM · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15bc84031ce221c57b5d656d29b426ae2c57ae1d84c5697a0bcb0126f4e49c15",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
       "time": "10-19 06:20",
       "title_en": "Nvidia: The Recent Dip In Price Makes An Appealing Entry Point Per My Valuation",
       "title_zh": "Nvidia: The Recent Dip In Price Makes An Appealing Entry Point Per My Valuation",
@@ -156,22 +171,6 @@
       "url": "https://finnhub.io/api/news?id=201c4fb76b1b2b676dfdc84342a013f0a3e89bed74e76e1a07af1d829018054c",
       "sectors": [
         "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "10-19 04:17",
-      "title_en": "Arista Networks' Share Price Slump: To Buy Or Not To Buy",
-      "title_zh": "Arista Networks' Share Price Slump: To Buy Or Not To Buy",
-      "summary_en": "Arista Networks has declined nearly 20% from October highs, driven by broad AI sector sentiment rather than company-specific issues. See why I rate ANET stock a Hold.",
-      "summary_zh": "Arista Networks has declined nearly 20% from October highs, driven by broad AI sector sentiment rather than company-specific issues. See why I rate ANET stock a Hold.",
-      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
-      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
-      "source": "TSM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=602c9f618f1e75cc79fbc8e4d1e391dd5248a61dd415a7a151b89afc6546c264",
-      "sectors": [
-        "ai",
-        "comm",
         "tech"
       ]
     },
@@ -321,18 +320,17 @@
       ]
     },
     {
-      "time": "10-18 23:41",
-      "title_en": "Why Did XOM, V, TEAM Stocks Hit 52-Week Highs Last Week?",
-      "title_zh": "Why Did XOM, V, TEAM Stocks Hit 52-Week Highs Last Week?",
-      "summary_en": "Refining profits, stablecoin adoption and cloud demand lifted investor optimism.",
-      "summary_zh": "Refining profits, stablecoin adoption and cloud demand lifted investor optimism.",
-      "context_en": "📰 Source: XOM · Yahoo · English original",
-      "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
-      "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=68219abe3a3156f9212efd876ef242e5e2006331cdcf231db7b1a96c2deccc03",
+      "time": "10-19 07:00",
+      "title_en": "9 Of 11 Sectors Fall As Growth Leads",
+      "title_zh": "9 Of 11 Sectors Fall As Growth Leads",
+      "summary_en": "Monday’s regular session has nine sectors lower and two higher, with growth sectors occupying the top two positions. The leaders are separated rather than clustered, with no single gap clearly standing apart from the other breaks across the table.",
+      "summary_zh": "Monday’s regular session has nine sectors lower and two higher, with growth sectors occupying the top two positions. The leaders are separated rather than clustered, with no single gap clearly standing apart from the other breaks across the table.",
+      "context_en": "📰 Source: XOM · Benzinga · English original",
+      "context_zh": "📰 来源: XOM · Benzinga · 英文原文(未翻译)",
+      "source": "XOM · Benzinga",
+      "url": "https://finnhub.io/api/news?id=0ed328ad162c5c21d1dbdf0e5e65800d4262809bd0eeab0e993a5921f507d8d7",
       "sectors": [
-        "energy",
-        "tech"
+        "energy"
       ]
     },
     {
@@ -438,15 +436,15 @@
       ]
     },
     {
-      "time": "10-18 23:15",
-      "title_en": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
-      "title_zh": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
-      "summary_en": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
-      "summary_zh": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=76496f81480358631a4fdb5349265ccf7219ba4e626da0d1745c468f7b418512",
+      "time": "10-19 06:37",
+      "title_en": "What's Going On With Moderna Stock Monday?",
+      "title_zh": "What's Going On With Moderna Stock Monday?",
+      "summary_en": "Moderna shares are trading higher Monday ahead of detailed Phase 3 melanoma data due Saturday and after BofA raised its price target.",
+      "summary_zh": "Moderna shares are trading higher Monday ahead of detailed Phase 3 melanoma data due Saturday and after BofA raised its price target.",
+      "context_en": "📰 Source: MRNA · Benzinga · English original",
+      "context_zh": "📰 来源: MRNA · Benzinga · 英文原文(未翻译)",
+      "source": "MRNA · Benzinga",
+      "url": "https://finnhub.io/api/news?id=65f854f318ee8ec9355143f0bb74dbc72dbee90babc38adefbe1c714c3590c6e",
       "sectors": [
         "bio"
       ]
@@ -537,6 +535,20 @@
       ]
     },
     {
+      "time": "10-19 07:36",
+      "title_en": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances - Reuters",
+      "title_zh": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances - Reuters",
+      "summary_en": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances  Reuters",
+      "summary_zh": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "10-19 02:00",
       "title_en": "COMMENTARY: Asian refiners' pain is Middle East oil producers' problem - Reuters",
       "title_zh": "COMMENTARY: Asian refiners' pain is Middle East oil producers' problem - Reuters",
@@ -579,18 +591,16 @@
       ]
     },
     {
-      "time": "10-18 07:51",
-      "title_en": "Turkey will get some diesel from US-Russia supply deal, energy minister says - Reuters",
-      "title_zh": "Turkey will get some diesel from US-Russia supply deal, energy minister says - Reuters",
-      "summary_en": "Turkey will get some diesel from US-Russia supply deal, energy minister says  Reuters",
-      "summary_zh": "Turkey will get some diesel from US-Russia supply deal, energy minister says  Reuters",
+      "time": "10-19 10:17",
+      "title_en": "What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict? - Reuters",
+      "title_zh": "What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict? - Reuters",
+      "summary_en": "What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict?  Reuters",
+      "summary_zh": "What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict?  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEFCaTJXdXlZR1NxZkpndXE3d0hRYWpmRUtBOXpXeTI3M2hUVnFSVVJrQm1NS29LLWlobDd4enF2OWxOY1h1SmJidXVlUksxeDdZdVMyZF9tVklTdWJiQzJZZzRNVnFEX0tMQUdCTW04WHhmdWdhQW42cERybkd1QzBDTHgxMklXU3dvbF9mbUt3a3RSb3NhZlpNbkpWcFNaWXZhMWE5TUkzTTVFMlI1YWV3NXJjb0lSMTRQVFNqbzFsRmZwRmtB?oc=5",
+      "sectors": []
     },
     {
       "time": "10-19 10:05",
@@ -665,6 +675,30 @@
       "sectors": []
     },
     {
+      "time": "10-19 02:53",
+      "title_en": "Putin approves minor Russian government reshuffle - Reuters",
+      "title_zh": "Putin approves minor Russian government reshuffle - Reuters",
+      "summary_en": "Putin approves minor Russian government reshuffle  Reuters",
+      "summary_zh": "Putin approves minor Russian government reshuffle  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "10-18 22:37",
+      "title_en": "Rupee ends flat as stock slump, importer hedging erodes bounce - Reuters",
+      "title_zh": "Rupee ends flat as stock slump, importer hedging erodes bounce - Reuters",
+      "summary_en": "Rupee ends flat as stock slump, importer hedging erodes bounce  Reuters",
+      "summary_zh": "Rupee ends flat as stock slump, importer hedging erodes bounce  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3NLUV9hTjZtMURDMENEaVZFZFBNWFNJVXNoakRPSjZTa1lGU1FQZHlVYU9HQVUyWGg0eDI3Y3lsRXFRZ2lhV0FSMFhPN3pwaHJ0SEVSOENrTUVtY1cxMjRZRWpxTVFwMDlJMURMRVN3dURIbVhQc3hiUTR3Nmh0QXJkUnRKNjJVSFkzTkFPYmRCT0JyZkpzaFF3LUJMZzlDbm5TMXRJUlZ1VUhSbXA4?oc=5",
+      "sectors": []
+    },
+    {
       "time": "10-18 19:06",
       "title_en": "UK housing market showing signs of mortgage rates impact, Rightmove says - Reuters",
       "title_zh": "UK housing market showing signs of mortgage rates impact, Rightmove says - Reuters",
@@ -722,42 +756,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-18 09:37",
-      "title_en": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
-      "title_zh": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
-      "summary_en": "Parenting coach Reem Raouda shares lessons to help kids feel worthy regardless of achievements and handle disappointment, disagreement and difficult feelings.",
-      "summary_zh": "Parenting coach Reem Raouda shares lessons to help kids feel worthy regardless of achievements and handle disappointment, disagreement and difficult feelings.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
-      "sectors": []
-    },
-    {
-      "time": "10-18 07:15",
-      "title_en": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
-      "title_zh": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
-      "summary_en": "Albanian PM says protests pose threat to EU membership, not government  Reuters",
-      "summary_zh": "Albanian PM says protests pose threat to EU membership, not government  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-18 06:52",
-      "title_en": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
-      "title_zh": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
-      "summary_en": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says  Reuters",
-      "summary_zh": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5pYTJCRkVpNVoxOTVPTVRoNUtwcTBYX2lhZ3ZmMVYxQjRjeG5kMHBHRnlpS1otNzZjWVNyaGJCNjhnU0ROclhuOWYwVGltT19POUY1Z0lOT2pJNDNCSUN0LTFHSkFxUW5iWW91T0ZiOVVTTm42TUpINVc2c1JVbEszT0hBQmhEUU5kemNPbFdqZndpTl9wTG1XeFRxd0JfTXhyam1zSDEzV2hXdWZ3X25xOXY4TkZwWThkLWVXTTBXREpWVFp0eC1XRQ?oc=5",
       "sectors": []
     }
   ],
