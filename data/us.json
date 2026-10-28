@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-10-28T10:21:44-04:00",
+  "updated_at": "2026-10-28T11:02:07-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 770.99,
-      "change": 1.33,
-      "change_pct": 0.1728
+      "value": 770.43,
+      "change": 0.77,
+      "change_pct": 0.1
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 721.83,
-      "change": 0.58,
-      "change_pct": 0.0804
+      "value": 721.54,
+      "change": 0.29,
+      "change_pct": 0.0402
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 524.63,
-      "change": 1.35,
-      "change_pct": 0.258
+      "value": 523.93,
+      "change": 0.65,
+      "change_pct": 0.1242
     }
   ],
   "news": [
@@ -200,6 +200,20 @@
       ]
     },
     {
+      "time": "10-28 09:47",
+      "title_en": "I Bonds Pay 4.26% With Built-In Inflation Protection. Here’s How That Stacks Up Against Dividend Income",
+      "title_zh": "I Bonds Pay 4.26% With Built-In Inflation Protection. Here’s How That Stacks Up Against Dividend Income",
+      "summary_en": "A Treasury-backed savings bond and a telecom dividend sitting near a 52-week low both advertise similar yields right now, but the similarities end at the number. Which one actually puts more money in your pocket depends on your tax situation, your timeline, and how much volatility you can stomach.",
+      "summary_zh": "A Treasury-backed savings bond and a telecom dividend sitting near a 52-week low both advertise similar yields right now, but the similarities end at the number. Which one actually puts more money in your pocket depends on your tax situation, your timeline, and how much volatility you can stomach.",
+      "context_en": "📰 Source: TMUS · Yahoo · English original",
+      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
+      "source": "TMUS · Yahoo",
+      "url": "https://finnhub.io/api/news?id=87d69137fd3d9019d3603ed38e57bb9e4d0a0c3e7c9be963c45a98a71b9449f9",
+      "sectors": [
+        "comm"
+      ]
+    },
+    {
       "time": "10-28 06:07",
       "title_en": "Is It Too Early To Buy Comcast Stock?",
       "title_zh": "Is It Too Early To Buy Comcast Stock?",
@@ -210,21 +224,6 @@
       "source": "TMUS · Yahoo",
       "url": "https://finnhub.io/api/news?id=9b83ba417593dc97070146ded6d8e72870356b4845bf966c2cfbce875c176f04",
       "sectors": [
-        "comm"
-      ]
-    },
-    {
-      "time": "10-27 21:36",
-      "title_en": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "title_zh": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "summary_en": "Will the S&amp;P 500 open higher? Polymarket odds hit 55% as Wall Street weighs Big Tech earnings, the Fed rate decision, and the AI build-out.",
-      "summary_zh": "Will the S&amp;P 500 open higher? Polymarket odds hit 55% as Wall Street weighs Big Tech earnings, the Fed rate decision, and the AI build-out.",
-      "context_en": "📰 Source: TMUS · Benzinga · English original",
-      "context_zh": "📰 来源: TMUS · Benzinga · 英文原文(未翻译)",
-      "source": "TMUS · Benzinga",
-      "url": "https://finnhub.io/api/news?id=26078097991fc94d5fda72a0887647df6aee86e2ed4b972d99eba77b5f95b50c",
-      "sectors": [
-        "ai",
         "comm"
       ]
     },
@@ -317,32 +316,31 @@
       ]
     },
     {
-      "time": "10-28 04:15",
-      "title_en": "Oil Hits Six-Month High And The Impact Could Be Felt In Many Aspects Of The Economy",
-      "title_zh": "Oil Hits Six-Month High And The Impact Could Be Felt In Many Aspects Of The Economy",
-      "summary_en": "Brent crude oil surged to a six-month high. Read why energy producers and XLE ETF are positioned to outperform if oil prices remain high.",
-      "summary_zh": "Brent crude oil surged to a six-month high. Read why energy producers and XLE ETF are positioned to outperform if oil prices remain high.",
-      "context_en": "📰 Source: XOM · SeekingAlpha · English original",
-      "context_zh": "📰 来源: XOM · SeekingAlpha · 英文原文(未翻译)",
-      "source": "XOM · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1bb1d222a8512fcf98777e2e504f829d20e03fe194181e4df2506ff6676fb664",
+      "time": "10-28 07:52",
+      "title_en": "BP's Q3 Earnings on the Horizon: Should You Bet on the Stock?",
+      "title_zh": "BP's Q3 Earnings on the Horizon: Should You Bet on the Stock?",
+      "summary_en": "BP heads into Q3 earnings with expectations of a sharp profit surge, supported by higher oil prices, an attractive valuation and a positive earnings outlook.",
+      "summary_zh": "BP heads into Q3 earnings with expectations of a sharp profit surge, supported by higher oil prices, an attractive valuation and a positive earnings outlook.",
+      "context_en": "📰 Source: XOM · Yahoo · English original",
+      "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
+      "source": "XOM · Yahoo",
+      "url": "https://finnhub.io/api/news?id=647b735df18795addbb0e40c6862d27d03febfb4a765d3d969e5b9f752839089",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "10-28 03:39",
-      "title_en": "The Zacks Analyst Blog Highlights Alphabet, ExxonMobil, Toyota, Waterstone Financial and AXIL Brands",
-      "title_zh": "The Zacks Analyst Blog Highlights Alphabet, ExxonMobil, Toyota, Waterstone Financial and AXIL Brands",
-      "summary_en": "Alphabet's AI-driven growth, ExxonMobil's production strengths and Toyota's hybrid strategy headline research reports alongside insights on two micro-cap stocks.",
-      "summary_zh": "Alphabet's AI-driven growth, ExxonMobil's production strengths and Toyota's hybrid strategy headline research reports alongside insights on two micro-cap stocks.",
+      "time": "10-28 07:42",
+      "title_en": "3 Energy Stocks Poised to Outshine Earnings Estimates in Q3",
+      "title_zh": "3 Energy Stocks Poised to Outshine Earnings Estimates in Q3",
+      "summary_en": "BP, Chevron and ExxonMobil are poised to beat Q3 earnings estimates as surging crude oil prices boost their prospects. See what makes these energy stocks stand out.",
+      "summary_zh": "BP, Chevron and ExxonMobil are poised to beat Q3 earnings estimates as surging crude oil prices boost their prospects. See what makes these energy stocks stand out.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=da9eb17264856e384f94d55190af73df6275a979015a49f9da9bf9c926048db4",
+      "url": "https://finnhub.io/api/news?id=75aee156fd53fb18a868d812b0fbfb6c6a28cc6dc5ed18ea342327cb65fdc883",
       "sectors": [
-        "energy",
-        "finance"
+        "energy"
       ]
     },
     {
@@ -551,18 +549,16 @@
       ]
     },
     {
-      "time": "10-27 21:49",
-      "title_en": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns - Reuters",
-      "title_zh": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns - Reuters",
-      "summary_en": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns  Reuters",
-      "summary_zh": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns  Reuters",
+      "time": "10-28 10:18",
+      "title_en": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban - Reuters",
+      "title_zh": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban - Reuters",
+      "summary_en": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban  Reuters",
+      "summary_zh": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzczN0VQaVNCellIWU1NczBXNzIyQTZIWjZLY1Z2aGFPNDN3amdLeEF5ZGxJU0MwTFBFeERGaEpnaVZnSVhwSzV3VnRyZXhqRG9UamEzUUdfd2E3TjUtZTNleFp0RHZYNDlyMEF0UXJpOHVGUXZ2WHVMZTdwbzEzVU96dVNEWWxGRm9mdHB3WkVNYXNzdGpCQm4zYXFrWDJfZlN2d1Fzak0wLVFKSFRlejZ0WWZKaVNjMmtBRjZHWGtZRjUzd0xyM1dZWQ?oc=5",
+      "sectors": []
     },
     {
       "time": "10-28 10:04",
@@ -589,6 +585,18 @@
       "sectors": []
     },
     {
+      "time": "10-28 09:41",
+      "title_en": "Brazil's Flavio Bolsonaro arrives in US after election defeat - Reuters",
+      "title_zh": "Brazil's Flavio Bolsonaro arrives in US after election defeat - Reuters",
+      "summary_en": "Brazil's Flavio Bolsonaro arrives in US after election defeat  Reuters",
+      "summary_zh": "Brazil's Flavio Bolsonaro arrives in US after election defeat  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFNc0szNTA2RXdkb1BURmJ2bnB2R1BIVkdpN0hEcXlBclpLel9TdVVmbzdFTjNJU291aHlnZlFUdkx5OHdVN3ZndXNmaEVtUmZGQU8tQ3J1RmhFQVZQLWNaTlNDdXUwd0R6US1mMDd3a0w4TVRJdWpic2RxaHFtSXItcFpHNzFiUUs3MXFVQWlZb21sN2x1eHQ1ZlY0bmFpS3NyYkxXb1FlSWZN?oc=5",
+      "sectors": []
+    },
+    {
       "time": "10-28 09:35",
       "title_en": "PODCAST: A hawkish hold? - Reuters",
       "title_zh": "PODCAST: A hawkish hold? - Reuters",
@@ -598,6 +606,18 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnZKamx2ODNvd2VhSExDbFlwTll2VjV5OURxVHFuUjRWamRNcF9fb0ZiQnpmSVVFTDNHOTFVbmE1QmhWalpPeENCSzlEX21JWkZhUVZ2RHRUN3puUktVOU44V0pzSTkyS2xLaVB4R3k5Wkp1LVVOa3g3ell5bzB1RVNtbw?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "10-28 09:28",
+      "title_en": "Houthis strike Yemen's Aden airport after evacuation warning - Reuters",
+      "title_zh": "Houthis strike Yemen's Aden airport after evacuation warning - Reuters",
+      "summary_en": "Houthis strike Yemen's Aden airport after evacuation warning  Reuters",
+      "summary_zh": "Houthis strike Yemen's Aden airport after evacuation warning  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
       "sectors": []
     },
     {
@@ -661,18 +681,6 @@
       "sectors": []
     },
     {
-      "time": "10-28 07:49",
-      "title_en": "Houthis call for immediate evacuation of Aden airport as fighting intensifies in Yemen - Reuters",
-      "title_zh": "Houthis call for immediate evacuation of Aden airport as fighting intensifies in Yemen - Reuters",
-      "summary_en": "Houthis call for immediate evacuation of Aden airport as fighting intensifies in Yemen  Reuters",
-      "summary_zh": "Houthis call for immediate evacuation of Aden airport as fighting intensifies in Yemen  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
-      "sectors": []
-    },
-    {
       "time": "10-28 07:48",
       "title_en": "COMMENTARY: Morning Bid: Information overload - Reuters",
       "title_zh": "COMMENTARY: Morning Bid: Information overload - Reuters",
@@ -694,6 +702,18 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
+      "sectors": []
+    },
+    {
+      "time": "10-28 07:09",
+      "title_en": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro - Reuters",
+      "title_zh": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro - Reuters",
+      "summary_en": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro  Reuters",
+      "summary_zh": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3haOWdlVTZzOVIzZk9zZE11UHhGeDBtOVJXeEo3c3NWeHRWd3F2SU5BOE4zcWRpeVFuVVUwYkl4eFJDbDVPNVVKaUhSREFwSENKWkF1NFloTlg2c1NrQkJhdzFJcW42dXV2UmgxUE44YWJvbkp5b3YwdEE3b1ROZy1sZ0d5YkFPeTFjTWwwZDZOVFQ5cEwyeTBIZURidDFEMzBwZVZPQlkzYmNlUEprQmVNbW8xcTlISWVvLV9GX0VZUQ?oc=5",
       "sectors": []
     },
     {
@@ -742,30 +762,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjdKcHNBRWZiYWhjMnM3MWN5RGUxaVAyQXhnbmJVSzJxUXRGYUh0ejZ0S3ZJRmRvSHFSM0h0eWF2ZEdpeGVSeTY1a1NNeHJSdGZ6dHl0MXROWVFXUTBfRlNRYlhHdTl4eExkSFlRcFFZTzJoTUJNSENkVUExb1kwYnVYTzBWWU5vcmJma0g4MThEd2FuY3dyRUUwTlFBbVBMdmZuRW9ra2Nnd2wxUnlHT0x4WQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-27 22:48",
-      "title_en": "Netanyahu survives another day with unexpectedly clear backing of Israeli Jews - Reuters",
-      "title_zh": "Netanyahu survives another day with unexpectedly clear backing of Israeli Jews - Reuters",
-      "summary_en": "Netanyahu survives another day with unexpectedly clear backing of Israeli Jews  Reuters",
-      "summary_zh": "Netanyahu survives another day with unexpectedly clear backing of Israeli Jews  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmptb013S1hpZ2RvLUZSRWh6dHV5cWFLZC0tdVBFdE8yVk04N2xjd0Q2VzZvdC1mVEUtZmdDMW9LQlRET1doTFFJd2xqWlJZTWVhWVdtamNCWk9WMjAyanRzTjNDcXEzNG80bWM4a3p1bkp2Vm43em0tcUI1ZkE0Tm1RaHc5cEdVcS1ER0loZU1xczlmQ1gxaXZ5Q1Y3Tnp4eDNKZ09zSDNWbUxnNmt3Q1Rvc1FPcmV1dVpmSmlSRHVTc2M?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "10-27 21:21",
-      "title_en": "ASEAN envoy to lead humanitarian mission to Myanmar - Reuters",
-      "title_zh": "ASEAN envoy to lead humanitarian mission to Myanmar - Reuters",
-      "summary_en": "ASEAN envoy to lead humanitarian mission to Myanmar  Reuters",
-      "summary_zh": "ASEAN envoy to lead humanitarian mission to Myanmar  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVDBiTUtVdXhyTk5manktYnZ3anFPSUVJYXdtV3BSLVJRQmRsaXNxVU1COHViWkJ6ZFlhbGplZFQ2MzNBZDNoY1VSVHN2X0FVRnl4QjF4SjNPcU9OS3pNcGpaYWdDelNWYkV4Slg0QnBDSi1JQmY3XzZ3cWpRRUVndGQzWmQwUExuSkNpWHpGVUkzWEVPck9HQndNcGswZnBLYkE?oc=5",
       "sectors": []
     }
   ],
