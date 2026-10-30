@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-10-30T10:28:19-04:00",
+  "updated_at": "2026-10-30T10:59:31-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 757.62,
-      "change": -11.74,
-      "change_pct": -1.5259
+      "value": 759.68,
+      "change": -9.68,
+      "change_pct": -1.2582
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 693.1,
-      "change": -22.24,
-      "change_pct": -3.109
+      "value": 696.4,
+      "change": -18.94,
+      "change_pct": -2.6477
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 519.09,
-      "change": -3.64,
-      "change_pct": -0.6963
+      "value": 520.5,
+      "change": -2.23,
+      "change_pct": -0.4266
     }
   ],
   "news": [
@@ -283,18 +283,17 @@
       ]
     },
     {
-      "time": "10-29 21:09",
-      "title_en": "First Solar: The Market May Be Underestimating Its Competitive Moat",
-      "title_zh": "First Solar: The Market May Be Underestimating Its Competitive Moat",
-      "summary_en": "First Solar's CdTe technology, U.S. manufacturing advantage, and strong balance sheet create a durable moat. Learn why FSLR stock is a Buy.",
-      "summary_zh": "First Solar's CdTe technology, U.S. manufacturing advantage, and strong balance sheet create a durable moat. Learn why FSLR stock is a Buy.",
-      "context_en": "📰 Source: FSLR · SeekingAlpha · English original",
-      "context_zh": "📰 来源: FSLR · SeekingAlpha · 英文原文(未翻译)",
-      "source": "FSLR · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=98a648e9d8514ba0068935addba27bdaced9f9d441dafa419711f0278ad30997",
+      "time": "10-30 04:57",
+      "title_en": "First Solar Analysts Cut Their Forecasts After Q3 Earnings",
+      "title_zh": "First Solar Analysts Cut Their Forecasts After Q3 Earnings",
+      "summary_en": "First Solar beat Q3 EPS estimates but missed sales, cut FY2026 guidance, and shares fell 4.7% as analysts lowered price targets.",
+      "summary_zh": "First Solar beat Q3 EPS estimates but missed sales, cut FY2026 guidance, and shares fell 4.7% as analysts lowered price targets.",
+      "context_en": "📰 Source: FSLR · Benzinga · English original",
+      "context_zh": "📰 来源: FSLR · Benzinga · 英文原文(未翻译)",
+      "source": "FSLR · Benzinga",
+      "url": "https://finnhub.io/api/news?id=61dfb3514d5d6a9ee5a712a88c89ea7be7f0ceb5d6a716dcc17ce89fd6c38c21",
       "sectors": [
-        "energy",
-        "industry"
+        "energy"
       ]
     },
     {
@@ -355,6 +354,21 @@
       ]
     },
     {
+      "time": "10-30 08:18",
+      "title_en": "SPCX Launches Satellite for Ukraine's Communications: Can It Deliver?",
+      "title_zh": "SPCX Launches Satellite for Ukraine's Communications: Can It Deliver?",
+      "summary_en": "SpaceX launches Ukraine's first OBRIA test satellite, highlighting Falcon 9's launch capabilities and role in building an independent communications network.",
+      "summary_zh": "SpaceX launches Ukraine's first OBRIA test satellite, highlighting Falcon 9's launch capabilities and role in building an independent communications network.",
+      "context_en": "📰 Source: RKLB · Yahoo · English original",
+      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
+      "source": "RKLB · Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae48e9d269c69b890413ecb4c9d4251f720bdc5dd5d7a41e5a771cadf6e285a6",
+      "sectors": [
+        "comm",
+        "space"
+      ]
+    },
+    {
       "time": "10-30 06:43",
       "title_en": "Rocket Lab: Is It Finally Time to Buy Below $60?",
       "title_zh": "Rocket Lab: Is It Finally Time to Buy Below $60?",
@@ -364,20 +378,6 @@
       "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
       "source": "RKLB · Yahoo",
       "url": "https://finnhub.io/api/news?id=d03c916e82f7021589387f5ec6fe43c7d97ddcf9b85eb77accb7e93532dc6ff3",
-      "sectors": [
-        "space"
-      ]
-    },
-    {
-      "time": "10-30 05:21",
-      "title_en": "Rocket Lab: The Neutron Delay Changes The Timeline, Not The Thesis",
-      "title_zh": "Rocket Lab: The Neutron Delay Changes The Timeline, Not The Thesis",
-      "summary_en": "Rocket Lab is still a buy despite Neutron delays. See updated fair value, reduced dilution risk, and how Iridium financing supports long-term growth.",
-      "summary_zh": "Rocket Lab is still a buy despite Neutron delays. See updated fair value, reduced dilution risk, and how Iridium financing supports long-term growth.",
-      "context_en": "📰 Source: RKLB · SeekingAlpha · English original",
-      "context_zh": "📰 来源: RKLB · SeekingAlpha · 英文原文(未翻译)",
-      "source": "RKLB · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b9f95cd8ed32396fe922d4f581a6942a9aa18ab6c37eb5bf4a5ee01aa64ca62a",
       "sectors": [
         "space"
       ]
@@ -397,15 +397,15 @@
       ]
     },
     {
-      "time": "10-30 03:14",
-      "title_en": "Brunswick Q3 Earnings Call Highlights",
-      "title_zh": "Brunswick Q3 Earnings Call Highlights",
-      "summary_en": "Brunswick (NYSE:BC) reported third-quarter 2026 results that exceeded its expectations, with sales rising across all reporting segments for a fifth consecutive quarter and adjusted earnings per share increasing 63% from a year earlier. Net sales increased 7% to $1.5 billion, while adjusted operatin",
-      "summary_zh": "Brunswick (NYSE:BC) reported third-quarter 2026 results that exceeded its expectations, with sales rising across all reporting segments for a fifth consecutive quarter and adjusted earnings per share increasing 63% from a year earlier. Net sales increased 7% to $1.5 billion, while adjusted operatin",
-      "context_en": "📰 Source: ASTS · Yahoo · English original",
-      "context_zh": "📰 来源: ASTS · Yahoo · 英文原文(未翻译)",
-      "source": "ASTS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=98fa752f2db68d7034a8a5e8dbdf1767c79d44fc3801c6af01dd425927f1b45b",
+      "time": "10-30 03:46",
+      "title_en": "Netflix 'Can't Lift,' Jim Cramer Says: It Lost Its Biggest Selling Point",
+      "title_zh": "Netflix 'Can't Lift,' Jim Cramer Says: It Lost Its Biggest Selling Point",
+      "summary_en": "Jim Cramer advised selling AMC, rejected ASTS and IREN, and criticized Netflix’s streaming discoverability problem.",
+      "summary_zh": "Jim Cramer advised selling AMC, rejected ASTS and IREN, and criticized Netflix’s streaming discoverability problem.",
+      "context_en": "📰 Source: ASTS · Benzinga · English original",
+      "context_zh": "📰 来源: ASTS · Benzinga · 英文原文(未翻译)",
+      "source": "ASTS · Benzinga",
+      "url": "https://finnhub.io/api/news?id=79efeea94b3c0972b40629676e1e67b7a5ba819f5f3a1fdd7e9600e8ab8cc4d3",
       "sectors": [
         "space"
       ]
@@ -596,6 +596,18 @@
       ]
     },
     {
+      "time": "10-30 09:08",
+      "title_en": "Iran's IRGC Navy says three tankers catch fire in Strait of Hormuz - Reuters",
+      "title_zh": "Iran's IRGC Navy says three tankers catch fire in Strait of Hormuz - Reuters",
+      "summary_en": "Iran's IRGC Navy says three tankers catch fire in Strait of Hormuz  Reuters",
+      "summary_zh": "Iran's IRGC Navy says three tankers catch fire in Strait of Hormuz  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+      "sectors": []
+    },
+    {
       "time": "10-30 08:45",
       "title_en": "Oman navy evacuates 25 crew from vessel off Musandam - Reuters",
       "title_zh": "Oman navy evacuates 25 crew from vessel off Musandam - Reuters",
@@ -749,18 +761,6 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "sectors": []
-    },
-    {
-      "time": "10-29 14:53",
-      "title_en": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-      "title_zh": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-      "summary_en": "Options traders pounced on the closest publicly-traded play to the news.",
-      "summary_zh": "Options traders pounced on the closest publicly-traded play to the news.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
       "sectors": []
     }
   ],
