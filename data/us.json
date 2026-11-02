@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-11-02T13:22:00-04:00",
+  "updated_at": "2026-11-02T14:08:57-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 759.7,
-      "change": 3.98,
-      "change_pct": 0.5267
+      "value": 759.02,
+      "change": 3.3,
+      "change_pct": 0.4367
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 693.3,
-      "change": 2.81,
-      "change_pct": 0.407
+      "value": 692.14,
+      "change": 1.65,
+      "change_pct": 0.239
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 522.61,
-      "change": 5.48,
-      "change_pct": 1.0597
+      "value": 522.38,
+      "change": 5.25,
+      "change_pct": 1.0152
     }
   ],
   "news": [
@@ -159,16 +159,17 @@
       ]
     },
     {
-      "time": "11-02 07:03",
-      "title_en": "8 ETFs Cut Taiwan Semiconductor (TSM) Holdings on Thursday",
-      "title_zh": "8 ETFs Cut Taiwan Semiconductor (TSM) Holdings on Thursday",
-      "summary_en": "ETFs sold a net $81.0 million of Taiwan Semiconductor (TSM) shares last Thursday.",
-      "summary_zh": "ETFs sold a net $81.0 million of Taiwan Semiconductor (TSM) shares last Thursday.",
-      "context_en": "📰 Source: TSM · Yahoo · English original",
-      "context_zh": "📰 来源: TSM · Yahoo · 英文原文(未翻译)",
-      "source": "TSM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=24173d3c93db88bae9ada71fbc8c39a8caefc66a1e27bcc76a64a3cb9d6b3723",
+      "time": "11-02 08:13",
+      "title_en": "KLA Q1: The More Complex Chips Become, The More Valuable KLA Gets (Upgrade)",
+      "title_zh": "KLA Q1: The More Complex Chips Become, The More Valuable KLA Gets (Upgrade)",
+      "summary_en": "KLA Corporation Q1 beat estimates and raised guidance as AI chip demand boosts growth. Click for this KLAC stock earnings update.",
+      "summary_zh": "KLA Corporation Q1 beat estimates and raised guidance as AI chip demand boosts growth. Click for this KLAC stock earnings update.",
+      "context_en": "📰 Source: TSM · SeekingAlpha · English original",
+      "context_zh": "📰 来源: TSM · SeekingAlpha · 英文原文(未翻译)",
+      "source": "TSM · SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6d44e03ddfed9283a7bba46c245463753178ad8cee8afdbf7e4828382f55def",
       "sectors": [
+        "ai",
         "tech"
       ]
     },
@@ -506,6 +507,20 @@
       ]
     },
     {
+      "time": "11-02 13:46",
+      "title_en": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes - Reuters",
+      "title_zh": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes - Reuters",
+      "summary_en": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes  Reuters",
+      "summary_zh": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
       "time": "11-02 12:19",
       "title_en": "We're trimming a rallying industrial stock, looking for its next catalyst post-spinoff",
       "title_zh": "We're trimming a rallying industrial stock, looking for its next catalyst post-spinoff",
@@ -517,6 +532,34 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/02/were-trimming-a-rallying-industrial-stock-looking-for-its-next-catalyst-post-spinoff.html",
       "sectors": [
         "industry"
+      ]
+    },
+    {
+      "time": "11-02 12:16",
+      "title_en": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport - Reuters",
+      "title_zh": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport - Reuters",
+      "summary_en": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport  Reuters",
+      "summary_zh": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORzNEMlp2dXhWWEdwUkhIUUNNenRfR21MM3hCZjRBSnc5cTFpVVBqclhIMVMtMGI2aDMzTklBSU9paVZ3Q1FSMHU3T0J6RmxpR2VlUmx1YVZIZzZkSmFycXVUSWNwOTMycnhyMDd0MjNSY2VrVHRxUWcxYndmN2MwWVhlR1YyZ0VqM1VtR0dGT2FuSmtWYlVhSnU3Q3ZrWEpXd3lJX2tFWGllRGoyYnJSQkREWklvRzNiWDZiUXhFZEZzWXNRdUVzT2hR?oc=5",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "11-02 12:05",
+      "title_en": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+      "title_zh": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+      "summary_en": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event  Reuters",
+      "summary_zh": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+      "sectors": [
+        "energy"
       ]
     },
     {
@@ -590,18 +633,16 @@
       ]
     },
     {
-      "time": "11-02 07:55",
-      "title_en": "FTSE 100 subdued as energy, healthcare stocks limit broader gains - Reuters",
-      "title_zh": "FTSE 100 subdued as energy, healthcare stocks limit broader gains - Reuters",
-      "summary_en": "FTSE 100 subdued as energy, healthcare stocks limit broader gains  Reuters",
-      "summary_zh": "FTSE 100 subdued as energy, healthcare stocks limit broader gains  Reuters",
+      "time": "11-02 13:17",
+      "title_en": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
+      "title_zh": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
+      "summary_en": "Sectors bracing for a pivot as US midterm elections loom  Reuters",
+      "summary_zh": "Sectors bracing for a pivot as US midterm elections loom  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVM3bDhEOHNLQ3VJRDRGcEtyeXBhNUdsblBVUGQ3bDBWLXUxQXZMXzF6SmxxdWczMUpJcFRSR21RU2hRaHFTLUxGQ0xkcmFkWFVoQm1WaVVQeGROMXFCaTJTQ0xCRHhkMU9pc3k1MUVQTkFvMER3SEszZG5kNGswQkdRQVo2Z1ZONGxZb1FSWDNhWmlzTHA2R2VVQVdvNnpHSlE?oc=5",
+      "sectors": []
     },
     {
       "time": "11-02 13:04",
@@ -721,42 +762,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-02 07:40",
-      "title_en": "US voters in a sour economic mood heading into midterm elections - Reuters",
-      "title_zh": "US voters in a sour economic mood heading into midterm elections - Reuters",
-      "summary_en": "US voters in a sour economic mood heading into midterm elections  Reuters",
-      "summary_zh": "US voters in a sour economic mood heading into midterm elections  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGRVbTNjVkVkWHA5anlUV0l1YUhUUjM2Zy1DOGg0T2l2V0Zqajl2TzVpUW5Wc2s1ZkF6eTRNSmNNMWZCUEZqM0ZjUHNKQ0NkZkNGdlY3U2xHcWhBTUdzcXBnd2p2Z0VjUWFiQ3JRYkdvbTR2NUdnZUlnZHU4ZjY0OTIxa0NSbGhXWE1Yc1A5VmZHQVQ3aEJzcHhHNFVqVTNFa3RKazBydW9TbnBEUlo0aEM4THZmQQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-02 07:09",
-      "title_en": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
-      "title_zh": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
-      "summary_en": "Sectors bracing for a pivot as US midterm elections loom  Reuters",
-      "summary_zh": "Sectors bracing for a pivot as US midterm elections loom  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVM3bDhEOHNLQ3VJRDRGcEtyeXBhNUdsblBVUGQ3bDBWLXUxQXZMXzF6SmxxdWczMUpJcFRSR21RU2hRaHFTLUxGQ0xkcmFkWFVoQm1WaVVQeGROMXFCaTJTQ0xCRHhkMU9pc3k1MUVQTkFvMER3SEszZG5kNGswQkdRQVo2Z1ZONGxZb1FSWDNhWmlzTHA2R2VVQVdvNnpHSlE?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-02 03:22",
-      "title_en": "Saudi civil defence sounds all-clear after alerts in southern cities - Reuters",
-      "title_zh": "Saudi civil defence sounds all-clear after alerts in southern cities - Reuters",
-      "summary_en": "Saudi civil defence sounds all-clear after alerts in southern cities  Reuters",
-      "summary_zh": "Saudi civil defence sounds all-clear after alerts in southern cities  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmhEQmdqTzRHX3pXZXZRZC1WYXhvUHVtcTJEcS1UMUZWYnZUcTZtdS1fekpDdTNrWXJzSWp5LTBRUHpaTVdTOVlHeFZraWNiT1RnRmgtcTkxZ0pvaUR2VkRZV2d1ZVZTdjJMQklhcGlhbWR0aC1HV3I3bDdsRkN2dVpiZ1N5V3N1Z1pBSVExdlh1VldUSmNYWUV6SGhlV3UtMHZJMWtDRGR1ZkNWRWcyVTh6TlpCYmpxazc4?oc=5",
       "sectors": []
     }
   ],
