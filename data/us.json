@@ -1,126 +1,142 @@
 {
   "market": "us",
-  "updated_at": "2026-11-03T12:03:30-04:00",
+  "updated_at": "2026-11-03T15:53:02-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 756.15,
-      "change": 4.05,
-      "change_pct": 0.5385
+      "value": 754.65,
+      "change": 2.55,
+      "change_pct": 0.3391
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 688.39,
-      "change": 7.3,
-      "change_pct": 1.0718
+      "value": 685.01,
+      "change": 3.92,
+      "change_pct": 0.5755
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 517.9,
-      "change": -1.44,
-      "change_pct": -0.2773
+      "value": 517.41,
+      "change": -1.93,
+      "change_pct": -0.3716
     }
   ],
   "news": [
     {
-      "time": "11-03 09:40",
-      "title_en": "What Just Happened To Micron Stock?",
-      "title_zh": "What Just Happened To Micron Stock?",
-      "summary_en": "For questions about this article or underlying research, email help@trefis.com.",
-      "summary_zh": "For questions about this article or underlying research, email help@trefis.com.",
+      "time": "11-03 13:46",
+      "title_en": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "title_zh": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "summary_en": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+      "summary_zh": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a4bf2e587f6f84bf36421376ff8e7e2cc698086e95e19d9e6362ade89dd9a78",
+      "url": "https://finnhub.io/api/news?id=0bc8996724b1b679ff1302af6294eff6a1848ddc8916086c98b04ace0beba44a",
+      "sectors": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "11-03 13:45",
+      "title_en": "Nvidia Is Extremely Compelling Right Now And Here’s Why",
+      "title_zh": "Nvidia Is Extremely Compelling Right Now And Here’s Why",
+      "summary_en": "NVIDIA shares dropped 13% in a month while revenue roughly doubled, and that gap between price and business performance is exactly what keeps one investor buying every single dip.",
+      "summary_zh": "NVIDIA shares dropped 13% in a month while revenue roughly doubled, and that gap between price and business performance is exactly what keeps one investor buying every single dip.",
+      "context_en": "📰 Source: NVDA · Yahoo · English original",
+      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
+      "source": "NVDA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=72ae6b4f16ee93a35001538c0e5d3d0acec2cc06fe30b182e5f5c876cef73815",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "11-03 09:35",
-      "title_en": "Dip Buyers in Leveraged Tech ETFs Are Getting Crushed",
-      "title_zh": "Dip Buyers in Leveraged Tech ETFs Are Getting Crushed",
-      "summary_en": "Billions poured into leveraged semiconductor and tech ETFs as prices fell in October, but the funds that reset their exposure every single day carry a hidden math that makes waiting for a rebound far more painful than most buyers expect.",
-      "summary_zh": "Billions poured into leveraged semiconductor and tech ETFs as prices fell in October, but the funds that reset their exposure every single day carry a hidden math that makes waiting for a rebound far more painful than most buyers expect.",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bff6901251771834127c99c99c7c0795abcf5368a3b5f12f73e0652c8ed087b",
-      "sectors": [
-        "ai",
-        "tech"
-      ]
-    },
-    {
-      "time": "11-03 09:54",
-      "title_en": "Update: US Equity Futures Mixed Pre-Bell as Traders Await Midterm Election Results",
-      "title_zh": "Update: US Equity Futures Mixed Pre-Bell as Traders Await Midterm Election Results",
-      "summary_en": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "summary_zh": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "time": "11-03 13:45",
+      "title_en": "AMD and Sandisk Both Suffered Massive Price Swings But Sandisk is Absolutely Riskier",
+      "title_zh": "AMD and Sandisk Both Suffered Massive Price Swings But Sandisk is Absolutely Riskier",
+      "summary_en": "Both AMD and Sandisk have been hammered despite strong earnings, but the reasons behind each selloff reveal something important about which stock carries a danger that cannot simply be waited out.",
+      "summary_zh": "Both AMD and Sandisk have been hammered despite strong earnings, but the reasons behind each selloff reveal something important about which stock carries a danger that cannot simply be waited out.",
       "context_en": "📰 Source: AMD · Yahoo · English original",
       "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
       "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=73b8f0f89f86a8af2c4af13d731b760de6941ad74e88ade31571e3e5ffde4059",
-      "sectors": [
-        "ai",
-        "energy"
-      ]
-    },
-    {
-      "time": "11-03 09:53",
-      "title_en": "Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",
-      "title_zh": "Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",
-      "summary_en": "The Dow Jones index drops on Election Day, as Apple stock and Palantir tumble on earnings.",
-      "summary_zh": "The Dow Jones index drops on Election Day, as Apple stock and Palantir tumble on earnings.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8f05e31cb6d1297b5d956b3d74d92fd87aebeb4fb894bffca7bdefb6ac862b3",
+      "url": "https://finnhub.io/api/news?id=f232046bf766fa74d14e145ed59d6412323ff0a3ce62c4ce7e6c9e2978fa2927",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "11-03 09:52",
-      "title_en": "Palantir Stock Falls On Slowing New Contract Growth, Shorter Deals",
-      "title_zh": "Palantir Stock Falls On Slowing New Contract Growth, Shorter Deals",
-      "summary_en": "Palantir stock fell amid Q3 earnings and revenue that topped estimates. New contract growth slowed. U.S. commercial sales growth underwhelmed.",
-      "summary_zh": "Palantir stock fell amid Q3 earnings and revenue that topped estimates. New contract growth slowed. U.S. commercial sales growth underwhelmed.",
+      "time": "11-03 13:28",
+      "title_en": "Palantir AI Boom Just Got a Big Vote of Confidence From UBS",
+      "title_zh": "Palantir AI Boom Just Got a Big Vote of Confidence From UBS",
+      "summary_en": "UBS lifts its growth call for Palantir and shrugs off the post earnings dip",
+      "summary_zh": "UBS lifts its growth call for Palantir and shrugs off the post earnings dip",
       "context_en": "📰 Source: PLTR · Yahoo · English original",
       "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
       "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=93628bef6691a90b24b2d869fa81a4698a8c4b6c17eff7cf6be6a30177ab3f17",
+      "url": "https://finnhub.io/api/news?id=97df14a762765c7ae025c1c21e51525e62d044d11170ee5b8077958d84409821",
       "sectors": [
         "ai"
       ]
     },
     {
-      "time": "11-03 09:49",
-      "title_en": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
-      "title_zh": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
-      "summary_en": "A record September quarter from Apple (NASDAQ:AAPL) is being undercut by a weaker margin outlook for the holidays, pulling the iPhone maker lower while the rest of mega-cap tech stays calm. In morning trading ahead of the opening bell, Apple stock is at $325, down 4%. That compares with the prior session’s close of $338.32. […]",
-      "summary_zh": "A record September quarter from Apple (NASDAQ:AAPL) is being undercut by a weaker margin outlook for the holidays, pulling the iPhone maker lower while the rest of mega-cap tech stays calm. In morning trading ahead of the opening bell, Apple stock is at $325, down 4%. That compares with the prior session’s close of $338.32. […]",
+      "time": "11-03 13:14",
+      "title_en": "Palantir Technologies' Revenue Growth Offsets Flat Backlog, UBS Says",
+      "title_zh": "Palantir Technologies' Revenue Growth Offsets Flat Backlog, UBS Says",
+      "summary_en": "Palantir Technologies (PLTR) should benefit from strong demand for its AI software, with robust reve",
+      "summary_zh": "Palantir Technologies (PLTR) should benefit from strong demand for its AI software, with robust reve",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfb86858357b4cf283d91fefffbfd6f328a72a1c9af21a671c8f096dd82364b9",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "11-03 13:30",
+      "title_en": "Origence Launches Origence Data Access, Offering Credit Unions Six Ways to Access and Share Origination Data",
+      "title_zh": "Origence Launches Origence Data Access, Offering Credit Unions Six Ways to Access and Share Origination Data",
+      "summary_en": "Solution helps credit unions move from data preparation to data intelligence while building a strong foundation for AI initiativesIrvine, CA, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Origence, a leading provider of lending technology solutions, today announced Origence Data Access, a suite of reporting, analytics, integration and data sharing capabilities that give credit unions self-service access to their direct lending, indirect lending and account opening data. The new platform includes live, zero-",
+      "summary_zh": "Solution helps credit unions move from data preparation to data intelligence while building a strong foundation for AI initiativesIrvine, CA, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Origence, a leading provider of lending technology solutions, today announced Origence Data Access, a suite of reporting, analytics, integration and data sharing capabilities that give credit unions self-service access to their direct lending, indirect lending and account opening data. The new platform includes live, zero-",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=57f797e7a3a29aa4016fc839275c5dfd833b32ac86433b9b9bd0e1d28c16a1a4",
+      "url": "https://finnhub.io/api/news?id=4f9d9d13db85db9dac45877c47a061cd623ee62383dae497434b768192f3f886",
+      "sectors": [
+        "ai",
+        "space",
+        "tech"
+      ]
+    },
+    {
+      "time": "11-03 13:50",
+      "title_en": "Update: US Equity Indexes Mixed as Apple's Results Underwhelm on Election Day",
+      "title_zh": "Update: US Equity Indexes Mixed as Apple's Results Underwhelm on Election Day",
+      "summary_en": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "summary_zh": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "context_en": "📰 Source: AAPL · Yahoo · English original",
+      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6bd01ba04b11cd9060014194b40b7554115d9a338c943e9cbe5ab80d11b0687",
       "sectors": [
         "tech"
       ]
     },
     {
-      "time": "11-03 09:43",
-      "title_en": "AI Spending Has Gone From $140 Billion to $740 Billion in 3 Years, and Ackman Is Buying",
-      "title_zh": "AI Spending Has Gone From $140 Billion to $740 Billion in 3 Years, and Ackman Is Buying",
-      "summary_en": "Bill Ackman is betting billions that Big Tech's ballooning data center budgets are a profit engine rather than a cash drain, but the math behind his conviction rests on assumptions that could quietly unravel long after the spending stops.",
-      "summary_zh": "Bill Ackman is betting billions that Big Tech's ballooning data center budgets are a profit engine rather than a cash drain, but the math behind his conviction rests on assumptions that could quietly unravel long after the spending stops.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=789dcbd90f41fa6f5ed124fc0e7eae2272c14a95fd17611831e29e65447e6017",
+      "time": "11-03 13:42",
+      "title_en": "Apple faces valuation test as slowing Services growth and rising costs weigh",
+      "title_zh": "Apple faces valuation test as slowing Services growth and rising costs weigh",
+      "summary_en": "Apple Inc (NASDAQ:AAPL, XETRA:APC) shares fell more than 2% on Tuesday as analysts weighed stronger iPhone demand against growing concerns about slowing Services revenue, higher component costs and the company's ability to turn its artificial intelligence investments into meaningful...",
+      "summary_zh": "Apple Inc (NASDAQ:AAPL, XETRA:APC) shares fell more than 2% on Tuesday as analysts weighed stronger iPhone demand against growing concerns about slowing Services revenue, higher component costs and the company's ability to turn its artificial intelligence investments into meaningful...",
+      "context_en": "📰 Source: AAPL · Yahoo · English original",
+      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=04062ed16700919e8004c78fb9b534de489d6ed64ce175bfbb433d9262ebd030",
       "sectors": [
         "ai",
         "tech"
@@ -156,89 +172,89 @@
       ]
     },
     {
-      "time": "11-03 08:41",
-      "title_en": "How Big Could NVIDIA Stock's Next Fall Be?",
-      "title_zh": "How Big Could NVIDIA Stock's Next Fall Be?",
-      "summary_en": "For questions about this article or underlying research, email help@trefis.com.",
-      "summary_zh": "For questions about this article or underlying research, email help@trefis.com.",
+      "time": "11-03 13:33",
+      "title_en": "Broadcom Stock Is Up 2,500% in 10 Years. Can the AI Boom Keep It Going?",
+      "title_zh": "Broadcom Stock Is Up 2,500% in 10 Years. Can the AI Boom Keep It Going?",
+      "summary_en": "Broadcom turned a $10,000 stake into six figures over the last decade, and AI chip revenue is now tripling year over year. Whether the next five years can come close to matching that run depends on a few high-stakes bets playing out exactly right.",
+      "summary_zh": "Broadcom turned a $10,000 stake into six figures over the last decade, and AI chip revenue is now tripling year over year. Whether the next five years can come close to matching that run depends on a few high-stakes bets playing out exactly right.",
       "context_en": "📰 Source: AVGO · Yahoo · English original",
       "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
       "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8bdae3bdc6fd4eed71d9f5cec3f3141c50392c22ba7411c8963669f7f5f7689",
+      "url": "https://finnhub.io/api/news?id=6e93b0873dded2888c9418b6e1db388c212b741ce0b1f4197e6521b2d11f06a2",
       "sectors": [
         "ai",
         "tech"
       ]
     },
     {
-      "time": "11-03 08:17",
-      "title_en": "AMD Fell 16% in a Month Before Earnings. Forecasts Call for 501% Profit Growth in Four Years",
-      "title_zh": "AMD Fell 16% in a Month Before Earnings. Forecasts Call for 501% Profit Growth in Four Years",
-      "summary_en": "AMD has shed nearly a fifth of its value in a month while sitting on gigawatt-scale AI commitments from Anthropic, OpenAI, and Meta. Whether those deployments justify a 190x earnings multiple is exactly what earnings week will put to the test.",
-      "summary_zh": "AMD has shed nearly a fifth of its value in a month while sitting on gigawatt-scale AI commitments from Anthropic, OpenAI, and Meta. Whether those deployments justify a 190x earnings multiple is exactly what earnings week will put to the test.",
+      "time": "11-03 12:51",
+      "title_en": "5 Best Stocks to Buy For Next 10 Years",
+      "title_zh": "5 Best Stocks to Buy For Next 10 Years",
+      "summary_en": "The AI bubble seems to be popping sooner than expected. Investors are running out of patience, and they want to know where the returns are on the huge AI investments. Tech stocks, including Amazon, Meta, Alphabet, and Intel, dropped hard after their latest earnings reports. Intel fell 29%, its biggest one-day drop in more than […]",
+      "summary_zh": "The AI bubble seems to be popping sooner than expected. Investors are running out of patience, and they want to know where the returns are on the huge AI investments. Tech stocks, including Amazon, Meta, Alphabet, and Intel, dropped hard after their latest earnings reports. Intel fell 29%, its biggest one-day drop in more than […]",
       "context_en": "📰 Source: AVGO · Yahoo · English original",
       "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
       "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=42c411f9faec5de2a7dee248d2d4eb819d3c050f2176f835d2a6d39866d939b2",
+      "url": "https://finnhub.io/api/news?id=3e2467cdb95f0d525dc5663bd8c944b0b980ea2632f5252f7e5ed721ebcc976e",
       "sectors": [
         "ai",
         "tech"
       ]
     },
     {
-      "time": "11-03 09:00",
-      "title_en": "Thinkers50 Names Seramount President Subha Barry to Its 2026 Leaders50 List",
-      "title_zh": "Thinkers50 Names Seramount President Subha Barry to Its 2026 Leaders50 List",
-      "summary_en": "Honor recognizes Barry's leadership of Seramount, a global talent services firm that helps organizations align business priorities with workplace cultureWashington, DC, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Thinkers50 has named Subha Barry, president of Seramount, to its 2026 Leaders50, a group of 50 leaders worldwide recognized for organizational impact, economic contribution, social purpose, and commitment to developing people. Barry joins a group of honorees that includes Mary Barra of General Mo",
-      "summary_zh": "Honor recognizes Barry's leadership of Seramount, a global talent services firm that helps organizations align business priorities with workplace cultureWashington, DC, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Thinkers50 has named Subha Barry, president of Seramount, to its 2026 Leaders50, a group of 50 leaders worldwide recognized for organizational impact, economic contribution, social purpose, and commitment to developing people. Barry joins a group of honorees that includes Mary Barra of General Mo",
+      "time": "11-03 11:18",
+      "title_en": "This AI Boom is not 1999 all over again — and here's why",
+      "title_zh": "This AI Boom is not 1999 all over again — and here's why",
+      "summary_en": "Yahoo Finance Executive Editor Brian Sozzi lays out his argument as to why the AI Boom is nothing like the Dot-Com Bust of the late 1990s.",
+      "summary_zh": "Yahoo Finance Executive Editor Brian Sozzi lays out his argument as to why the AI Boom is nothing like the Dot-Com Bust of the late 1990s.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5a1320ddfebd015efa22531a2d3d02b6ff48fcb3bac61040479c0d18d4044cf",
+      "url": "https://finnhub.io/api/news?id=7d5d38a4a5b4a1b607b71ed979a82ed4e4f48005db9231c2ec999fae790a9dce",
       "sectors": [
-        "bio",
+        "ai",
         "comm"
       ]
     },
     {
-      "time": "11-03 08:33",
-      "title_en": "Ciena Up 56% in a Year: Should Investors Buy the Stock Now?",
-      "title_zh": "Ciena Up 56% in a Year: Should Investors Buy the Stock Now?",
-      "summary_en": "CIEN's shares have surged 55.5% in a year, fueled by AI-driven optical networking demand and strong growth prospects.",
-      "summary_zh": "CIEN's shares have surged 55.5% in a year, fueled by AI-driven optical networking demand and strong growth prospects.",
+      "time": "11-03 10:00",
+      "title_en": "LOGICALIS BECOMES FIRST CISCO GLOBAL PARTNER TO ACHIEVE SECURE NETWORKING SPECIALISATION ACROSS FIVE COUNTRIES",
+      "title_zh": "LOGICALIS BECOMES FIRST CISCO GLOBAL PARTNER TO ACHIEVE SECURE NETWORKING SPECIALISATION ACROSS FIVE COUNTRIES",
+      "summary_en": "Global technology service provider, Logicalis, has become the first Cisco global partner to achieve Cisco's Secure Networking Specialisation across five countries, strengthening its global managed services capabilities across networking and security.",
+      "summary_zh": "Global technology service provider, Logicalis, has become the first Cisco global partner to achieve Cisco's Secure Networking Specialisation across five countries, strengthening its global managed services capabilities across networking and security.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=9faa93fdc91eaf9bbbe350200f515c5286f3d94603aa3bdc3f6980a00f31825c",
+      "url": "https://finnhub.io/api/news?id=9217a2bced67b3641c8388104aa47a26a51fad09612ddf8327ba3756bd4940a7",
       "sectors": [
         "comm"
       ]
     },
     {
-      "time": "11-03 08:52",
-      "title_en": "Why SpaceX Buying Boost Mobile Won’t Unlock Wireless for Musk",
-      "title_zh": "Why SpaceX Buying Boost Mobile Won’t Unlock Wireless for Musk",
-      "summary_en": "A Boost Mobile deal doesn’t get SpaceX much closer to offering mobile wireless service.",
-      "summary_zh": "A Boost Mobile deal doesn’t get SpaceX much closer to offering mobile wireless service.",
+      "time": "11-03 13:30",
+      "title_en": "Elon Musk Got Turned Down by 3 Phone Giants. Now SpaceX Is Eyeing Boost Mobile as a Shortcut Around a $300 Billion Build.",
+      "title_zh": "Elon Musk Got Turned Down by 3 Phone Giants. Now SpaceX Is Eyeing Boost Mobile as a Shortcut Around a $300 Billion Build.",
+      "summary_en": "Eric Bleeker of 24/7 Wall St. looks at why SpaceX (NASDAQ: SPCX) may be eyeing Boost Mobile after Verizon (NYSE: VZ), AT&T (NYSE: T) and T-Mobile (NASDAQ: TMUS) reportedly turned Elon Musk down as a phone partner. The Washington Post reported on November 2nd that SpaceX has been in talks to buy Boost from EchoStar (NASDAQ: SATS) or partner with it. Nothing has been signed, and the structure is still open. The appeal is speed and cost. TD Cowen analyst Gregory Williams estimates a national network from scratch would cost upwards of $80 billion and take years. Verizon's CEO put the build at four to six years and $300 billion to $500 billion. Musk says two to three years. Boost brings customers, a brand and spectrum, and SpaceX already agreed to buy some EchoStar spectrum licenses for about $17 billion. T-Mobile's CEO sees no room for a SpaceX MVNO, though he is open to a resale deal for a complementary satellite product. AT&T closed its EchoStar spectrum deal in the third quarter. Verizon added 406,000 postpaid phone net additions, AT&T added 379,000, and T-Mobile raised full-year guidance. The catch is that Boost leases network access from AT&T and T-Mobile, and a change of control could let both end those agreements. Watch whether that risk derails any deal.",
+      "summary_zh": "Eric Bleeker of 24/7 Wall St. looks at why SpaceX (NASDAQ: SPCX) may be eyeing Boost Mobile after Verizon (NYSE: VZ), AT&T (NYSE: T) and T-Mobile (NASDAQ: TMUS) reportedly turned Elon Musk down as a phone partner. The Washington Post reported on November 2nd that SpaceX has been in talks to buy Boost from EchoStar (NASDAQ: SATS) or partner with it. Nothing has been signed, and the structure is still open. The appeal is speed and cost. TD Cowen analyst Gregory Williams estimates a national network from scratch would cost upwards of $80 billion and take years. Verizon's CEO put the build at four to six years and $300 billion to $500 billion. Musk says two to three years. Boost brings customers, a brand and spectrum, and SpaceX already agreed to buy some EchoStar spectrum licenses for about $17 billion. T-Mobile's CEO sees no room for a SpaceX MVNO, though he is open to a resale deal for a complementary satellite product. AT&T closed its EchoStar spectrum deal in the third quarter. Verizon added 406,000 postpaid phone net additions, AT&T added 379,000, and T-Mobile raised full-year guidance. The catch is that Boost leases network access from AT&T and T-Mobile, and a change of control could let both end those agreements. Watch whether that risk derails any deal.",
       "context_en": "📰 Source: TMUS · Yahoo · English original",
       "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
       "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2df2a7b31185edb5e01bb391e2956c2eaaa4f197b76c11b78e021e6a50544269",
+      "url": "https://finnhub.io/api/news?id=f42f65ec24af92ad1be1e64ff52498e4bcaeb2927468178c4d1672e18351d3d1",
       "sectors": [
         "comm",
         "space"
       ]
     },
     {
-      "time": "11-03 05:52",
-      "title_en": "SpaceX Buying Boost Mobile Won’t Unlock Wireless for Musk",
-      "title_zh": "SpaceX Buying Boost Mobile Won’t Unlock Wireless for Musk",
+      "time": "11-03 11:03",
+      "title_en": "SpaceX and Musk Have Big Wireless Ambitions. Boost Mobile Won’t Fulfill Them.",
+      "title_zh": "SpaceX and Musk Have Big Wireless Ambitions. Boost Mobile Won’t Fulfill Them.",
       "summary_en": "A Boost Mobile deal doesn’t get SpaceX much closer to offering mobile wireless service.",
       "summary_zh": "A Boost Mobile deal doesn’t get SpaceX much closer to offering mobile wireless service.",
       "context_en": "📰 Source: TMUS · Yahoo · English original",
       "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
       "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5f88695896b745a7a8b3f0c753e2a03580a3c272af329a1f5198d0632e28d39",
+      "url": "https://finnhub.io/api/news?id=164dd3fddfa9c51c1649974938861f07668b555f8e6975f8a11b78cacd1f48db",
       "sectors": [
         "comm",
         "space"
@@ -275,6 +291,21 @@
       ]
     },
     {
+      "time": "11-03 10:40",
+      "title_en": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
+      "title_zh": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
+      "summary_en": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
+      "summary_zh": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
+      "context_en": "📰 Source: FSLR · Yahoo · English original",
+      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
+      "source": "FSLR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3e9b505b42487c4a069bc6e89f75eaa229f3186e37cfbd9b5a49e8fd98968fa",
+      "sectors": [
+        "energy",
+        "tech"
+      ]
+    },
+    {
       "time": "11-02 14:05",
       "title_en": "Should You Buy First Solar Stock Now Or Wait?",
       "title_zh": "Should You Buy First Solar Stock Now Or Wait?",
@@ -284,20 +315,6 @@
       "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
       "source": "FSLR · Yahoo",
       "url": "https://finnhub.io/api/news?id=793de8f60a21f85e90093559d2864d6611915768d787b7b54cec06ce419c4315",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "11-02 12:44",
-      "title_en": "Barclays Maintains Overweight on First Solar, Lowers Price Target to $230",
-      "title_zh": "Barclays Maintains Overweight on First Solar, Lowers Price Target to $230",
-      "summary_en": "Barclays  analyst Christine Cho   maintains First Solar (NASDAQ:FSLR) with a Overweight and lowers the price target from $259 to $230.",
-      "summary_zh": "Barclays  analyst Christine Cho   maintains First Solar (NASDAQ:FSLR) with a Overweight and lowers the price target from $259 to $230.",
-      "context_en": "📰 Source: FSLR · Benzinga · English original",
-      "context_zh": "📰 来源: FSLR · Benzinga · 英文原文(未翻译)",
-      "source": "FSLR · Benzinga",
-      "url": "https://finnhub.io/api/news?id=606eb460785c2b8c67d46e991a89c23ad03d0551cc92af061b314bb262afaa03",
       "sectors": [
         "energy"
       ]
@@ -317,32 +334,30 @@
       ]
     },
     {
-      "time": "11-03 09:01",
-      "title_en": "Stock Market Today: Marvell’s $115 Billion Bet on Lumentum Backfires as Chip Stocks Drag the Nasdaq Lower",
-      "title_zh": "Stock Market Today: Marvell’s $115 Billion Bet on Lumentum Backfires as Chip Stocks Drag the Nasdaq Lower",
-      "summary_en": "Marvell and Lumentum sank after a $115 billion all-stock deal, chip stocks fell again and the Nasdaq lost 1.1%. Oil dropped about 8% on US-Iran talk hopes, Apple warned on margins and Palantir raised its outlook.",
-      "summary_zh": "Marvell and Lumentum sank after a $115 billion all-stock deal, chip stocks fell again and the Nasdaq lost 1.1%. Oil dropped about 8% on US-Iran talk hopes, Apple warned on margins and Palantir raised its outlook.",
-      "context_en": "📰 Source: XOM · ChartMill · English original",
-      "context_zh": "📰 来源: XOM · ChartMill · 英文原文(未翻译)",
-      "source": "XOM · ChartMill",
-      "url": "https://finnhub.io/api/news?id=95ead1af5f192359af32bbe99608a9d5c1f40b2f3e16b925099b5b3c19443de9",
-      "sectors": [
-        "energy",
-        "tech"
-      ]
-    },
-    {
-      "time": "11-03 06:28",
-      "title_en": "The Next Generation of Dividend Kings: 3 Stocks to Watch",
-      "title_zh": "The Next Generation of Dividend Kings: 3 Stocks to Watch",
-      "summary_en": "These leading energy and utility dividend stocks are on their way to a prestigious club.",
-      "summary_zh": "These leading energy and utility dividend stocks are on their way to a prestigious club.",
+      "time": "11-03 13:47",
+      "title_en": "The U.S. Has Been Striking Iran as Trump Talks Up a Deal",
+      "title_zh": "The U.S. Has Been Striking Iran as Trump Talks Up a Deal",
+      "summary_en": "Trump posted that oil was crashing because Iran wants peace, then US officials said American jets had just struck Iranian territory. The two stories cannot both be true, and oil traders are now betting on which one to believe.",
+      "summary_zh": "Trump posted that oil was crashing because Iran wants peace, then US officials said American jets had just struck Iranian territory. The two stories cannot both be true, and oil traders are now betting on which one to believe.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b90214c426dfe63929555a20c160fee0bd9d098f6bc7bd2cc89d0a23af378bb",
+      "url": "https://finnhub.io/api/news?id=f652f2bc7a4c55157e78eca4a8b1124e20a811abf42e051f66e18c404c5da595",
       "sectors": [
-        "bio",
+        "energy"
+      ]
+    },
+    {
+      "time": "11-03 12:24",
+      "title_en": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+      "title_zh": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+      "summary_en": "Crude oil futures fell about 1% to around $96 a barrel.",
+      "summary_zh": "Crude oil futures fell about 1% to around $96 a barrel.",
+      "context_en": "📰 Source: XOM · Yahoo · English original",
+      "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
+      "source": "XOM · Yahoo",
+      "url": "https://finnhub.io/api/news?id=9100b84eddb1c8b99f14c4bda53c25ef6695842b4ce40f8345a414c8361df509",
+      "sectors": [
         "energy"
       ]
     },
@@ -406,32 +421,45 @@
       ]
     },
     {
-      "time": "11-03 07:44",
-      "title_en": "Top Wide-Moat Stocks to Buy for Steady Long-Term Returns",
-      "title_zh": "Top Wide-Moat Stocks to Buy for Steady Long-Term Returns",
-      "summary_en": "TSM, TXN, UNH and LMT use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
-      "summary_zh": "TSM, TXN, UNH and LMT use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "time": "11-03 11:53",
+      "title_en": "LMT vs NOC: momentum favors Lockheed, valuation favors Northrop",
+      "title_zh": "LMT vs NOC: momentum favors Lockheed, valuation favors Northrop",
+      "summary_en": "Investing.com -- Lockheed Martin Corporation (LMT) offers stronger momentum and income. Northrop Grumman Corporation (NOC) offers cheaper valuation and greater modeled upside.",
+      "summary_zh": "Investing.com -- Lockheed Martin Corporation (LMT) offers stronger momentum and income. Northrop Grumman Corporation (NOC) offers cheaper valuation and greater modeled upside.",
       "context_en": "📰 Source: LMT · Yahoo · English original",
       "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
       "source": "LMT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ab6a42de02ce69d54826413d7872e949f13eee4f16f320a1cccef389cb8469f",
+      "url": "https://finnhub.io/api/news?id=26b33ad768462dc5e0d09d142cf560fb3b602a3226fbb7a4d0758949744324f8",
       "sectors": [
         "space"
       ]
     },
     {
-      "time": "11-03 06:39",
-      "title_en": "Palantir Is 'Priced to Perfection,' but Sovereign AI Could Fuel Its Next Rally: Direxion Sees ETF Opportunity",
-      "title_zh": "Palantir Is 'Priced to Perfection,' but Sovereign AI Could Fuel Its Next Rally: Direxion Sees ETF Opportunity",
-      "summary_en": "PLTR earnings beat failed to impress, but Direxion&#39;s top executive sees sovereign AI as a potential growth catalyst. Here&#39;s how ETFs could benefit.",
-      "summary_zh": "PLTR earnings beat failed to impress, but Direxion&#39;s top executive sees sovereign AI as a potential growth catalyst. Here&#39;s how ETFs could benefit.",
-      "context_en": "📰 Source: LMT · Benzinga · English original",
-      "context_zh": "📰 来源: LMT · Benzinga · 英文原文(未翻译)",
-      "source": "LMT · Benzinga",
-      "url": "https://finnhub.io/api/news?id=b3e52d7edd06d27574267b141293f96de8e6d4280b48e110b190e2387c3b87d0",
+      "time": "11-03 10:14",
+      "title_en": "US satellite deal would cause ‘irreversible damage’, warns Ben Wallace",
+      "title_zh": "US satellite deal would cause ‘irreversible damage’, warns Ben Wallace",
+      "summary_en": "A £2bn deal to buy US satellites for the military would do “irreversible” damage to Britain’s space industry, Sir Ben Wallace has warned.",
+      "summary_zh": "A £2bn deal to buy US satellites for the military would do “irreversible” damage to Britain’s space industry, Sir Ben Wallace has warned.",
+      "context_en": "📰 Source: LMT · Yahoo · English original",
+      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
+      "source": "LMT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fcdfed8b4c301fcd4cbc6abb5cd1ee3b71b08c151f8c3285202687ca95c3b19",
       "sectors": [
-        "ai",
         "space"
+      ]
+    },
+    {
+      "time": "11-03 09:55",
+      "title_en": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act",
+      "title_zh": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act",
+      "summary_en": "Pfizer boosts full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
+      "summary_zh": "Pfizer boosts full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
+      "context_en": "📰 Source: MRNA · Yahoo · English original",
+      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
+      "source": "MRNA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=512a4e4fca57a530ef6f09c3d4860d30d12b760a3d91d1eb53c339290e047934",
+      "sectors": [
+        "bio"
       ]
     },
     {
@@ -444,20 +472,6 @@
       "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
       "source": "MRNA · Yahoo",
       "url": "https://finnhub.io/api/news?id=18345245616d314f0b30d253bb5fad35a597b0922791c1711e0cd557d708b770",
-      "sectors": [
-        "bio"
-      ]
-    },
-    {
-      "time": "11-03 07:05",
-      "title_en": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Oct. 30",
-      "title_zh": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Oct. 30",
-      "summary_en": "The fund added $167.6 million in gross purchases on Friday, increasing all 502 positions and selling nothing.",
-      "summary_zh": "The fund added $167.6 million in gross purchases on Friday, increasing all 502 positions and selling nothing.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=db9b3e59ea0ef0d5203dc0d69d915383c4491877628c7c3653830474791d3939",
       "sectors": [
         "bio"
       ]
@@ -516,6 +530,34 @@
       "url": "https://finnhub.io/api/news?id=9c4f73e054c54eab0e886b9cac13e155cf7688f4ff4bdba77921adfb8805e218",
       "sectors": [
         "bio"
+      ]
+    },
+    {
+      "time": "11-03 14:00",
+      "title_en": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
+      "title_zh": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
+      "summary_en": "Being ghosted during the hiring process can be frustrating and demoralizing for candidates. Gary Meyer created a space for them to vent.",
+      "summary_zh": "Being ghosted during the hiring process can be frustrating and demoralizing for candidates. Gary Meyer created a space for them to vent.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "11-03 12:26",
+      "title_en": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto 108511116",
+      "title_zh": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto 108511116",
+      "summary_en": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+      "summary_zh": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "sectors": [
+        "ai"
       ]
     },
     {
@@ -605,18 +647,28 @@
       ]
     },
     {
-      "time": "11-02 13:46",
-      "title_en": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes - Reuters",
-      "title_zh": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes - Reuters",
-      "summary_en": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes  Reuters",
-      "summary_zh": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
-      "sectors": [
-        "energy"
-      ]
+      "time": "11-03 15:29",
+      "title_en": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+      "title_zh": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "summary_zh": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
+      "sectors": []
+    },
+    {
+      "time": "11-03 14:34",
+      "title_en": "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You should care about what happens in our society'",
+      "title_zh": "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You should care about what happens in our society'",
+      "summary_en": "Ken Chenault, who served 17 years as American Express CEO, says some political situations call for a firm stance from business leaders.",
+      "summary_zh": "Ken Chenault, who served 17 years as American Express CEO, says some political situations call for a firm stance from business leaders.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/03/ken-chenault-ceo-politics-voting-rights.html",
+      "sectors": []
     },
     {
       "time": "11-03 11:09",
@@ -736,42 +788,6 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-      "sectors": []
-    },
-    {
-      "time": "11-02 14:54",
-      "title_en": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "title_zh": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "summary_en": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-      "summary_zh": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "sectors": []
-    },
-    {
-      "time": "11-02 14:19",
-      "title_en": "Apple reports after the bell. Options traders expect a big move",
-      "title_zh": "Apple reports after the bell. Options traders expect a big move",
-      "summary_en": "Apple reports after the bell. Options traders expect a big move.",
-      "summary_zh": "Apple reports after the bell. Options traders expect a big move.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-      "sectors": []
-    },
-    {
-      "time": "11-02 14:16",
-      "title_en": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
-      "title_zh": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
-      "summary_en": "Apple, Palantir puts were in demand ahead of earnings.",
-      "summary_zh": "Apple, Palantir puts were in demand ahead of earnings.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
       "sectors": []
     }
   ],
