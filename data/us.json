@@ -1,158 +1,159 @@
 {
   "market": "us",
-  "updated_at": "2026-11-04T12:08:32-04:00",
+  "updated_at": "2026-11-04T16:07:22-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 764.93,
-      "change": 10.58,
-      "change_pct": 1.4025
+      "value": 767.32,
+      "change": 12.97,
+      "change_pct": 1.7194
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 691.4,
-      "change": 6.12,
-      "change_pct": 0.8931
+      "value": 692.53,
+      "change": 7.25,
+      "change_pct": 1.058
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 530.16,
-      "change": 13.1,
-      "change_pct": 2.5336
+      "value": 532.88,
+      "change": 15.82,
+      "change_pct": 3.0596
     }
   ],
   "news": [
     {
-      "time": "11-04 09:45",
-      "title_en": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
-      "title_zh": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
-      "summary_en": "Marvell cratered nearly 37% in a month while every AI chip rival held up far better, yet one Wall Street desk just reaffirmed a price target that implies triple-digit gains from here. The question is whether that optimism survives contact with the deal that caused the panic.",
-      "summary_zh": "Marvell cratered nearly 37% in a month while every AI chip rival held up far better, yet one Wall Street desk just reaffirmed a price target that implies triple-digit gains from here. The question is whether that optimism survives contact with the deal that caused the panic.",
+      "time": "11-04 13:54",
+      "title_en": "AMD's AI Data Center Guarantees Reach $8.5 Billion as It Challenges Nvidia",
+      "title_zh": "AMD's AI Data Center Guarantees Reach $8.5 Billion as It Challenges Nvidia",
+      "summary_en": "Advanced Micro Devices Inc. (NASDAQ:AMD) is taking on billions of dollars in potential financial obligations to help customers build AI data centers, as it steps up its challenge to Nvidia Corp. (NASDAQ:NVDA). AMD’s lease guarantees jumped 88% in just three...",
+      "summary_zh": "Advanced Micro Devices Inc. (NASDAQ:AMD) is taking on billions of dollars in potential financial obligations to help customers build AI data centers, as it steps up its challenge to Nvidia Corp. (NASDAQ:NVDA). AMD’s lease guarantees jumped 88% in just three...",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=433bb438a77f29b4aa66333873ad16ed97b1dc0155618a52fdf90e22c8ff6373",
+      "url": "https://finnhub.io/api/news?id=47795d4f6cb45b8cb6588dd4e90284311ad7ca1e7bb001b84d6ec957d2eafc13",
+      "sectors": [
+        "ai",
+        "finance",
+        "tech"
+      ]
+    },
+    {
+      "time": "11-04 13:47",
+      "title_en": "Advantage Solutions Inc. Q3 2026 Earnings Call Summary",
+      "title_zh": "Advantage Solutions Inc. Q3 2026 Earnings Call Summary",
+      "summary_en": "Moby summary of Advantage Solutions Inc.'s Q3 2026 earnings call",
+      "summary_zh": "Moby summary of Advantage Solutions Inc.'s Q3 2026 earnings call",
+      "context_en": "📰 Source: NVDA · Yahoo · English original",
+      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
+      "source": "NVDA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=3204e944e0a138aa97448ac469cc360b526eea7fd1836afe71953ff80bee530c",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-04 13:45",
+      "title_en": "Nvidia is Far From The Only Threat to AMD",
+      "title_zh": "Nvidia is Far From The Only Threat to AMD",
+      "summary_en": "Intel just posted its strongest data center growth in 15 years, and Broadcom is pulling AI budgets toward custom chips that undercut GPU pricing. AMD is fighting a two-front war it rarely gets credit for.",
+      "summary_zh": "Intel just posted its strongest data center growth in 15 years, and Broadcom is pulling AI budgets toward custom chips that undercut GPU pricing. AMD is fighting a two-front war it rarely gets credit for.",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=62f772db7a6d794db96600e740210aaa03f27cd622b65ae0a555e23e47781e9b",
       "sectors": [
         "ai",
         "tech"
       ]
     },
     {
-      "time": "11-04 09:41",
-      "title_en": "This Is How the Stock Market Typically Performs After Midterm Elections",
-      "title_zh": "This Is How the Stock Market Typically Performs After Midterm Elections",
-      "summary_en": "The next six months tend to be a very good period for stock market returns.",
-      "summary_zh": "The next six months tend to be a very good period for stock market returns.",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0e7b72f5996f6408eacbf3bf88b92dbc570b0fd8fc071395a8ca7102674773f",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-04 09:55",
-      "title_en": "Riot Platforms Soars 20% on Earnings and $28 Billion Corsicana AI Lease; Cipher Digital Plunges 13%, MARA Drops 5%",
-      "title_zh": "Riot Platforms Soars 20% on Earnings and $28 Billion Corsicana AI Lease; Cipher Digital Plunges 13%, MARA Drops 5%",
-      "summary_en": "Investors are sorting the crypto miners turned AI landlords by who has signed tenants, and Riot Platforms (NASDAQ:RIOT) is pulling away from the group. Riot stock is at $16.88, up 20% in early action. In its Q3 2026 report, released before the open, Riot Platforms announced the largest lease in its history: a 15-year lease […]",
-      "summary_zh": "Investors are sorting the crypto miners turned AI landlords by who has signed tenants, and Riot Platforms (NASDAQ:RIOT) is pulling away from the group. Riot stock is at $16.88, up 20% in early action. In its Q3 2026 report, released before the open, Riot Platforms announced the largest lease in its history: a 15-year lease […]",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=4dee788af41556afebecb082e45791510b3124948fccd3fb774fdec4de0ca3bf",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-04 09:00",
-      "title_en": "Bank Stock Looks To Finance Breakout In Troubled Market",
-      "title_zh": "Bank Stock Looks To Finance Breakout In Troubled Market",
-      "summary_en": "While S&P 500 and Nasdaq remain mired below their 50-day lines, bank stock Esquire Financial looks to shore up its base.",
-      "summary_zh": "While S&P 500 and Nasdaq remain mired below their 50-day lines, bank stock Esquire Financial looks to shore up its base.",
+      "time": "11-04 13:06",
+      "title_en": "Why Palantir Technologies Stock Dropped Today",
+      "title_zh": "Why Palantir Technologies Stock Dropped Today",
+      "summary_en": "Election 2026 wasn't good news for Palantir stock -- but it might not be horrible news, either.",
+      "summary_zh": "Election 2026 wasn't good news for Palantir stock -- but it might not be horrible news, either.",
       "context_en": "📰 Source: PLTR · Yahoo · English original",
       "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
       "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbb711c5aded8ed9cbac8c978f54bca201ffb5f07e2b814574f64822187e64f5",
+      "url": "https://finnhub.io/api/news?id=74250aa1aabdc5600ccf6bfe9c98bfdc5b628116125fc55fd24681a4509ed926",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-04 12:59",
+      "title_en": "Palantir (PLTR) Grew 93% With a 62% Operating Margin. Is the “AI Sovereignty” Demand Real?",
+      "title_zh": "Palantir (PLTR) Grew 93% With a 62% Operating Margin. Is the “AI Sovereignty” Demand Real?",
+      "summary_en": "We just published the list of the 10 Best Meme Stocks to Invest In and Palantir (NASDAQ:PLTR) ranked 7th on this list. Nobody has to double their money every year to build real wealth. An investor who puts $10,000 into a stock that returns 15% annually and holds it for 40 years ends up with […]",
+      "summary_zh": "We just published the list of the 10 Best Meme Stocks to Invest In and Palantir (NASDAQ:PLTR) ranked 7th on this list. Nobody has to double their money every year to build real wealth. An investor who puts $10,000 into a stock that returns 15% annually and holds it for 40 years ends up with […]",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad2419ef3965b8c9af54f797fefa2832efa1f3211bac9a62838b574e96bebc4e",
       "sectors": [
         "ai",
         "finance"
       ]
     },
     {
-      "time": "11-04 08:30",
-      "title_en": "Defense Tech Guidance Moves Higher With a Dec. 11 Funding Deadline Ahead",
-      "title_zh": "Defense Tech Guidance Moves Higher With a Dec. 11 Funding Deadline Ahead",
-      "summary_en": "American News Group News Commentary - Palantir's U.S. commercial revenue overtook its U.S. government revenue for the first time in the third quarter, and over the past two weeks government technology contractors from Booz Allen Hamilton to BigBear.ai have reported larger backlogs and, in most cases, raised full-year targets. All of it is playing out while federal agencies operate under a stopgap funding law that runs through Dec. 11. Active Companies from around the markets with current develop",
-      "summary_zh": "American News Group News Commentary - Palantir's U.S. commercial revenue overtook its U.S. government revenue for the first time in the third quarter, and over the past two weeks government technology contractors from Booz Allen Hamilton to BigBear.ai have reported larger backlogs and, in most cases, raised full-year targets. All of it is playing out while federal agencies operate under a stopgap funding law that runs through Dec. 11. Active Companies from around the markets with current develop",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=73c3ea48a7239f03628bc056c3c33887f5f1e52b5b0cc94c1ccd08b629c7b914",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-04 09:45",
-      "title_en": "Amazon’s Good Problems to Have Keep Me Hitting The Buy Button",
-      "title_zh": "Amazon’s Good Problems to Have Keep Me Hitting The Buy Button",
-      "summary_en": "AWS capacity keeps selling out before Amazon can build it, retail margins hit record highs, and the capex bill is climbing toward $220 billion. Here is why those problems look like reasons to own more shares rather than reasons to worry.",
-      "summary_zh": "AWS capacity keeps selling out before Amazon can build it, retail margins hit record highs, and the capex bill is climbing toward $220 billion. Here is why those problems look like reasons to own more shares rather than reasons to worry.",
+      "time": "11-04 13:51",
+      "title_en": "AIMG® Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap®",
+      "title_zh": "AIMG® Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap®",
+      "summary_en": "AI Markets Group (AIMG) today published AI Governance Platforms, a Special Report sizing the market for software that approves, constrains and evidences enterprise AI use. AIMG estimates the market at $3.6 billion in 2027, rising to $12.5 billion by 2030, a 51% CAGR.",
+      "summary_zh": "AI Markets Group (AIMG) today published AI Governance Platforms, a Special Report sizing the market for software that approves, constrains and evidences enterprise AI use. AIMG estimates the market at $3.6 billion in 2027, rising to $12.5 billion by 2030, a 51% CAGR.",
       "context_en": "📰 Source: MSFT · Yahoo · English original",
       "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
       "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=c494e08d41a3d55f05fcc7b9090933413b3fa09f31e9e5a28be4a2f46bfe8f94",
-      "sectors": [
-        "consumer",
-        "tech"
-      ]
-    },
-    {
-      "time": "11-04 09:37",
-      "title_en": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
-      "title_zh": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
-      "summary_en": "Four dividend stocks just delivered strong earnings, but free cash flow and balance sheet strength separate the ones built to keep raising payouts from the ones that just look good on paper.",
-      "summary_zh": "Four dividend stocks just delivered strong earnings, but free cash flow and balance sheet strength separate the ones built to keep raising payouts from the ones that just look good on paper.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=959d1f3530ee0168350e3edc2b9031c38b1fb94af746852d571ab87e80019c16",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "11-04 09:30",
-      "title_en": "Global X Launches Magnificent Six ETF",
-      "title_zh": "Global X Launches Magnificent Six ETF",
-      "summary_en": "NEW YORK, November 04, 2026--Global X launches the Global X Magnificent Six ETF, which seeks to provide exposure to Alphabet; Amazon; Apple; Meta; Microsoft; and NVIDIA.",
-      "summary_zh": "NEW YORK, November 04, 2026--Global X launches the Global X Magnificent Six ETF, which seeks to provide exposure to Alphabet; Amazon; Apple; Meta; Microsoft; and NVIDIA.",
-      "context_en": "📰 Source: AAPL · Yahoo · English original",
-      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
-      "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=07222d70006e7060ba9ea9d59a218e02c04d3d0c2b54a1ecebacaaf445f6f605",
+      "url": "https://finnhub.io/api/news?id=775498bd12b9355483205d5361d1a9ac0b965f7c3fbea787584b8dde72359843",
       "sectors": [
         "ai",
-        "space",
         "tech"
       ]
     },
     {
-      "time": "11-04 09:15",
-      "title_en": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
-      "title_zh": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
-      "summary_en": "Micron stock was edging down as investors digest the Democratic wave and signs rising memory prices are hitting some areas of the hardware market.",
-      "summary_zh": "Micron stock was edging down as investors digest the Democratic wave and signs rising memory prices are hitting some areas of the hardware market.",
+      "time": "11-04 13:45",
+      "title_en": "Alphabet’s Asymmetry Is All You Need To Know About to Hit ‘Buy’",
+      "title_zh": "Alphabet’s Asymmetry Is All You Need To Know About to Hit ‘Buy’",
+      "summary_en": "Alphabet's stock keeps falling while its cloud revenue triples and its search business records its fastest query growth in five years. Something in that gap deserves a closer look before the market closes it.",
+      "summary_zh": "Alphabet's stock keeps falling while its cloud revenue triples and its search business records its fastest query growth in five years. Something in that gap deserves a closer look before the market closes it.",
+      "context_en": "📰 Source: MSFT · Yahoo · English original",
+      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
+      "source": "MSFT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ddf5ba1d9785f682ca7d73dfaee2314ab5ee08eb179c43f2d2e51f641aed220",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "11-04 13:33",
+      "title_en": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+      "title_zh": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+      "summary_en": "Memory prices are climbing fast, and that single cost is splitting two tech giants onto opposite sides of a trade. One company's suffering feeds the other's record margins, and the gap between them keeps widening.",
+      "summary_zh": "Memory prices are climbing fast, and that single cost is splitting two tech giants onto opposite sides of a trade. One company's suffering feeds the other's record margins, and the gap between them keeps widening.",
       "context_en": "📰 Source: AAPL · Yahoo · English original",
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=5999f13bb41b537b0946307f42b529f93a3b1a4450fc8ed173124f90b1383f25",
+      "url": "https://finnhub.io/api/news?id=2321724eac92015c22f8907b33d76aabd63d078456f0bfe618cff2f3f7a4928e",
       "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "11-04 13:05",
+      "title_en": "Apple opens up Siri to all apps as it continues to transform its voice assistant",
+      "title_zh": "Apple opens up Siri to all apps as it continues to transform its voice assistant",
+      "summary_en": "iPhone maker has been gradually trying to integrate AI into its phones – though more carefully and slowly than its competitors",
+      "summary_zh": "iPhone maker has been gradually trying to integrate AI into its phones – though more carefully and slowly than its competitors",
+      "context_en": "📰 Source: AAPL · Yahoo · English original",
+      "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
+      "source": "AAPL · Yahoo",
+      "url": "https://finnhub.io/api/news?id=5080a3d6a520581eec30e3d19066972765a8dc8559019b5bc7024f179bf4615b",
+      "sectors": [
+        "ai",
         "tech"
       ]
     },
@@ -187,75 +188,76 @@
       ]
     },
     {
-      "time": "11-04 09:02",
-      "title_en": "What's Happening With AMD Stock?",
-      "title_zh": "What's Happening With AMD Stock?",
-      "summary_en": "For questions about this article or underlying research, email help@trefis.com.",
-      "summary_zh": "For questions about this article or underlying research, email help@trefis.com.",
+      "time": "11-04 11:44",
+      "title_en": "Markets Discount Broadcom (AVGO) on MediaTek TPU Rumors, But Management’s Targets Tell Another Story",
+      "title_zh": "Markets Discount Broadcom (AVGO) on MediaTek TPU Rumors, But Management’s Targets Tell Another Story",
+      "summary_en": "BUFFALO Funds, an actively managed mutual fund advised by Kornitzer Capital Management, released its third-quarter 2026 investor letter for “Buffalo Growth Fund”. The letter can be downloaded here. The Buffalo Growth Fund advanced 4.57% in Q3, significantly outperforming the Russell 3000® Growth Index’s 0.45%. The primary driver of this outperformance was stock selection in Information […]",
+      "summary_zh": "BUFFALO Funds, an actively managed mutual fund advised by Kornitzer Capital Management, released its third-quarter 2026 investor letter for “Buffalo Growth Fund”. The letter can be downloaded here. The Buffalo Growth Fund advanced 4.57% in Q3, significantly outperforming the Russell 3000® Growth Index’s 0.45%. The primary driver of this outperformance was stock selection in Information […]",
       "context_en": "📰 Source: AVGO · Yahoo · English original",
       "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
       "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac540dfd54d242bcbe436199a1f8016f97eff95b04bdfb60d20304c11adedc56",
+      "url": "https://finnhub.io/api/news?id=26259f5f002a6db95dd8abaa34e7f65cbae499cd78241cc4ad9acc6738a2b6c0",
       "sectors": [
         "tech"
       ]
     },
     {
-      "time": "11-04 07:53",
-      "title_en": "Is One Stalled Business Reason Enough To Sell Zoom Stock?",
-      "title_zh": "Is One Stalled Business Reason Enough To Sell Zoom Stock?",
+      "time": "11-04 13:27",
+      "title_en": "Does The Move In Hewlett Packard Enterprise Stock Change Anything?",
+      "title_zh": "Does The Move In Hewlett Packard Enterprise Stock Change Anything?",
       "summary_en": "For questions about this article or underlying research, email help@trefis.com.",
       "summary_zh": "For questions about this article or underlying research, email help@trefis.com.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=3bc33b9857d19101815a901aa195a13cb4fc4e6e25ecfc2ba188c40066bbe362",
+      "url": "https://finnhub.io/api/news?id=df9509994e7a60edb988460e112a78321413fa90bd7e3ba2aeb8501f65c92573",
       "sectors": [
         "comm"
       ]
     },
     {
-      "time": "11-04 05:43",
-      "title_en": "Can You Make Money Off Ciena Stock Now?",
-      "title_zh": "Can You Make Money Off Ciena Stock Now?",
-      "summary_en": "For questions about this article or underlying research, email help@trefis.com.",
-      "summary_zh": "For questions about this article or underlying research, email help@trefis.com.",
+      "time": "11-04 12:00",
+      "title_en": "SPECTRUM BUSINESS LAUNCHES A NEW SECURE NETWORKING OFFERING",
+      "title_zh": "SPECTRUM BUSINESS LAUNCHES A NEW SECURE NETWORKING OFFERING",
+      "summary_en": "Today, Spectrum Business announced the launch of a new Managed Cisco Secure Networking offering. With Cisco's new 8000 Series Secure Routers and Talos Threat Intelligence Integrations, our Secure Networking solution gives enterprises the ability to scale network capacity, add advanced routing flexibility and strengthen security as network demands intensify in the AI age.",
+      "summary_zh": "Today, Spectrum Business announced the launch of a new Managed Cisco Secure Networking offering. With Cisco's new 8000 Series Secure Routers and Talos Threat Intelligence Integrations, our Secure Networking solution gives enterprises the ability to scale network capacity, add advanced routing flexibility and strengthen security as network demands intensify in the AI age.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d90929f3d3a0b55ac47c603faa2541818b7656c34c456106b75ff255bbecaa2",
+      "url": "https://finnhub.io/api/news?id=c330e2d88f3415e650a8f31477dbea1a7ee6be20a26734ed9b9ca248deabfbe3",
+      "sectors": [
+        "ai",
+        "comm",
+        "space"
+      ]
+    },
+    {
+      "time": "11-04 13:33",
+      "title_en": "Qualcomm to report Q4 earnings amid slowing smartphone, PC sales",
+      "title_zh": "Qualcomm to report Q4 earnings amid slowing smartphone, PC sales",
+      "summary_en": "Qualcomm will report its Q4 earnings after the bell Wednesday.",
+      "summary_zh": "Qualcomm will report its Q4 earnings after the bell Wednesday.",
+      "context_en": "📰 Source: TMUS · Yahoo · English original",
+      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
+      "source": "TMUS · Yahoo",
+      "url": "https://finnhub.io/api/news?id=27e1a28f31bc2044410778d0b334adb6e595617686f2c1e7834dff02c92b2b23",
       "sectors": [
         "comm"
       ]
     },
     {
-      "time": "11-04 09:30",
-      "title_en": "Elon Musk is set to spend $100B to disrupt wireless in the age of drones and robots",
-      "title_zh": "Elon Musk is set to spend $100B to disrupt wireless in the age of drones and robots",
-      "summary_en": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
-      "summary_zh": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
+      "time": "11-04 12:10",
+      "title_en": "Amdocs Stock Has Its Worst Day in 24 Years as T-Mobile Business Is at Risk",
+      "title_zh": "Amdocs Stock Has Its Worst Day in 24 Years as T-Mobile Business Is at Risk",
+      "summary_en": "The telecom software provider expects annual revenue to fall as much as 18%, with its outlook allowing for a potential end to its T-Mobile agreements.",
+      "summary_zh": "The telecom software provider expects annual revenue to fall as much as 18%, with its outlook allowing for a potential end to its T-Mobile agreements.",
       "context_en": "📰 Source: TMUS · Yahoo · English original",
       "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
       "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=b77f6c2a2ebac9af774784ba77453c98756508952cad034c1fcfd0ed7e6e58ed",
+      "url": "https://finnhub.io/api/news?id=919b0838fdec8bf494a6b126d904a9add9254904326c05b8ae40c2161d694872",
       "sectors": [
         "comm",
-        "space"
-      ]
-    },
-    {
-      "time": "11-04 09:30",
-      "title_en": "SpaceX inks Qualcomm deal, putting Starlink closer to becoming the fourth major US wireless carrier",
-      "title_zh": "SpaceX inks Qualcomm deal, putting Starlink closer to becoming the fourth major US wireless carrier",
-      "summary_en": "SpaceX is teaming with Qualcomm in push to turn Starlink into major US carrier.",
-      "summary_zh": "SpaceX is teaming with Qualcomm in push to turn Starlink into major US carrier.",
-      "context_en": "📰 Source: TMUS · Yahoo · English original",
-      "context_zh": "📰 来源: TMUS · Yahoo · 英文原文(未翻译)",
-      "source": "TMUS · Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed52469efecb585882af383d06dc48c30a91b0bfde3f8b37c9fb9da5fa832bbf",
-      "sectors": [
-        "comm",
-        "space"
+        "tech"
       ]
     },
     {
@@ -289,29 +291,29 @@
       ]
     },
     {
-      "time": "11-04 09:36",
-      "title_en": "S&P 500 Premarket Movers for Nov. 4",
-      "title_zh": "S&P 500 Premarket Movers for Nov. 4",
-      "summary_en": "S&P 500 premarket movers for Nov. 4 include Block up 9.87% and Fidelity National Information Services down 21.77%, with gainers and losers ahead of the U.S. open.",
-      "summary_zh": "S&P 500 premarket movers for Nov. 4 include Block up 9.87% and Fidelity National Information Services down 21.77%, with gainers and losers ahead of the U.S. open.",
-      "context_en": "📰 Source: FSLR · ChartMill · English original",
-      "context_zh": "📰 来源: FSLR · ChartMill · 英文原文(未翻译)",
-      "source": "FSLR · ChartMill",
-      "url": "https://finnhub.io/api/news?id=64e1e067d297cd9663b262f6d082f583dbfbe776196f3e9d8bb027b27c38301b",
+      "time": "11-04 12:52",
+      "title_en": "First Solar Jumps 9% as Democratic Sweep Revives Clean-Energy Hopes; Enphase Surges 9%, SolarEdge Sinks 8%",
+      "title_zh": "First Solar Jumps 9% as Democratic Sweep Revives Clean-Energy Hopes; Enphase Surges 9%, SolarEdge Sinks 8%",
+      "summary_en": "A Democratic sweep of Congress sent solar stocks surging, but not every company in the sector is celebrating. Find out which name is defying the rally and why the veto math could unravel the whole trade.",
+      "summary_zh": "A Democratic sweep of Congress sent solar stocks surging, but not every company in the sector is celebrating. Find out which name is defying the rally and why the veto math could unravel the whole trade.",
+      "context_en": "📰 Source: FSLR · Yahoo · English original",
+      "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
+      "source": "FSLR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9fdab1ef6e8930d326ec7f7d2057e2ba228f2986dd197458571a550d2de7a65",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "11-04 09:36",
-      "title_en": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Is Surging.",
-      "title_zh": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Is Surging.",
-      "summary_en": "The AI power supplier offers clean solution to the data center energy problem, and bypasses the grid.",
-      "summary_zh": "The AI power supplier offers clean solution to the data center energy problem, and bypasses the grid.",
+      "time": "11-04 12:11",
+      "title_en": "“Blue Trade” Sends First Solar And Sunrun Soaring While Data Center Stocks Slump As Investors Weigh Democrats’ Big Night",
+      "title_zh": "“Blue Trade” Sends First Solar And Sunrun Soaring While Data Center Stocks Slump As Investors Weigh Democrats’ Big Night",
+      "summary_en": "Democrats flipped Congress overnight and investors wasted no time picking winners and losers, sending solar stocks surging while AI data center names cratered. The real question is whether this rotation survives contact with the actual legislative calendar.",
+      "summary_zh": "Democrats flipped Congress overnight and investors wasted no time picking winners and losers, sending solar stocks surging while AI data center names cratered. The real question is whether this rotation survives contact with the actual legislative calendar.",
       "context_en": "📰 Source: FSLR · Yahoo · English original",
       "context_zh": "📰 来源: FSLR · Yahoo · 英文原文(未翻译)",
       "source": "FSLR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=01426749f50f89bfc23be2647d60724cc12d4279a46491a9f1b904503c838c0b",
+      "url": "https://finnhub.io/api/news?id=b836e76eda203e4c3c5e3609517342ef5120c3d02b5662c2ff60b7da3428cb31",
       "sectors": [
         "ai",
         "energy",
@@ -347,43 +349,57 @@
       ]
     },
     {
-      "time": "11-04 08:51",
-      "title_en": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
-      "title_zh": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
-      "summary_en": "Wall Street analysts shifted their stances on some of the market's most closely watched names Wednesday, with surprising cuts hitting stocks many investors still consider safe bets and fresh upgrades landing on names that have struggled all year.",
-      "summary_zh": "Wall Street analysts shifted their stances on some of the market's most closely watched names Wednesday, with surprising cuts hitting stocks many investors still consider safe bets and fresh upgrades landing on names that have struggled all year.",
+      "time": "11-04 12:30",
+      "title_en": "WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat",
+      "title_zh": "WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat",
+      "summary_en": "Williams' Q3 earnings miss estimates as costs jump 15%, even as revenues and EBITDA rise. Its $5.5B Momentum deal and new pipelines underpin expansion.",
+      "summary_zh": "Williams' Q3 earnings miss estimates as costs jump 15%, even as revenues and EBITDA rise. Its $5.5B Momentum deal and new pipelines underpin expansion.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbb748d8a88347b92924ac2568e8e8862af75bc243edf45e89ed6cd8ddd129c4",
+      "url": "https://finnhub.io/api/news?id=cf1715539e0a08b527ca0ed58d17c5b132e07ef1bf581d59dae69b30296d1cda",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "11-04 09:47",
-      "title_en": "Prediction: Rocket Lab Could Be Building the Space Company of the Future",
-      "title_zh": "Prediction: Rocket Lab Could Be Building the Space Company of the Future",
-      "summary_en": "Rocket Lab is merging rockets, satellites, and defense contracts into one company while its stock trades near a 52-week low. Whether that gap is a warning sign or a rare entry point depends on one unproven rocket.",
-      "summary_zh": "Rocket Lab is merging rockets, satellites, and defense contracts into one company while its stock trades near a 52-week low. Whether that gap is a warning sign or a rare entry point depends on one unproven rocket.",
+      "time": "11-04 12:04",
+      "title_en": "Physical Oil Just Went From a Bidding War to a Fire Sale",
+      "title_zh": "Physical Oil Just Went From a Bidding War to a Fire Sale",
+      "summary_en": "Refiners who were fighting over every available barrel a month ago are now turning down offers and leaving Nigerian cargoes unsold, yet futures keep pricing in a war that the physical market seems to be moving past.",
+      "summary_zh": "Refiners who were fighting over every available barrel a month ago are now turning down offers and leaving Nigerian cargoes unsold, yet futures keep pricing in a war that the physical market seems to be moving past.",
+      "context_en": "📰 Source: XOM · Yahoo · English original",
+      "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
+      "source": "XOM · Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3177c3531de3816a7c08c65b309e6d8166c0bed854f1b4c975548ed55c10140",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "11-04 13:05",
+      "title_en": "Got $5,000? 2 Growth Stocks Powering the Next Phase of the Space Economy.",
+      "title_zh": "Got $5,000? 2 Growth Stocks Powering the Next Phase of the Space Economy.",
+      "summary_en": "Rocket Lab and Planet Labs offer distinct growth opportunities as satellite infrastructure expands and demand for space-based intelligence increases.",
+      "summary_zh": "Rocket Lab and Planet Labs offer distinct growth opportunities as satellite infrastructure expands and demand for space-based intelligence increases.",
       "context_en": "📰 Source: RKLB · Yahoo · English original",
       "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
       "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cf4dba21cf5c0645e4b6153dd56de3b3700c90c010afdf3c19dc38d99b66613",
+      "url": "https://finnhub.io/api/news?id=266dd9e726b6d7b14354d672eb851eb63259410d0c19fca5708789f8eec658ff",
       "sectors": [
         "space"
       ]
     },
     {
-      "time": "11-04 08:09",
-      "title_en": "Insider Alert: Rocket Lab CFO Dumps $7.4 Million in Shares",
-      "title_zh": "Insider Alert: Rocket Lab CFO Dumps $7.4 Million in Shares",
-      "summary_en": "Rocket Lab CFO Cashes Out $7.4 Million in Stock as Neutron Rocket Faces Delay",
-      "summary_zh": "Rocket Lab CFO Cashes Out $7.4 Million in Stock as Neutron Rocket Faces Delay",
+      "time": "11-04 11:21",
+      "title_en": "Rocket Lab to Report Q3 Earnings: Should Investors Hold or Fold?",
+      "title_zh": "Rocket Lab to Report Q3 Earnings: Should Investors Hold or Fold?",
+      "summary_en": "RKLB Q3 earnings outlook signals strong revenue growth, but margin pressure, premium valuation and a 27.3% stock decline raise questions for investors.",
+      "summary_zh": "RKLB Q3 earnings outlook signals strong revenue growth, but margin pressure, premium valuation and a 27.3% stock decline raise questions for investors.",
       "context_en": "📰 Source: RKLB · Yahoo · English original",
       "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
       "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=bee064087047ca483b82a6b1a98810826aee86623aafab1db87af1eb853a0c96",
+      "url": "https://finnhub.io/api/news?id=b3be26e735fd2b41591c5e4666eab3b38355dc5d7fcb972e7f283311e0192759",
       "sectors": [
         "space"
       ]
@@ -417,72 +433,73 @@
       ]
     },
     {
-      "time": "11-04 09:00",
-      "title_en": "EMBERPOINT Adds State Farm® as Investor to Strengthen Community Wildfire Response",
-      "title_zh": "EMBERPOINT Adds State Farm® as Investor to Strengthen Community Wildfire Response",
-      "summary_en": "EMBERPOINT™, a wildfire intelligence company built to give first responders an operational advantage, today announced State Farm® as its newest investor, expanding the cross-industry coalition supporting its mission to deliver decision-ready wildfire intelligence.",
-      "summary_zh": "EMBERPOINT™, a wildfire intelligence company built to give first responders an operational advantage, today announced State Farm® as its newest investor, expanding the cross-industry coalition supporting its mission to deliver decision-ready wildfire intelligence.",
+      "time": "11-04 13:35",
+      "title_en": "Stock Market Today: Dow Soars On Election Landslide; Building, Retail, Healthcare Areas Jump (Live Coverage)",
+      "title_zh": "Stock Market Today: Dow Soars On Election Landslide; Building, Retail, Healthcare Areas Jump (Live Coverage)",
+      "summary_en": "The Dow Jones index surged 1,100 points Wednesday on U.S. election results. Elon Musk-led SpaceX and Tesla dive.",
+      "summary_zh": "The Dow Jones index surged 1,100 points Wednesday on U.S. election results. Elon Musk-led SpaceX and Tesla dive.",
       "context_en": "📰 Source: LMT · Yahoo · English original",
       "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
       "source": "LMT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=66b268c642a4818096b36a95305cc089ed2d6cf6b307faaf7ed7854ef58b4e07",
+      "url": "https://finnhub.io/api/news?id=71c9ebaee3da29d87d3d4e09d411ed715d5ff67d62f3187096ff48affd9fa2a2",
       "sectors": [
+        "consumer",
         "space"
       ]
     },
     {
-      "time": "11-03 17:12",
-      "title_en": "Moderna's Cancer Vaccine Is Incredibly Promising, but This Could Be a Major Obstacle to Its Success",
-      "title_zh": "Moderna's Cancer Vaccine Is Incredibly Promising, but This Could Be a Major Obstacle to Its Success",
-      "summary_en": "Even if the company's vaccine obtains approval, producing it at scale could be a big challenge.",
-      "summary_zh": "Even if the company's vaccine obtains approval, producing it at scale could be a big challenge.",
+      "time": "11-04 13:19",
+      "title_en": "At 70 He’ll Get a Letter Saying His Company Is Handing His Pension to an Insurance Company. The Check Stays the Same, but the Federal Safety Net Behind It Doesn’t",
+      "title_zh": "At 70 He’ll Get a Letter Saying His Company Is Handing His Pension to an Insurance Company. The Check Stays the Same, but the Federal Safety Net Behind It Doesn’t",
+      "summary_en": "When a letter arrives saying the company pension is moving to an insurance company, most retirees breathe easy because the check amount stays the same. What the letter leaves out is the part that actually changed.",
+      "summary_zh": "When a letter arrives saying the company pension is moving to an insurance company, most retirees breathe easy because the check amount stays the same. What the letter leaves out is the part that actually changed.",
+      "context_en": "📰 Source: LMT · Yahoo · English original",
+      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
+      "source": "LMT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=317aca2b32dc80d6a72ff7dfae19ffea125da847e280d52f8f917b13ddbd7df7",
+      "sectors": [
+        "finance",
+        "space"
+      ]
+    },
+    {
+      "time": "11-04 12:41",
+      "title_en": "Moderna Soars 8% on Early Multiple Myeloma Data for Its Three-in-One mRNA Therapy",
+      "title_zh": "Moderna Soars 8% on Early Multiple Myeloma Data for Its Three-in-One mRNA Therapy",
+      "summary_en": "Key TakeawaysModerna shares jumped 8% after its myeloma therapy, mRNA-2808, showed four confirmed responses among 11 heavily pretreated patients. The data shows Moderna’s mRNA can get the body to make three cancer drugs at once, though it’s years from challenging Johnson & Johnson, Pfizer and Regeneron.",
+      "summary_zh": "Key TakeawaysModerna shares jumped 8% after its myeloma therapy, mRNA-2808, showed four confirmed responses among 11 heavily pretreated patients. The data shows Moderna’s mRNA can get the body to make three cancer drugs at once, though it’s years from challenging Johnson & Johnson, Pfizer and Regeneron.",
       "context_en": "📰 Source: MRNA · Yahoo · English original",
       "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
       "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=470ec20ffc183e50f94c6913ccce87a4b49bd01121a94acb76169fce0b1a8216",
+      "url": "https://finnhub.io/api/news?id=78d37b4966780febc0e24b988a250141a379c54afbedeac829cb275867dc2aec",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "11-03 14:55",
-      "title_en": "Pfizer CEO Says Covid Is ‘Irrelevant.’ He’s Betting on Cancer and Weight-Loss Drugs.",
-      "title_zh": "Pfizer CEO Says Covid Is ‘Irrelevant.’ He’s Betting on Cancer and Weight-Loss Drugs.",
-      "summary_en": "Pfizer boosts full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
-      "summary_zh": "Pfizer boosts full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
+      "time": "11-04 12:05",
+      "title_en": "Moderna Advances Investigational Bundibugyo Ebolavirus Vaccine Toward Phase 2/3 Study",
+      "title_zh": "Moderna Advances Investigational Bundibugyo Ebolavirus Vaccine Toward Phase 2/3 Study",
+      "summary_en": "WHO Technical Advisory Group recommends mRNA-1469 for inclusion in efficacy study following encouraging Phase 1 clinical resultsCAMBRIDGE, MA / ACCESS Newswire / November 4, 2026 / (NASDAQ:MRNA) today announced that mRNA-1469, the Company's investigational mRNA vaccine candidate against Bundibugyo ebolavirus (BDBV), has been recommended to advance into a Phase 2/3 efficacy study in the Democratic Republic of the Congo (DRC), supported by encouraging preclinical and Phase 1 clinical data.The reco",
+      "summary_zh": "WHO Technical Advisory Group recommends mRNA-1469 for inclusion in efficacy study following encouraging Phase 1 clinical resultsCAMBRIDGE, MA / ACCESS Newswire / November 4, 2026 / (NASDAQ:MRNA) today announced that mRNA-1469, the Company's investigational mRNA vaccine candidate against Bundibugyo ebolavirus (BDBV), has been recommended to advance into a Phase 2/3 efficacy study in the Democratic Republic of the Congo (DRC), supported by encouraging preclinical and Phase 1 clinical data.The reco",
       "context_en": "📰 Source: MRNA · Yahoo · English original",
       "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
       "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=994fef29cc79fb237484251f27244f692c59e986bc63b200ffe58444c0c08f00",
+      "url": "https://finnhub.io/api/news?id=e199d7c391e99488a1b33688065b785ef4301dc6e7688fb0fb0342a821049c83",
       "sectors": [
         "bio"
       ]
     },
     {
-      "time": "11-04 04:29",
-      "title_en": "Drugmaker CEOs Say AI Alone Can't Cure Diseases, Challenge Silicon Valley's Bold Predictions: 'To Say AI Is Going to Cure Cancer...'",
-      "title_zh": "Drugmaker CEOs Say AI Alone Can't Cure Diseases, Challenge Silicon Valley's Bold Predictions: 'To Say AI Is Going to Cure Cancer...'",
-      "summary_en": "Drugmaker executives doubt AI will cure disease soon, saying biology is too complicated.",
-      "summary_zh": "Drugmaker executives doubt AI will cure disease soon, saying biology is too complicated.",
-      "context_en": "📰 Source: REGN · Benzinga · English original",
-      "context_zh": "📰 来源: REGN · Benzinga · 英文原文(未翻译)",
-      "source": "REGN · Benzinga",
-      "url": "https://finnhub.io/api/news?id=0d973425012270df5fe88a7dbdf02ccbc7e44efd69f6d06e1b259856af9e81e3",
-      "sectors": [
-        "ai",
-        "bio"
-      ]
-    },
-    {
-      "time": "11-03 14:12",
-      "title_en": "BAYRY Q3 Earnings and Revenues Miss Estimates, Pharma Performs Well",
-      "title_zh": "BAYRY Q3 Earnings and Revenues Miss Estimates, Pharma Performs Well",
-      "summary_en": "Bayer's Q3 earnings and revenues miss estimates, but strong growth in Nubeqa and Kerendia boosts pharma performance and lifts 2026 EBITDA guidance.",
-      "summary_zh": "Bayer's Q3 earnings and revenues miss estimates, but strong growth in Nubeqa and Kerendia boosts pharma performance and lifts 2026 EBITDA guidance.",
+      "time": "11-04 12:20",
+      "title_en": "Why Regeneron (REGN) Might be Well Poised for a Surge",
+      "title_zh": "Why Regeneron (REGN) Might be Well Poised for a Surge",
+      "summary_en": "Regeneron (REGN) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
+      "summary_zh": "Regeneron (REGN) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
       "context_en": "📰 Source: REGN · Yahoo · English original",
       "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
       "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9417d6641b378768f84ef5ace7dcf8791121c98a1143b176b3be3c5dc762230",
+      "url": "https://finnhub.io/api/news?id=5506abaee9052f802faffc78eb9d3bee9e8862f3ce3c14abacbabc9aea4f0447",
       "sectors": [
         "bio"
       ]
@@ -515,6 +532,247 @@
         "bio",
         "finance"
       ]
+    },
+    {
+      "time": "11-04 15:21",
+      "title_en": "The post-election rally masks a sharp split in the AI trade. Who stands to win?",
+      "title_zh": "The post-election rally masks a sharp split in the AI trade. Who stands to win?",
+      "summary_en": "Investors are making divergent bets on AI stocks Wednesday.",
+      "summary_zh": "Investors are making divergent bets on AI stocks Wednesday.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-04 14:07",
+      "title_en": "Explainer: How the Democratic sweep could change US energy policy - Reuters",
+      "title_zh": "Explainer: How the Democratic sweep could change US energy policy - Reuters",
+      "summary_en": "Explainer: How the Democratic sweep could change US energy policy  Reuters",
+      "summary_zh": "Explainer: How the Democratic sweep could change US energy policy  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVlEaW9lb05hT0RtOW5tUnZ1Yk5RUXV0aU5sTFlodXZ6T3dnVWdkUHpqdm45VU5mYlZIT1dFcmdCRmo1UmwxUHljMnMzX2w2S3lkMXdHQy1ZZFhCTlkyTTYzejluSF9GdXFoSEdnN0E3NjlSd0xWWEo1NEhzR1VNLWN1U21OamxGS2V6Nk5uTjZjWXAyVHNTVUhCdTJhRGRzR29Tcg?oc=5",
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "time": "11-04 13:15",
+      "title_en": "Wall Street rallies after Democrats win Congress; data center stocks slide - Reuters",
+      "title_zh": "Wall Street rallies after Democrats win Congress; data center stocks slide - Reuters",
+      "summary_en": "Wall Street rallies after Democrats win Congress; data center stocks slide  Reuters",
+      "summary_zh": "Wall Street rallies after Democrats win Congress; data center stocks slide  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "11-04 12:54",
+      "title_en": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+      "title_zh": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "summary_zh": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "time": "11-04 11:46",
+      "title_en": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers - Reuters",
+      "title_zh": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers - Reuters",
+      "summary_en": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers  Reuters",
+      "summary_zh": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDhDUE4wNmt4SlJOXzNpSzZRdUZmaGsxM09sUFdndVZJbUxSaXhiRFpubE9tNWtURmZISGdneEdxaWk5a2hjREQyTVlNd0x1Q0ZXTXZMVmZrMjNzem5Pc3RycWpWNHNweDVvSWZEaU9qV1YtdEVQbm9UUEctNm5RNVVLaldmNF9fLUwteEdFTXZwYVoybFhzY254RGpsMS1fMHNQZExWd2tNS1JsZUdSTkF0azZLYmljSVJ4MXBoQQ?oc=5",
+      "sectors": [
+        "energy",
+        "consumer"
+      ]
+    },
+    {
+      "time": "11-04 11:45",
+      "title_en": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+      "title_zh": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+      "summary_en": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
+      "summary_zh": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+      "sectors": [
+        "comm"
+      ]
+    },
+    {
+      "time": "11-04 15:53",
+      "title_en": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+      "title_zh": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+      "summary_en": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
+      "summary_zh": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
+      "sectors": []
+    },
+    {
+      "time": "11-04 15:08",
+      "title_en": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
+      "title_zh": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
+      "summary_en": "Options traders make a series of trades post election",
+      "summary_zh": "Options traders make a series of trades post election",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
+      "sectors": []
+    },
+    {
+      "time": "11-04 15:06",
+      "title_en": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
+      "title_zh": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
+      "summary_en": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran  Reuters",
+      "summary_zh": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 14:54",
+      "title_en": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks - Reuters",
+      "title_zh": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks - Reuters",
+      "summary_en": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks  Reuters",
+      "summary_zh": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 14:41",
+      "title_en": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+      "title_zh": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+      "summary_en": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
+      "summary_zh": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+      "sectors": []
+    },
+    {
+      "time": "11-04 14:39",
+      "title_en": "Bob Dylan blows in for meeting with Pope Leo at Vatican - Reuters",
+      "title_zh": "Bob Dylan blows in for meeting with Pope Leo at Vatican - Reuters",
+      "summary_en": "Bob Dylan blows in for meeting with Pope Leo at Vatican  Reuters",
+      "summary_zh": "Bob Dylan blows in for meeting with Pope Leo at Vatican  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzRadEpiWG95eHR2UWZqQURxVklZR1RNMWZHWWVKZXZHeDVhTDFjdHNqeFZUM05XTmx0QkNFSlhSUTV6cjFoSmluMUVsVy1oUHR1WnZLMXZqY2xucWxYck5LeFpJXzdfU0RjOS1PdTlkUmtnaGtraGJBTlNITUhVN2s2WFFBNkRkMm9heFJtQ2k?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 14:37",
+      "title_en": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him - Reuters",
+      "title_zh": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him - Reuters",
+      "summary_en": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him  Reuters",
+      "summary_zh": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUZjXy1DNGJHT1JRMlBGNVZ4alh1Ymc4NnI1azRtblU5YmlGWFRmTU5KeEFvNnUtdDYta2pWZEpDRENSZVd0QXk2NlNmMmRsenAzUHlBcktGZDdzUUltbUp1YVNTYkR1cE5HZXVGbDg1dXdTS0xCUEcyQ2g1dWFZR280NDhWbC1KZmsxYVZGUWhxV1N5ZGxraG4zUUloMzBPcDhCalhRaHJnZy1LNzBobGd0R25SQQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 14:31",
+      "title_en": "Ukraine's corruption police tie senior security officials to major criminal ring - Reuters",
+      "title_zh": "Ukraine's corruption police tie senior security officials to major criminal ring - Reuters",
+      "summary_en": "Ukraine's corruption police tie senior security officials to major criminal ring  Reuters",
+      "summary_zh": "Ukraine's corruption police tie senior security officials to major criminal ring  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF9zQS1BZmV0MzhxeXhlN0xKYllETXY0YnNaWUw2LW9DckM1UjJXejFPRi1LMXlRSVB4SWwzQWNjWXlPUkgyVGNzOEhjczhrTjhEUUpaSUMxRVU0TndFaWJKS3RRVVBWMXNtX3JNVGFoQ0VJdmJGNUNsWWVsZ0lLWFBMRlBNMzY4aUM1N0doZVFsb2dtQUtmRXAzdHZxZ0VERlQ1Vm9yd0tFa0NFYUxJ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 14:22",
+      "title_en": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
+      "title_zh": "From Iran to trade: how the US midterms impact the rest of the world - Reuters",
+      "summary_en": "From Iran to trade: how the US midterms impact the rest of the world  Reuters",
+      "summary_zh": "From Iran to trade: how the US midterms impact the rest of the world  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 13:51",
+      "title_en": "Vance repudiates Iran war after US electoral defeat - Reuters",
+      "title_zh": "Vance repudiates Iran war after US electoral defeat - Reuters",
+      "summary_en": "Vance repudiates Iran war after US electoral defeat  Reuters",
+      "summary_zh": "Vance repudiates Iran war after US electoral defeat  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 13:16",
+      "title_en": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat - Reuters",
+      "title_zh": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat - Reuters",
+      "summary_en": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat  Reuters",
+      "summary_zh": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZyNWRabEpTdG9UeDUzc3BpN1RRZ1FXZm1OZGdFSDVoNms1S0JHWU00bnhZeGxHaHlFclFTX0ZVUzU5ZEx3ZXIzTmVRUE5KMlBETUpXWEZiVC1zckhRaDk3ejNpMnVqZVh1WmllVk9jUVJoRHE4R3pnN3ZRSUI4TVJGcjN5UjhPWEVhYTJvWGFLUkRKbE1kcUFLTS0wU09KbFllV2ZXYXFHcHVhemFUNWVmQUlPaTNIVnd5V2FyZGZxRzlo?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 11:39",
+      "title_en": "Iranian officials gloat as US voters deal blow to Trump - Reuters",
+      "title_zh": "Iranian officials gloat as US voters deal blow to Trump - Reuters",
+      "summary_en": "Iranian officials gloat as US voters deal blow to Trump  Reuters",
+      "summary_zh": "Iranian officials gloat as US voters deal blow to Trump  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaERuaWNXaEtzV2Vjb0RCZUZiWkx1VE52SGpCLTBjaFI4THBXUUJGWTF0Y2kzMHZvY3FrTVlKRmJaRkFYSmgyb21EczFNeUxuQ1dPT2JpRXRGN3JaRmtIeW90Y0xRam5BdUdlVkswTHFqa2NjR3lxVHRHWWlzdUNtVTNDbTh1bW5uR0lRR0MteWFNTU9Jd010NHNGaTRweGlOdS1MZGlB?oc=5",
+      "sectors": []
+    },
+    {
+      "time": "11-04 11:36",
+      "title_en": "Iran's Khamenei says US hostility will persist regardless of party in power - Reuters",
+      "title_zh": "Iran's Khamenei says US hostility will persist regardless of party in power - Reuters",
+      "summary_en": "Iran's Khamenei says US hostility will persist regardless of party in power  Reuters",
+      "summary_zh": "Iran's Khamenei says US hostility will persist regardless of party in power  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGVfN21sYmhQcnl4Rm1tdnM0Qk8wcnFQT0pKT0dPbjlaU0wzUU5STTRnbkZBZVAxR3ZlTnlISnNCRl95VldVTkV3QzhEWFZhMUtzaUxqa1ZUS2kxSGdsMzlKT2FqUkc4LXdfeFVKYUVVOHRoM1dPYV9NZS03NllQdVZzcUZnMmI2V2E4b1BXRTRZUVZIb3VoTXRXZzBPdXR6LTIyODNHZEIxUXZGWF9Fc2J5ek9PNGUyT0kwWmJNaw?oc=5",
+      "sectors": []
     }
   ],
   "corporate": [
