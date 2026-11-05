@@ -1,317 +1,340 @@
 {
   "market": "cn",
-  "updated_at": "2026-11-05T04:06:30+08:00",
+  "updated_at": "2026-11-05T23:42:42+08:00",
   "indices": [
     {
       "name_zh": "上证指数",
       "name_en": "SSE Composite",
-      "value": 3686.17,
-      "change": 78.07,
-      "change_pct": 2.16
+      "value": 3689.91,
+      "change": 3.74,
+      "change_pct": 0.1
     },
     {
       "name_zh": "深证成指",
       "name_en": "SZSE Component",
-      "value": 11335.69,
-      "change": 458.7,
-      "change_pct": 4.22
+      "value": 11471.09,
+      "change": 135.4,
+      "change_pct": 1.19
     },
     {
       "name_zh": "创业板指",
       "name_en": "ChiNext",
-      "value": 2544.73,
-      "change": 153.08,
-      "change_pct": 6.4
+      "value": 2566.8,
+      "change": 22.07,
+      "change_pct": 0.87
     },
     {
       "name_zh": "沪深300",
       "name_en": "CSI 300",
-      "value": 4101.34,
-      "change": 92.47,
-      "change_pct": 2.31
+      "value": 4113.41,
+      "change": 12.07,
+      "change_pct": 0.29
     }
   ],
   "news": [
     {
-      "time": "03:46",
-      "title_zh": "苹果计划进一步下调员工的人工智能使用限额",
-      "title_en": "苹果计划进一步下调员工的人工智能使用限额",
-      "summary_zh": "苹果计划进一步下调员工的人工智能使用限额，部分工程师的每日AI使用额度已从300美元降至200美元。公司同时削减了内部AI使用预算，以控制支出。",
+      "time": "23:25",
+      "title_zh": "费城半导体指数日内跌9%",
+      "title_en": "费城半导体指数日内跌9%",
+      "summary_zh": "【行情】费城半导体指数日内跌9%，现报9331点。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922370086.html",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "03:03",
-      "title_zh": "恒生指数主连夜盘收涨2.1%",
-      "title_en": "恒生指数主连夜盘收涨2.1%",
-      "summary_zh": "恒生指数主连夜盘收涨2.1%。恒生科技指数主连夜盘收涨2.56%。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922368995.html",
+      "url": "https://finance.eastmoney.com/a/202611053923892921.html",
       "sectors": [
         "tech"
       ]
     },
     {
-      "time": "02:53",
-      "title_zh": "美国密西西比州一化工厂发生爆炸",
-      "title_en": "美国密西西比州一化工厂发生爆炸",
-      "summary_zh": "【美国密西西比州一化工厂发生爆炸】当地时间11月4日，总台记者获悉，美国密西西比州一家化工厂发生爆炸，应急救援人员已赶赴现场进行处置。",
+      "time": "23:24",
+      "title_zh": "英伟达股价跌幅扩大至7.6% 创2025年4月以来最大跌幅",
+      "title_en": "英伟达股价跌幅扩大至7.6% 创2025年4月以来最大跌幅",
+      "summary_zh": "【行情】英伟达股价跌幅扩大至7.6%，创2025年4月以来最大跌幅。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922369647.html",
+      "url": "https://finance.eastmoney.com/a/202611053923892585.html",
       "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "23:16",
+      "title_zh": "美股存储板块跌势进一步扩大 闪迪跌超17% 美光跌逾12%",
+      "title_en": "美股存储板块跌势进一步扩大 闪迪跌超17% 美光跌逾12%",
+      "summary_zh": "【美股存储板块跌势进一步扩大 闪迪跌超17% 美光跌逾12%】11月5日消息，美股存储板块持续遭遇抛售，费城半导体指数跌8.31%。个股方面，闪迪跌幅扩大至17.09%，铠侠ADR跌15.20%，美光科技跌12.57%，西部数据跌13.48",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923887595.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "23:13",
+      "title_zh": "英伟达股价下挫7% 总市值跌至4.5万亿美元",
+      "title_en": "英伟达股价下挫7% 总市值跌至4.5万亿美元",
+      "summary_zh": "【英伟达股价下挫7% 总市值跌至4.5万亿美元】英伟达股价下跌6.7%，报186.730美元/股，总市值报4.50万亿美元。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923885857.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "23:13",
+      "title_zh": "费城半导体指数跌幅扩大至8%",
+      "title_en": "费城半导体指数跌幅扩大至8%",
+      "summary_zh": "【费城半导体指数跌幅扩大至8%】11月5日消息，费城半导体指数跌幅扩大至8%，报9441.24点。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923885136.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "23:06",
+      "title_zh": "国内商品期市夜盘收盘多数下跌 能源品跌幅居前",
+      "title_en": "国内商品期市夜盘收盘多数下跌 能源品跌幅居前",
+      "summary_zh": "【国内商品期市夜盘收盘多数下跌 能源品跌幅居前】截止收盘，DCELPG跌4.46%；化工品多数下跌，DCE聚乙烯跌4.32%；油脂油料多数下跌，CZCE菜油跌1.57%；黑色系涨幅居前，DCE焦炭涨2.80%；非金属建材涨跌参半，CZCE玻",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923881817.html",
+      "sectors": [
+        "energy",
         "industry"
       ]
     },
     {
-      "time": "01:31",
-      "title_zh": "欧盟委员会举行多方涉乌会谈 讨论乌克兰战后重建与经济发展",
-      "title_en": "欧盟委员会举行多方涉乌会谈 讨论乌克兰战后重建与经济发展",
-      "summary_zh": "【欧盟委员会举行多方涉乌会谈 讨论乌克兰战后重建与经济发展】欧盟委员会11月4日在布鲁塞尔举行乌克兰问题多方会谈，乌克兰、德国、法国、英国和美国代表，以及北约、世界银行代表参加，重点讨论乌克兰战后重建和经济发展。欧盟委员会会后发表声明说，此",
+      "time": "23:01",
+      "title_zh": "美股AI硬件产业链全线重挫 费城半导体指数跌逾7% 多只个股跌超10%",
+      "title_en": "美股AI硬件产业链全线重挫 费城半导体指数跌逾7% 多只个股跌超10%",
+      "summary_zh": "【美股AI硬件产业链全线重挫 费城半导体指数跌逾7% 多只个股跌超10%】美股AI硬件产业链遭遇集体抛售，芯片、存储、半导体设备及光通信板块普遍大幅下跌。费城半导体指数跌7.25%。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922362139.html",
+      "url": "https://finance.eastmoney.com/a/202611053923877292.html",
       "sectors": [
-        "finance"
+        "tech",
+        "comm",
+        "industry"
       ]
     },
     {
-      "time": "01:26",
-      "title_zh": "城堡证券：美国中期选举结束后股市将迎来上涨",
-      "title_en": "城堡证券：美国中期选举结束后股市将迎来上涨",
-      "summary_zh": "【城堡证券：美国中期选举结束后股市将迎来上涨】城堡证券（CitadelSecurities）股票及股票衍生品策略主管鲁伯纳（ScottRubner）表示，随着中期选举消除了一大不确定性来源，美股已准备好在年尾迎来反弹。美股在年尾前阻力最小的",
+      "time": "22:58",
+      "title_zh": "马斯克旗下特斯拉和SpaceX双双重挫10%和7%",
+      "title_en": "马斯克旗下特斯拉和SpaceX双双重挫10%和7%",
+      "summary_zh": "【马斯克旗下特斯拉和SpaceX双双重挫10%和7%】纳斯达克综合指数跌3.05%，报24951.1点。特斯拉股价下跌10.09%，报346.321美元/股，总市值报1.37万亿美元。SpaceX股价下跌7.41%，报125.845美元/股",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922362015.html",
+      "url": "https://finance.eastmoney.com/a/202611053923874197.html",
       "sectors": [
-        "finance"
+        "space"
       ]
     },
     {
-      "time": "01:09",
-      "title_zh": "瑞银在伦敦裁员约200人 其中包括投资银行家",
-      "title_en": "瑞银在伦敦裁员约200人 其中包括投资银行家",
-      "summary_zh": "瑞银在伦敦裁员约200人，其中包括投资银行家。",
+      "time": "22:48",
+      "title_zh": "费城半导体指数跌幅扩大至6.5%",
+      "title_en": "费城半导体指数跌幅扩大至6.5%",
+      "summary_zh": "【行情】费城半导体指数跌幅扩大至6.5%，报9651.69点。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922358961.html",
+      "url": "https://finance.eastmoney.com/a/202611053923867658.html",
       "sectors": [
-        "finance"
+        "tech"
       ]
     },
     {
-      "time": "03:54",
-      "title_zh": "泽连斯基表示 他已与库什纳和威特科夫通电话",
-      "title_en": "泽连斯基表示 他已与库什纳和威特科夫通电话",
-      "summary_zh": "泽连斯基表示，他已与库什纳和威特科夫通电话。",
+      "time": "22:47",
+      "title_zh": "马斯克旗下特斯拉和SpaceX双双重挫",
+      "title_en": "马斯克旗下特斯拉和SpaceX双双重挫",
+      "summary_zh": "【马斯克旗下特斯拉和SpaceX双双重挫】SpaceX股价下跌6.23%，报127.455美元/股，总市值报1.73万亿美元。特斯拉股价下跌9.01%，报350.472美元/股，总市值报1.39万亿美元。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922370362.html",
+      "url": "https://finance.eastmoney.com/a/202611053923867982.html",
+      "sectors": [
+        "space"
+      ]
+    },
+    {
+      "time": "22:45",
+      "title_zh": "美股光通信股续跌",
+      "title_en": "美股光通信股续跌",
+      "summary_zh": "【美股光通信股续跌】截至发稿，AAOI跌超11%，Lumentum跌近9%，Coherent跌超7%，康宁跌近7%。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923868484.html",
+      "sectors": [
+        "comm"
+      ]
+    },
+    {
+      "time": "22:41",
+      "title_zh": "英伟达、台积电分别下挫4%、5%",
+      "title_en": "英伟达、台积电分别下挫4%、5%",
+      "summary_zh": "【英伟达、台积电分别下挫4%、5%】英伟达股价下跌4.08%，报191.970美元/股，总市值报4.63万亿美元。台积电股价下跌5.09%，报375.610美元/股，总市值报1.95万亿美元。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923863678.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "22:39",
+      "title_zh": "美股存储板块跌势加剧",
+      "title_en": "美股存储板块跌势加剧",
+      "summary_zh": "【美股存储板块跌势加剧】美股存储板块持续遭遇抛售，费城半导体指数跌5.82%。个股方面，闪迪跌幅扩大至11.00%，西部数据跌9.44%，希捷科技跌9.99%，SK海力士跌7.93%，美光科技跌7.03%。存储板块主要个股跌幅均接近或超过7",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923860776.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "22:31",
+      "title_zh": "费城半导体指数跌5%",
+      "title_en": "费城半导体指数跌5%",
+      "summary_zh": "【行情】费城半导体指数跌5%，报9794.4点。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923854723.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "22:30",
+      "title_zh": "美股三大股指开盘涨跌不一 AI硬件继续下挫",
+      "title_en": "美股三大股指开盘涨跌不一 AI硬件继续下挫",
+      "summary_zh": "【美股三大股指开盘涨跌不一 AI硬件继续下挫】美股三大股指开盘涨跌不一，道琼斯指数涨0.63%，标普500指数跌0.18%，纳斯达克综合指数跌0.80%。板块分化，AI硬件继续下挫。苹果股价上涨1.64%，英伟达股价下跌2.34%，微软股价",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923852739.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "22:26",
+      "title_zh": "Momenta拟与上汽集团及延电科技成立合资公司 注册资本3亿元",
+      "title_en": "Momenta拟与上汽集团及延电科技成立合资公司 注册资本3亿元",
+      "summary_zh": "【Momenta拟与上汽集团及延电科技成立合资公司 注册资本3亿元】Momenta公告称，公司全资附属公司魔门塔（苏州）科技有限公司已与上汽集团及延电科技达成协议，共同成立一家合资公司，注册资本为3亿元人民币。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923851218.html",
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "time": "23:32",
+      "title_zh": "比特币、以太坊重挫5%、6.5%",
+      "title_en": "比特币、以太坊重挫5%、6.5%",
+      "summary_zh": "【比特币、以太坊重挫5%、6.5%】行情显示，比特币跌至76675.5美元，过去24小时内跌4.83%；以太坊跌至2280.84美元，过去24小时内跌6.47%。",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611053923895640.html",
       "sectors": []
     },
     {
-      "time": "03:49",
-      "title_zh": "美国页岩油生产商Enduring Resources IV的所有方据悉正探索以超过40亿美元的估值出售该公司",
-      "title_en": "美国页岩油生产商Enduring Resources IV的所有方据悉正探索以超过40亿美元的估值出售该公司",
-      "summary_zh": "美国页岩油生产商EnduringResourcesIV的所有方据悉正探索以超过40亿美元的估值出售该公司。",
+      "time": "23:30",
+      "title_zh": "美国上周EIA天然气库存增加770亿立方英尺",
+      "title_en": "美国上周EIA天然气库存增加770亿立方英尺",
+      "summary_zh": "【数据】美国上周EIA天然气库存增加770亿立方英尺，预期增加810亿立方英尺，前值增加800亿立方英尺。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922370160.html",
+      "url": "https://finance.eastmoney.com/a/202611053923895123.html",
       "sectors": []
     },
     {
-      "time": "03:43",
-      "title_zh": "据叙利亚财政部声明 沙特阿拉伯与叙利亚签署了六项协议",
-      "title_en": "据叙利亚财政部声明 沙特阿拉伯与叙利亚签署了六项协议",
-      "summary_zh": "据叙利亚财政部声明，沙特阿拉伯与叙利亚签署了六项协议，提供总额超过4.03亿美元的优惠发展贷款，用于支持叙利亚的发展与服务领域。",
+      "time": "23:29",
+      "title_zh": "美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高",
+      "title_en": "美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高",
+      "summary_zh": "【美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高】美国股市波动率显著上升，标普500波动率指数（VIX）报24.44点，大涨7.83点，涨幅达47.14%，盘中最高触及24.44点，创4月7日以来新高。与此同时，美股三大指数",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922369950.html",
+      "url": "https://finance.eastmoney.com/a/202611053923895269.html",
       "sectors": []
     },
     {
-      "time": "03:39",
-      "title_zh": "美国佛州坦帕市发生枪击事件 2人死亡",
-      "title_en": "美国佛州坦帕市发生枪击事件 2人死亡",
-      "summary_zh": "【美国佛州坦帕市发生枪击事件 2人死亡】当地时间11月4日，总台记者获悉，美国佛罗里达州坦帕市发生一起枪击事件。",
+      "time": "23:28",
+      "title_zh": "标普500指数跌幅扩大",
+      "title_en": "标普500指数跌幅扩大",
+      "summary_zh": "【行情】标普500指数跌幅扩大，现跌2.7%。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922369840.html",
+      "url": "https://finance.eastmoney.com/a/202611053923893113.html",
       "sectors": []
     },
     {
-      "time": "03:15",
-      "title_zh": "道指涨幅扩大至3%",
-      "title_en": "道指涨幅扩大至3%",
-      "summary_zh": "美国三大股指涨幅扩大，道琼斯指数涨3.02%，标普500指数涨1.82%，纳斯达克综合指数涨1.94%。",
+      "time": "23:21",
+      "title_zh": "LME伦铜跌幅扩大",
+      "title_en": "LME伦铜跌幅扩大",
+      "summary_zh": "【行情】LME伦铜跌幅扩大，现跌1.0%，最新报13870.96美元/吨。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922369255.html",
+      "url": "https://finance.eastmoney.com/a/202611053923889740.html",
       "sectors": []
     },
     {
-      "time": "02:49",
-      "title_zh": "欧洲央行管委卡扎克斯表示 如果通胀风险扩散 利率需要上升 利率可能会逐步上调",
-      "title_en": "欧洲央行管委卡扎克斯表示 如果通胀风险扩散 利率需要上升 利率可能会逐步上调",
-      "summary_zh": "欧洲央行管委卡扎克斯表示，如果通胀风险扩散，利率需要上升。利率可能会逐步上调。",
+      "time": "23:17",
+      "title_zh": "随着美股下挫 恐慌指数VIX飙升5点",
+      "title_en": "随着美股下挫 恐慌指数VIX飙升5点",
+      "summary_zh": "【随着美股下挫 恐慌指数VIX飙升5点】随着美股下挫，恐慌指数VIX飙升5点，至22.6点。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922367852.html",
+      "url": "https://finance.eastmoney.com/a/202611053923888435.html",
       "sectors": []
     },
     {
-      "time": "02:31",
-      "title_zh": "上期所原油期货2612合约夜盘收跌7.07%",
-      "title_en": "上期所原油期货2612合约夜盘收跌7.07%",
-      "summary_zh": "上期所原油期货2612合约夜盘收跌7.07%，报628.40元人民币/桶。沪金夜盘收涨2.61%，沪银收涨4.80%。",
+      "time": "23:13",
+      "title_zh": "礼来股价逆势上涨2.4% 续刷记录新高",
+      "title_en": "礼来股价逆势上涨2.4% 续刷记录新高",
+      "summary_zh": "【礼来股价逆势上涨2.4% 续刷记录新高】11月5日消息，美股下跌之际，礼来股价上涨2.4%，续刷记录新高，报1451.990美元/股，总市值报1.37万亿美元。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922367748.html",
+      "url": "https://finance.eastmoney.com/a/202611053923884621.html",
       "sectors": []
     },
     {
-      "time": "02:30",
-      "title_zh": "特朗普中期选举失利后首次露面",
-      "title_en": "特朗普中期选举失利后首次露面",
-      "summary_zh": "【特朗普中期选举失利后首次露面】美国总统特朗普在中期选举失利后首次露面。他在白宫对媒体表示，选举失利在很大程度上确实是由与伊朗的冲突所致，但如果重来一次，他仍会作同样的决定。特朗普称，绝不能让伊朗拥有核武器。",
+      "time": "23:07",
+      "title_zh": "纳斯达克综合指数从10月6日的收盘高点下跌超过10%",
+      "title_en": "纳斯达克综合指数从10月6日的收盘高点下跌超过10%",
+      "summary_zh": "【行情】纳斯达克综合指数从10月6日的收盘高点下跌超过10%。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922367617.html",
+      "url": "https://finance.eastmoney.com/a/202611053923882196.html",
       "sectors": []
     },
     {
-      "time": "02:24",
-      "title_zh": "美国总统特朗普表示；伊朗战争何时结束由他决定 没有考虑替换美股国防部长海格塞斯",
-      "title_en": "美国总统特朗普表示；伊朗战争何时结束由他决定 没有考虑替换美股国防部长海格塞斯",
-      "summary_zh": "美国总统特朗普表示，伊朗战争何时结束，由他决定。没有考虑替换美股国防部长海格塞斯。",
+      "time": "23:04",
+      "title_zh": "随着美股下挫 恐慌指数VIX飙升4点",
+      "title_en": "随着美股下挫 恐慌指数VIX飙升4点",
+      "summary_zh": "随着美股下挫，恐慌指数VIX飙升4点，至21点。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922367519.html",
+      "url": "https://finance.eastmoney.com/a/202611053923880679.html",
       "sectors": []
     },
     {
-      "time": "02:17",
-      "title_zh": "万斯称中期选举失利因伊朗战事",
-      "title_en": "万斯称中期选举失利因伊朗战事",
-      "summary_zh": "【万斯称中期选举失利因伊朗战事】美国副总统万斯当地时间11月4日在社交媒体发文，将共和党中期选举失利归咎于对伊朗的战争。万斯表示：“我们输掉选举的根源，就是这场战争。总统本人也承认了这一点。”万斯在帖文中指出，共和党选民的投票率并不低，“但",
+      "time": "22:41",
+      "title_zh": "纳斯达克综合指数跌幅扩大至2.06%",
+      "title_en": "纳斯达克综合指数跌幅扩大至2.06%",
+      "summary_zh": "【行情】纳斯达克综合指数跌幅扩大至2.06%，报25207.54点。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922367414.html",
+      "url": "https://finance.eastmoney.com/a/202611053923863251.html",
       "sectors": []
     },
     {
-      "time": "02:16",
-      "title_zh": "美联储隔夜逆回购协议（RRP）周三使用规模为2.25亿美元（交易对手1家） 上个交易日报4.27亿美元",
-      "title_en": "美联储隔夜逆回购协议（RRP）周三使用规模为2.25亿美元（交易对手1家） 上个交易日报4.27亿美元",
-      "summary_zh": "美联储隔夜逆回购协议（RRP）周三使用规模为2.25亿美元（交易对手1家），上个交易日报4.27亿美元。",
+      "time": "22:35",
+      "title_zh": "纳斯达克100指数期货跌幅扩大至2%",
+      "title_en": "纳斯达克100指数期货跌幅扩大至2%",
+      "summary_zh": "【行情】纳斯达克100指数期货跌幅扩大至2%，报27993.32点。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922367320.html",
+      "url": "https://finance.eastmoney.com/a/202611053923857689.html",
       "sectors": []
     },
     {
-      "time": "02:10",
-      "title_zh": "进博会今日开幕 逾4000家企业共赴“开放之约”",
-      "title_en": "进博会今日开幕 逾4000家企业共赴“开放之约”",
-      "summary_zh": "【进博会今日开幕 逾4000家企业共赴“开放之约”】11月5日，第九届中国国际进口博览会（简称“进博会”）在国家会展中心（上海）盛大开幕。来自世界各地的参展商、采购商再次聚首，共赴一年一度的“开放之约”。",
+      "time": "22:34",
+      "title_zh": "高通开盘跌近14%",
+      "title_en": "高通开盘跌近14%",
+      "summary_zh": "【行情】高通开盘下跌近14%，势将创下2020年以来最差单日表现。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922364569.html",
+      "url": "https://finance.eastmoney.com/a/202611053923857421.html",
       "sectors": []
     },
     {
-      "time": "01:55",
-      "title_zh": "LME期锡收跌440美元",
-      "title_en": "LME期锡收跌440美元",
-      "summary_zh": "【LME期锡收跌440美元】LME期铜收跌25美元，报14011美元/吨。LME期铝收涨2美元，报3047美元/吨。LME期锌收涨16美元，报3807美元/吨。LME期铅收跌2美元，报1882美元/吨。LME期镍收涨432美元，报15779",
+      "time": "22:27",
+      "title_zh": "伊朗外长与沙特和卡塔尔外交大臣通电话 讨论地区局势",
+      "title_en": "伊朗外长与沙特和卡塔尔外交大臣通电话 讨论地区局势",
+      "summary_zh": "【伊朗外长与沙特和卡塔尔外交大臣通电话 讨论地区局势】当地时间11月5日，伊朗外长阿拉格齐与沙特和卡塔尔外交大臣通电话，讨论地区局势以及旨在维护地区稳定的最新外交努力。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922365284.html",
+      "url": "https://finance.eastmoney.com/a/202611053923850661.html",
       "sectors": []
     },
     {
-      "time": "01:42",
-      "title_zh": "国际油价跌幅扩大 WTI原油期货价格跌8.63% 布伦特原油期货价格跌9.06%",
-      "title_en": "国际油价跌幅扩大 WTI原油期货价格跌8.63% 布伦特原油期货价格跌9.06%",
-      "summary_zh": "国际油价跌幅扩大，截至目前，WTI原油期货价格跌8.63%，报87.797美元/桶；布伦特原油期货价格跌9.06%，报94.210美元/桶。",
+      "time": "22:22",
+      "title_zh": "美联储巴尔金：逐步加息仍然是合理的",
+      "title_en": "美联储巴尔金：逐步加息仍然是合理的",
+      "summary_zh": "美联储巴尔金表示，在我看来，逐步加息仍然是合理的。",
       "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922363539.html",
-      "sectors": []
-    },
-    {
-      "time": "01:39",
-      "title_zh": "国际贵金属扩大涨幅 现货黄金价格涨3.52% 现货白银价格涨5.28%",
-      "title_en": "国际贵金属扩大涨幅 现货黄金价格涨3.52% 现货白银价格涨5.28%",
-      "summary_zh": "国际贵金属扩大涨幅，现货黄金价格涨3.52%，报4068.30美元/盎司；现货白银价格涨5.28%，报52.40美元/盎司。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922363414.html",
-      "sectors": []
-    },
-    {
-      "time": "01:33",
-      "title_zh": "众议院民主党领袖杰弗里斯表示：将推动通过法案以终止特朗普的关税措施并结束伊朗战争",
-      "title_en": "众议院民主党领袖杰弗里斯表示：将推动通过法案以终止特朗普的关税措施并结束伊朗战争",
-      "summary_zh": "众议院民主党领袖杰弗里斯表示，将推动通过法案以终止特朗普的关税措施并结束伊朗战争。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922363385.html",
-      "sectors": []
-    },
-    {
-      "time": "01:14",
-      "title_zh": "西班牙请求欧盟铁路局协助调查高铁事故",
-      "title_en": "西班牙请求欧盟铁路局协助调查高铁事故",
-      "summary_zh": "【西班牙请求欧盟铁路局协助调查高铁事故】欧盟委员会可持续交通和旅游专员阿波斯托洛斯·齐齐科斯塔斯4日表示，西班牙方面当天上午请求欧盟铁路局提供技术支持，协助调查10月28日在西班牙卡斯蒂利亚－拉曼查自治区发生的高速列车事故，相关援助已在进行",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922359198.html",
-      "sectors": []
-    },
-    {
-      "time": "01:08",
-      "title_zh": "Aker BP的股东BP Exploration计划通过发售出售约12亿美元的Aker BP股份",
-      "title_en": "Aker BP的股东BP Exploration计划通过发售出售约12亿美元的Aker BP股份",
-      "summary_zh": "AkerBP的股东BPExploration计划通过发售出售约12亿美元的AkerBP股份。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922358872.html",
-      "sectors": []
-    },
-    {
-      "time": "00:56",
-      "title_zh": "Moderna在季度业绩发布前市值突破1000亿美元 股价涨幅达9.5%",
-      "title_en": "Moderna在季度业绩发布前市值突破1000亿美元 股价涨幅达9.5%",
-      "summary_zh": "Moderna在季度业绩发布前市值突破1000亿美元，股价涨幅达9.5%。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922357381.html",
-      "sectors": []
-    },
-    {
-      "time": "00:45",
-      "title_zh": "美国总统特朗普据悉一直在询问顾问，是否应该让美国国防部长赫格塞斯继续留任，特朗普尚未决定撤换海格塞斯，佛州州长德桑蒂斯被视作赫格塞斯的潜在继任者",
-      "title_en": "美国总统特朗普据悉一直在询问顾问，是否应该让美国国防部长赫格塞斯继续留任，特朗普尚未决定撤换海格塞斯，佛州州长德桑蒂斯被视作赫格塞斯的潜在继任者",
-      "summary_zh": "美国总统特朗普据悉一直在询问顾问，是否应该让美国国防部长赫格塞斯继续留任。特朗普尚未决定撤换海格塞斯。佛州州长德桑蒂斯被视作赫格塞斯的潜在继任者。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922355284.html",
-      "sectors": []
-    },
-    {
-      "time": "00:43",
-      "title_zh": "欧洲主要股指收盘集体上涨",
-      "title_en": "欧洲主要股指收盘集体上涨",
-      "summary_zh": "欧洲主要股指收盘集体上涨，英国富时100指数涨1.79%，法国CAC40指数涨2.15%，德国DAX30指数涨2.38%，富时意大利MIB指数涨2.18%。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922355188.html",
-      "sectors": []
-    },
-    {
-      "time": "00:42",
-      "title_zh": "WTI原油期货跌破90美元",
-      "title_en": "WTI原油期货跌破90美元",
-      "summary_zh": "【WTI原油期货跌破90美元】国际油价持续走低，WTI原油期货价格跌6.72%，报89.631美元/桶；布伦特原油期货价格跌7.65%，报95.670美元/桶。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922354297.html",
-      "sectors": []
-    },
-    {
-      "time": "00:39",
-      "title_zh": "以军对黎南部发动空袭 造成1死1伤",
-      "title_en": "以军对黎南部发动空袭 造成1死1伤",
-      "summary_zh": "【以军对黎南部发动空袭 造成1死1伤】当地时间4日，以军发布声明表示，当天在黎巴嫩南部、以军单方面划定的军事缓冲区以外地区，以军发现两名正在观察以军士兵的人员。以军随后对该二人发动空袭。黎巴嫩方面消息称，以军本次袭击造成1死1伤。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922353916.html",
-      "sectors": []
-    },
-    {
-      "time": "00:34",
-      "title_zh": "布油期货跌幅扩大至6%",
-      "title_en": "布油期货跌幅扩大至6%",
-      "summary_zh": "【布油期货跌幅扩大至6%】国际油价持续走低，WTI原油期货价格跌5.39%，报90.909美元/桶；布伦特原油期货价格跌6.10%，报97.283美元/桶。",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202611053922353585.html",
+      "url": "https://finance.eastmoney.com/a/202611053923847361.html",
       "sectors": []
     }
   ],
@@ -513,15 +536,6 @@
     },
     {
       "tag": "分红",
-      "title_zh": "宿迁联盛(603065) 分红方案: 实施分配 · 公告 2026-01-08",
-      "title_en": "宿迁联盛(603065) 分红方案: 实施分配 · 公告 2026-01-08",
-      "time": "2026-01-08",
-      "code": "603065",
-      "url": "https://data.eastmoney.com/notices/stock/603065.html",
-      "sectors": []
-    },
-    {
-      "tag": "分红",
       "title_zh": "新乳业(002946) 分红方案: 实施分配 · 公告 2026-01-08",
       "title_en": "新乳业(002946) 分红方案: 实施分配 · 公告 2026-01-08",
       "time": "2026-01-08",
@@ -536,6 +550,15 @@
       "time": "2026-01-08",
       "code": "600729",
       "url": "https://data.eastmoney.com/notices/stock/600729.html",
+      "sectors": []
+    },
+    {
+      "tag": "分红",
+      "title_zh": "宿迁联盛(603065) 分红方案: 实施分配 · 公告 2026-01-08",
+      "title_en": "宿迁联盛(603065) 分红方案: 实施分配 · 公告 2026-01-08",
+      "time": "2026-01-08",
+      "code": "603065",
+      "url": "https://data.eastmoney.com/notices/stock/603065.html",
       "sectors": []
     },
     {
@@ -869,88 +892,87 @@
   ],
   "boards": [
     {
-      "name": "存储芯片",
-      "change_pct": 9.51,
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "name": "科技风格",
-      "change_pct": 8.99,
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "name": "第四代半导体",
-      "change_pct": 7.74,
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "name": "光通信模块",
-      "change_pct": 7.64,
-      "sectors": [
-        "comm"
-      ]
-    },
-    {
-      "name": "汽车芯片",
-      "change_pct": 7.62,
-      "sectors": [
-        "tech",
-        "industry"
-      ]
-    },
-    {
-      "name": "AI芯片",
-      "change_pct": 7.57,
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "name": "半导体概念",
-      "change_pct": 7.47,
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "name": "英伟达概念",
-      "change_pct": 6.67,
+      "name": "ChatGPT概念",
+      "change_pct": 3.82,
       "sectors": [
         "ai"
       ]
     },
     {
-      "name": "第三代半导体",
-      "change_pct": 6.64,
+      "name": "氟化工概念",
+      "change_pct": 3.55,
+      "sectors": [
+        "industry"
+      ]
+    },
+    {
+      "name": "云计算",
+      "change_pct": 3.54,
       "sectors": [
         "tech"
       ]
     },
     {
-      "name": "国产芯片",
-      "change_pct": 6.25,
+      "name": "算力概念",
+      "change_pct": 3.54,
       "sectors": [
-        "tech"
+        "ai"
       ]
     },
     {
-      "name": "消费电子概念",
-      "change_pct": 5.93,
+      "name": "DeepSeek概念",
+      "change_pct": 3.25,
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "name": "光伏概念",
+      "change_pct": 3.23,
+      "sectors": [
+        "energy"
+      ]
+    },
+    {
+      "name": "基因测序",
+      "change_pct": 3.23,
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "name": "文娱消费",
+      "change_pct": 3.22,
       "sectors": [
         "consumer"
       ]
     },
     {
-      "name": "F5G概念",
-      "change_pct": 5.67,
+      "name": "AI制药（医疗）",
+      "change_pct": 3.12,
       "sectors": [
-        "comm"
+        "bio"
+      ]
+    },
+    {
+      "name": "消费电子概念",
+      "change_pct": 2.98,
+      "sectors": [
+        "consumer"
+      ]
+    },
+    {
+      "name": "第三代半导体",
+      "change_pct": 2.89,
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "name": "锂电池概念",
+      "change_pct": 2.87,
+      "sectors": [
+        "energy"
       ]
     }
   ]
