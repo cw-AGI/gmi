@@ -1,6 +1,6 @@
 {
   "market": "cn",
-  "updated_at": "2026-11-17T06:35:19+08:00",
+  "updated_at": "2026-11-18T01:00:01+08:00",
   "indices": [
     {
       "name_zh": "上证指数",
@@ -336,22 +336,22 @@
     },
     {
       "tag": "分红",
-      "title_zh": "中信证券(600030) 分红方案: 实施分配 · 公告 2026-02-03",
-      "title_en": "中信证券(600030) 分红方案: 实施分配 · 公告 2026-02-03",
+      "title_zh": "兰州银行(001227) 分红方案: 实施分配 · 公告 2026-02-03",
+      "title_en": "兰州银行(001227) 分红方案: 实施分配 · 公告 2026-02-03",
       "time": "2026-02-03",
-      "code": "600030",
-      "url": "https://data.eastmoney.com/notices/stock/600030.html",
+      "code": "001227",
+      "url": "https://data.eastmoney.com/notices/stock/001227.html",
       "sectors": [
         "finance"
       ]
     },
     {
       "tag": "分红",
-      "title_zh": "兰州银行(001227) 分红方案: 实施分配 · 公告 2026-02-03",
-      "title_en": "兰州银行(001227) 分红方案: 实施分配 · 公告 2026-02-03",
+      "title_zh": "中信证券(600030) 分红方案: 实施分配 · 公告 2026-02-03",
+      "title_en": "中信证券(600030) 分红方案: 实施分配 · 公告 2026-02-03",
       "time": "2026-02-03",
-      "code": "001227",
-      "url": "https://data.eastmoney.com/notices/stock/001227.html",
+      "code": "600030",
+      "url": "https://data.eastmoney.com/notices/stock/600030.html",
       "sectors": [
         "finance"
       ]
@@ -489,15 +489,6 @@
     },
     {
       "tag": "分红",
-      "title_zh": "三花智控(002050) 分红方案: 实施分配 · 公告 2026-01-08",
-      "title_en": "三花智控(002050) 分红方案: 实施分配 · 公告 2026-01-08",
-      "time": "2026-01-08",
-      "code": "002050",
-      "url": "https://data.eastmoney.com/notices/stock/002050.html",
-      "sectors": []
-    },
-    {
-      "tag": "分红",
       "title_zh": "宿迁联盛(603065) 分红方案: 实施分配 · 公告 2026-01-08",
       "title_en": "宿迁联盛(603065) 分红方案: 实施分配 · 公告 2026-01-08",
       "time": "2026-01-08",
@@ -521,6 +512,15 @@
       "time": "2026-01-08",
       "code": "600729",
       "url": "https://data.eastmoney.com/notices/stock/600729.html",
+      "sectors": []
+    },
+    {
+      "tag": "分红",
+      "title_zh": "三花智控(002050) 分红方案: 实施分配 · 公告 2026-01-08",
+      "title_en": "三花智控(002050) 分红方案: 实施分配 · 公告 2026-01-08",
+      "time": "2026-01-08",
+      "code": "002050",
+      "url": "https://data.eastmoney.com/notices/stock/002050.html",
       "sectors": []
     },
     {
@@ -638,6 +638,26 @@
       "sectors": [
         "tech"
       ]
+    },
+    {
+      "name_zh": "猎奇智能",
+      "name_en": "猎奇智能",
+      "code": "301661",
+      "date": "11-26",
+      "price": "",
+      "market_zh": "非科创板",
+      "url": "https://quote.eastmoney.com/301661.html",
+      "sectors": []
+    },
+    {
+      "name_zh": "天广实",
+      "name_en": "天广实",
+      "code": "920319",
+      "date": "11-25",
+      "price": "",
+      "market_zh": "北交所",
+      "url": "https://quote.eastmoney.com/920319.html",
+      "sectors": []
     },
     {
       "name_zh": "华晟智能",
@@ -848,112 +868,91 @@
       "market_zh": "北交所",
       "url": "https://quote.eastmoney.com/920201.html",
       "sectors": []
-    },
-    {
-      "name_zh": "信诺维",
-      "name_en": "信诺维",
-      "code": "688837",
-      "date": "09-03",
-      "price": "¥27.6",
-      "market_zh": "科创板",
-      "url": "https://quote.eastmoney.com/688837.html",
-      "sectors": []
-    },
-    {
-      "name_zh": "腾信精密",
-      "name_en": "腾信精密",
-      "code": "920298",
-      "date": "09-02",
-      "price": "¥35.78",
-      "market_zh": "北交所",
-      "url": "https://quote.eastmoney.com/920298.html",
-      "sectors": []
     }
   ],
   "boards": [
     {
-      "name": "消费电子概念",
-      "change_pct": 3.72,
-      "sectors": [
-        "consumer"
-      ]
-    },
-    {
-      "name": "文娱消费",
-      "change_pct": 3.61,
-      "sectors": [
-        "consumer"
-      ]
-    },
-    {
-      "name": "英伟达概念",
-      "change_pct": 3.32,
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "name": "生物识别",
-      "change_pct": 3.3,
-      "sectors": [
-        "bio"
-      ]
-    },
-    {
-      "name": "ChatGPT概念",
-      "change_pct": 3.3,
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "name": "AI芯片",
-      "change_pct": 3.19,
+      "name": "第四代半导体",
+      "change_pct": 3.01,
       "sectors": [
         "tech"
       ]
     },
     {
-      "name": "汽车芯片",
-      "change_pct": 3.19,
-      "sectors": [
-        "tech",
-        "industry"
-      ]
-    },
-    {
-      "name": "新型工业化",
-      "change_pct": 3.03,
+      "name": "工业气体",
+      "change_pct": 0.95,
       "sectors": [
         "industry"
       ]
     },
     {
-      "name": "卫星互联网",
-      "change_pct": 3.03,
+      "name": "消费风格",
+      "change_pct": 0.7,
       "sectors": [
-        "space"
+        "consumer"
       ]
     },
     {
-      "name": "F5G概念",
-      "change_pct": 2.98,
+      "name": "存储芯片",
+      "change_pct": 0.48,
       "sectors": [
-        "comm"
+        "tech"
       ]
     },
     {
-      "name": "华为汽车",
-      "change_pct": 2.88,
+      "name": "氟化工概念",
+      "change_pct": 0.23,
       "sectors": [
         "industry"
       ]
     },
     {
-      "name": "通信技术",
-      "change_pct": 2.78,
+      "name": "磷化工",
+      "change_pct": 0.08,
       "sectors": [
-        "comm"
+        "industry"
+      ]
+    },
+    {
+      "name": "金融地产风格",
+      "change_pct": 0.0,
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "name": "MCU芯片",
+      "change_pct": -0.01,
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "name": "券商金股",
+      "change_pct": -0.14,
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "name": "半导体概念",
+      "change_pct": -0.19,
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "name": "科技风格",
+      "change_pct": -0.21,
+      "sectors": [
+        "tech"
+      ]
+    },
+    {
+      "name": "汽车整车",
+      "change_pct": -0.22,
+      "sectors": [
+        "industry"
       ]
     }
   ]
