@@ -1,27 +1,27 @@
 {
   "market": "us",
-  "updated_at": "2026-11-20T12:18:41-04:00",
+  "updated_at": "2026-11-20T12:53:54-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 706.59,
-      "change": -9.28,
-      "change_pct": -1.2963
+      "value": 702.7,
+      "change": -13.17,
+      "change_pct": -1.8397
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 627.49,
-      "change": -17.55,
-      "change_pct": -2.7208
+      "value": 622.67,
+      "change": -22.37,
+      "change_pct": -3.468
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 490.34,
-      "change": -0.45,
-      "change_pct": -0.0917
+      "value": 488.23,
+      "change": -2.56,
+      "change_pct": -0.5216
     }
   ],
   "news": [
@@ -359,31 +359,49 @@
       ]
     },
     {
-      "time": "11-20 07:03",
-      "title_en": "State Street Energy SPDR (XLE) Sells $174.6 Million of Exxon on Wednesday",
-      "title_zh": "State Street Energy SPDR (XLE) Sells $174.6 Million of Exxon on Wednesday",
-      "summary_en": "The $39.74 billion fund sold $727.9 million of stock and bought nothing, cutting all 21 of its positions.",
-      "summary_zh": "The $39.74 billion fund sold $727.9 million of stock and bought nothing, cutting all 21 of its positions.",
+      "time": "11-20 10:50",
+      "title_en": "Chevron's 39% Gain Rests On A Supply Squeeze",
+      "title_zh": "Chevron's 39% Gain Rests On A Supply Squeeze",
+      "summary_en": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "summary_zh": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2577cd4af4d36f43cafd3232041dee92e984b3f2ce691671665da37256c137ad",
+      "url": "https://finnhub.io/api/news?id=9ab566afe79ab76f947848feac251e05fba80bb9f3f20c902069869aedb1c44d",
       "sectors": [
         "energy"
       ]
     },
     {
-      "time": "11-20 07:02",
-      "title_en": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18",
-      "title_zh": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18",
-      "summary_en": "ETFs sold $305.7 million of ExxonMobil on Wednesday, Nov. 18, with 32 funds buying and 26 selling.",
-      "summary_zh": "ETFs sold $305.7 million of ExxonMobil on Wednesday, Nov. 18, with 32 funds buying and 26 selling.",
+      "time": "11-20 10:00",
+      "title_en": "Can PBR's 280,000-BPD Capacity Expansion Drive Cash Flow Growth?",
+      "title_zh": "Can PBR's 280,000-BPD Capacity Expansion Drive Cash Flow Growth?",
+      "summary_en": "Petrobras is boosting offshore output without building new platforms, potentially accelerating production growth while improving capital efficiency and cash generation.",
+      "summary_zh": "Petrobras is boosting offshore output without building new platforms, potentially accelerating production growth while improving capital efficiency and cash generation.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e1ca7d1937af559c40ba9cb0f21e519e063bc448b967325745b417bb04e46cd",
+      "url": "https://finnhub.io/api/news?id=f7acbd2859fc3b8cfc85be73659ec3c153621da7fadf07e0d8f56a0abcb0fabd",
       "sectors": [
+        "bio",
         "energy"
+      ]
+    },
+    {
+      "time": "11-20 10:52",
+      "title_en": "SpaceX Falls 5%, Breaks Below IPO Price as Lenders Reportedly Balk at Musk’s Orbital AI Chip Plans; Rocket Lab Drops 3%, AST SpaceMobile Dips",
+      "title_zh": "SpaceX Falls 5%, Breaks Below IPO Price as Lenders Reportedly Balk at Musk’s Orbital AI Chip Plans; Rocket Lab Drops 3%, AST SpaceMobile Dips",
+      "summary_en": "Lenders reportedly wanted to keep Elon Musk from launching the very chips securing his massive AI financing into orbit. Now bond buyers are demanding a steep premium, and the fallout is rattling SpaceX shareholders.",
+      "summary_zh": "Lenders reportedly wanted to keep Elon Musk from launching the very chips securing his massive AI financing into orbit. Now bond buyers are demanding a steep premium, and the fallout is rattling SpaceX shareholders.",
+      "context_en": "📰 Source: RKLB · Yahoo · English original",
+      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
+      "source": "RKLB · Yahoo",
+      "url": "https://finnhub.io/api/news?id=892efa1208f9f917d84f64a01a9c289883e05fa606dd1166acec00e56a260c7d",
+      "sectors": [
+        "ai",
+        "finance",
+        "space",
+        "tech"
       ]
     },
     {
@@ -399,20 +417,6 @@
       "sectors": [
         "ai",
         "industry",
-        "space"
-      ]
-    },
-    {
-      "time": "11-20 08:47",
-      "title_en": "Rocket Lab Missed on Q3 Earnings -- and That's Great News",
-      "title_zh": "Rocket Lab Missed on Q3 Earnings -- and That's Great News",
-      "summary_en": "Rocket Lab isn't profitable yet -- but it's on the right track.",
-      "summary_zh": "Rocket Lab isn't profitable yet -- but it's on the right track.",
-      "context_en": "📰 Source: RKLB · Yahoo · English original",
-      "context_zh": "📰 来源: RKLB · Yahoo · 英文原文(未翻译)",
-      "source": "RKLB · Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2ed59af073ac6cb887a9499f142c21530ae480456bea7f4a1fd4ffe86e13eae",
-      "sectors": [
         "space"
       ]
     },
@@ -722,6 +726,18 @@
       "sectors": []
     },
     {
+      "time": "11-20 08:15",
+      "title_en": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse - Reuters",
+      "title_zh": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse - Reuters",
+      "summary_en": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse  Reuters",
+      "summary_zh": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGUwN3RoRW5JY3hyZFVaT0g3enBwSDFiV0xSRGl4dm9KQ0U1RWo5MmhkT1dXbXVKREZkOXQ5RmJBaVNqWEQzTWZWSnpNS2c1MDRqVkZaWVlqTERoX09LUWc1MkFMSS1sVGhSUGJqeDRhaVNCSlU3ZTVVekljNVZaVEZ5MUVyUE5TYW5lS003REVqMHFpTk5KemxrQzFhdWdGZ09QN1F2aTlTZzZfcEl2b2F3LUNCUlZWRlRqME9n?oc=5",
+      "sectors": []
+    },
+    {
       "time": "11-20 08:00",
       "title_en": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
       "title_zh": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
@@ -791,18 +807,6 @@
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTElpWEVLdXdjWl9QOVBPcjRMRWcyN2xMVzdqQ1hSZjJxZTJEUk9QWmtyNldWTHRyUmNBaWFtSUJ5TndzRG9vTHR1bGR5eEZXNkNDbnNNQlRKcW9PdnZPc2VZMVJhOGxablFJeUpLM2UtU1pfXzhUaWVhNi1qeXk0ejFVVDZ3VGp6b01UdmlrMEZicFlqcU9BY2lfN25rWWRMR2p4RkZYdXFkdnJWMVAtSWZkdW5PNHBfTkdxNFRwRQ?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-19 17:43",
-      "title_en": "Houthi strike damages Riyadh’s tallest skyscraper - Reuters",
-      "title_zh": "Houthi strike damages Riyadh’s tallest skyscraper - Reuters",
-      "summary_en": "Houthi strike damages Riyadh’s tallest skyscraper  Reuters",
-      "summary_zh": "Houthi strike damages Riyadh’s tallest skyscraper  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlellNcl9iOFk5YURTaUJXSTRKZkVTWk13NUhyS3ptX3VUOVMzVkV4VFdGQjZpQU9DMFdkNUNXMUZuNWl5SWxxdTZUcXIyNE1NM3VaOHBGWG41RThNQjJ3WjA1Tm0zU28?oc=5",
       "sectors": []
     }
   ],
