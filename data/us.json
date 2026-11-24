@@ -1,153 +1,143 @@
 {
   "market": "us",
-  "updated_at": "2026-11-23T16:02:34-04:00",
+  "updated_at": "2026-11-23T20:26:38-04:00",
   "indices": [
     {
       "name_zh": "标普500",
       "name_en": "S&P 500",
-      "value": 723.33,
-      "change": 33.52,
-      "change_pct": 4.8593
+      "value": 722.29,
+      "change": 32.48,
+      "change_pct": 4.7085
     },
     {
       "name_zh": "纳斯达克100",
       "name_en": "Nasdaq 100",
-      "value": 651.15,
-      "change": 42.7,
-      "change_pct": 7.0178
+      "value": 651.03,
+      "change": 42.58,
+      "change_pct": 6.9981
     },
     {
       "name_zh": "道琼斯",
       "name_en": "Dow Jones",
-      "value": 496.33,
-      "change": 15.25,
-      "change_pct": 3.17
+      "value": 495.8,
+      "change": 14.72,
+      "change_pct": 3.0598
     }
   ],
   "news": [
     {
-      "time": "11-23 13:55",
-      "title_en": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
-      "title_zh": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
-      "summary_en": "After his announcement, Trump posted a photo on Truth Social depicting Huang prevailing by holding up red bra",
-      "summary_zh": "After his announcement, Trump posted a photo on Truth Social depicting Huang prevailing by holding up red bra",
+      "time": "11-23 19:40",
+      "title_en": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang Return; Elon Musk-Led SpaceX, Tesla Rally",
+      "title_zh": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang Return; Elon Musk-Led SpaceX, Tesla Rally",
+      "summary_en": "Dow Jones Futures: Tech stocks and Nvidia stock surged Monday on the return of Jensen Huang. Elon Musk-led SpaceX and Tesla rallied.",
+      "summary_zh": "Dow Jones Futures: Tech stocks and Nvidia stock surged Monday on the return of Jensen Huang. Elon Musk-led SpaceX and Tesla rallied.",
       "context_en": "📰 Source: NVDA · Yahoo · English original",
       "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
       "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f92d005bacc300f499227c0c9eae63456c691364ec16f1b1409fb27119f61a5",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-23 13:54",
-      "title_en": "Should You Buy Marvell Technology Stock Before Dec. 1?",
-      "title_zh": "Should You Buy Marvell Technology Stock Before Dec. 1?",
-      "summary_en": "Marvell's earnings are coming up next month, and expectations are likely going to be high.",
-      "summary_zh": "Marvell's earnings are coming up next month, and expectations are likely going to be high.",
-      "context_en": "📰 Source: NVDA · Yahoo · English original",
-      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
-      "source": "NVDA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff54b5c8210865bdba36a9faf2fecf3c0e93fc5cb7593e7dba18194f03fd6513",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-23 13:22",
-      "title_en": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom",
-      "title_zh": "Advanced Micro Devices vs. Dell Technologies: Comparing Revenue Trends Amid the Artificial Intelligence Boom",
-      "summary_en": "Dell's revenue has consistently outpaced AMD's over the past two years, even as AMD's sales have climbed steadily since late 2024.",
-      "summary_zh": "Dell's revenue has consistently outpaced AMD's over the past two years, even as AMD's sales have climbed steadily since late 2024.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b62e125baa3cff8b23128d7dcc972b0b200e8fc51aa74eba79f280565bf0450",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-23 13:16",
-      "title_en": "How NVDA Stock Rises To $235?",
-      "title_zh": "How NVDA Stock Rises To $235?",
-      "summary_en": "NVIDIA's (NVDA) board unanimously reinstated co-founder Jensen Huang as President, CEO, and director on November 23, 2026, igniting a roughly 30% intraday surge in NVDA shares during Monday morning trading (lifting the stock from Friday's 52-week closing low of $125.53 into the $160+ range, with early trades briefly topping $170.",
-      "summary_zh": "NVIDIA's (NVDA) board unanimously reinstated co-founder Jensen Huang as President, CEO, and director on November 23, 2026, igniting a roughly 30% intraday surge in NVDA shares during Monday morning trading (lifting the stock from Friday's 52-week closing low of $125.53 into the $160+ range, with early trades briefly topping $170.",
-      "context_en": "📰 Source: AMD · Yahoo · English original",
-      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
-      "source": "AMD · Yahoo",
-      "url": "https://finnhub.io/api/news?id=b395c31b5c7cc5086a320e30c7db4ee04164c3cc9fdb4f689a1416d81d955491",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-23 13:31",
-      "title_en": "Why Is Palantir (PLTR) Stock Up Today? AI Rally Follows Nvidia CEO Return",
-      "title_zh": "Why Is Palantir (PLTR) Stock Up Today? AI Rally Follows Nvidia CEO Return",
-      "summary_en": "Palantir shares rose 10.6% on Monday, Nov. 23, as AI stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
-      "summary_zh": "Palantir shares rose 10.6% on Monday, Nov. 23, as AI stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=35e3d327cbc2f2c306c83d524b5933e3fb63a70377c33aeafb8392416e6cf400",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-23 12:28",
-      "title_en": "Why Palantir Stock Popped Today",
-      "title_zh": "Why Palantir Stock Popped Today",
-      "summary_en": "Palantir Shares Surge With Nvidia. The AI Trade Gets a Fresh Boost",
-      "summary_zh": "Palantir Shares Surge With Nvidia. The AI Trade Gets a Fresh Boost",
-      "context_en": "📰 Source: PLTR · Yahoo · English original",
-      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
-      "source": "PLTR · Yahoo",
-      "url": "https://finnhub.io/api/news?id=88ffaf8105c47874c59e12aaa1c6096188585ed7690155391dc80c3679e9e9c0",
-      "sectors": [
-        "ai"
-      ]
-    },
-    {
-      "time": "11-23 13:45",
-      "title_en": "Nebius Keeps Plummeting Amid 50% Drop This Month: This Wall Street Pro Now Predicts 370% Returns After Slight Adjustment",
-      "title_zh": "Nebius Keeps Plummeting Amid 50% Drop This Month: This Wall Street Pro Now Predicts 370% Returns After Slight Adjustment",
-      "summary_en": "Nebius posted a blowout quarter, then watched half its value vanish in weeks. One analyst still sees a staggering rebound, but a delayed data center and a massive spending plan could decide who is right.",
-      "summary_zh": "Nebius posted a blowout quarter, then watched half its value vanish in weeks. One analyst still sees a staggering rebound, but a delayed data center and a massive spending plan could decide who is right.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=5688bed6854955cbc2f3ef9d1e65ce3f4c64aff31453410d08f36265bb9f9f23",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "11-23 13:33",
-      "title_en": "Investors Might Be Underestimating Seagate’s Long-Term AI Growth Opportunity",
-      "title_zh": "Investors Might Be Underestimating Seagate’s Long-Term AI Growth Opportunity",
-      "summary_en": "Seagate's stock has already doubled this year, then slid hard in a single month. Wall Street still sees a path to far higher, and one number the CEO calls his North Star may explain why.",
-      "summary_zh": "Seagate's stock has already doubled this year, then slid hard in a single month. Wall Street still sees a path to far higher, and one number the CEO calls his North Star may explain why.",
-      "context_en": "📰 Source: MSFT · Yahoo · English original",
-      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
-      "source": "MSFT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d0044f5e95ca0319c28bc9b351f3df5f71505f8a99b5f7f98c7dd53d92f90c3",
+      "url": "https://finnhub.io/api/news?id=6093e5f4f6713eee1baa1765ad2aa64b03c3c173778d021cc38740496cb04ebc",
       "sectors": [
         "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "11-23 19:33",
+      "title_en": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
+      "title_zh": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
+      "summary_en": "Nvidia’s board reinstated Jensen Huang as Nvidia’s CEO following pressure from President Donald Trump.",
+      "summary_zh": "Nvidia’s board reinstated Jensen Huang as Nvidia’s CEO following pressure from President Donald Trump.",
+      "context_en": "📰 Source: NVDA · Yahoo · English original",
+      "context_zh": "📰 来源: NVDA · Yahoo · 英文原文(未翻译)",
+      "source": "NVDA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddb2d770f30059adbbc65d86ade40edd6805413fc599edc8859f2a43f266c7db",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-23 19:22",
+      "title_en": "AMD registers up to 337 million shares for resale tied to OpenAI, Meta warrants",
+      "title_zh": "AMD registers up to 337 million shares for resale tied to OpenAI, Meta warrants",
+      "summary_en": "Investing.com -- Advanced Micro Devices Inc (NASDAQ:AMD) filed a Form S-3 registration statement with the U.S. Securities and Exchange Commission on Monday to register up to 336,934,324 shares of common stock for potential future resale by existing shareholders and strategic partners. The filing accommodates stock-based consideration from recent acquisitions alongside massive performance-linked warrants held by OpenAI (NASDAQ:OAI) and Meta Platforms Inc (NASDAQ:META), though AMD itself is not se",
+      "summary_zh": "Investing.com -- Advanced Micro Devices Inc (NASDAQ:AMD) filed a Form S-3 registration statement with the U.S. Securities and Exchange Commission on Monday to register up to 336,934,324 shares of common stock for potential future resale by existing shareholders and strategic partners. The filing accommodates stock-based consideration from recent acquisitions alongside massive performance-linked warrants held by OpenAI (NASDAQ:OAI) and Meta Platforms Inc (NASDAQ:META), though AMD itself is not se",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=49385280ce2cf6da69bae0a4eb80cd25a5eb876579dd27db8f3bd02e7ee77745",
+      "sectors": [
+        "ai",
+        "finance"
+      ]
+    },
+    {
+      "time": "11-23 18:54",
+      "title_en": "Steve Eisman Said AI Was “No Longer One Trade.” Huang Is Back, but Alphabet and CoreWeave Still Show the Split",
+      "title_zh": "Steve Eisman Said AI Was “No Longer One Trade.” Huang Is Back, but Alphabet and CoreWeave Still Show the Split",
+      "summary_en": "Key TakeawaysNVIDIA, AMD, Broadcom and CoreWeave fell 12% to 14% on Friday, while Alphabet fell 2. 6%.",
+      "summary_zh": "Key TakeawaysNVIDIA, AMD, Broadcom and CoreWeave fell 12% to 14% on Friday, while Alphabet fell 2. 6%.",
+      "context_en": "📰 Source: AMD · Yahoo · English original",
+      "context_zh": "📰 来源: AMD · Yahoo · 英文原文(未翻译)",
+      "source": "AMD · Yahoo",
+      "url": "https://finnhub.io/api/news?id=cce76ef68e89ce2696f214b1480abf834d9ef713c8b68864824d4466e62cf846",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-23 18:50",
+      "title_en": "Chamath Says Microsoft “Clearly Is Going to Need to Have a Frontier Model.” Nadella Is Betting It Won’t",
+      "title_zh": "Chamath Says Microsoft “Clearly Is Going to Need to Have a Frontier Model.” Nadella Is Betting It Won’t",
+      "summary_en": "Key TakeawaysChamath Palihapitiya says Microsoft needs a frontier model, the week Anthropic debuted at about $1. 75 trillion fully diluted.",
+      "summary_zh": "Key TakeawaysChamath Palihapitiya says Microsoft needs a frontier model, the week Anthropic debuted at about $1. 75 trillion fully diluted.",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=39f3d390f731ef3ef1fea99637909813c359f0b067ba589c5861452146a15e4b",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-23 16:50",
+      "title_en": "3 AI Stocks Billionaire Stanley Druckenmiller Has Been Quietly Buying",
+      "title_zh": "3 AI Stocks Billionaire Stanley Druckenmiller Has Been Quietly Buying",
+      "summary_en": "Druckenmiller started new positions in SpaceX, Palantir, and AppLovin in Q3.",
+      "summary_zh": "Druckenmiller started new positions in SpaceX, Palantir, and AppLovin in Q3.",
+      "context_en": "📰 Source: PLTR · Yahoo · English original",
+      "context_zh": "📰 来源: PLTR · Yahoo · 英文原文(未翻译)",
+      "source": "PLTR · Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7c87bcd2c8611ccad496f571ef01a99900fa3ecaccbb017f3c77cb60372cdb1",
+      "sectors": [
+        "ai",
+        "space"
+      ]
+    },
+    {
+      "time": "11-23 18:47",
+      "title_en": "Crypto traders saw Anthropic's 34% debut pop coming",
+      "title_zh": "Crypto traders saw Anthropic's 34% debut pop coming",
+      "summary_en": "Weeks before bankers priced Anthropic’s IPO, a 24/7 crypto market was already trading the shares much higher. The debut showed how close it got.",
+      "summary_zh": "Weeks before bankers priced Anthropic’s IPO, a 24/7 crypto market was already trading the shares much higher. The debut showed how close it got.",
+      "context_en": "📰 Source: MSFT · Yahoo · English original",
+      "context_zh": "📰 来源: MSFT · Yahoo · 英文原文(未翻译)",
+      "source": "MSFT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e9867823f7e68e4507d79f97fa8e399b291159effcc42fc1df92c74d323bb66",
+      "sectors": [
+        "ai",
+        "finance",
         "tech"
       ]
     },
     {
-      "time": "11-23 13:25",
-      "title_en": "Nvidia Is Now Second To Apple In The World’s Most Valued Companies On Jensen Huang Optimism",
-      "title_zh": "Nvidia Is Now Second To Apple In The World’s Most Valued Companies On Jensen Huang Optimism",
-      "summary_en": "Nvidia’s market capitalization ticked to over $4 trillion on Monday following Jensen Huang’s reinstatement, making it the second most valuable company in the world.",
-      "summary_zh": "Nvidia’s market capitalization ticked to over $4 trillion on Monday following Jensen Huang’s reinstatement, making it the second most valuable company in the world.",
+      "time": "11-23 17:54",
+      "title_en": "How Risky Is Snap Stock Now?",
+      "title_zh": "How Risky Is Snap Stock Now?",
+      "summary_en": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "summary_zh": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
       "context_en": "📰 Source: AAPL · Yahoo · English original",
       "context_zh": "📰 来源: AAPL · Yahoo · 英文原文(未翻译)",
       "source": "AAPL · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b486e39527a7c4e27450ea2605bb70f357b6a1ad86fc1740a8cdf5c796f4070",
+      "url": "https://finnhub.io/api/news?id=73b4fd62921d0762aa937ed10ad61270d3ef34eaed8a8ce4bb4267f7eef52bd0",
       "sectors": [
         "ai",
         "tech"
@@ -183,61 +173,34 @@
       ]
     },
     {
-      "time": "11-23 13:45",
-      "title_en": "All Broadcom Has to Do is Deliver Modestly to Prove Stanley Druckenmiller Wrong and Hit $500 in 2027",
-      "title_zh": "All Broadcom Has to Do is Deliver Modestly to Prove Stanley Druckenmiller Wrong and Hit $500 in 2027",
-      "summary_en": "A star investor dumped every share, a single report knocked the stock down double digits, and yet Wall Street keeps raising its sights. What would Broadcom have to deliver in 2027 to make the sellers look early?",
-      "summary_zh": "A star investor dumped every share, a single report knocked the stock down double digits, and yet Wall Street keeps raising its sights. What would Broadcom have to deliver in 2027 to make the sellers look early?",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f14eea7f143d4c25269f15259fe7bb161d5d3abd8d51f06e9c5da63faf8b43b",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "11-23 13:39",
-      "title_en": "A $6.8 Billion Fund Just Bought These 3 Stocks",
-      "title_zh": "A $6.8 Billion Fund Just Bought These 3 Stocks",
-      "summary_en": "Key TakeawaysA fund with $6. 8 billion in US stocks added to Broadcom, Micron and Visa in the third quarter, its three biggest buys.",
-      "summary_zh": "Key TakeawaysA fund with $6. 8 billion in US stocks added to Broadcom, Micron and Visa in the third quarter, its three biggest buys.",
-      "context_en": "📰 Source: AVGO · Yahoo · English original",
-      "context_zh": "📰 来源: AVGO · Yahoo · 英文原文(未翻译)",
-      "source": "AVGO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=390d8425b951aef062f8eb70d69d760abac234ebe664a62771b33814c35ddf8a",
-      "sectors": [
-        "tech"
-      ]
-    },
-    {
-      "time": "11-23 13:15",
-      "title_en": "Goldman Sachs Names Top Communication Technology Stock",
-      "title_zh": "Goldman Sachs Names Top Communication Technology Stock",
-      "summary_en": "Investing.com -- Goldman Sachs has released its latest rankings for the communication technology sector, highlighting key players positioned to benefit from ongoing digital transformation and cloud infrastructure growth.",
-      "summary_zh": "Investing.com -- Goldman Sachs has released its latest rankings for the communication technology sector, highlighting key players positioned to benefit from ongoing digital transformation and cloud infrastructure growth.",
+      "time": "11-23 18:13",
+      "title_en": "Nvidia Adds Nearly $1 Trillion in Value as Trump Hails Huang as a “National Treasure.” It’s Still Cheaper Than Walmart",
+      "title_zh": "Nvidia Adds Nearly $1 Trillion in Value as Trump Hails Huang as a “National Treasure.” It’s Still Cheaper Than Walmart",
+      "summary_en": "Key TakeawaysNVIDIA shares jumped 31% today after its board reinstated Jensen Huang as CEO, adding nearly $1 trillion of market value. The November selloff priced in a leadership crisis while analysts kept raising NVIDIA’s earnings estimates.",
+      "summary_zh": "Key TakeawaysNVIDIA shares jumped 31% today after its board reinstated Jensen Huang as CEO, adding nearly $1 trillion of market value. The November selloff priced in a leadership crisis while analysts kept raising NVIDIA’s earnings estimates.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=bce800c7a73891d112c69b046dccc8863766762cd63ff3dedd1b9874b5a7d42b",
+      "url": "https://finnhub.io/api/news?id=52cc5d53dc2170360ddcbbc22660b1a25464322553c1dbf5b5c8ffbbc4123563",
       "sectors": [
-        "comm",
-        "tech"
+        "ai",
+        "comm"
       ]
     },
     {
-      "time": "11-23 12:11",
-      "title_en": "Cisco Systems (CSCO) Lifted Its Outlook, Is It Still 38% Undervalued?",
-      "title_zh": "Cisco Systems (CSCO) Lifted Its Outlook, Is It Still 38% Undervalued?",
-      "summary_en": "Cisco Systems (CSCO) has given investors a fresh data point to assess by raising its fiscal 2027 outlook, pairing that guidance with stronger recent quarterly results and a reaffirmed dividend. Recent trading tells a mixed story. Cisco Systems’ share price has fallen 4.3% over the past day and is down 14.9% over the past month, yet the year-to-date share price return of 19.2% and 3-year total shareholder return of 104.0% point to longer term momentum that recent guidance, product launches,...",
-      "summary_zh": "Cisco Systems (CSCO) has given investors a fresh data point to assess by raising its fiscal 2027 outlook, pairing that guidance with stronger recent quarterly results and a reaffirmed dividend. Recent trading tells a mixed story. Cisco Systems’ share price has fallen 4.3% over the past day and is down 14.9% over the past month, yet the year-to-date share price return of 19.2% and 3-year total shareholder return of 104.0% point to longer term momentum that recent guidance, product launches,...",
+      "time": "11-23 18:12",
+      "title_en": "Jensen Huang is back: Does Washington have a seat in the boardroom?",
+      "title_zh": "Jensen Huang is back: Does Washington have a seat in the boardroom?",
+      "summary_en": "As Nvidia reinstates Jensen Huang and investors add a trillion dollars to the stock, Deirdre Bosa dives into the White House's role in his return and asks General Catalyst's Madhu Namburi, who spent 25 years advising tech boards at J.P. Morgan, how boards, CEOs and dealmakers operate under the new rules.",
+      "summary_zh": "As Nvidia reinstates Jensen Huang and investors add a trillion dollars to the stock, Deirdre Bosa dives into the White House's role in his return and asks General Catalyst's Madhu Namburi, who spent 25 years advising tech boards at J.P. Morgan, how boards, CEOs and dealmakers operate under the new rules.",
       "context_en": "📰 Source: CSCO · Yahoo · English original",
       "context_zh": "📰 来源: CSCO · Yahoo · 英文原文(未翻译)",
       "source": "CSCO · Yahoo",
-      "url": "https://finnhub.io/api/news?id=3dbb6f2854a81e7e035384e2b82e89f2035cbb874aa943f674b4830c3555ed07",
+      "url": "https://finnhub.io/api/news?id=a52908d4c341923ace40bdd938c2a932b312ac5edeb57fa42d635d4bc0266178",
       "sectors": [
-        "comm",
-        "space"
+        "ai",
+        "bio",
+        "comm"
       ]
     },
     {
@@ -284,20 +247,6 @@
       ]
     },
     {
-      "time": "11-20 11:25",
-      "title_en": "On June 30, ClearOne Declared A One-time Special Stock Dividend To Provide Its Legacy Stockholders With A 100% Stake In The Proceeds From An Eventual Sale, The Board Of Directors Fixed July 11, 2025 As The Record Date For The Special Stock Dividend, And Will Be Payable On July 18, 2025",
-      "title_zh": "On June 30, ClearOne Declared A One-time Special Stock Dividend To Provide Its Legacy Stockholders With A 100% Stake In The Proceeds From An Eventual Sale, The Board Of Directors Fixed July 11, 2025 As The Record Date For The Special Stock Dividend, And Will Be Payable On July 18, 2025",
-      "summary_en": "",
-      "summary_zh": "",
-      "context_en": "📰 Source: ERIC · Benzinga · English original",
-      "context_zh": "📰 来源: ERIC · Benzinga · 英文原文(未翻译)",
-      "source": "ERIC · Benzinga",
-      "url": "https://finnhub.io/api/news?id=60ace17f87a81cfaebed9f22dfdef47c76e3335e320f0f9f19e3983120d26a8f",
-      "sectors": [
-        "comm"
-      ]
-    },
-    {
       "time": "11-23 01:08",
       "title_en": "Musk Says the Moon and Mercury Will Be Turned Into “Computronium.” SpaceX’s Space-Compute Bet Is Bigger Than It Looks",
       "title_zh": "Musk Says the Moon and Mercury Will Be Turned Into “Computronium.” SpaceX’s Space-Compute Bet Is Bigger Than It Looks",
@@ -328,57 +277,30 @@
       ]
     },
     {
-      "time": "11-20 13:40",
-      "title_en": "Enphase Energy To Reduce Workforce By 12%",
-      "title_zh": "Enphase Energy To Reduce Workforce By 12%",
-      "summary_en": "-SEC Filing",
-      "summary_zh": "-SEC Filing",
-      "context_en": "📰 Source: ENPH · Benzinga · English original",
-      "context_zh": "📰 来源: ENPH · Benzinga · 英文原文(未翻译)",
-      "source": "ENPH · Benzinga",
-      "url": "https://finnhub.io/api/news?id=f1c97d783b3095da879c9489f23f257adacbb12959bdb5546dd63f791386d033",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "11-20 11:52",
-      "title_en": "T.J. Rodgers Just Sold 71% of His Enphase Stake Near $23",
-      "title_zh": "T.J. Rodgers Just Sold 71% of His Enphase Stake Near $23",
-      "summary_en": "A director dumped most of his shares as the stock sank to a six-year low, yet his filing blames something other than the business. The real warning for Enphase investors may sit in the earnings details.",
-      "summary_zh": "A director dumped most of his shares as the stock sank to a six-year low, yet his filing blames something other than the business. The real warning for Enphase investors may sit in the earnings details.",
-      "context_en": "📰 Source: ENPH · Yahoo · English original",
-      "context_zh": "📰 来源: ENPH · Yahoo · 英文原文(未翻译)",
-      "source": "ENPH · Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ad9579c535829c8c2e256158d88b2a55cae0d14ebb3aff8f0643543fdbbf518",
-      "sectors": [
-        "energy"
-      ]
-    },
-    {
-      "time": "11-23 12:30",
-      "title_en": "Wall Street Opens Sharply Higher After the S&P 500's Seven-Day Slide",
-      "title_zh": "Wall Street Opens Sharply Higher After the S&P 500's Seven-Day Slide",
-      "summary_en": "Oil Market Daily News Commentary - Wall Street started the Thanksgiving week on a much brighter note. All three major U.S. stock indexes moved sharply higher at Monday's open as investors returned to stocks after a seven-session losing streak for the S&P 500, and crude oil prices eased further after three straight weekly declines. For the energy companies that produce, refine, ship and move that oil and gas, the latest quarterly reports have been full of records, raised guidance and bigger payou",
-      "summary_zh": "Oil Market Daily News Commentary - Wall Street started the Thanksgiving week on a much brighter note. All three major U.S. stock indexes moved sharply higher at Monday's open as investors returned to stocks after a seven-session losing streak for the S&P 500, and crude oil prices eased further after three straight weekly declines. For the energy companies that produce, refine, ship and move that oil and gas, the latest quarterly reports have been full of records, raised guidance and bigger payou",
+      "time": "11-23 18:02",
+      "title_en": "Should You Swap Tech For Johnson & Johnson Stock?",
+      "title_zh": "Should You Swap Tech For Johnson & Johnson Stock?",
+      "summary_en": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "summary_zh": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=06d648e7fa7bd2d839eb0e2331ac2988180dec6e61337ee1d3cc2163d7f0075d",
+      "url": "https://finnhub.io/api/news?id=9ab64ae50ce5acff6701779ad0fb7746ffc5780f28faa19970478a7a7ea6f11e",
       "sectors": [
+        "ai",
         "energy"
       ]
     },
     {
-      "time": "11-23 12:24",
-      "title_en": "ExxonMobil's $4B Kizomba Redevelopment: Can It Drive Earnings Growth?",
-      "title_zh": "ExxonMobil's $4B Kizomba Redevelopment: Can It Drive Earnings Growth?",
-      "summary_en": "XOM advances a $4B redevelopment of Angola's Kizomba fields, while a new Block 15 discovery boosts production and earnings growth potential.",
-      "summary_zh": "XOM advances a $4B redevelopment of Angola's Kizomba fields, while a new Block 15 discovery boosts production and earnings growth potential.",
+      "time": "11-23 18:00",
+      "title_en": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
+      "title_zh": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
+      "summary_en": "Five energy stocks with strong balance sheets, from Exxon to Kinder Morgan, that could hold up if the Fed hikes again in December and CPI runs hot.",
+      "summary_zh": "Five energy stocks with strong balance sheets, from Exxon to Kinder Morgan, that could hold up if the Fed hikes again in December and CPI runs hot.",
       "context_en": "📰 Source: XOM · Yahoo · English original",
       "context_zh": "📰 来源: XOM · Yahoo · 英文原文(未翻译)",
       "source": "XOM · Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f382455bd7d5ffd6ee7520e15e64f264d7057992747d29ca913b959bae4ce0d",
+      "url": "https://finnhub.io/api/news?id=28dd81f042570a14ea8f371be7819e63b073faf5c7420e8c2230d372fd2945e6",
       "sectors": [
         "energy"
       ]
@@ -440,6 +362,21 @@
       ]
     },
     {
+      "time": "11-23 14:09",
+      "title_en": "Is Lockheed Martin (LMT) Undervalued After Its New Cybersecurity Partnership?",
+      "title_zh": "Is Lockheed Martin (LMT) Undervalued After Its New Cybersecurity Partnership?",
+      "summary_en": "Nozomi Networks has teamed up with Lockheed Martin (LMT) to build automated cybersecurity and configuration compliance tools for defense networks, tied to the F-35 offset program for Switzerland. Lockheed Martin’s share price has cooled recently, with the stock down 3.37% over the past week and 6.40% over the past month. This comes even as fresh F-35 related awards, record third quarter backlog and new cyber partnerships keep the longer term story in focus. Scan beyond Lockheed Martin and see...",
+      "summary_zh": "Nozomi Networks has teamed up with Lockheed Martin (LMT) to build automated cybersecurity and configuration compliance tools for defense networks, tied to the F-35 offset program for Switzerland. Lockheed Martin’s share price has cooled recently, with the stock down 3.37% over the past week and 6.40% over the past month. This comes even as fresh F-35 related awards, record third quarter backlog and new cyber partnerships keep the longer term story in focus. Scan beyond Lockheed Martin and see...",
+      "context_en": "📰 Source: LMT · Yahoo · English original",
+      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
+      "source": "LMT · Yahoo",
+      "url": "https://finnhub.io/api/news?id=3790891693079f39f955913a63fcd1402ad7b3fa4fb508bcb22d1419a3c3a960",
+      "sectors": [
+        "comm",
+        "space"
+      ]
+    },
+    {
       "time": "11-23 12:46",
       "title_en": "Monday's Rebound Reaches Rocket, Satellite and AI Cloud Stocks",
       "title_zh": "Monday's Rebound Reaches Rocket, Satellite and AI Cloud Stocks",
@@ -456,17 +393,45 @@
       ]
     },
     {
-      "time": "11-23 11:33",
-      "title_en": "SpaceX Soars 9% as Jefferies Initiates at Buy With $210 Target, Calls Its Engineering “Exceptional”",
-      "title_zh": "SpaceX Soars 9% as Jefferies Initiates at Buy With $210 Target, Calls Its Engineering “Exceptional”",
-      "summary_en": "Key TakeawaysSpaceX rose 9% after Jefferies initiated coverage at Buy with a $210 price target. SpaceX keeps winning launches from United Launch Alliance, Boeing’s venture with Lockheed Martin.",
-      "summary_zh": "Key TakeawaysSpaceX rose 9% after Jefferies initiated coverage at Buy with a $210 price target. SpaceX keeps winning launches from United Launch Alliance, Boeing’s venture with Lockheed Martin.",
-      "context_en": "📰 Source: LMT · Yahoo · English original",
-      "context_zh": "📰 来源: LMT · Yahoo · 英文原文(未翻译)",
-      "source": "LMT · Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a9b4d6f294a05026874d8781bd7117c6fd6b7f9c64cca7b85341a850e8983c6",
+      "time": "11-23 14:01",
+      "title_en": "Korsana Biosciences (KRSA) Stock Is Up 11.9% Today Without Company News",
+      "title_zh": "Korsana Biosciences (KRSA) Stock Is Up 11.9% Today Without Company News",
+      "summary_en": "On Monday, Nov. 23, shares rose 11.9% without company-specific news as the broad market rallied.",
+      "summary_zh": "On Monday, Nov. 23, shares rose 11.9% without company-specific news as the broad market rallied.",
+      "context_en": "📰 Source: MRNA · Yahoo · English original",
+      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
+      "source": "MRNA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=d502c475c11ee3a5141f7d85d81d5dfcbe5b072b74e3e2d97314134ef8c9d2e6",
       "sectors": [
-        "space"
+        "bio"
+      ]
+    },
+    {
+      "time": "11-23 14:00",
+      "title_en": "NewAmsterdam Pharma (NAMS) Stock Is Up 12.4% Today Without Company News",
+      "title_zh": "NewAmsterdam Pharma (NAMS) Stock Is Up 12.4% Today Without Company News",
+      "summary_en": "On Monday, Nov. 23, the shares rose 12.4% without company-specific news as the broader market rallied.",
+      "summary_zh": "On Monday, Nov. 23, the shares rose 12.4% without company-specific news as the broader market rallied.",
+      "context_en": "📰 Source: MRNA · Yahoo · English original",
+      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
+      "source": "MRNA · Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7dc71268ca41fefba578fb6f5bf67ae162e9a57fc1a1042386f59842cf68c56",
+      "sectors": [
+        "bio"
+      ]
+    },
+    {
+      "time": "11-23 15:04",
+      "title_en": "IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught",
+      "title_zh": "IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught",
+      "summary_en": "Regeneron is Monday's IBD Stock Of The Day. Shares are hovering above their chase zone despite solid competitor data for Dupixent.",
+      "summary_zh": "Regeneron is Monday's IBD Stock Of The Day. Shares are hovering above their chase zone despite solid competitor data for Dupixent.",
+      "context_en": "📰 Source: REGN · Yahoo · English original",
+      "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
+      "source": "REGN · Yahoo",
+      "url": "https://finnhub.io/api/news?id=de767241ccc6c82503a70f461e6df8051b409e37df1c80b2fb3a20f4480a2f84",
+      "sectors": [
+        "bio"
       ]
     },
     {
@@ -475,39 +440,10 @@
       "title_zh": "Viking Therapeutics (VKTX) Stock Is Up 11.5% Today Without Company News",
       "summary_en": "On Monday, Nov. 23, shares rose 11.5% by 12:30 p.m. ET without company-specific news, as the S&P 500 gained 5.0%.",
       "summary_zh": "On Monday, Nov. 23, shares rose 11.5% by 12:30 p.m. ET without company-specific news, as the S&P 500 gained 5.0%.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=b6cb1a1e6a23855757f470577c6e3798f1642e46fbceeff6023d97959098b7cc",
-      "sectors": [
-        "bio"
-      ]
-    },
-    {
-      "time": "11-23 08:08",
-      "title_en": "11 S&P 500 Stocks Thrive As Tech And AI Dive In Massive Sell-Off",
-      "title_zh": "11 S&P 500 Stocks Thrive As Tech And AI Dive In Massive Sell-Off",
-      "summary_en": "Investors who piled into the AI and tech stock boom are suffering for it now. But some other less-watched stocks are taking off.",
-      "summary_zh": "Investors who piled into the AI and tech stock boom are suffering for it now. But some other less-watched stocks are taking off.",
-      "context_en": "📰 Source: MRNA · Yahoo · English original",
-      "context_zh": "📰 来源: MRNA · Yahoo · 英文原文(未翻译)",
-      "source": "MRNA · Yahoo",
-      "url": "https://finnhub.io/api/news?id=861f32f76e5ca70589f09cf4c0b4b767ed3bded61e332c7fc5512c0a7a27783d",
-      "sectors": [
-        "ai",
-        "bio"
-      ]
-    },
-    {
-      "time": "11-23 12:33",
-      "title_en": "Kymera Surges 30%-Plus As It Takes On $18 Billion Blockbuster Dupixent",
-      "title_zh": "Kymera Surges 30%-Plus As It Takes On $18 Billion Blockbuster Dupixent",
-      "summary_en": "Kymera Therapeutics' experimental eczema pill delivered Dupixent-like results in 16 weeks, the biotech company said Monday.",
-      "summary_zh": "Kymera Therapeutics' experimental eczema pill delivered Dupixent-like results in 16 weeks, the biotech company said Monday.",
       "context_en": "📰 Source: REGN · Yahoo · English original",
       "context_zh": "📰 来源: REGN · Yahoo · 英文原文(未翻译)",
       "source": "REGN · Yahoo",
-      "url": "https://finnhub.io/api/news?id=57e40a5b84cf25b29b3d84b3e13d6f607ad97f6c9a23f87ea67511aac94c45a6",
+      "url": "https://finnhub.io/api/news?id=b6cb1a1e6a23855757f470577c6e3798f1642e46fbceeff6023d97959098b7cc",
       "sectors": [
         "bio"
       ]
@@ -528,17 +464,89 @@
       ]
     },
     {
-      "time": "11-20 03:21",
-      "title_en": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
-      "title_zh": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
-      "summary_en": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
-      "summary_zh": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
-      "context_en": "📰 Source: CRSP · SeekingAlpha · English original",
-      "context_zh": "📰 来源: CRSP · SeekingAlpha · 英文原文(未翻译)",
-      "source": "CRSP · SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4e14bdd5c328ef8e07a89d1f02bf29b7641e7212018e3e47b4052612a9bd6aa4",
+      "time": "11-23 19:24",
+      "title_en": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+      "title_zh": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+      "summary_en": "Nvidia break record for single stock options volume",
+      "summary_zh": "Nvidia break record for single stock options volume",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
       "sectors": [
-        "bio"
+        "ai"
+      ]
+    },
+    {
+      "time": "11-23 19:14",
+      "title_en": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "title_zh": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "summary_en": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+      "summary_zh": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+      "sectors": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "time": "11-23 17:02",
+      "title_en": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "title_zh": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "summary_en": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "summary_zh": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "time": "11-23 16:57",
+      "title_en": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "title_zh": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "summary_en": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
+      "summary_zh": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-23 16:03",
+      "title_en": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+      "title_zh": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "summary_zh": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html",
+      "sectors": [
+        "ai"
+      ]
+    },
+    {
+      "time": "11-23 15:39",
+      "title_en": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+      "title_zh": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+      "summary_en": "US imposes sanctions on dozens linked to Iran's shadow banking networks  Reuters",
+      "summary_zh": "US imposes sanctions on dozens linked to Iran's shadow banking networks  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+      "sectors": [
+        "comm",
+        "finance"
       ]
     },
     {
@@ -598,32 +606,28 @@
       ]
     },
     {
-      "time": "11-23 10:10",
-      "title_en": "India's Hindalco reappoints Satish Pai as MD, names Mahindra's Hemant Sikka his deputy - Reuters",
-      "title_zh": "India's Hindalco reappoints Satish Pai as MD, names Mahindra's Hemant Sikka his deputy - Reuters",
-      "summary_en": "India's Hindalco reappoints Satish Pai as MD, names Mahindra's Hemant Sikka his deputy  Reuters",
-      "summary_zh": "India's Hindalco reappoints Satish Pai as MD, names Mahindra's Hemant Sikka his deputy  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXVHR2lZR2FQTXNyV2RhZzJJdHJoQjVaN1lLb29IOGVtYnRvdVE3LXBFcVpaaEVpdWFaTTNtZ2lhMkk0QVVVSkNyMnc2eXJqNFBWNTFKYWZmMkR1bEdEWUlobnE0OEJiclgzSjhpeENDVTZaT2J2ZWlxUENYNzBjZnd4RV9zVmoxSEIyY0pUQW5lZUUxRU9SbjZXZjl6OVBhTElIOGZR?oc=5",
-      "sectors": [
-        "ai"
-      ]
+      "time": "11-23 19:53",
+      "title_en": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+      "title_zh": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+      "summary_en": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
+      "summary_zh": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
+      "context_en": "📰 Source: Finnhub / CNBC · English original",
+      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
+      "source": "Finnhub / CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+      "sectors": []
     },
     {
-      "time": "11-23 10:03",
-      "title_en": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
-      "title_zh": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
-      "summary_en": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust  Reuters",
-      "summary_zh": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust  Reuters",
+      "time": "11-23 18:21",
+      "title_en": "Iran carries out flogging of singer and her team, Iranian website says - Reuters",
+      "title_zh": "Iran carries out flogging of singer and her team, Iranian website says - Reuters",
+      "summary_en": "Iran carries out flogging of singer and her team, Iranian website says  Reuters",
+      "summary_zh": "Iran carries out flogging of singer and her team, Iranian website says  Reuters",
       "context_en": "📰 Source: Finnhub / Reuters · English original",
       "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
       "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
-      "sectors": [
-        "industry"
-      ]
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdQZHhWWEpadDE4WGc0WkR4ZW5Ud3pHQ3dKS2xaUGtMdGNnd0JKRC1sNk1qUUt4MG9UUGJlRU91NlJiVHhHNFVZWWluTjJpMWVmNkwtNTYzN0g5cFZVNVg4ZWFCYTRaQlNQWTU0djI4bTZBUnBWNmVIWjF3ZEFfYVp3UVJEdml1c0xEVkxSYzh1UlNNU3BiaG53Z2ctRExWLXVMNENwdjVPNEoxZ25vX2FvUjZGNmk2eGZjeGRR?oc=5",
+      "sectors": []
     },
     {
       "time": "11-23 15:12",
@@ -635,6 +639,18 @@
       "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
       "source": "Finnhub / CNBC",
       "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
+      "sectors": []
+    },
+    {
+      "time": "11-23 12:47",
+      "title_en": "Mexico, China agree to create working group to boost trade - Reuters",
+      "title_zh": "Mexico, China agree to create working group to boost trade - Reuters",
+      "summary_en": "Mexico, China agree to create working group to boost trade  Reuters",
+      "summary_zh": "Mexico, China agree to create working group to boost trade  Reuters",
+      "context_en": "📰 Source: Finnhub / Reuters · English original",
+      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
+      "source": "Finnhub / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQzdEcwdnZKUC05dU4zQWZFRkRKV0tmVTM1d0oxeU5ldlM0Ukk4RVhlZTNPZXZtQ2tGejdIa1V1SEdvLUx5VHJ6dGxDWlhya041NE9MckZkOEFzbjNneGhwMzFDOXhrWGx3c0JFMFg1NnhnaURuYVNpRWRIakNqbWxueHlYeU1zY3ZLYkVtZTVoX1JEV2N0Ug?oc=5",
       "sectors": []
     },
     {
@@ -708,93 +724,137 @@
       "source": "Finnhub / Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
       "sectors": []
-    },
-    {
-      "time": "11-23 10:17",
-      "title_en": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "title_zh": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "summary_en": "Nasdaq futures are ripping Monday morning after a brutal week for stocks.",
-      "summary_zh": "Nasdaq futures are ripping Monday morning after a brutal week for stocks.",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "sectors": []
-    },
-    {
-      "time": "11-23 10:14",
-      "title_en": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-      "title_zh": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-      "summary_en": "Friday's huge VIX spike could be signaling a buying opportunity, if history is any indication",
-      "summary_zh": "Friday's huge VIX spike could be signaling a buying opportunity, if history is any indication",
-      "context_en": "📰 Source: Finnhub / CNBC · English original",
-      "context_zh": "📰 来源: Finnhub / CNBC · 英文原文(未翻译)",
-      "source": "Finnhub / CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
-      "sectors": []
-    },
-    {
-      "time": "11-23 10:13",
-      "title_en": "Turkish authorities search for animal resembling a lion in Istanbul woodland - Reuters",
-      "title_zh": "Turkish authorities search for animal resembling a lion in Istanbul woodland - Reuters",
-      "summary_en": "Turkish authorities search for animal resembling a lion in Istanbul woodland  Reuters",
-      "summary_zh": "Turkish authorities search for animal resembling a lion in Istanbul woodland  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXZtaWJEZGFHM3BaSzc5Um10N2NqTmJJMm5HZ1NrUUpGWF9MZEg1UDJpWGsxMjZYSERSSUQwLUZtc0QzMEUtV3ZGaFFYekRsRE9WWEJMYlNCV25la3hUMkZDb3d5TU5nUlpEUlVhUXN1Q0duWFhiajgxWG83UEViUnpWdjV4b3VtX0hzdThXdUlfbkpmcl9BSnNLVkZwRXIyNW5LSUJQVzFmWVZKX01CWmxrLUpwdEt5V1ZLSW1R?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-23 10:04",
-      "title_en": "Spanish court removes last hurdle to Catalan leader's return from exile - Reuters",
-      "title_zh": "Spanish court removes last hurdle to Catalan leader's return from exile - Reuters",
-      "summary_en": "Spanish court removes last hurdle to Catalan leader's return from exile  Reuters",
-      "summary_zh": "Spanish court removes last hurdle to Catalan leader's return from exile  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzgtT3NMdzFrMXhTSndwMDhGbXA5Nk90YS1WcF9pQzhmSHNVbG1LbXByOW5CNXlSaVV6VTA4YjBVYmNpdHUtNndBcEU5RjQ2X0gtSlItaU5WTUxDNjlfZFAtU1BtLVVoWVdfdno3eDVSRUNjMDkzc283NXM5c2tESjFPVXl0Nl9reEt2dmNrcUtNWUlqTnhfdWJrTUktUS0zNVNkTmlyZw?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-23 09:34",
-      "title_en": "Most Gulf bourses end higher, buoyed by diplomatic momentum - Reuters",
-      "title_zh": "Most Gulf bourses end higher, buoyed by diplomatic momentum - Reuters",
-      "summary_en": "Most Gulf bourses end higher, buoyed by diplomatic momentum  Reuters",
-      "summary_zh": "Most Gulf bourses end higher, buoyed by diplomatic momentum  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzZMZWl5YjFRMm5kU1RDNUNkRHkyT1Q3b05xRndBMUs2eGhWQUZONGhudnpiQUdrWlNjNHVkcVJscy1VbHhRbWhVZUxNLV9ZU3l2b1NRTUhQd2JnMEFCYkRYMkwtNFh3U01KLTJFaUVxV01DVlFGbHl6VElHbnRRY3BKUHlNZ2tJakRVTVJnanQxVEJraWRodnpjWDgzNXpkZklFNUQwWDEteVdN?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-23 09:33",
-      "title_en": "Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says - Reuters",
-      "title_zh": "Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says - Reuters",
-      "summary_en": "Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says  Reuters",
-      "summary_zh": "Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjhmU2RxdS1CQXQ5ZnZkQTZXczg4THYzbDNLRlJFWHZTQy1yblF2Z3ZNb0ZzdWtCVW1TeW1TMlVtVVdvNHVNeFpzSklBMXpjTDk5LWZGNE5pSlB0aHV0R2dvVGRKanJtSU5fNWxXeUNNRVV0bVdMc21ESmkxMGY5TzdscVpicGxGN3AyR0E1RlVhOE9jOGVVcFRnejBrT1JGb05GTUVjUGpQc0ZadDk5RTM0VzR1WTV4QlUxZmRqSjA?oc=5",
-      "sectors": []
-    },
-    {
-      "time": "11-23 09:12",
-      "title_en": "Spain's right set to win majority despite Socialist gains, polls show - Reuters",
-      "title_zh": "Spain's right set to win majority despite Socialist gains, polls show - Reuters",
-      "summary_en": "Spain's right set to win majority despite Socialist gains, polls show  Reuters",
-      "summary_zh": "Spain's right set to win majority despite Socialist gains, polls show  Reuters",
-      "context_en": "📰 Source: Finnhub / Reuters · English original",
-      "context_zh": "📰 来源: Finnhub / Reuters · 英文原文(未翻译)",
-      "source": "Finnhub / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemd4Tmk5Z2lPeWFoMHVxZ0RDNXVScWU4ZExQOGhoX0o0Rk9UdmRReHJiSzVld2pNVGpVSHF6cFVlWTU5bmpsX0pRN0dRejZiNmE0U2ZYS0tqel9mMDJReFlkMVNjamNnVE5YVUFwdWtUU1NGZWNUV3F4bF8wWUs3UHhzcllycEJhUVlZTFItZzlZV0c3ckl5Vm1xMVZVamtiUHZtZjZvSkhlZw?oc=5",
-      "sectors": []
     }
   ],
   "corporate": [
+    {
+      "tag": "earnings",
+      "title_en": "BBW earnings · EPS est 0.4276",
+      "title_zh": "BBW 财报 · 预期EPS 0.4276",
+      "code": "BBW",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "BGI earnings · EPS est None",
+      "title_zh": "BGI 财报 · 预期EPS None",
+      "code": "BGI",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "CFTN earnings · EPS est None",
+      "title_zh": "CFTN 财报 · 预期EPS None",
+      "code": "CFTN",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "DVTC earnings · EPS est None",
+      "title_zh": "DVTC 财报 · 预期EPS None",
+      "code": "DVTC",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "DYNC earnings · EPS est None",
+      "title_zh": "DYNC 财报 · 预期EPS None",
+      "code": "DYNC",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "GWH earnings · EPS est -0.3333",
+      "title_zh": "GWH 财报 · 预期EPS -0.3333",
+      "code": "GWH",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "KNOP earnings · EPS est 0.2193",
+      "title_zh": "KNOP 财报 · 预期EPS 0.2193",
+      "code": "KNOP",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "MCCK earnings · EPS est None",
+      "title_zh": "MCCK 财报 · 预期EPS None",
+      "code": "MCCK",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "MSSA earnings · EPS est None",
+      "title_zh": "MSSA 财报 · 预期EPS None",
+      "code": "MSSA",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "PEVM earnings · EPS est None",
+      "title_zh": "PEVM 财报 · 预期EPS None",
+      "code": "PEVM",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "RBOT earnings · EPS est -1.122",
+      "title_zh": "RBOT 财报 · 预期EPS -1.122",
+      "code": "RBOT",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "RHCO earnings · EPS est None",
+      "title_zh": "RHCO 财报 · 预期EPS None",
+      "code": "RHCO",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "SRAX earnings · EPS est None",
+      "title_zh": "SRAX 财报 · 预期EPS None",
+      "code": "SRAX",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "SVVC earnings · EPS est None",
+      "title_zh": "SVVC 财报 · 预期EPS None",
+      "code": "SVVC",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "SWVL earnings · EPS est None",
+      "title_zh": "SWVL 财报 · 预期EPS None",
+      "code": "SWVL",
+      "time": "2026-12-04",
+      "sectors": []
+    },
+    {
+      "tag": "earnings",
+      "title_en": "WNDW earnings · EPS est None",
+      "title_zh": "WNDW 财报 · 预期EPS None",
+      "code": "WNDW",
+      "time": "2026-12-04",
+      "sectors": []
+    },
     {
       "tag": "earnings",
       "title_en": "AGX earnings · EPS est 3.1664",
@@ -904,134 +964,6 @@
       "title_en": "HOV earnings · EPS est 2.828",
       "title_zh": "HOV 财报 · 预期EPS 2.828",
       "code": "HOV",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "HQL earnings · EPS est None",
-      "title_zh": "HQL 财报 · 预期EPS None",
-      "code": "HQL",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "HRL earnings · EPS est 0.376",
-      "title_zh": "HRL 财报 · 预期EPS 0.376",
-      "code": "HRL",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "HUCK earnings · EPS est 0.0306",
-      "title_zh": "HUCK 财报 · 预期EPS 0.0306",
-      "code": "HUCK",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "IOT earnings · EPS est 0.1903",
-      "title_zh": "IOT 财报 · 预期EPS 0.1903",
-      "code": "IOT",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "JANL earnings · EPS est None",
-      "title_zh": "JANL 财报 · 预期EPS None",
-      "code": "JANL",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "KR earnings · EPS est 1.1929",
-      "title_zh": "KR 财报 · 预期EPS 1.1929",
-      "code": "KR",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "LAKE earnings · EPS est -0.0153",
-      "title_zh": "LAKE 财报 · 预期EPS -0.0153",
-      "code": "LAKE",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "LE earnings · EPS est 0.0961",
-      "title_zh": "LE 财报 · 预期EPS 0.0961",
-      "code": "LE",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "LEE earnings · EPS est 0.0606",
-      "title_zh": "LEE 财报 · 预期EPS 0.0606",
-      "code": "LEE",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "M earnings · EPS est -0.1762",
-      "title_zh": "M 财报 · 预期EPS -0.1762",
-      "code": "M",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "MEI earnings · EPS est -0.1414",
-      "title_zh": "MEI 财报 · 预期EPS -0.1414",
-      "code": "MEI",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "MNY earnings · EPS est 0",
-      "title_zh": "MNY 财报 · 预期EPS 0",
-      "code": "MNY",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "MPU earnings · EPS est None",
-      "title_zh": "MPU 财报 · 预期EPS None",
-      "code": "MPU",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "PAVS earnings · EPS est None",
-      "title_zh": "PAVS 财报 · 预期EPS None",
-      "code": "PAVS",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "PD earnings · EPS est 0.3674",
-      "title_zh": "PD 财报 · 预期EPS 0.3674",
-      "code": "PD",
-      "time": "2026-12-03",
-      "sectors": []
-    },
-    {
-      "tag": "earnings",
-      "title_en": "PNBI earnings · EPS est None",
-      "title_zh": "PNBI 财报 · 预期EPS None",
-      "code": "PNBI",
       "time": "2026-12-03",
       "sectors": []
     }
